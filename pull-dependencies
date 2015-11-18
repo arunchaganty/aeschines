@@ -1,0 +1,11 @@
+#!/bin/bash
+
+source pull-dependencies.lib
+
+download lib http://nlp.stanford.edu/software/stanford-corenlp-full-2015-04-20.zip
+cd lib;
+unzip stanford-corenlp-full-2015-04-20.zip
+cd ..;
+download lib http://central.maven.org/maven2/junit/junit/4.11/junit-4.11.jar
+download lib https://jdbc.postgresql.org/download/postgresql-9.4-1204.jdbc42.jar
+
