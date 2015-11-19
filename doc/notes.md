@@ -67,3 +67,16 @@ Chris Wallace (Fox News)
       '[UNKNOWN]': 0
       'UNIDENTIFIED MALE': 1
       '[UNKNOWN]': 0
+
+## Popularity of Candidates (based on applause count for each)
+
+      'CRUZ': 14
+      'CARSON': 11
+      'TRUMP': 9
+      'PAUL': 9
+      'HUCKABEE': 8
+      'BUSH': 8
+      'WALKER': 8
+      'RUBIO': 7
+      'KASICH': 6
+      'CHRISTIE': 5
