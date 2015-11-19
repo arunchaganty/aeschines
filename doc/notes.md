@@ -44,24 +44,26 @@ Chris Wallace (Fox News)
 
 ## Count of how often each candidate used a personal pronoun. 
 
-      'TRUMP': 239
-      'BUSH': 227
-      'KASICH': 205
-      'BAIER': 194
-      'RUBIO': 193
-      'HUCKABEE': 190
-      'KELLY': 190
-      'WALLACE': 188
-      'WALKER': 183
-      'CHRISTIE': 180
-      'CARSON': 180
-      'CRUZ': 143
-      'PAUL': 116
-      'UNKNOWN': 9
+      'TRUMP': 224
+      'BUSH': 169 
+      'KASICH': 151
+      'RUBIO': 134 
+      'CHRISTIE': 129
+      'WALKER': 123
+      'CARSON': 115 
+      'HUCKABEE': 101
+      'PAUL': 96
+      'CRUZ': 88
+      'KELLY': 57
+      'BAIER': 52
+      'WALLACE': 50
       'PERRY': 8
-      'QUESTION': 8
-      'UNIDENTIFIED FEMALE': 6
-      'FIORINA': 3
-      'MODERATOR': 2
+      'UNKNOWN': 5
+      'UNIDENTIFIED FEMALE': 5
+      'FIORINA': 1
+      'QUESTION': 1
+      'MODERATOR': 1
+      'UNIDENTIFIED MALE': 0
+      '[UNKNOWN]': 0
       'UNIDENTIFIED MALE': 1
       '[UNKNOWN]': 0
