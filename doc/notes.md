@@ -80,3 +80,20 @@ Chris Wallace (Fox News)
       'RUBIO': 7
       'KASICH': 6
       'CHRISTIE': 5
+
+## Ad Hominem Attacks (Basic approach)
+Methods used:
+* How often a candidate speaks immediately after another without a moderator in between
+* How often a candidate says another candidates' name
+```
+      'kasich': [13, {'ted': 6, 'trump': 2, 'donald': 2, 'christie': 1, 'jeb': 1, 'chris': 1}]
+      'trump': [9, {'chris': 4, 'ted': 3, 'jeb': 2}]
+      'walker': [8, {'ted': 6, 'chris': 2}]
+      'huckabee': [6, {'ted': 3, 'chris': 1, 'ben': 1, 'donald': 1}]
+      'christie': [6, {'ted': 2, 'paul': 2, 'carson': 1, 'bush': 1}]
+      'bush': [6, {'ted': 5, 'trump': 1}]
+      'rubio': [6, {'ted': 4, 'chris': 1, 'kasich': 1}]
+      'paul': [5, {'john': 2, 'ted': 2, 'ben': 1}]
+      'cruz': [3, {'chris': 3}]
+      'carson': [2, {'ted': 2}]
+```
