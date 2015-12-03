@@ -41,6 +41,18 @@ Bret Baier (Fox News);
 Megyn Kelly (Fox News); and 
 Chris Wallace (Fox News)
 
+## Count of how many times a candidate speaks
+      'TRUMP': 36
+      'PAUL': 23
+      'CHRISTIE': 18
+      'RUBIO': 12
+      'BUSH': 11
+      'KASICH': 11
+      'WALKER': 11
+      'HUCKABEE': 10
+      'CARSON': 9
+      'CRUZ': 8
+
 
 ## Count of how often each candidate used a personal pronoun. (normalized by number of times each person speaks)
 
@@ -56,7 +68,7 @@ Chris Wallace (Fox News)
       'PAUL', 4.173913043478261
 
 ## Popularity of Candidates (based on applause count for each)
-
+### Total applause count
       'CRUZ': 14
       'CARSON': 11
       'TRUMP': 9
@@ -67,6 +79,17 @@ Chris Wallace (Fox News)
       'RUBIO': 7
       'KASICH': 6
       'CHRISTIE': 5
+### Normalized Applause Count
+      'CRUZ', 1.75
+      'CARSON', 1.2222222222222223
+      'HUCKABEE', 0.8
+      'WALKER', 0.7272727272727273
+      'BUSH', 0.7272727272727273
+      'RUBIO', 0.5833333333333334
+      'KASICH', 0.5454545454545454
+      'PAUL', 0.391304347826087
+      'CHRISTIE', 0.2777777777777778
+      'TRUMP', 0.25
 
 ## Ad Hominem Attacks (Basic approach)
 Methods used:
