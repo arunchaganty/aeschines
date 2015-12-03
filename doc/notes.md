@@ -42,31 +42,18 @@ Megyn Kelly (Fox News); and
 Chris Wallace (Fox News)
 
 
-## Count of how often each candidate used a personal pronoun. 
+## Count of how often each candidate used a personal pronoun. (normalized by number of times each person speaks)
 
-      'TRUMP': 224
-      'BUSH': 169 
-      'KASICH': 151
-      'RUBIO': 134 
-      'CHRISTIE': 129
-      'WALKER': 123
-      'CARSON': 115 
-      'HUCKABEE': 101
-      'PAUL': 96
-      'CRUZ': 88
-      'KELLY': 57
-      'BAIER': 52
-      'WALLACE': 50
-      'PERRY': 8
-      'UNKNOWN': 5
-      'UNIDENTIFIED FEMALE': 5
-      'FIORINA': 1
-      'QUESTION': 1
-      'MODERATOR': 1
-      'UNIDENTIFIED MALE': 0
-      '[UNKNOWN]': 0
-      'UNIDENTIFIED MALE': 1
-      '[UNKNOWN]': 0
+      'BUSH', 15.363636363636363
+      'KASICH', 13.727272727272727
+      'CARSON', 12.777777777777779
+      'WALKER', 11.181818181818182
+      'RUBIO', 11.166666666666666
+      'CRUZ', 11.0
+      'HUCKABEE', 10.1
+      'CHRISTIE', 7.166666666666667
+      'TRUMP', 6.222222222222222
+      'PAUL', 4.173913043478261
 
 ## Popularity of Candidates (based on applause count for each)
 
