@@ -1,7 +1,9 @@
 import csv
-year = "2016"
-fileName = "RepUC_Wisconsin_Nov_2015"
-f = open("raw/" + year + "/" + fileName + ".txt","r")
+import sys
+
+year = sys.argv[1]
+fileName = sys.argv[2][:-4]
+f = open(year + fileName + ".txt","r")
 speaker = None
 i = 1
 #(hacky implementation - subject to exact matching of format)
@@ -9,6 +11,7 @@ i = 1
 #Saves debate transcript as tuples of (dialogueID, speaker, speech)
 with open("csv/" + fileName + '.csv', 'wb') as f1:
     writer = csv.writer(f1)
+    speech = ""
     for line in f:
         line = line.replace('\n', ' ')
         if ':' in line:            
@@ -29,7 +32,7 @@ with open("csv/" + fileName + '.csv', 'wb') as f1:
 #3rd row corresponds to First Names of Moderators
 #4th row corresponds to Last Names of Moderators
 
-ff = open("raw/" + year + "/" + fileName + "_participants.txt","r")
+ff = open(year + "parts/" + fileName + "_participants.txt","r")
 flag = 0
 partFNs = []
 partLNs = []
