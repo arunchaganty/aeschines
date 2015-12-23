@@ -107,3 +107,25 @@ Methods used:
       'cruz': [3, {'chris': 3}]
       'carson': [2, {'ted': 2}]
 ```
+
+
+# Tables for counts of use of Self-referential pronouns
+|Democratic_Iowa_Nov_2015|Democratic_Nevada_Oct_2015
+---|---|---
+CLINTON|10.1276595745|7.8472222222
+O'MALLEY|8.5|7.4888888889
+SANDERS|6.5714285714|6.6229508197
+CHAFEE||7.2083333333
+WEBB	||6.8787878788
+
+
+|Kennedy_Nixon_Oct_1960|Kennedy_Nixon_Oct2_1960|Kennedy_Nixon_Oct3_1960|Kennedy_Nixon_Sep_1960
+---|---|---|---|---
+KENNEDY|34.0833333333|20.2857142857|41.6363636364|23.125
+NIXON|31.3333333333|27.2857142857|43.1|29.5
+
+
+|Lincoln_Douglas_Alton_Oct_1858|Lincoln_Douglas_Charleston_Sep_1858|Lincoln_Douglas_Freeport_Aug_1858|Lincoln_Douglas_Galesburg_Oct_1858|Lincoln_Douglas_Jonesboro_Sep_1858|Lincoln_Douglas_Ottawa_Aug_1858|Lincoln_Douglas_Quincy_Oct_1858
+---|---|---|---|---|---|---|---
+LINCOLN|496|70.2|31.25|153|94.5|66.1428571429|158
+DOUGLAS|98.3333333333|165.5|55.3333333333|67.3333333333|39.1666666667|48.2|121.333333333
