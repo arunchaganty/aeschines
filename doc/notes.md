@@ -131,7 +131,7 @@ LINCOLN|496|70.2|31.25|153|94.5|66.1428571429|158
 DOUGLAS|98.3333333333|165.5|55.3333333333|67.3333333333|39.1666666667|48.2|121.333333333
 
 
-|Main_Colorado_Oct_2012	Main_Florida_Oct_2012|Main_NewYork_Oct_2012|Republican_Arizona_Feb_2012|Republican_California_Sep_2011|Republican_DesMoines_Dec_2011|Republican_Florida_Jan_2012|Republican_Florida_Sep_2011|Republican_Iowa_Aug_2011|Republican_Iowa_Dec_2011|Republican_Manchester_Jan_2012|Republican_Michigan_Nov_2011|Republican_MyrtleBeach_Jan_2012|Republican_Nevada_Oct_2011|Republican_NHampshire_Jan_2012|Republican_NHampshire_June_2011|Republican_NHampshire_Oct_2011|Republican_SCarolina_Jan_2012|Republican_SCarolina_Nov_2011|Republican_SCarolina_Sep_2011|Republican_Tampa_Jan_2012|Republican_Tampa_Sep_2011|Republican_Washington_Nov_2011|VP_Kentucky_Oct_2012
+||Main_Colorado_Oct_2012|Main_Florida_Oct_2012|Main_NewYork_Oct_2012|Republican_Arizona_Feb_2012|Republican_California_Sep_2011|Republican_DesMoines_Dec_2011|Republican_Florida_Jan_2012|Republican_Florida_Sep_2011|Republican_Iowa_Aug_2011|Republican_Iowa_Dec_2011|Republican_Manchester_Jan_2012|Republican_Michigan_Nov_2011|Republican_MyrtleBeach_Jan_2012|Republican_Nevada_Oct_2011|Republican_NHampshire_Jan_2012|Republican_NHampshire_June_2011|Republican_NHampshire_Oct_2011|Republican_SCarolina_Jan_2012|Republican_SCarolina_Nov_2011|Republican_SCarolina_Sep_2011|Republican_Tampa_Jan_2012|Republican_Tampa_Sep_2011|Republican_Washington_Nov_2011|VP_Kentucky_Oct_2012
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
 OBAMA|9.6166666667|12.564516129|8.1627906977|||||||||||||||||||||
 ROMNEY|7.0769230769|11.5652173913|6.8987341772|9.8529411765|10.85|11.1818181818|11.6285714286|11.9|12.5882352941|12.4|10.7714285714|9|14.0909090909|5.6190476191|8.5666666667|6.1923076923|7.6279069767|14.1034482759|8.2777777778|8.9230769231|7.6888888889|9.2777777778|10.5555555556|
@@ -142,7 +142,7 @@ HUNTSMAN|||||21|||15.5454545455|19|17.8|16.25|11|||14.5555555556||5.6428571429||
 BACHMANN|||||12.1|9.45||7.25|8.0476190476|6.95||14.5||4.1428571429||7.7894736842|9.4666666667||7.9285714286|6.4210526316||5.4705882353|12.0666666667|
 PERRY|||||7.2|8||6.2916666667||8.5833333333|8.1|4.4166666667|9|4|3.9230769231||8.5||6.4117647059|||6.8461538462|13.4615384615|
 CAIN|||||7.1428571429|||8.625|9.4166666667|||5.5||4.3703703704||6|4.0357142857||6.2307692308|7.2352941177||7.3636363636|	7.6363636364|
-JOHNSON|||||||9.2||||||||||||||||
-PAWLENTY||||||||9|||||||9.6956521739||||||||
+JOHNSON||||||||9.2||||||||||||||||
+PAWLENTY|||||||||9|||||||9.6956521739||||||||
 RYAN||||||||||||||||||||||||4.2745098039
 BIDEN||||||||||||||||||||||||3.9361702128
