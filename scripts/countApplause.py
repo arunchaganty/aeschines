@@ -24,6 +24,8 @@ wordCount = collections.Counter()
 p = re.compile(r'\W+')
 applauseKeyWord = '[applause]'
 with open(fileName, 'rb') as f:
+applauseKeyWord = '[applause]'
+with open("Debates/csv/" + fileName + '.csv', 'rb') as f:
     reader = csv.reader(f, delimiter = ",")
     for row in reader:
         if row[1].lower() in candidates:
