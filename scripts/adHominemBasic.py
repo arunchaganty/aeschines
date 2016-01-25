@@ -1,12 +1,15 @@
 import csv
 import re
 import collections
+import sys
 
-fileName = "Republican_Ohio_Aug_2015"
+participantsFile = sys.argv[1]
+pos = participantsFile.find("_parts")
+fileName = participantsFile[:pos] + ".csv"
 
 candidates = []
 i = 0
-with open("Debates/csv/" + fileName + '_parts.csv', 'rb') as f1:
+with open(participantsFile, 'rb') as f1:
     reader = csv.reader(f1, delimiter = ",")
     for row in reader:
         if i < 2:
@@ -17,7 +20,7 @@ for i in xrange(len(candidates)):
 
 lastSpeaker = None
 adHominemCounts = {}
-with open("Debates/csv/" + fileName + '.csv', 'rb') as f:
+with open(fileName, 'rb') as f:
     reader = csv.reader(f, delimiter = ",")
     for row in reader:
         if row[1].lower() in candidates:
@@ -31,4 +34,9 @@ with open("Debates/csv/" + fileName + '.csv', 'rb') as f:
                     adHominemCounts[row[1].lower()][0] += 1
                     adHominemCounts[row[1].lower()][1][candidate] += 1
         lastSpeaker = row[1]
-print adHominemCounts
+pos = fileName.rfind("/")
+debateName = fileName[pos+1:-4]
+print "DEBATE NAME:", debateName
+for person1, totCount in adHominemCounts.iteritems():
+    for person2, count in totCount[1].iteritems():
+        print person1, person2, count
