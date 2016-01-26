@@ -18,18 +18,21 @@ for line in f:
     else:
         splits = line.split()
         if splits[0] not in results:
-            results[splits[0]] = collections.defaultdict(float)
-        results[splits[0]][debate] = float(splits[1])
+            results[splits[0]] = {}#collections.defaultdict(float)
+        results[splits[0]][debate] = (int(splits[1]),float(splits[2]))
         debateCounts[splits[0]] += 1
 
 normResults = collections.defaultdict(float)
+totResults = collections.Counter()
 for candidate, debates in results.iteritems():
-    sumResults = 0.0
+#    sumResults = 0.0
     for debate in debates:
-        sumResults += results[candidate][debate]
-    normResults[candidate] = sumResults/debateCounts[candidate]
+#        sumResults += results[candidate][debate][1]
+        normResults[candidate] += results[candidate][debate][1]
+        totResults[candidate] += results[candidate][debate][0]
+    normResults[candidate] /= debateCounts[candidate]
 
-print "|Candidate|Normalized Count"
-print "---|---|"
+print "|Candidate|Total Count|Normalized Count"
+print "---|---|---|"
 for candidate, value in normResults.iteritems():
-    print candidate, "|", value,"|"
+    print candidate, "|", totResults[candidate], "|", value,"|"

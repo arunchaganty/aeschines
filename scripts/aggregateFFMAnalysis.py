@@ -20,13 +20,16 @@ for line in f:
     else:
         splits = line.split()
         if splits[0] not in results:
-            results[splits[0]] = collections.defaultdict(float)
-        results[splits[0]][personalityType] += float(splits[1])
+            results[splits[0]] = collections.defaultdict(list)
+        if personalityType not in results[splits[0]]:
+            results[splits[0]][personalityType] = [0,0]
+        results[splits[0]][personalityType][0] += int(splits[1])
+        results[splits[0]][personalityType][1] += float(splits[2])
         debateCounts[splits[0]] += 1
 
 for candidate, types in results.iteritems():
     for persType in types:
-        results[candidate][persType] /= debateCounts[candidate]
+        results[candidate][persType][1] /= debateCounts[candidate]
 
 print "||",
 for personalityType in types:
