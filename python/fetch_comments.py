@@ -39,6 +39,7 @@ KEYWORDS = [
     'John Kaisch',
     ]
 SEARCH_TEMPLATE = '{kw} -RT -filter:media -"... http"'
+MAX_TWEETS = int(180 * 100 / 5)
 
 def get_tweets(api, **kwargs):
     """
@@ -59,16 +60,16 @@ def get_tweets(api, **kwargs):
 
 def do_command(args):
     api = connect()
-    MAX_TWEETS = 80 * 100
 
     writer = csv.writer(args.output)
 
-    writer.writerow(["id", "screen_name", "txt"])
+    writer.writerow(["id", "screen_name", "txt", "url"])
     for kw in KEYWORDS:
         for tweet in it.islice(get_tweets(api, q=SEARCH_TEMPLATE.format(kw=kw)), MAX_TWEETS):
             id, screen_name, txt = tweet['id'], tweet['user']['screen_name'], unquote(tweet['text'])
             txt = txt.replace('\n', ' ').strip()
-            writer.writerow([id, screen_name, txt])
+            url = "https://twitter.com/{}/status/{}".format(screen_name, id)
+            writer.writerow([id, screen_name, txt, url])
 
 if __name__ == "__main__":
     import argparse

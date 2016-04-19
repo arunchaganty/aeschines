@@ -38,7 +38,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'javanlp',
-    'debates',
+    'twit',
 )
 
 MIDDLEWARE_CLASSES = (
