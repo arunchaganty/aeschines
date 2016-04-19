@@ -3,9 +3,9 @@
 Various utilities for interfacing with Twitter
 """
 
-from twitter import Twitter, OAuth
+from twitter import Twitter, OAuth, TwitterStream
 from twitter.api import TwitterHTTPError
-from twit.settings import CONSUMER_KEY, CONSUMER_SECRET, ACCESS_KEY, ACCESS_SECRET
+from twit.settings import CONSUMER_KEY, CONSUMER_SECRET, ACCESS_KEY, ACCESS_SECRET, STREAM_CONSUMER_KEY, STREAM_CONSUMER_SECRET, STREAM_ACCESS_KEY, STREAM_ACCESS_SECRET
 
 SEARCH_TEMPLATE = '{kw} -RT -filter:media -filter:links'
 RATE_LIMIT = 180
@@ -21,7 +21,17 @@ def connect():
             token=ACCESS_KEY,
             token_secret=ACCESS_SECRET))
 
-def stream_tweets(api, keyword, max_id = -1):
+def connect_stream():
+    """Connect to twitter"""
+    return TwitterStream(
+        auth=OAuth(
+            consumer_key=STREAM_CONSUMER_KEY,
+            consumer_secret=STREAM_CONSUMER_SECRET,
+            token=STREAM_ACCESS_KEY,
+            token_secret=STREAM_ACCESS_SECRET))
+
+
+def slurp_tweets(api, keyword, max_id = -1):
     """
     Implements the max_id, max_id logic to create an infinte stream of
     tweets for a given search query.
@@ -46,4 +56,22 @@ def stream_tweets(api, keyword, max_id = -1):
 
         # Update max_id for next call
         max_id = lst[-1]['id'] - 1
+
+def tweet_filter(tweet):
+    if tweet['lang'] != 'en': return False
+    if 'media' in tweet['entities'] and len(tweet['entities']['media']) > 0: return False
+    if 'urls' in tweet['entities'] and len(tweet['entities']['urls']) > 0: return False
+
+    return True
+
+def stream_tweets(api, keywords):
+    """
+    Implements the max_id, max_id logic to create an infinte stream of
+    tweets for a given search query.
+    """
+    # Set the max_id argument (if not already set in the arguments)
+
+    # Make actual API call
+    return filter(tweet_filter, api.statuses.filter(track=keywords,))
+
 

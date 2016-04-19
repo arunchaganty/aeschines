@@ -8,7 +8,7 @@ import sys
 import csv
 import json
 import argparse
-from twit.util import connect, stream_tweets, TwitterHTTPError, RATE_LIMIT, RESULTS_PER_QUERY
+from twit.util import connect, slurp_tweets, TwitterHTTPError, RATE_LIMIT, RESULTS_PER_QUERY
 
 import ipdb
 
@@ -22,7 +22,7 @@ def update_for_keyword(api, output, keyword, max_id, count):
     max_id_ = max_id
     idx = 0
     try:
-        for idx, tweet in enumerate(islice(stream_tweets(api, keyword, max_id), count)):
+        for idx, tweet in enumerate(islice(slurp_tweets(api, keyword, max_id), count)):
             max_id_ = tweet['id']
             output.write(json.dumps(tweet).replace('\n','').replace('\r','').strip() + "\n")
     except TwitterHTTPError as e:
