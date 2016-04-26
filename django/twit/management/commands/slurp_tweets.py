@@ -19,16 +19,18 @@ def update_for_keyword(api, output, keyword, max_id, count, since_id = -1):
     Update file with tweets slurped from .
     """
 
+    since_id_ = since_id
     max_id_ = max_id
     idx = 0
     try:
         for idx, tweet in enumerate(islice(slurp_tweets(api, keyword, max_id, since_id), count)):
             max_id_ = tweet['id']
+            since_id_ = max(since_id_, tweet['id'])
             output.write(json.dumps(tweet).replace('\n','').replace('\r','').strip() + "\n")
     except TwitterHTTPError as e:
         print(e) # Just print this as a warning and continue.
 
-    return max_id_, idx != count-1
+    return since_id_, max_id_, idx != count-1
 
 class IdFile(dict):
     """
@@ -77,7 +79,7 @@ class Command(BaseCommand):
             print("Querying for {}. Current max_id={}".format(keyword, max_id))
             if not done:
                 max_id, done = update_for_keyword(api, output, keyword, max_id, per_keyword_count, since_id = since_id)
-                ids[keyword] = (max_id, done)
+                ids[keyword] = (since_id, max_id, done)
             print("Done querying for {}. Current max_id={}".format(keyword, max_id))
             # save state
             ids.save(id_file)
