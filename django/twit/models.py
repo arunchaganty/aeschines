@@ -91,6 +91,33 @@ class Tweet(models.Model):
                 })
 
 
+class Retweet(models.Model):
+    """retweet object"""
+    id = models.BigIntegerField(primary_key=True, help_text='Unique id that comes from Twitter')
+    tweet = models.ForeignKey(Tweet)
+    created_at = models.DateTimeField(help_text='Time tweet was created')
+    user = models.ForeignKey(User)
+
+    @property
+    def url(self):
+        return "https://twitter.com/{}/status/{}".format(self.user.screen_name, self.id)
+
+    @staticmethod
+    def from_json(obj):
+        return Retweet(
+            id = obj['id'],
+            tweet_id = obj['retweeted_status']['id'],
+            created_at = datetime.datetime.strptime(obj['created_at'], DT_FORMAT), # "Mon Sep 24 03:35:21 +0000 2012"
+            user_id = obj['user']['id'])
+
+    def get_or_create(self):
+        return Retweet.objects.get_or_create(
+            id=self.id,
+            defaults = {
+                'tweet' : self.tweet,
+                'created_at' : self.created_at,
+                'user' : self.user,
+                })
 
 class Mention(models.Model):
     """
@@ -135,3 +162,4 @@ class UserMention(Mention):
             doc_char_end = obj['indices'][1],
             user_id = obj['id']
             )
+
