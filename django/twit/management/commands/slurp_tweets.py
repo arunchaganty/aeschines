@@ -14,7 +14,7 @@ import ipdb
 
 from django.core.management.base import BaseCommand
 
-def update_for_keyword(api, output, keyword, max_id, count):
+def update_for_keyword(api, output, keyword, max_id, count, since_id = -1):
     """
     Update file with tweets slurped from .
     """
@@ -22,7 +22,7 @@ def update_for_keyword(api, output, keyword, max_id, count):
     max_id_ = max_id
     idx = 0
     try:
-        for idx, tweet in enumerate(islice(slurp_tweets(api, keyword, max_id), count)):
+        for idx, tweet in enumerate(islice(slurp_tweets(api, keyword, max_id, since_id), count)):
             max_id_ = tweet['id']
             output.write(json.dumps(tweet).replace('\n','').replace('\r','').strip() + "\n")
     except TwitterHTTPError as e:
@@ -41,18 +41,18 @@ class IdFile(dict):
             reader = csv.reader(f)
 
             header = next(reader)
-            assert header == ['keyword', 'max_id', 'done']
+            assert header == ['keyword', 'since_id', 'max_id', 'done']
 
-            return IdFile({keyword.strip() : (int(max_id.strip()), done.strip() == 'True') for (keyword, max_id, done) in reader})
+            return IdFile({keyword.strip() : (int(since_id.strip()), int(max_id.strip()), done.strip() == 'True') for (keyword, since_id, max_id, done) in reader})
 
     def save(self, fname):
         """Write id file"""
         with open(fname, 'w') as f:
             writer = csv.writer(f)
 
-            writer.writerow(['keyword', 'max_id', 'done'])
-            for (keyword, (max_id, done)) in self.items():
-                writer.writerow([keyword, max_id, done])
+            writer.writerow(['keyword', 'since_id', 'max_id', 'done'])
+            for (keyword, (since_id, max_id, done)) in self.items():
+                writer.writerow([keyword, since_id, max_id, done])
 
 class Command(BaseCommand):
     """Slurp tweets from twitter and save into a file."""
@@ -73,10 +73,10 @@ class Command(BaseCommand):
         per_keyword_count = int(RATE_LIMIT * RESULTS_PER_QUERY / len(ids))
         print("Querying ~{} tweets per keyword for {} keywords".format(per_keyword_count, len(ids)))
 
-        for keyword, (max_id, done) in ids.items():
+        for keyword, (since_id, max_id, done) in ids.items():
             print("Querying for {}. Current max_id={}".format(keyword, max_id))
             if not done:
-                max_id, done = update_for_keyword(api, output, keyword, max_id, per_keyword_count)
+                max_id, done = update_for_keyword(api, output, keyword, max_id, per_keyword_count, since_id = since_id)
                 ids[keyword] = (max_id, done)
             print("Done querying for {}. Current max_id={}".format(keyword, max_id))
             # save state

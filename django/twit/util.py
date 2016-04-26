@@ -32,7 +32,7 @@ def connect_stream():
             token_secret=STREAM_ACCESS_SECRET))
 
 
-def slurp_tweets(api, keyword, max_id = -1):
+def slurp_tweets(api, keyword, max_id = -1, since_id = -1):
     """
     Implements the max_id, max_id logic to create an infinte stream of
     tweets for a given search query.
@@ -43,6 +43,7 @@ def slurp_tweets(api, keyword, max_id = -1):
         # Make actual API call
         ret = api.search.tweets(
             q=SEARCH_TEMPLATE.format(kw=keyword),
+            since_id=since_id,
             max_id=max_id,
             count=RESULTS_PER_QUERY,
             lang='en',
