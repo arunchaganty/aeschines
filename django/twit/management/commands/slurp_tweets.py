@@ -78,7 +78,7 @@ class Command(BaseCommand):
         for keyword, (since_id, max_id, done) in ids.items():
             print("Querying for {}. Current max_id={}".format(keyword, max_id))
             if not done:
-                max_id, done = update_for_keyword(api, output, keyword, max_id, per_keyword_count, since_id = since_id)
+                since_id, max_id, done = update_for_keyword(api, output, keyword, max_id, per_keyword_count, since_id = since_id)
                 ids[keyword] = (since_id, max_id, done)
             print("Done querying for {}. Current max_id={}".format(keyword, max_id))
             # save state

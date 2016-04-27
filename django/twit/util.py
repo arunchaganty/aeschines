@@ -81,6 +81,7 @@ def stream_tweets(api, keywords):
     # Set the max_id argument (if not already set in the arguments)
 
     # Make actual API call
-    return filter(tweet_filter, api.statuses.filter(track=keywords,))
+    return filter(tweet_filter, api.statuses.filter(track=",".join(keywords),))
+    #return filter(tweet_filter, api.statuses.sample())
 
 

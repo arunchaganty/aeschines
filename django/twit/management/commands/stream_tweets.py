@@ -17,7 +17,7 @@ def read_keywords(fname):
         reader = csv.reader(f)
         header = next(reader)
         assert header == ['keyword']
-        return list(reader)
+        return list(row[0] for row in reader)
 
 class Command(BaseCommand):
     """Slurp tweets from twitter and save into a file."""
@@ -33,5 +33,6 @@ class Command(BaseCommand):
 
         api = connect_stream()
         for tweet in stream_tweets(api, keywords):
+            print(tweet['id'])
             output.write(json.dumps(tweet).replace('\n','').replace('\r','').strip() + "\n")
 
