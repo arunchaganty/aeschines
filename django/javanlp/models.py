@@ -1,13 +1,12 @@
 from django.db import models
 from django.contrib.postgres.fields import ArrayField
 
-# Create your models here.
 class Sentence(models.Model):
     """
     Represents the consitutents of each sentence, with the basic
     annotations.
     """
-    doc_id = models.TextField() # More general than a foreign key?
+    doc_id = models.BigIntegerField() # More general than a foreign key?
     sentence_index = models.IntegerField() # Index in the document to order sentences
     words = ArrayField(models.TextField())   # Tokens
     lemmas = ArrayField(models.TextField())  # Tokens
@@ -25,3 +24,9 @@ class Sentence(models.Model):
     def __repr__(self):
         return "[Sentence {}]".format(self.gloss[:50])
 
+class Sentiment(models.Model):
+    """
+    Represents additional sentiment annotation when present.
+    """
+    sentence = models.ForeignKey(Sentence)
+    sentiment_value = models.IntegerField(help_text="sentiment on a -1 to 1 scale")

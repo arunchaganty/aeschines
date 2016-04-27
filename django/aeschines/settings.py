@@ -39,6 +39,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'javanlp',
     'twit',
+    'sentiment',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -77,6 +78,14 @@ WSGI_APPLICATION = 'aeschines.wsgi.application'
 # https://docs.djangoproject.com/en/1.8/ref/settings/#databases
 
 DATABASES = {
+    'remote': {
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'HOST': '127.0.0.1',
+        'PORT': '4242',
+        'NAME': 'chaganty-aeschines',
+        'USER': 'chaganty-aeschines',
+        'PASSWORD': 'aeschines',
+    },
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'HOST': '127.0.0.1',
