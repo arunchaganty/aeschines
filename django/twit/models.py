@@ -1,6 +1,7 @@
 from django.db import models
 import datetime
 from urllib.parse import unquote
+import ipdb
 
 DT_FORMAT = "%a %b %d %H:%M:%S %z %Y"
 
@@ -9,11 +10,11 @@ class User(models.Model):
     id = models.BigIntegerField(primary_key=True, help_text='Unique id that comes from Twitter')
     name = models.CharField(max_length=512, help_text='Full user name')
     created_at = models.DateTimeField(help_text='Time tweet was created')
-    location = models.TextField(help_text='String description of location')
+    location = models.TextField(null=True, help_text='String description of location')
     followers_count = models.IntegerField(default=0, help_text='Number of followers')
     verified = models.BooleanField(help_text='Is the user verified')
-    time_zone = models.TextField(help_text='Timezone used by user', null=True)
-    description = models.TextField(help_text='Description of user')
+    time_zone = models.TextField(null=True, help_text='Timezone used by user')
+    description = models.TextField(null=True, help_text='Description of user')
     statuses_count = models.IntegerField(help_text='Number of status updates by user')
     friends_count = models.IntegerField(help_text='Number of friends')
     screen_name = models.CharField(max_length=512, help_text='Short user name')
@@ -54,6 +55,7 @@ class Tweet(models.Model):
     created_at = models.DateTimeField(help_text='Time tweet was created')
     text = models.CharField(max_length=256, help_text='Raw text context of tweet')
     retweet_count = models.IntegerField(help_text='Count of retweets')
+    favorite_count = models.IntegerField(default=0,help_text='Count of favorites')
     reply_to_id = models.BigIntegerField(default=-1, help_text='Reference to an existing tweet (may not be in database)', null=True)
     user = models.ForeignKey(User)
 
@@ -71,25 +73,32 @@ class Tweet(models.Model):
 
     @staticmethod
     def from_json(obj):
+        user, _ = User.from_json(obj['user']).update_or_create()
         return Tweet(
             id = obj['id'],
             created_at = datetime.datetime.strptime(obj['created_at'], DT_FORMAT), # "Mon Sep 24 03:35:21 +0000 2012"
             text = unquote(obj['text']),
             retweet_count = obj['retweet_count'],
+            favorite_count = obj['favorite_count'],
             reply_to_id = obj['in_reply_to_status_id'],
-            user_id = obj['user']['id'])
+            user = user)
 
-    def get_or_create(self):
-        return Tweet.objects.get_or_create(
+    def update_or_create(self):
+        return Tweet.objects.update_or_create(
             id=self.id,
             defaults = {
                 'created_at' : self.created_at,
                 'text' : self.text,
                 'retweet_count' : self.retweet_count,
+                'favorite_count' : self.favorite_count,
                 'reply_to_id' : self.reply_to_id,
                 'user' : self.user,
                 })
 
+    @staticmethod
+    def is_retweet(jsonobj):
+        """Is this blob a retweet?"""
+        return "retweeted_status" in jsonobj
 
 class Retweet(models.Model):
     """retweet object"""
@@ -104,14 +113,24 @@ class Retweet(models.Model):
 
     @staticmethod
     def from_json(obj):
-        return Retweet(
-            id = obj['id'],
-            tweet_id = obj['retweeted_status']['id'],
-            created_at = datetime.datetime.strptime(obj['created_at'], DT_FORMAT), # "Mon Sep 24 03:35:21 +0000 2012"
-            user_id = obj['user']['id'])
+        """
+        Assembles a retweet.
+        Original tweet has an updated retweet and favorite count, and this should be saved.
+        @Returns retweet, original tweet
+        """
+        assert Tweet.is_retweet(obj)
 
-    def get_or_create(self):
-        return Retweet.objects.get_or_create(
+        tweet, _ = Tweet.from_json(obj['retweeted_status']).update_or_create()
+        user, _ = User.from_json(obj['user']).update_or_create()
+        retweet = Retweet(
+            id = obj['id'],
+            tweet = tweet,
+            created_at = datetime.datetime.strptime(obj['created_at'], DT_FORMAT), 
+            user = user)
+        return retweet
+
+    def update_or_create(self):
+        return Retweet.objects.update_or_create(
             id=self.id,
             defaults = {
                 'tweet' : self.tweet,

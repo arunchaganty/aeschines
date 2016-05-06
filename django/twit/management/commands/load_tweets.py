@@ -4,8 +4,7 @@ from django.db import transaction
 import sys
 import json
 
-from twit.models import User, Tweet, Mention, UserMention
-
+from twit.models import User, Tweet, Retweet, Mention, UserMention
 
 class Command(BaseCommand):
     """Scrape tweets from twitter and load into database."""
@@ -16,14 +15,23 @@ class Command(BaseCommand):
         parser.add_argument('--input', type=argparse.FileType('r'), help="Input file containing a json tweet on each line.")
 
     def handle(self, *args, **options):
-        with transaction.atomic():
-            for line in options['input']:
+        for line in options['input']:
+            line = line.strip()
+            if len(line) == 0: continue
+
+            with transaction.atomic():
                 tweet = json.loads(line)
-                # Create a user object
-                User.from_json(tweet['user']).update_or_create()
-                tweet_, created = Tweet.from_json(tweet).get_or_create()
-                if created:
-                    for entity in tweet['entities']['hashtags']:
-                        Mention.from_json(entity, 'hashtag', tweet_).save()
-                    for entity in tweet['entities']['user_mentions']:
-                        UserMention.from_json(entity, tweet_).save()
+                print(tweet['id']) # To keep track of progress.
+
+                if Tweet.is_retweet(tweet):
+                    Retweet.from_json(tweet).update_or_create()
+                else:
+                    # Create the tweet.
+                    tweet_, created = Tweet.from_json(tweet).update_or_create()
+                    # Update the entities
+                    if created:
+                        for entity in tweet['entities']['hashtags']:
+                            Mention.from_json(entity, 'hashtag', tweet_).save()
+                        for entity in tweet['entities']['user_mentions']:
+                            UserMention.from_json(entity, tweet_).save()
+
