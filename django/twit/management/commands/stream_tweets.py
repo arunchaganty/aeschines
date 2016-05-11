@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Stream tweets continuous and append into a file
+Stream tweets continuous and append into a (gzipped) file
 """
 import sys
 import csv
+import gzip
 import json
 import argparse
 from twit.util import connect_stream, stream_tweets, TwitterHTTPError
@@ -25,14 +26,16 @@ class Command(BaseCommand):
 
     def add_arguments(self, parser):
         parser.add_argument('--keywords_file', type=str, help="File that contains information about keywords")
-        parser.add_argument('--output', type=argparse.FileType('a'), default=sys.stdout, help="")
+        parser.add_argument('--output', type=str, default='tweet_stream.gz', help="Path to save output to.")
 
     def handle(self, *args, **options):
-        keywords_file, output = options['keywords_file'], options['output']
+        keywords_file, output_fname = options['keywords_file'], options['output']
         keywords = read_keywords(keywords_file)
 
         api = connect_stream()
-        for tweet in stream_tweets(api, keywords):
-            print(tweet['id'])
-            output.write(json.dumps(tweet).replace('\n','').replace('\r','').strip() + "\n")
+
+        with gzip.open(output_fname, 'ab') as output:
+            for tweet in stream_tweets(api, keywords):
+                print(tweet['id'])
+                output.write(bytes(json.dumps(tweet).replace('\n','').replace('\r','').strip() + "\n", 'utf-8'))
 
