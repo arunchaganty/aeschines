@@ -49,6 +49,12 @@ class User(models.Model):
                 'friends_count' : self.friends_count,
                 'screen_name' : self.screen_name,})
 
+    def __str__(self):
+        return self.screen_name
+
+    def __repr__(self):
+        return "[User: " + self.screen_name + "]"
+
 class Tweet(models.Model):
     """Tweet object"""
     id = models.BigIntegerField(primary_key=True, help_text='Unique id that comes from Twitter')
@@ -100,6 +106,12 @@ class Tweet(models.Model):
         """Is this blob a retweet?"""
         return "retweeted_status" in jsonobj
 
+    def __str__(self):
+        return self.text
+
+    def __repr__(self):
+        return "[Tweet: " + self.text[:40] + "...]"
+
 class Retweet(models.Model):
     """retweet object"""
     id = models.BigIntegerField(primary_key=True, help_text='Unique id that comes from Twitter')
@@ -137,6 +149,12 @@ class Retweet(models.Model):
                 'created_at' : self.created_at,
                 'user' : self.user,
                 })
+
+    def __str__(self):
+        return "RT:" + self.tweet.text
+
+    def __repr__(self):
+        return "[Retweet: " + self.tweet.text[:40] + "...]"
 
 class Mention(models.Model):
     """
