@@ -26,6 +26,9 @@ class Command(BaseCommand):
         else:
             input_handler = open
 
+        seen_tweets = set()
+        users_map = {}
+
         users_fname, tweets_fname, retweets_fname = ["%s%s.tsv.gz"%(options['output_prefix'], x) for x in ['users', 'tweets', 'retweets']]
 
         with gzip.open(users_fname, 'at') as users_f,\
@@ -43,9 +46,15 @@ class Command(BaseCommand):
                 if len(line) == 0: continue # Ignore empty lines
                 tweet = json.loads(line)
 
-                users.writerow(User.from_json_to_tsv(tweet['user']))
+                users_map[tweet['user']['id']] = User.from_json_to_tsv(tweet['user'])
                 if Tweet.is_retweet(tweet):
+                    if tweet['retweeted_status']['id'] not in seen_tweets:
+                        tweets.writerow(Tweet.from_json_to_tsv(tweet['retweeted_status']))
+                        seen_tweets.add(tweet['retweeted_status']['id'])
                     retweets.writerow(Retweet.from_json_to_tsv(tweet))
                 else:
                     tweets.writerow(Tweet.from_json_to_tsv(tweet))
+                seen_tweets.add(tweet['id'])
 
+            for user in users_map.values():
+                users.writerow(user)
