@@ -81,12 +81,12 @@ DATABASES = {
     'remote': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'HOST': '127.0.0.1',
-        'PORT': '4242',
-        'NAME': 'chaganty-aeschines',
-        'USER': 'chaganty-aeschines',
+        'PORT': '4243',
+        'NAME': 'aeschines',
+        'USER': 'aeschines',
         'PASSWORD': 'aeschines',
     },
-    'default': {
+    'local': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'HOST': '127.0.0.1',
         'NAME': 'aeschines',
@@ -94,6 +94,7 @@ DATABASES = {
         'PASSWORD': 'aeschines',
     }
 }
+DATABASES['default'] = DATABASES['remote']
 
 
 # Internationalization
