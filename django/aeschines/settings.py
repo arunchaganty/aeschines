@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'aeschines.wsgi.application'
 # https://docs.djangoproject.com/en/1.8/ref/settings/#databases
 
 DATABASES = {
-    'remote': {
+    'aeschines': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'HOST': '127.0.0.1',
         'PORT': '4243',
@@ -94,7 +94,7 @@ DATABASES = {
         'PASSWORD': 'aeschines',
     }
 }
-DATABASES['default'] = DATABASES['remote']
+DATABASES['default'] = DATABASES['aeschines']
 
 
 # Internationalization
