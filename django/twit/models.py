@@ -1,9 +1,13 @@
 from django.db import models
 import datetime
-from urllib.parse import unquote
+from html import unescape
 import ipdb
 
 DT_FORMAT = "%a %b %d %H:%M:%S %z %Y"
+
+def clean_string(inp):
+    if inp is None: return ""
+    return unescape(inp).strip().replace('\n',' ').replace('\r', '')
 
 class User(models.Model):
     """Twitter's user object"""
@@ -33,6 +37,36 @@ class User(models.Model):
             statuses_count = int(obj['statuses_count']),
             friends_count = int(obj['friends_count']),
             screen_name = obj['screen_name'],)
+
+    @staticmethod
+    def from_json_to_tsv_header():
+        return [
+            'id',
+            'name',
+            'created_at',
+            'location',
+            'followers_count',
+            'verified',
+            'time_zone',
+            'description',
+            'statuses_count',
+            'friends_count',
+            'screen_name',]
+
+    @staticmethod
+    def from_json_to_tsv(obj):
+        return [
+            obj['id'],
+            obj['name'],
+            obj['created_at'],
+            obj['location'],
+            int(obj['followers_count']),
+            bool(obj['verified']),
+            obj['time_zone'],
+            clean_string(obj['description']),
+            int(obj['statuses_count']),
+            int(obj['friends_count']),
+            obj['screen_name'],]
 
     def update_or_create(self):
         return User.objects.update_or_create(
@@ -83,11 +117,43 @@ class Tweet(models.Model):
         return Tweet(
             id = obj['id'],
             created_at = datetime.datetime.strptime(obj['created_at'], DT_FORMAT), # "Mon Sep 24 03:35:21 +0000 2012"
-            text = unquote(obj['text']),
+            text = clean_string(obj['text']),
             retweet_count = obj['retweet_count'],
             favorite_count = obj['favorite_count'],
             reply_to_id = obj['in_reply_to_status_id'],
             user = user)
+
+    @staticmethod
+    def from_json_to_tsv_header():
+        return [
+            'id',
+            'created_at', # "Mon Sep 24 03:35:21 +0000 2012"
+            'text',
+            'retweet_count',
+            'favorite_count',
+            'reply_to_id',
+            'user_id',]
+
+    @staticmethod
+    def from_json_to_tsv(obj):
+        return [
+            obj['id'],
+            obj['created_at'], # "Mon Sep 24 03:35:21 +0000 2012"
+            clean_string(obj['text']),
+            obj['retweet_count'],
+            obj['favorite_count'],
+            obj['in_reply_to_status_id'],
+            obj['user']['id']]
+
+    def to_tsv(self):
+        return [
+            self.id,
+            self.created_at,
+            self.text,
+            self.retweet_count,
+            self.favorite_count,
+            self.reply_to_id,
+            self.user]
 
     def update_or_create(self):
         return Tweet.objects.update_or_create(
@@ -137,7 +203,7 @@ class Retweet(models.Model):
         retweet = Retweet(
             id = obj['id'],
             tweet = tweet,
-            created_at = datetime.datetime.strptime(obj['created_at'], DT_FORMAT), 
+            created_at = datetime.datetime.strptime(obj['created_at'], DT_FORMAT),
             user = user)
         return retweet
 
@@ -150,6 +216,23 @@ class Retweet(models.Model):
                 'user' : self.user,
                 })
 
+    @staticmethod
+    def from_json_to_tsv_header():
+        """Translate json to TSV"""
+        return [
+            'id',
+            'tweet_id',
+            'created_at',
+            'user_id']
+
+    @staticmethod
+    def from_json_to_tsv(obj):
+        """Translate json to TSV"""
+        return [
+            obj['id'],
+            obj['retweeted_status']['id'],
+            obj['created_at'],
+            obj['user']['id']]
     def __str__(self):
         return "RT:" + self.tweet.text
 
