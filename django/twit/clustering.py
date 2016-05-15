@@ -12,6 +12,8 @@ import sys
 import gensim
 from gensim.corpora import Dictionary, HashDictionary, MmCorpus
 from gensim.models import LdaMulticore, TfidfModel, HdpModel
+from gensim.models.doc2vec import TaggedDocument, Doc2Vec
+from twit.happyfuntokenizing import Tokenizer
 
 import ipdb
 
@@ -28,11 +30,12 @@ STOPWORDS = ['i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'you',
              'most', 'other', 'some', 'such', 'no', 'nor', 'not', 'only', 'own', 'same', 'so',
              'than', 'too', 'very', 's', 't', 'can', 'will', 'just', 'don', 'should', 'now'] 
 
+TOKENIZER = Tokenizer()
+
 def tokenize(text):
     """Tokenize the text (using bi-grams)
     @returns:list[str]"""
-    tokens = [token for token in text.lower().split() if token not in STOPWORDS and len(token) >= 3]
-    return [" ".join(tokens[i:i+2]) for i in range(len(tokens)-1)]
+    return TOKENIZER.tokenize(text)
 
 def load_data(stream):
     """
@@ -84,6 +87,9 @@ def project_data(model, corpus):
     return X
 
 def visualize_top_documents(model, P, documents, n_docs=10):
+    """
+    Use the projection of documents onto topics to select documents that are most representative of each topic category.
+    """
     assert P.shape[0] == len(documents)
 
     # For each topic, pick the top 5 documents
@@ -91,20 +97,42 @@ def visualize_top_documents(model, P, documents, n_docs=10):
         print("Topic #{}".format(topic))
         pprint(model.show_topic(topic))
         for idx in reversed(P.T[topic].argsort()[-n_docs:]):
-            print(documents[idx])
+            print(documents[idx] + "\t" + str(P[idx]))
         print ("----\n")
+
+def embed_documents(documents, size=100):
+    """Use Doc2Vec to embed documents in a d-dimensional space.
+    @documents:list[list[str]] - tokenized documents
+    @returns:numpy.array - of (num_docs) x (dimension)
+    """
+    documents = [TaggedDocument(words=words, tags=[i]) for (i,words) in enumerate(documents)]
+    model = Doc2Vec(documents, size=size, window=8, min_count=5, workers=4)
+    return model
+
+def cluster_kmeans(X):
+    """Cluster documents in X using a k-means model.
+    @X:numpy.array - A (documents x vector representation) of the documents.
+    @returns list[int] - list of cluster assignments.
+    """
+    pass
+
 
 def do_command(args):
     # Load data
     data = load_data(args.input)
     ids, documents = zip(*data)
+    tokenized = [tokenize(doc) for doc in documents]
+    model = embed_documents(tokenized)
+    D = np.vstack(model.docvecs)
 
-    dictionary, corpus = to_corpus(documents)
-    model = fit_model(dictionary, corpus, n_topics=args.topics)
+    cluster_kmeans(D)
+
+    #dictionary, corpus = to_corpus(documents)
+    #model = fit_model(dictionary, corpus, n_topics=args.topics)
     # project the data onto the corpus.
-    P = project_data(model, corpus)
+    #P = project_data(model, corpus)
     
-    visualize_top_documents(model, P, documents)
+    #visualize_top_documents(model, P, documents)
 
     # save output.
 

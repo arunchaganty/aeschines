@@ -47,7 +47,6 @@ __email__ = "See the author's website"
 ######################################################################
 
 import re
-import htmlentitydefs
 
 ######################################################################
 # The following strings are components in the regular expression
@@ -121,6 +120,7 @@ regex_strings = (
     """
     )
 
+
 ######################################################################
 # This is the core tokenizing regex:
     
@@ -128,6 +128,7 @@ word_re = re.compile(r"""(%s)""" % "|".join(regex_strings), re.VERBOSE | re.I | 
 
 # The emoticon string gets its own regex so that we can preserve case for them as needed:
 emoticon_re = re.compile(regex_strings[1], re.VERBOSE | re.I | re.UNICODE)
+GRUBER_URLINTEXT_PAT = re.compile(r"""(?i)\b((?:https?://|www\d{0,3}[.]|[a-z0-9.\-]+[.][a-z]{2,4}/)(?:[^\s()<>]+|\(([^\s()<>]+|(\([^\s()<>]+\)))*\))+(?:\(([^\s()<>]+|(\([^\s()<>]+\)))*\)|[^\s`!()\[\]{};:\'".,<>?\xab\xbb\u201c\u201d\u2018\u2019]))""")
 
 # These are for regularizing HTML entities to Unicode:
 html_entity_digit_re = re.compile(r"&#\d+;")
@@ -145,14 +146,20 @@ class Tokenizer:
         Argument: s -- any string or unicode object
         Value: a tokenize list of strings; conatenating this list returns the original string if preserve_case=False
         """        
+        # Ignoring unicode -- this is python 3
         # Try to ensure unicode:
-        try:
-            s = unicode(s)
-        except UnicodeDecodeError:
-            s = str(s).encode('string_escape')
-            s = unicode(s)
+        #try:
+        #    s = unicode(s)
+        #except UnicodeDecodeError:
+        #    s = str(s).encode('string_escape')
+        #    s = unicode(s)
         # Fix HTML character entitites:
-        s = self.__html2unicode(s)
+        #s = self.__html2unicode(s)
+
+
+        # first remove any URLS
+        s = GRUBER_URLINTEXT_PAT.sub("URL", s)
+
         # Tokenize:
         words = word_re.findall(s)
         # Possible alter the case, but avoid changing emoticons like :D into :d:
@@ -168,7 +175,7 @@ class Tokenizer:
         try:
             import twitter
         except ImportError:
-            print "Apologies. The random tweet functionality requires the Python twitter library: http://code.google.com/p/python-twitter/"
+            print("Apologies. The random tweet functionality requires the Python twitter library: http://code.google.com/p/python-twitter/")
         from random import shuffle
         api = twitter.Api()
         tweets = api.GetPublicTimeline()
@@ -217,7 +224,7 @@ if __name__ == '__main__':
         )
 
     for s in samples:
-        print "======================================================================"
-        print s
+        print("======================================================================")
+        print(s)
         tokenized = tok.tokenize(s)
-        print "\n".join(tokenized)
+        print("\n".join(tokenized))
