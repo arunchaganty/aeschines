@@ -1,12 +1,10 @@
 from django.core.management.base import BaseCommand, CommandError
-from django.db import transaction
 
 from collections import Counter
-import json
-import re
+import csv
 import sys
 
-from twit.models import User, Tweet, Retweet, Mention, UserMention
+from twit.models import Tweet
 from twit.util import identify_issues
 
 class Command(BaseCommand):
@@ -15,15 +13,31 @@ class Command(BaseCommand):
 
     def add_arguments(self, parser):
         import argparse
-        # parser.add_argument('--issues_dict', type=argparse.FileType('r'), help="Input file containing a issues and keywords corresponding to them.")
+        parser.add_argument('--input', default=None, type=str, help="An optional input file containing columns [id, text] that will be read instead of the database.")
+        parser.add_argument('--output', default=sys.stdout, type=argparse.FileType('w'), help="Where the output is written to.")
+        parser.add_argument('--write-output', action='store_true', default=False, help="Will write [id,text,issues] to output if set.")
 
     def handle(self, *args, **options):
-        counts = Counter()
+        if options['input'] is not None:
+            with open(options['input']) as f:
+                reader = csv.reader(f, delimiter='\t')
+                header = next(reader)
+                assert header == ["id", "text"]
 
+                tweets = list(reader)
+        else: 
+            tweets = map(lambda t: (t.id, t.text), Tweet.objects.all())
+        writer = csv.writer(options['output'], delimiter="\t") if options['write_output'] else None
+        if writer is not None:
+            writer.writerow(['id', 'text', 'issues'])
+
+        counts = Counter()
         print("Building counts by issue")
-        for tweet in Tweet.objects.all():
-            text = tweet.text.lower()
-            counts.update(identify_issues(text))
+        for id, text in tweets:
+            issues = identify_issues(text.lower())
+            if writer is not None:
+                writer.writerow([id, text, ",".join(issues.keys())])
+            counts.update(issues)
 
         print("Issues referenced most often in descending order")
         for issue, count in counts.most_common():
