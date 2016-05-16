@@ -4,7 +4,7 @@
 Implementation of clustering with K-Means
 """
 
-from . import em
+import em
 import numpy as np
 import scipy.spatial
 import scipy.linalg
@@ -12,7 +12,7 @@ cdist = scipy.spatial.distance_matrix
 
 class KMeansClusterer(em.EMAlgorithm):
     """
-    Clusterer using the K-means algorithm 
+    Clusterer using the K-means algorithm
     """
 
     def __init__(self, K, D):

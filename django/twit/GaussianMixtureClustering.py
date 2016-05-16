@@ -15,9 +15,9 @@ from scipy.linalg import norm
 cdist = scipy.spatial.distance.cdist
 logsumexp = scipy.logaddexp.reduce
 
-from . import em
+import em
 
-from .KMeansClustering import KMeansClusterer
+from twit.KMeansClustering import KMeansClusterer
 
 class GaussianMixtureClusterer(em.EMAlgorithm):
     """

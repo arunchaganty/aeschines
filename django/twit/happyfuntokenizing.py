@@ -165,7 +165,7 @@ class Tokenizer:
         # Possible alter the case, but avoid changing emoticons like :D into :d:
         if not self.preserve_case:            
             words = map((lambda x : x if emoticon_re.search(x) else x.lower()), words)
-        return words
+        return list(words)
 
     def tokenize_random_tweet(self):
         """
