@@ -8,7 +8,7 @@ import sys
 import csv
 import json
 import argparse
-from twit.util import connect, slurp_tweets, TwitterHTTPError, RATE_LIMIT, RESULTS_PER_QUERY
+from twit.twitter_util import connect, slurp_tweets, TwitterHTTPError, RATE_LIMIT, RESULTS_PER_QUERY
 
 import ipdb
 

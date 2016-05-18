@@ -8,7 +8,7 @@ import csv
 import gzip
 import json
 import argparse
-from twit.util import connect_stream, stream_tweets, TwitterHTTPError
+from twit.twitter_util import connect_stream, stream_tweets, TwitterHTTPError
 
 from django.core.management.base import BaseCommand
 
