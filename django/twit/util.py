@@ -96,32 +96,38 @@ def identify_issues(text):
     @returns:Counter - containing counts of how many issues occur in each tweet.
     """
     issues = {
-        "Free Trade": "free trade|trade",
-        "Energy & Oil": "energy|oil",
-        "Jobs": "jobs",
-        "Environment": "environment",
-        "Corporations": "corporations",
-        "Tax Reform": "tax|taxes|tax reform",
-        "Government Reform": "government reform",
-        "Infrastructure & Technology": "infrastructure|technology",
-        "Education": "education",
-        "Health Care": "health care|healthcare|obamacare",
-        "Civil Rights": "civil rights|equal rights",
-        "Families & Children": "families|children",
-        "Religion": "religion",
-        "Criminal Justice": "criminal justice",
-        "Gun Control": "gun control|gun|guns",
-        "Welfare & Poverty": "welfare|poverty",
-        "Crime": "crime",
-        "Drugs": "drugs",
-        "Immigration": "immigration|border patrol|border",
-        "Foreign policy": "foreign policy",
-        "War & Peace": "war|peace",
-        "Homeland Security": "homeland security|dhs",
+        "Energy and Environment": ['energy', 'oil', 'coal', 'miner?s', 'fracking', 'environment', 'greenhouse gas(es)?',],
+        "Crime": ['crime', 'arrests?', 'body cameras', 'police brutality', 'prison reform'],
+        "Religion": ['religions?', 'religious'],
+        "Government Reform and Campaign Finance": ['government reform', "super pac", "pac", "campaign contributions?"],
+        "Jobs": ['jobs', 'unemployment'],
+        "Drugs": ['drugs'],
+        "Gun Control": ['gun control', 'guns?', 'nra'],
+        "Immigration": ['immigration', 'border patrol', 'border', 'deportation', 'immigrants?'],
+        "Free Trade": ['free trade', 'trade', 'nafta', 'tpp'],
+        "Foreign policy": ['foreign policy'],
+        "War & Peace": ['iraq war', 'peace'],
+        "Infrastructure & Technology": ['infrastructure',],
+        # "Tax Reform": ['tax', 'taxes', 'tax reform'],
+        # "Civil Rights": ['civil rights', 'equal rights'],
+        "Health Care": ['health care', 'healthcare'],
+        # "Families & Children": ['families', 'children'],
+        "Welfare & Poverty": ['social welfare'],
+        "Criminal Justice": ['criminal justice'],
+        "Homeland Security": ['homeland security',],
+        # "Corporations": ['corporations'],
+        # "Education": ['education'],
+        "Abortion": ['abortion', 'planned parenthood'],
+        "Gay rights": ['lgbt', 'gay rights', 'lesbian', 'bisexual', 'transgender'],
     }
 
     counts = Counter()
-    for issue, regex in issues.items():
+    matches_at_least_one_issue = False
+    for issue, words in issues.items():
+        regex = "\b(%s)\b" % ('|'.join(words))
         if re.search(regex, text) is not None:
             counts[issue] += 1
+            matches_at_least_one_issue = True
+    if not matches_at_least_one_issue:
+        counts["None"] += 1
     return counts

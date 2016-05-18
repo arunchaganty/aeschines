@@ -41,4 +41,4 @@ class Command(BaseCommand):
 
         print("Issues referenced most often in descending order")
         for issue, count in counts.most_common():
-            print("%4d %s" % (count, issue))
+            print("%6d %s" % (count, issue))
