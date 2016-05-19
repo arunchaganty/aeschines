@@ -27,3 +27,6 @@ java/out
 *.pdf
 *.dvi
 *_tmp.*
+
+# Django
+django/*/settings.py
