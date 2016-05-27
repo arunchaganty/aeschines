@@ -124,7 +124,7 @@ def identify_issues(text):
     counts = Counter()
     matches_at_least_one_issue = False
     for issue, words in issues.items():
-        regex = "\b(%s)\b" % ('|'.join(words))
+        regex = r"\b(%s)\b" % ('|'.join(words))
         if re.search(regex, text) is not None:
             counts[issue] += 1
             matches_at_least_one_issue = True
