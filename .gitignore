@@ -30,3 +30,4 @@ java/out
 
 # Django
 django/*/settings.py
+django/twit/data/*

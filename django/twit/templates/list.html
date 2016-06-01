@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block body %}
+
+<div class="col-md-12">
+<h1>Tweets</h1>
+
+<table class="table table-striped">
+  <thead>
+    <th style="width:5%;">ID</th> 
+    <th style="width:15%;">User</th> 
+    <th style="width:45%;">Tweet</th> 
+    <th style="width:35%;">Information</th> 
+  </thead>
+{% for tweet in tweets %}
+  <tr>
+    <td id='id-{{tweet.id}}'><a href="https://twitter.com/{{tweet.user.screen_name}}/status/{{tweet.id}}">{{tweet.id}}</a> </td>
+    <td id='user_id-{{tweet.id}}'><a href="https://twitter.com/{{tweet.user.screen_name}}">{{tweet.user.screen_name}}</a> </td>
+    <td id='text-{{tweet.id}}'>{{tweet.text}}</td>
+    <td id='info-{{tweet.id}}'>
+      <ul>
+        {% for em in tweet.stances.all %}
+        <li>{{em.entity}} {{em.stance}} </li>
+          {% endfor %}
+
+        {% for t in tweet.topics.all %}
+        <li>{{t.topic}}</li>
+          {% endfor %}
+      </ul>
+    </td>
+  </tr>
+{% endfor %}
+</table>
+</div>
+
+{% endblock %}

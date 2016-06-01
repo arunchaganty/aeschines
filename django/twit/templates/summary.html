@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block body %}
+
+<div class="col-md-12">
+<h1>Tweets</h1>
+
+<table class="table table-striped">
+  <thead>
+    <th style="width:5%;">ID</th> 
+    {% for key in candidates %}
+    <th>{{key}}</th> 
+    {% endfor %}
+  </thead>
+{% for cnt in counts %}
+  <tr>
+    <td>{{cnt.0}}</td>
+    {% for value in cnt.1 %}
+    <td>{{value}}</td>
+    {% endfor %}
+  </tr>
+{% endfor %}
+</table>
+</div>
+
+{% endblock %}

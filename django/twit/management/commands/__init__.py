@@ -47,9 +47,9 @@ class DataProcessingCommand(BaseCommand):
         Returns row objects
         """
         writer = csv.writer(ofstream, delimiter='\t')
-        writer.writerrow(self.output_header())
+        writer.writerow(self.output_header())
         for row in ostream:
-            writer.writerrow(row)
+            writer.writerow(row)
 
     def handle(self, *args, **options):
         if options['input'] is not None:

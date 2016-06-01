@@ -48,3 +48,9 @@ def test_parse_psql_array():
     lst_ = parse_psql_array(inp)
     assert all([x == y for (x,y) in zip(lst, lst_)])
 
+def to_psql_array(lst):
+    """
+    Convert lists to psql friendly format.
+    """
+    return "{" + ",".join(map('{}'.format, lst)) + "}"
+
