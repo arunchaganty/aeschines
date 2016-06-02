@@ -3,6 +3,7 @@ from django.core.management.base import BaseCommand, CommandError
 from collections import Counter
 import csv
 import sys
+import time
 
 from twit.models import Tweet
 from twit.util import identify_issues
@@ -18,26 +19,34 @@ class Command(BaseCommand):
         parser.add_argument('--write-output', action='store_true', default=False, help="Will write [id,text,issues] to output if set.")
 
     def handle(self, *args, **options):
+        print("Preparing tweets to read")
+        t = time.time()
         if options['input'] is not None:
-            with open(options['input']) as f:
-                reader = csv.reader(f, delimiter='\t')
-                header = next(reader)
-                assert header == ["id", "text"]
+            f = open(options['input'])
+            reader = csv.reader(f, delimiter='\t')
+            header = next(reader)
+            assert header == ["id", "user_id", "text"]
 
-                tweets = list(reader)
+            # tweets = list(reader)
+            tweets = reader
         else: 
             tweets = map(lambda t: (t.id, t.text), Tweet.objects.all())
         writer = csv.writer(options['output'], delimiter="\t") if options['write_output'] else None
         if writer is not None:
             writer.writerow(['id', 'text', 'issues'])
+        print("Done. Took %.3f secs" % (time.time() - t))
 
         counts = Counter()
         print("Building counts by issue")
-        for id, text in tweets:
+        t = time.time()
+        for i, (id, user_id, text) in enumerate(tweets):
+            if i % 10000 == 0: print(i)
+            if i == 1000000: break
             issues = identify_issues(text.lower())
             if writer is not None:
                 writer.writerow([id, text, ",".join(issues.keys())])
             counts.update(issues)
+        print("Done. Took %.3f secs" % (time.time() - t))
 
         print("Issues referenced most often in descending order")
         for issue, count in counts.most_common():
