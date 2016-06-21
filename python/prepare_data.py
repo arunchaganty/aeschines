@@ -5,7 +5,7 @@
 
 import csv
 import numpy as np
-from util import Index, to_ascii, ordc
+from util import Index, to_ascii, ordc, RowObjectFactory
 
 def to_features(text):
     """
@@ -21,14 +21,15 @@ def to_features(text):
 
     The encoding of characters corresponds to the ASCII table from 32 (' ') to 126 ('~').
     """
+    text = text[:150]
     assert len(text) <= 150
-    features = np.zeros((150, 96))
+    features = np.zeros((160, 96))
     for i, c in enumerate(text):
-        features[i][idx(c)] = 1
+        features[i][ordc(c)] = 1
     return features
 
-def int_(lbl):
-    return int(lbl) if lbl != '' else 0
+def float_(lbl):
+    return float(lbl) if lbl != '' else 0.
 
 def prepare_data(istream):
     """
@@ -39,13 +40,14 @@ def prepare_data(istream):
     Labels are also returned as one-hot vectors.
     """
     #n_instances, labels = get_data_spec(istream)
-    tweets = RowObjectFactory.from_stream(csv.reader(istream))
+    tweets = RowObjectFactory.from_stream(csv.reader(istream, delimiter='\t'))
     #X_train, y_train = np.zeros((n_instances,150, 96)), np.zeros((n_instances, len(labels)))
     X_train, y_train = [], []
 
-    for i, tweet in enumerate(tweets): 
-        feats = to_features(to_ascii(tweet.text))
-        labels = [int_(tweet.hc), int_(tweet.bs), int_(tweet.dt), int_(tweet.tc)]
+    for tweet in tweets:
+        text = to_ascii(tweet.text)
+        feats = to_features(text)
+        labels = [float_(tweet.hc), float_(tweet.bs), float_(tweet.dt), float_(tweet.tc)]
 
         X_train.append(feats)
         y_train.append(labels)
