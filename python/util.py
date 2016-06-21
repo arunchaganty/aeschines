@@ -4,7 +4,10 @@
 Useful utilities
 """
 
+import numpy as np
 import csv
+from happyfuntokenizing import Tokenizer
+TOKENIZER = Tokenizer(preserve_case=True)
 
 from happyfuntokenizing import Tokenizer
 TOKENIZER = Tokenizer(preserve_case=True)
@@ -25,50 +28,48 @@ class Index(object):
         return self.index[key]
 
 UNICODE_EMOJI_TO_ASCII_TABLE = [
-    ('o/'    , '👋'),
-    ('</3'   , '💔'),
-    ('<3'    , '💗'),
-    ('=D'    , '😁'),
-    ('xD'    , '😁'),
-    (':\\\')'  , '😂'),
-    (':))'  , '😃'),
-    ('8)'    , '😄'),
-    ('0:)'   , '😇'),
-    ('3:)'   , '😈'),
-    ('*)'    , '😉'),
-    (':|'    , '😐'),
-    (':('    , '😒'),
-    ('%)'    , '😖'),
-    (':P'    , '😜'),
-    ('=L'    , '😡'),
-    (":\\'("  , '😢'),
-    ('^5'    , '😤'),
-    ('|-O'   , '😫'),
-    (':###'  , '😰'),
-    ('D:'    , '😱'),
-    (':o'    , '😲'),
-    ('o_o'   , '😲'),
-    (':$'    , '😳'),
-    (':#'    , '😶'),
-    (':-J'   , '😼'),
-    (':*'    , '😽'),
-    (r'\\o/'  , '🙆'),
+        ('o/'    , '👋'),
+        ('</3'   , '💔'),
+        ('<3'    , '💗'),
+        ('=D'    , '😁'),
+        (r":\')"  , '😂'),
+        (':)'    , '😄'),
+        ('0:)'   , '😇'),
+        ('3:)'   , '😈'),
+        ('*)'    , '😉'),
+        (':|'    , '😐'),
+        (':('    , '😒'),
+        ('%)'    , '😖'),
+        (':P'    , '😜'),
+        (':@'    , '😠'),
+        (':/'    , '😡'),
+        (r":\'("  , '😢'),
+        ('^5'    , '😤'),
+        ('|-O'   , '😫'),
+        (':###..', '😰'),
+        ('D:'    , '😱'),
+        (':O'    , '😲'),
+        (':$'    , '😳'),
+        ('#-)'   , '😵'),
+        (':#'    , '😶'),
+        (':-J'   , '😼'),
+        (':*'    , '😽'),
     ]
 
 def to_ascii(text):
     # Convert from ascii
     for asci, unicod in UNICODE_EMOJI_TO_ASCII_TABLE:
         text = text.replace(unicod, asci)
-    text = text.decode('ascii', errors='ignore')
+    text = text.encode('ascii', errors='ignore').decode('ascii', errors='ignore')
     text = " ".join(TOKENIZER.tokenize(text))
     return text
 
 def ordc(c):
     """
-    Compressed version of ord that returns indices between -1 and 95.
+    Compressed version of ord that returns indices between 0 and 95.
     """
     c = ord(c)
-    if c < 32 or c > 126: return -1
+    if c < 32 or c > 126: return 95
     else: return c - 32
 
 class RowObject(object):
