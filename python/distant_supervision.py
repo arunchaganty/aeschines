@@ -205,12 +205,12 @@ def do_run(args):
     model = load_model(args.model, args.weights)
     wvecs = WordVectorModel.from_file(args.wvecs, False, '*UNKNOWN*')
 
-    ids, X, ys = load_data_raw(args.input)
+    data = [(tweet.id, tokenize(to_ascii(tweet.text))) for tweet in RowObjectFactory.from_stream(csv.reader(args.input, delimiter="\t"))]
     writer = csv.writer(args.output, delimiter='\t')
 
-    for ixy in tqdm(grouper(args.batch_size, zip(ids, X, ys))):
-        ids_batch, X_batch, y_batch = zip(*ixy)
-        X_batch, y_batch = wvecs.embed_sentences(X_batch), array(y_batch)
+    for ix in tqdm(grouper(args.batch_size, data)):
+        ids_batch, X_batch = zip(*ix)
+        X_batch = wvecs.embed_sentences(X_batch)
         labels = model.predict_on_batch(X_batch)
         for id, label in zip(ids_batch, labels):
             writer.writerow([id,] + [float(l) for l in label])
