@@ -8,6 +8,7 @@ shillary,HC,-1
 #dropouthillary,HC,-1
 #crookedhillary,HC,-1
 #hillno,HC,-1
+#hillyes,HC,1
 #hillaryforprison2016,HC,-1
 #neverclinton,HC,-1
 #dealmein,HC,1
