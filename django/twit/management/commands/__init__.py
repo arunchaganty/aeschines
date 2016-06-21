@@ -58,7 +58,7 @@ class DataProcessingCommand(BaseCommand):
         """
         Returns count of number of elements in the line
         """
-        return len(ifstream)
+        return len(ifstream.readlines())
 
     def ostream_to_file(self, ofstream, ostream):
         """

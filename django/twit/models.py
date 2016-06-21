@@ -2,6 +2,7 @@ from django.db import models
 import datetime
 from html import unescape
 import ipdb
+import math
 
 DT_FORMAT = "%a %b %d %H:%M:%S %z %Y"
 
@@ -313,6 +314,62 @@ class EntityStance(models.Model):
 
     def __repr__(self):
         return "[Stance: {}={:.2f}]".format(self.entity, self.stance)
+
+class UserStance(models.Model):
+    """
+    Identifies the purported stance of the specified entity.
+    """
+    user = models.ForeignKey(User, related_name="stance", primary_key=True)
+    hc = models.FloatField(help_text='Hillary Clinton')
+    bs = models.FloatField(help_text='Bernie Sanders')
+    dt = models.FloatField(help_text='Donald Trump')
+    tc = models.FloatField(help_text='Ted Cruz')
+    count = models.BigIntegerField(help_text='Number of tweets')
+    alignment_score = models.FloatField(help_text='Alignment Score')
+
+    def __str__(self):
+        return "{} {:.2f}".format(self.entity, self.stance)
+
+    def __repr__(self):
+        return "[Stance: {}={:.2f}]".format(self.entity, self.stance)
+
+    def compute_alignment(self):
+        """
+        Computes alignment as a crazy entropy based score.
+        """
+        def normalize(x):
+            return 0 if x is None else x
+        # First normalize scores to be all positive.
+        hc_, bs_, dt_, tc_ = 0, 0, 0, 0
+        hc, bs, dt, tc = [normalize(x) for x in [self.hc, self.bs, self.dt, self.tc]]
+        if hc < 0:
+            dt_ += 0.5
+            tc_ += 0.5
+        else:
+            hc_ += hc
+        if bs < 0:
+            dt_ += 0.5
+            tc_ += 0.5
+        else:
+            bs_ += bs
+        if dt < 0:
+            hc_ += 0.5
+            bs_ += 0.5
+        else:
+            dt_ += dt
+        if tc < 0:
+            hc_ += 0.5
+            bs_ += 0.5
+        else:
+            tc_ += tc
+        assert hc_ >= 0 and bs_ >= 0 and dt_ >= 0 and tc_ >= 0
+
+        vals = [hc_, bs_, dt_, tc_]
+        vals = [x / max(1e-5,sum(vals)) for x in vals]
+        return sum(math.exp(x) * x for x in vals) / math.exp(1)
+
+    class Meta:
+        managed = False
 
 class TopicMention(models.Model):
     """
