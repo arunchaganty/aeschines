@@ -13,6 +13,7 @@ TOKENIZER = Tokenizer(preserve_case=True)
 
 from happyfuntokenizing import Tokenizer
 TOKENIZER = Tokenizer(preserve_case=True)
+import itertools
 
 
 BLUE = '\033[34;1m'
@@ -188,7 +189,7 @@ class WordVectorModel(dict):
         """
         Return the list of tokens embedded as a matrix.
         """
-        return array([self.embed_sentence(toks, max_length) for toks in sentences])
+        return array([[self.embed_sentence(toks, max_length)] for toks in sentences])
 
 
 def test_wvec_model():
@@ -206,4 +207,15 @@ def test_wvec_model():
     assert allclose(undiplomatically, model['UndIplomAtically']), "Vectors are not equal!"
     assert allclose(unk, model['undiplomaticallyy']), "Vectors are not equal!"
 
+
+def grouper(n, iterable):
+    """
+    grouper(3, 'ABCDEFG') --> 'ABC', 'DEF', 'G'
+    """
+    it = iter(iterable)
+    while True:
+        chunk = tuple(itertools.islice(it, n))
+        if not chunk:
+            return
+        yield chunk
 
