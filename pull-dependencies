@@ -12,5 +12,7 @@ download lib http://central.maven.org/maven2/junit/junit/4.11/junit-4.11.jar
 download lib https://jdbc.postgresql.org/download/postgresql-9.4-1204.jdbc42.jar
 download lib http://search.maven.org/remotecontent?filepath=com/opencsv/opencsv/3.6/opencsv-3.6.jar
 
-
 pipPackage twitter
+
+download data http://crr.ugent.be/papers/Ratings_Warriner_et_al.csv
+
