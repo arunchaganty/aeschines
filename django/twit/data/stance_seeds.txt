@@ -12,9 +12,11 @@ shillary,HC,-1
 #hillaryforprison2016,HC,-1
 #neverclinton,HC,-1
 #dealmein,HC,1
-#ImWithHer,HC,0.5
+#ImWithHer,HC,1
+#Im4Hillary,HC,1
 #HillarySoQualified,HC,1
 #readyforhillary,HC,1
+#clinton2016,HC,1
 #votetrump,DT,1
 #womenfortrump,DT,1
 #women4trump,DT,1
