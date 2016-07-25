@@ -78,7 +78,7 @@ def load_data_raw(istream):
     Returns a set of words, and input.
     """
     log("Loading training data...")
-    data = list(map(process_input, RowObjectFactory.from_stream(csv.reader(istream, delimiter="\t"))))
+    data = list(map(process_input, tqdm(RowObjectFactory.from_stream(csv.reader(istream, delimiter="\t")))))
     np.random.shuffle(data)
     ids, X, y = zip(*data)
 
@@ -228,15 +228,16 @@ def do_run(args):
     model = load_model(args.model, args.weights)
     wvecs = WordVectorModel.from_file(args.wvecs, False, '*UNKNOWN*')
 
-    data = map(lambda tweet: (tweet.id, tokenize(to_ascii(tweet.text))), RowObjectFactory.from_stream(csv.reader(args.input, delimiter="\t")))
+    data = ((tweet.id, tokenize(to_ascii(tweet.text))) for tweet in RowObjectFactory.from_stream(csv.reader(args.input, delimiter="\t")))
     writer = csv.writer(args.output, delimiter='\t')
+    writer.writerow(['id',] + LABELS)
 
     for ix in tqdm(grouper(args.batch_size, data)):
         ids_batch, X_batch = zip(*ix)
         X_batch = wvecs.embed_sentences(X_batch)
         labels = model.predict_on_batch(X_batch)
         for id, label in zip(ids_batch, labels):
-            writer.writerow([id,] + LABELS[label])
+            writer.writerow([id,] + [float(l) for l in label])
 
 if __name__ == "__main__":
     import sys, argparse
