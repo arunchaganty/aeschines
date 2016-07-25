@@ -205,8 +205,9 @@ def do_run(args):
     model = load_model(args.model, args.weights)
     wvecs = WordVectorModel.from_file(args.wvecs, False, '*UNKNOWN*')
 
-    data = [(tweet.id, tokenize(to_ascii(tweet.text))) for tweet in RowObjectFactory.from_stream(csv.reader(args.input, delimiter="\t"))]
+    data = ((tweet.id, tokenize(to_ascii(tweet.text))) for tweet in RowObjectFactory.from_stream(csv.reader(args.input, delimiter="\t")))
     writer = csv.writer(args.output, delimiter='\t')
+    writer.writerow(['id', 'hc', 'bs', 'dt', 'tc'])
 
     for ix in tqdm(grouper(args.batch_size, data)):
         ids_batch, X_batch = zip(*ix)

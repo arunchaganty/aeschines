@@ -69,7 +69,7 @@ def to_ascii(text):
     # Convert from ascii
     for asci, unicod in UNICODE_EMOJI_TO_ASCII_TABLE:
         text = text.replace(unicod, asci)
-    text = text.encode('ascii', errors='ignore').decode('ascii', errors='ignore')
+    text = unicode(text, errors='ignore').encode('ascii', errors='ignore')
     return text
 
 def tokenize(text):
