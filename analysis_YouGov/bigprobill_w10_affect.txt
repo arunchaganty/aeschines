@@ -1,0 +1,776 @@
+line	valence	arousal	dominance
+Bigotry driven by xenophobia and ignorance.	-0.5519999999999999	0.23000000000000007	-0.09399999999999994
+Racist opposition to it	-0.47400000000000003	-0.06600000000000002	-0.16299999999999998
+Immigrants living in the shadows.	0	0	0
+allows business people to exploit their workers	-0.011333333333333298	-0.152	-0.005999999999999996
+Xenophobia, racism of ignorant citizens	-0.528	0.005999999999999964	-0.14699999999999996
+The vast majority of illegal immigrants are decent hard working people who want a chance to make a better life for their children and families. They are not causing problems.	0.1029090909090909	-0.07418181818181818	0.10418181818181817
+None	0	0	0
+Right wing hysteria	0.15066666666666673	-0.005999999999999996	0.14133333333333334
+Misunderstanding and prejudice.	-0.42800000000000005	-0.09600000000000009	-0.23399999999999999
+Difficulty keeping track and providing help	0.020000000000000018	-0.18266666666666667	0.07999999999999996
+Lack of jobs	-0.26399999999999996	-0.5519999999999999	0.092
+Nothing	0	0	0
+if terrorists come in	0.12799999999999995	-0.28600000000000003	0.18800000000000008
+talking heads on tv & radio beat the issue to death.	0.01899999999999999	-0.09250000000000003	0.12849999999999998
+not a problem	-0.296	-0.038000000000000075	-0.011999999999999922
+hate against them	-0.608	0.25199999999999995	-0.10600000000000005
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+Automotive accidents	0.07400000000000002	-0.1	0.07599999999999998
+People being unwilling to get help for fear of being deported	-0.003199999999999992	-0.09960000000000004	0.030400000000000017
+No oroblem	0	0	0
+children arrive without their parents	0.277	0.008999999999999985	0.279
+Language difficulty keeps illegal immigrates from integrating into the society to get jobs that may create a population dependent on crime.	0.011777777777777755	-0.1373333333333333	0.1166666666666667
+small amount turn to crime	-0.071	-0.194	-0.0445
+bigotry from those that don't like the immigrants	-0.03199999999999992	0.05500000000000007	0.08100000000000006
+Jobs for legals are lessened because the undocumented will work more cheaply and thus undercutting legal job seekers.	0.0625	-0.271	0.19250000000000003
+Ensuring fair treatment of migrant workers by businesses	0.21399999999999997	-0.224	0.06500000000000004
+obtaining an income without paying any taxes	0.25199999999999995	-0.23600000000000004	0.2720000000000001
+conservatives complaining about them	0	0	0
+Jobs	0	0	0
+I don't see any problems.	0.2539999999999999	-0.22000000000000003	0.2
+Gives politicians something to focus on besides the things that really matter	0.2300000000000001	-0.15	0.29600000000000004
+Over crowding in schools	0	0	0
+using up all of our federal funds	-0.388	-0.10999999999999996	-0.44800000000000006
+Causes the Republican Party to go bat shit crazy!	0.05920000000000001	-0.028399999999999974	0.02120000000000001
+"I am welcoming of immigration, the issue with illegal immigration is those being paid ""under the table"" by employers paying below minimum wages. Providing immigrant status would (1) offer wage protection to the worker, and (2) the worker would pay taxes."	0.04615384615384618	-0.18184615384615388	0.068
+populaton	0	0	0
+Illegal immigrants are exploited for labor, in the long run it keeps the pay for certain jobs are not a livable wage. The overall economy suffers as a consequence.	0.0030000000000000213	-0.12333333333333334	0.07466666666666669
+Individuals dying during the journey	0.33000000000000007	-0.022000000000000065	0.3539999999999999
+The political grandstanding	-0.13000000000000006	-0.2	-0.184
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+Cost of free services.	0.23600000000000004	0.02800000000000003	0.016999999999999987
+I guess it would be the potential jobs they're taking away from citizens.	0.2065	-0.24050000000000002	0.13999999999999999
+Corporations complain about them while simultaneously taking advantage of them	-0.019000000000000017	-0.08700000000000001	0.22899999999999998
+Health care and housing	0.3559999999999999	-0.408	0.24533333333333332
+the u.s.	0	0	0
+ignorant people with no real knowlege of the situation	0.06800000000000002	-0.19750000000000004	-0.015499999999999979
+drain on healthcare due to hospital visits	-0.149	-0.15250000000000002	-0.15899999999999997
+Lack of uncollected taxes	-0.26399999999999996	-0.5519999999999999	0.092
+strain on services: hospital, schools, housing without being able to pay themselves	0.1215	-0.2435	0.135
+i dont know	0.36400000000000005	-0.352	0.15600000000000006
+Trump	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+Na	0	0	0
+undocumented criminals	0	0	0
+maybe a strain on not paying taxes	-0.258	-0.04399999999999995	-0.184
+no taxes being paid	0	0	0
+taxes	0	0	0
+people perceiving they are taking over jobs when it is only jobs U citizens do not want to do	0.12600000000000003	-0.18	0.17449999999999996
+Taking jobs off of some college kids trying to pay for thier education.	0.2766666666666668	-0.0713333333333333	0.15666666666666665
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+none	0	0	0
+stealing jobs	-0.45	-0.08599999999999994	0.1
+jobs	0	0	0
+Unnecessary stress stomach ulcers	-0.27066666666666667	-0.18200000000000002	-0.10599999999999997
+them getting arrested.	0	0	0
+Jobs	0	0	0
+Racism	-0.704	0.176	-0.10800000000000001
+no jobs for americans to much freedom no taxes for them	0.5439999999999999	0.13399999999999998	0.47400000000000003
+The unaccepting nature of the closed minded Republican party	0.2213333333333333	-0.12066666666666669	0.08800000000000002
+racists thinking that it's okay to harm them.	-0.618	0.18000000000000008	-0.20999999999999996
+overpopulation	0	0	0
+I don't believe there is a problem. I think there is a bunch of fear mongering by Conservatives.	0.12450000000000001	-0.1985	0.046999999999999945
+hatred by the people who hate them	-0.33066666666666666	0.016666666666666635	-0.07533333333333332
+How much money we spend to hunt them down and deport them	-0.0005000000000000143	0.013999999999999999	0.0615
+RACIAL HATRED	-0.397	-0.07300000000000004	-0.2
+Republicans	0	0	0
+Not sure	0.32799999999999996	-0.304	0.36400000000000005
+I. Don't see a huge problem with it.	0.033999999999999954	-0.1366666666666667	0.05533333333333334
+Conservatives who bitch about immigration.	-0.49000000000000005	0.19000000000000003	-0.27
+Don't know	0.36400000000000005	-0.352	0.15600000000000006
+loss of jobs	-0.42000000000000004	0.040000000000000036	-0.10600000000000005
+crime	-0.61	0.13599999999999995	-0.33799999999999997
+assistance	0.16400000000000006	-0.23600000000000004	0.29000000000000004
+The media and demagogues pretending that they're dangerous or cause harm with questions like this that presume some negative quality.	-0.222	-0.031999999999999994	-0.0673333333333333
+jobs	0	0	0
+Population	-0.038000000000000075	-0.20800000000000002	-0.15199999999999997
+The Republican Party rhetoric	0.06933333333333329	-0.12733333333333333	0.06666666666666667
+nothing	0	0	0
+Cost of housing	-0.0040000000000000036	-0.23699999999999996	-0.02099999999999999
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+Nothing; they really don't cause any problems	0.027999999999999935	-0.304	0.03399999999999999
+People who are offended by their presence and fight to remove them from our country.	-0.03999999999999999	-0.1595	0.011499999999999976
+poverty	-0.6	0.05999999999999996	-0.368
+UNEMPLOYMENT	-0.536	0.11799999999999997	-0.41
+The cost of border patrol and ensuing legal costs	-0.09649999999999999	-0.1595	0.017999999999999988
+no idea	0.41	-0.06799999999999998	0.22200000000000006
+NA	0	0	0
+not being able to speak English	0.255	-0.24299999999999997	0.20599999999999996
+Lazy Mexicans	-0.39	-0.39	0.158
+using our resources without paying taxes	0	0	0
+Low wages	-0.12200000000000007	-0.558	-0.378
+maybe stressing the emergency room services?	-0.173	-0.04700000000000004	-0.15699999999999997
+Children of these immigrant not receiving a proper education and health care.	0.236	-0.15560000000000002	0.2008
+abuse of human beings because they lack legal status to fight back, eg; employers, law enforcement	-0.13625	-0.15974999999999998	-0.011500000000000008
+poverty	-0.6	0.05999999999999996	-0.368
+the resentment that people feel, xenophobia	-0.13	-0.10399999999999995	-0.05499999999999998
+Employment	0.2	0.003999999999999915	0.07200000000000006
+na	0	0	0
+Putting a strain on critical services such as medical	-0.14133333333333334	-0.08133333333333331	-0.16533333333333336
+None	0	0	0
+Unfair to people who immigrated here legally	-0.11499999999999998	-0.248	-0.05999999999999997
+Job loss to legal citizens.	-0.08133333333333335	-0.1633333333333333	0.03933333333333333
+none	0	0	0
+The fact that this issue is mischaracterized by pundits and politicians (i.e. Republicans) and used as propaganda to advance their fear-driven political agenda, diverting attention from more reldvent issues and problems confronting us in this country.	0.022666666666666672	-0.14966666666666667	0.051999999999999984
+that the us government does nothing about the people who are there. they work all their lives, pay taxes through sales tax and governmental fees and get no protections later on in life. the only problem is that we are not doing anything about the people here and instead have an entire economic system built upon a slave wages labor market. we should be decent human beings and just grant them citizenship so they can live a worry free life, contribute to society and get the benefits of the society in which they have already integrated their lives.	0.07371428571428572	-0.1714285714285714	0.06514285714285716
+Money not staying in the US	0.41999999999999993	0.37200000000000005	0.26400000000000007
+Unsure	-0.32599999999999996	-0.09000000000000004	-0.27199999999999996
+The illegal immigrant being abused because of their status	-0.1433333333333334	-0.03800000000000002	-0.060000000000000026
+Racism on the part of those born here.	-0.09466666666666666	-0.12400000000000001	-0.10333333333333335
+They have no money or health care. Tax payers are out money on them.	0.19639999999999996	0.009600000000000008	0.09640000000000003
+The time it takes to become a citizen of the United States.	0.2233333333333333	-0.36866666666666664	0.09933333333333334
+Americans treating them as illegals.	0	0	0
+Bigotry and hate	-0.58	0.241	-0.1
+Health car, education and social programs.	0.30066666666666664	-0.11466666666666668	0.19933333333333336
+Children exploited	0.2720000000000001	0.01799999999999997	0.19000000000000003
+None	0	0	0
+Not having a job	0.12799999999999995	-0.2	-0.11199999999999992
+disproportionate tax payments compared to cost of services utilized	-0.289	-0.05800000000000001	-0.328
+Wage exploitation	-0.11099999999999999	-0.047000000000000014	-0.051999999999999956
+Bigotry against ALL immigrants.	-0.5519999999999999	0.23000000000000007	-0.09399999999999994
+Communication - they need to have to learn, understand, and speak English.	0.19750000000000006	-0.22299999999999998	0.15499999999999992
+There isn't one	0.21799999999999997	-0.466	0.11199999999999992
+none	0	0	0
+No problem . Illegal immigration is good . That's why you . The reader . Your mother and father both came from illegal immigration. Now look at you . Good job . For money .you know how to read and write . Be proud of your self . Don't doute. Recognize. He well	0.2002222222222222	-0.11733333333333335	0.1454444444444445
+Talking points for the repubs	0	0	0
+Not sure	0.32799999999999996	-0.304	0.36400000000000005
+Spending stupid amounts of money for preventing it	-0.006000000000000061	0.12000000000000001	0.03500000000000006
+advance	0.22200000000000006	-0.07599999999999998	0.22400000000000003
+Over population	-0.038000000000000075	-0.20800000000000002	-0.15199999999999997
+It exacerbates the overpopulation caused by our excessive longevity and unnaturally low mortality rate.	0.02400000000000002	-0.12050000000000001	-0.169
+Nothing	0	0	0
+Inability to get jobs and be legal, contributing citizens because of laws	0.01799999999999996	-0.29333333333333333	-0.02999999999999998
+Lowering wages for blue collar workers.	0.14800000000000005	-0.298	0.04199999999999999
+Not paying tax,	0	0	0
+none	0	0	0
+poverty	-0.6	0.05999999999999996	-0.368
+none	0	0	0
+I don't think there is a problem.	0.33599999999999997	-0.25	0.3
+I don't think it is a big problem	0.05599999999999997	-0.1406666666666667	0.13666666666666671
+Public assistance benefits given to their children that are born here	0.24200000000000005	-0.192	0.056000000000000036
+it makes the repuiblicans go nuts .	0.26400000000000007	-0.027999999999999935	0.06600000000000002
+taxes used for housing and food for the people.	0.3369999999999999	-0.25799999999999995	0.22000000000000003
+?	0	0	0
+The illegal persons are doing jobs AMERICANS refuse to do and that keeps unemployment up and a cash flow of USD out of the country. Thus lazy americans collecting from the govt.	-0.14514285714285716	-0.07200000000000002	0.024857142857142852
+they need time to become legal residents of the US... they dont make it easy for them to do so	0.188	-0.2851428571428571	0.1897142857142857
+none	0	0	0
+War	-0.554	0.2539999999999999	-0.346
+Not paying taxes	0	0	0
+That it has become such a contentious political issue.	0.067	-0.257	0.025999999999999968
+Don't know	0.36400000000000005	-0.352	0.15600000000000006
+none	0	0	0
+Donald Trump	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+The Americas' (North, South and Central, along with Canada) populations should be the people making up the immigration numbers. They were all here first, with their established trading routes. They didn't cross the border but the border crossed them and separated the peoples. The government has no heart, labels them as illegal and ships them off while the lighter skinned Europeans and Asians get to stay.	-0.011600000000000032	-0.20960000000000006	-0.07499999999999998
+Keeps wages down, illegal immigrants are exploited	-0.49400000000000005	0.10999999999999996	-0.05600000000000005
+competition in workforce with legal immigrants and citizens	0.05700000000000003	-0.08999999999999998	0.18199999999999994
+Drug smuggling. But I do not believe it is a major issue.	0.1045	-0.21399999999999997	0.09299999999999997
+no idea	0.41	-0.06799999999999998	0.22200000000000006
+Republican politicians	-0.14800000000000005	-0.378	0.08000000000000007
+They earn money in the US, but take it back to Mexico to spend it	0.1836	-0.08800000000000001	0.16
+Lies and ignorance of those who want immigrants deported.	-0.11600000000000002	-0.09500000000000003	-0.07300000000000005
+I don't know	0.36400000000000005	-0.352	0.15600000000000006
+Illegal immigrants are easy to exploit from a labor standpoint, reducing working conditions and wages for everyone. They have no recourse for unfair or illegal employers, and this encourages employers to exploit the workers.	-0.13422222222222224	-0.06555555555555553	0.008666666666666649
+Working for little wages	0.18200000000000002	-0.15999999999999998	0.03599999999999994
+GOP rhetoric	-0.08000000000000007	-0.22000000000000003	-0.06400000000000006
+They should not so tight in the applicant.	0	0	0
+safety	0.42799999999999994	-0.24000000000000005	0.29399999999999993
+Economy in the United States is better.	-0.27199999999999996	0.06400000000000006	-0.16799999999999998
+increase in population	0.07100000000000001	-0.09800000000000005	0.033
+employment	0.2	0.003999999999999915	0.07200000000000006
+Finding housing	0.16999999999999993	-0.454	0.22400000000000003
+Not sure	0.32799999999999996	-0.304	0.36400000000000005
+GETTING JOBS THAT TRUE AMERICAN SHOULD BE GETTING	0.23599999999999993	-0.31399999999999995	0.1
+none	0	0	0
+conservative hysteria	-0.166	-0.17600000000000005	-0.17199999999999996
+nothing	0	0	0
+allow businesses to pay less than minimum wage, hurts economy and americans find jobs	0.1004	-0.22799999999999998	0.12240000000000002
+Nothing	0	0	0
+The economy	-0.27199999999999996	0.06400000000000006	-0.16799999999999998
+Drain on social services money	0.13199999999999998	-0.0026666666666666505	0.11066666666666669
+Not sure.	0	0	0
+health care costs	0.44899999999999995	-0.385	0.256
+Not paying taxes	0	0	0
+Better themselfd	0	0	0
+crime	-0.61	0.13599999999999995	-0.33799999999999997
+medical expenses, drain on the healthcare system	-0.03600000000000003	-0.25350000000000006	-0.048
+No major problems	0.10399999999999991	-0.15199999999999997	0.05600000000000005
+It gives corporations incentive to lower working standards, safety, and wages since undocumented workers won't rock the boat. It also raises the cost of Healthcare as corporate Healthcare charges more to keep their profits high.	0.07485714285714286	-0.14457142857142857	-0.01742857142857145
+Drugs	-0.22800000000000004	0.15600000000000006	-0.13599999999999995
+unemployment	-0.536	0.11799999999999997	-0.41
+identity theft	-0.156	-0.04299999999999997	0.023999999999999966
+Over use of services (education, medical, etc.) not supported by taxes paid by the people involved (illegal immigrants)	0.088	-0.20399999999999996	0.040000000000000036
+They pay no taxes.	0.24600000000000008	-0.15199999999999997	0.266
+Labor exploitation	-0.23699999999999996	0.133	0.041000000000000016
+bringing down wages	0	0	0
+don't know	0.36400000000000005	-0.352	0.15600000000000006
+Drugs	-0.22800000000000004	0.15600000000000006	-0.13599999999999995
+Illegal immigrants are not treated fairly by employers, not receiving benefits or retirement benefits and not receiving living wages.	-0.08700000000000005	-0.03600000000000003	0.03399999999999999
+Not surw	0	0	0
+Inability to get accurate census data.	0.071	-0.24700000000000005	0.021500000000000002
+Not enough resources.	0	0	0
+they are taking our jobs which is causing higher umemployment claims in the u s	0	0	0
+Stagnation of wages	0	0	0
+Nothing really.	0	0	0
+The racist xenophobic extremists who think immigrants are ruining our country!	-0.12700000000000006	-0.14100000000000001	0.08700000000000001
+no jobs for people who have families	0.15600000000000006	-0.271	0.11200000000000002
+The rise of Donald Trump.	0.14600000000000007	0.05999999999999996	0.43200000000000005
+Immigrants not paying taxes and still benefitting from the taxpayers money	0.41999999999999993	0.37200000000000005	0.26400000000000007
+do not paid taxes	0.08200000000000003	-0.266	0.2699999999999999
+none? I don't think any of our problems are caused by illegal immigrants	-0.07900000000000004	-0.07000000000000002	0.12199999999999997
+Aid given to needy families and cost to educate	0.039000000000000035	-0.07549999999999998	0.03399999999999998
+Lower paying jobs	0	0	0
+illegal work	-0.24200000000000005	-0.01200000000000001	0.08399999999999999
+The changes in the law making it harder for immigrants to enter legally and become Americans. They are a huge benefit.	0.134	-0.22399999999999998	0.13449999999999998
+Republican rhetoric	-0.11400000000000006	-0.29900000000000004	0.008000000000000007
+Farming and Big Business	0.10599999999999998	-0.24733333333333332	0.11933333333333333
+That it's a talking point for the right.	0.09000000000000004	-0.22800000000000004	0.2539999999999999
+Republicans reactions	0	0	0
+adapting to american life.	0	0	0
+Language instruction and finding them enough/quality resources	0.15999999999999995	-0.368	0.30200000000000005
+They are exploited both by human traffickers and busineses here	0.29000000000000004	-0.27599999999999997	0.142
+I believe if someone is not willing to do things legally they are criminals. They could also have criminal tendencies and commit crimes in the US.	0.10366666666666668	-0.291	0.19499999999999995
+fear of deportation, lack of ability to access services to improve their lives	0.057199999999999994	-0.07440000000000002	0.1304
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+The way that undocumented people are exploited	0.16100000000000003	-0.333	0.02300000000000004
+Y	0	0	0
+Increased costs to local governments	0.3539999999999999	-0.24000000000000005	0.33599999999999997
+Republicans who do not know how to govern.	0.22300000000000003	-0.309	0.21299999999999997
+Low wages paid to illegal immigrants driving down employment standards and wages for citizens.	-0.1386666666666667	-0.14800000000000005	-0.12066666666666666
+Strain on services	-0.258	-0.04399999999999995	-0.184
+Nothing	0	0	0
+Inability to assimilate	-0.23700000000000002	-0.23499999999999996	-0.14499999999999996
+dividing the population over an issue that is blown out of proportion	-0.06933333333333334	-0.18400000000000002	0.025999999999999978
+The unethical people that employ them.	-0.08133333333333337	-0.21	0.04800000000000004
+None	0	0	0
+Don't know	0.36400000000000005	-0.352	0.15600000000000006
+none	0	0	0
+lower wages	0	0	0
+don't check	0.30999999999999994	-0.324	-0.06600000000000002
+People not caring	0.14000000000000004	-0.246	0.08000000000000007
+lack of opportunity for the immigrants due to legal status	0.034	-0.22799999999999998	0.13000000000000003
+Crazy folks that are allowed guns and crime. Illegal immigration is not the problem.	-0.22200000000000006	0.04466666666666666	-0.17266666666666666
+Low wages	-0.12200000000000007	-0.558	-0.378
+pressures on human services and school systems	0.18600000000000003	-0.18099999999999994	0.15899999999999997
+White People.	0.23599999999999993	-0.32999999999999996	0.142
+Less income in taxes	0.25199999999999995	-0.23600000000000004	0.2720000000000001
+it is a political football tossed about by our elected leaders as if it were a game	0.17733333333333326	-0.019999999999999993	0.022666666666666658
+the burden on the healthcare system	-0.11266666666666669	-0.2066666666666667	-0.14733333333333334
+The U.S. & other imperialist nations destroying and allowing corporations to destroy local economies.	-0.043000000000000024	-0.16949999999999998	0.07649999999999997
+forcing people to live in the shadows	0.36500000000000005	-0.152	0.19000000000000003
+Ignorance, fear, hatred, bigotry, and racism.	0	0	0
+Poor treatment of legal immigrants.	-0.07266666666666666	-0.16733333333333333	0.014000000000000012
+The fact that the us government is way to big, bulky and unwieldy to be effective in doing anything.	0.10866666666666668	-0.291	0.06266666666666669
+"Their families are disrespectful when they hold up their non US flag, take jobs, health plus other benefits from legal Americans, they trash our streets and worse of all they commit murder, rape, rob, etc.They do not have respect to speak English. Its a slap in the face to us Legal Americans should not refer to them as ""Illegal Aliens"" notice such loyalty to the illegals who keep entering with out permission so lets even help them even more make them so comfortable with Driver licenses even those obnoxious billboards in Spanish only, translation forms giving them a red carpet treatment has & will only help them to invade not help nor encourage them to learn English, they really will not learn if they do not need too. Has anyone notice down town Los Angeles this disgusting dirty, graffiti is spreading to our other surrounding cities. Why would they even need to actually immigrate, no screening we have Gangs invading communities places no longer speak English. THE UNITED STATES is starting to look more and more like Mexico or any third world country. Helping with translations or worse signs, advertising, billboards anything in only Spanish is not only disrespectful to those who only speak English but an insult to people of other languages who represent America. These signs assist and will continue helping illegals who do not have family certainly helps them get around easier. Speaking English in public would help stray those who love to use us but not respect our land. Otherwise, only will get worse as it is on its way"	0.11776315789473686	-0.20152631578947364	0.15807894736842104
+not paying taxes	0	0	0
+None	0	0	0
+Crime....sex trade......murder.....	0	0	0
+Well, since immigration is actually at net zero right now.... jobs, standard of living	0.054000000000000006	-0.20850000000000002	0.020500000000000025
+Not sure	0.32799999999999996	-0.304	0.36400000000000005
+The criminals that come in.	0.12799999999999995	-0.28600000000000003	0.18800000000000008
+economy	-0.27199999999999996	0.06400000000000006	-0.16799999999999998
+The political rhetoric caused by it that causes leaders and the public to ignore more serious issues	-0.06040000000000002	-0.236	-0.03199999999999999
+more children in precarious situations because of the government railing on their parents	-0.0345	-0.2145	-0.07500000000000001
+the republicans can't get their votes	0.21799999999999997	-0.266	0.13000000000000006
+"In effect, we have two signs at the border: one says ""help wanted,"" the other says ""keep out."""	0.18300000000000002	-0.35	0.11649999999999996
+Racist people being giant dickbags	-0.12266666666666669	-0.08600000000000003	0.09666666666666668
+the government	-0.24400000000000005	-0.25	-0.378
+Fear that politicians put into our mind by over playing the situation. I am not convinced it is as bad as the politicians make it out to be. It is a power ploy to get money for their projects and more votes for them.	0.04688888888888887	-0.05511111111111112	0.06911111111111112
+I HAVE NOT PERSONALLY HAD ANY PROBLEMS WITH THIS	0.17200000000000007	-0.296	0.14399999999999996
+They feel the need to use a SSN to get a job so they buy one	0.18685714285714283	-0.24171428571428571	0.08542857142857142
+Not allowing them a fast-track path to citizenship	0.29500000000000004	-0.06799999999999996	0.050999999999999976
+Over reaction by immigration opponents	-0.13200000000000003	-0.183	-0.020000000000000018
+"Many support out country and contribute to the welfare of their former countries along with helping their families at home. The biggest problem ""seems"" to be the Republican Party and all of its constituents."	0.09749999999999999	-0.19775	0.13575
+The hyped up media attention	0.33599999999999997	-0.19000000000000003	0.29399999999999993
+Separation of families	-0.39	-0.266	-0.2
+uncertainty	-0.34	0.053999999999999916	-0.18000000000000008
+It gets bigots upset.	0	0	0
+poor countries they live in and ancharcy	0.16200000000000003	-0.06200000000000001	0.04999999999999999
+Uninsured, unlicensed driven cars.	0	0	0
+Public planning and social services	0.14100000000000001	-0.14899999999999997	0.011000000000000034
+Poor treatment of immigrants who risk their lives to come here. Also separation of immigrant children from families.	-0.019428571428571437	-0.05857142857142861	-0.07399999999999997
+no idea	0.41	-0.06799999999999998	0.22200000000000006
+people thinking they can get away with everything	0.21333333333333335	-0.2946666666666667	0.16600000000000006
+none	0	0	0
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+Media blowing the situation out of proportion	0.053000000000000026	-0.22200000000000003	0.000999999999999987
+draining of resources that belong to legal citizens, bringing in older family who draw ss and other resources.	0.2232	-0.29280000000000006	0.21880000000000002
+the media bad politics	-0.276	-0.16999999999999996	-0.302
+I wouldn't say all immigration are bad. But I do worry about terrorism attacks!	-0.23919999999999994	0.04279999999999997	-0.09640000000000001
+Isis	0	0	0
+Disease	-0.664	0.1	-0.44000000000000006
+That they are not given the same rights as people who are rich enough to legally immigrate.	0.253	0.05799999999999997	0.22300000000000003
+poverty	-0.6	0.05999999999999996	-0.368
+N/a	0	0	0
+Poverty and harassment of the immigrants	-0.5549999999999999	0.04500000000000002	-0.279
+Donald Trump	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+The republicans lying about them.	0	0	0
+Republican reaction	-0.10600000000000005	-0.294	0.17
+Right wing hysteria.	0.3470000000000001	-0.06799999999999998	0.366
+Lack of Education	0.026000000000000023	-0.312	0.22800000000000004
+School system	0.09100000000000003	-0.20499999999999996	0.15300000000000002
+They don't cause any problems	0.027999999999999935	-0.304	0.03399999999999999
+health care	0.44899999999999995	-0.385	0.256
+That people here use it as an excuse to treat people from other countries badly.	0.11166666666666668	-0.206	0.10600000000000002
+poverty	-0.6	0.05999999999999996	-0.368
+Undocumented workers/hidden economy	-0.27199999999999996	0.06400000000000006	-0.16799999999999998
+n/a	0	0	0
+Fascist jackasses excusing their own bad behavior by using undocumented immigrants as scapegoats	-0.2253333333333333	-0.07533333333333332	-0.112
+They don't get all the benefits of being a citizen.	0.21799999999999997	-0.266	0.13000000000000006
+taxes	0	0	0
+No insurance or taxes	-0.24800000000000005	-0.24000000000000005	0.16799999999999998
+Feeds racist attitudes of xenophobia	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+Employers can abuse them with low wages and dangerous working conditions, knowing they won't be able to take action against them. This makes it difficult for other individuals to compete with the immigrants.	-0.03927272727272728	-0.12327272727272728	-0.033818181818181844
+Unpaid taxes	-0.484	0.12400000000000003	-0.32999999999999996
+Disease vector transmission	-0.2753333333333333	-0.17333333333333334	-0.18000000000000002
+Free trade deals that exploit immigrant labor and worsen conditions in other countries like Mexico.	0.16657142857142862	-0.050571428571428545	0.106
+Not allowing them to become US citizens	0.26400000000000007	-0.31399999999999995	0.23599999999999993
+none	0	0	0
+"I don't think there are any valid problems caused by illegal immigration. It is a ""problem"" created by the right wing of the GOP."	0.14920000000000003	-0.0952	0.26080000000000003
+loss of enforcing immigration flow	-0.16133333333333338	-0.12466666666666666	-0.10866666666666665
+use of services by non-taxpayers	0.03599999999999994	-0.16199999999999992	0.0
+Drugs	-0.22800000000000004	0.15600000000000006	-0.13599999999999995
+It creates xenophobic behaviour ie Donald Trump	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+Victimization in the workplace for illegals	0.07599999999999998	-0.3	0.11199999999999992
+Because they work under the table they have to accept lower wages than legal workers which depresses wages for everyone.	0.12120000000000002	-0.32	0.21200000000000002
+Gets poor, lazy white people in a real tizzy.	0.10099999999999998	-0.289	0.1395
+American racism / Hispanophobia	-0.704	0.176	-0.10800000000000001
+Not entering the US legally and having to hide and lie, not able to earn decent wages, being taken advantage of, not paying their way, some criminal activity	0.13828571428571426	-0.17999999999999997	0.20685714285714285
+Political animosity.	-0.13000000000000006	-0.2	-0.184
+Scapegoating of immigrants	0	0	0
+They pay taxes but receive little or no services from the taxes they pay	0.2755	-0.151	0.23149999999999998
+Making people upset because they fear the unknown.	-0.26133333333333336	-0.040000000000000015	-0.132
+turning people to supporting right-wing fascists	0.14000000000000004	-0.246	0.08000000000000007
+not enough services to help them become citizens	0.32700000000000007	-0.22799999999999998	0.30699999999999994
+exploitation of immigrant population by U.S. businesses	-0.12466666666666672	0.007333333333333285	-0.11066666666666669
+None	0	0	0
+they don't pay taxes	0.24600000000000008	-0.15199999999999997	0.266
+Lack of support to make illegals become legal.	0.14900000000000002	-0.38049999999999995	0.1985
+No income	0.25199999999999995	-0.23600000000000004	0.2720000000000001
+None.	0	0	0
+Life	0.33599999999999997	0.11799999999999997	0.17799999999999994
+keeps wages low.	0	0	0
+The predjudice undocumented immigrants face from ignorant Americans.	-0.03999999999999995	-0.12300000000000005	0.0030000000000000304
+Racism, bigotry and hate towards people that look different.	-0.20749999999999993	-0.0030000000000000165	0.014000000000000012
+It gives conservatives something to complain about	-0.38	0.03599999999999994	0.019999999999999928
+Strain on social welfare spending.	-0.10866666666666665	-0.04933333333333329	-0.10000000000000002
+The words of the Republican Party.	-0.14800000000000005	-0.378	0.08000000000000007
+Intolerance to those people	-0.13499999999999995	-0.08800000000000004	-0.07299999999999995
+None	0	0	0
+Not sure	0.32799999999999996	-0.304	0.36400000000000005
+"That they are exploited by business and people the ""employ"" them."	0.11800000000000006	-0.252	0.075
+Xenophobia	0	0	0
+The extreme reaction of many Americans.	0.033	0.012999999999999984	0.21799999999999997
+Security	0.28200000000000003	-0.16199999999999992	0.2
+Nothing	0	0	0
+not having health insurance	0.06099999999999994	-0.272	0.184
+Helps elect fascists and Republicans	0.10399999999999991	-0.2	0.08599999999999994
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+None	0	0	0
+Citizenship test is ridiculous.	0.16800000000000007	-0.01200000000000001	-0.005000000000000074
+none	0	0	0
+I have no idea	0.29100000000000004	-0.182	0.183
+Those that enter illegally don't have the same opportunities of well-being that citizens have	0.18733333333333335	-0.244	0.2153333333333333
+Politicias exploiting the situation	0.06600000000000002	-0.19000000000000003	-0.13399999999999998
+jobs	0	0	0
+Crime	-0.61	0.13599999999999995	-0.33799999999999997
+Culture shock/failure to assimilate	0.09100000000000003	-0.179	0.08600000000000003
+Corporations that keep hiring illegals, pay them next to nothing, and get rewarded for it	0.2426666666666667	-0.244	0.17933333333333334
+They are taken advantage of.	0.34199999999999997	-0.20999999999999996	0.43800000000000006
+Not enough work for all	0.009999999999999964	-0.13399999999999998	0.22400000000000003
+Loss of revenue for workers sending money to other countries and not paying taxes on money made here.	0.18039999999999998	0.08720000000000004	0.1516
+It lowers the wage people are willing to work for.	0.17900000000000002	-0.2855	0.12500000000000006
+I don't think there is a big problem. Donald Trump is our biggest problem right now	0.09359999999999999	-0.1512	0.20280000000000004
+US citizens who act in prejudicial ways and discriminate against immigrants	-0.20133333333333336	-0.11066666666666668	0.03066666666666666
+None	0	0	0
+Conservative overreaction	-0.09000000000000004	-0.47000000000000003	-0.03599999999999994
+Overcrowding schools and other institutions in certain areas.	0.15200000000000005	-0.352	0.278
+Domestic fear	-0.202	-0.10600000000000007	-0.055999999999999994
+Fearmongering by those opposed to it	0	0	0
+folks unable to access social services, such as police protection, and partially unable to integrate with and fully participate in the broader society, creating or perpetuating more divisions in our society	-0.005249999999999998	-0.10024999999999999	-0.013000000000000012
+Unnecessary fear on the part of Americans.	-0.17866666666666667	-0.11400000000000003	-0.154
+the political debate about it.	-0.07	-0.11399999999999998	0.0040000000000000036
+Idiots who oppose it	-0.158	0.03399999999999999	0.14800000000000005
+Bigotry	-0.5519999999999999	0.23000000000000007	-0.09399999999999994
+ecoNot being integrated into the system.	0	0	0
+hope of better living	0.4960000000000001	0.05800000000000001	0.35600000000000004
+possibly drain on u.s. funds for entitlement programs	-0.24000000000000005	-0.41200000000000003	0.03399999999999999
+It makes people think they are authorized to carry out horrible racist, dehumanizing attacks on other people just based on the color of their skin, their accent, their culture, etc. - because they assume they are here illegally (even though in most cases that is a total lie; sometimes the people's families have been Americans for generations).	0.0826	-0.21319999999999997	0.16340000000000002
+hate crimes against immigrants	-0.608	0.25199999999999995	-0.10600000000000005
+welfare fraud	-0.43700000000000006	-0.05	-0.22699999999999998
+Lowers wages	0	0	0
+"Kids coming into schools not speaking English and not educated - schools can't meet the ""All students succeed"" requirements when we are accountable for immigrant children than we get six months before a standardized test. This leads to schools getting unsatisfactory rankings, teachers being fired, and loss of local controls simply because their community welcomes immigrants."	0.11345454545454546	-0.14472727272727273	0.10163636363636362
+Possibility of exploitation of illegal immigrants and little to no legal protections.	-0.0752	-0.03800000000000002	0.09399999999999994
+Politics	-0.2	-0.312	-0.316
+Don't know	0.36400000000000005	-0.352	0.15600000000000006
+an underground economy where the immigrants are exploited	-0.16599999999999995	-0.043999999999999956	-0.07400000000000002
+Republican demagoguery and xenophobia is the biggest problem cause by illegal immigration.	-0.22750000000000004	-0.15250000000000002	0.01150000000000002
+Right wing extremist rabble rousing.	0.21600000000000005	-0.16933333333333334	0.25599999999999995
+jobs lost to illegal immigration	-0.3960000000000001	-0.008000000000000007	-0.19533333333333336
+K lack of infrastructure	-0.11800000000000001	-0.36	0.07900000000000001
+The only problem I see is the fearmongering bull$#!t spread by the media and conservatives	0.02399999999999999	-0.1426666666666667	0.15400000000000003
+I don't know	0.36400000000000005	-0.352	0.15600000000000006
+status	-0.022000000000000065	-0.23399999999999999	0.05600000000000005
+Lowering the quality of jobs.	0.37200000000000005	-0.27	0.292
+Fueling regressive politics by conservatives.	-0.2	-0.312	-0.316
+Nothing	0	0	0
+Criminals jumping borders to evade arrest should be dealt with, as well as any person committing a crime, whether legal or illegal immigrant status including citizens. Otherwise, let people live where they'd like.	0.03363636363636362	-0.11127272727272727	0.07818181818181817
+Encourages young children to run away from their home countries on their own in dangerous conditions and they could get hurt/die/etc.	0.16600000000000004	-0.04400000000000003	0.06566666666666668
+Less jobs on the market.	0	0	0
+None	0	0	0
+Deportation breaks up families. Desperate people trying to enter the US are often victims of criminal organizations.	-0.17360000000000003	-0.12079999999999999	-0.058800000000000005
+taking our jobs	0	0	0
+jobs loss	-0.42000000000000004	0.040000000000000036	-0.10600000000000005
+loss of taxes	-0.42000000000000004	0.040000000000000036	-0.10600000000000005
+It's a bogus talking point for Right Wing extremists.	0.08800000000000002	-0.07499999999999998	0.176
+Health	0.36999999999999994	-0.304	0.2
+None, as both legal and native treat each other the same and crime is crime no matter where you are from or live. Crime is high in certain ares because of a variety of factors that include internal and external factors. Surveys and data charts reflect the give group asked, it dose not reflect a group or country as whole.	0.0740952380952381	-0.212	0.11066666666666666
+Suppression of employee wages.	-0.10299999999999998	-0.21799999999999997	-0.09000000000000002
+Economics and politics.	0.040000000000000036	-0.25999999999999995	-0.19000000000000003
+They're getting government benefits paid from tax revenues.	-0.32200000000000006	-0.17300000000000004	-0.384
+money leaving the economy	0.07399999999999998	0.21800000000000005	0.04800000000000004
+living in conditions that are not safe, resulting in health and safety issues	0.3989999999999999	-0.272	0.24699999999999997
+The xenophobes who want to keep them out -- or enslave them with below-minimum wages	-0.0006666666666666488	-0.062000000000000006	0.011999999999999974
+That they don't have a path to citizenship	0.25400000000000006	-0.144	0.08199999999999998
+the strain on American jobs	-0.258	-0.04399999999999995	-0.184
+Asian	0	0	0
+Lower wages	0	0	0
+Anger among people that are searching for a fall guy as Hitler did before WW2	-0.068	-0.0675	-0.025499999999999988
+most will work for less wages so others do not get those jobs but also if someone here wanted to work these jobs I believe they would already have them. Also some Americans are lazy. They fuss about immigrants but they don't do the job hunting they should.	0.081	-0.23816666666666667	0.152
+The very few who break the law and hurt others	-0.19333333333333336	-0.13466666666666668	-0.12933333333333333
+The Job Market	0.18499999999999997	-0.24500000000000002	0.020999999999999998
+Regulations and raising taxes	0	0	0
+Taking away jobs that most Americans wouldn't want anyway	0.2	0.05800000000000001	0.07799999999999993
+Racism	-0.704	0.176	-0.10800000000000001
+gang membership	-0.16799999999999998	0.09999999999999999	0.08700000000000002
+Illegal immigrants stick to their own beliefs and religion and politics and do not learn and adjust to the American way of life.	0.028749999999999987	-0.19575000000000004	0.06399999999999999
+Nothing	0	0	0
+criminal activity	-0.16800000000000004	-0.06499999999999995	0.054000000000000006
+we	0	0	0
+jobs	0	0	0
+CRIME	-0.61	0.13599999999999995	-0.33799999999999997
+Don't actually see a problem.	0.2539999999999999	-0.22000000000000003	0.2
+Resources being wasted on arresting them.	0	0	0
+Giving conservatives ridiculous, exaggerated political fodder.	-0.13000000000000006	-0.2	-0.184
+Precarious legal status for undocumented immigrants and their families	-0.024666666666666674	-0.2746666666666666	0.06
+not sure...	0	0	0
+Lawbreakers.	0	0	0
+Xenophobia.	0	0	0
+bureaucratic - as in documentation	-0.14900000000000002	-0.312	-0.023999999999999966
+None	0	0	0
+no idea	0.41	-0.06799999999999998	0.22200000000000006
+overactive paranoid politicians	-0.19099999999999998	0.020999999999999998	-0.19200000000000003
+Drugs	-0.22800000000000004	0.15600000000000006	-0.13599999999999995
+republicans	0	0	0
+Don't know	0.36400000000000005	-0.352	0.15600000000000006
+We educate their children, but then do not let the children have the same rights as others. It's not their fault.	0.2424000000000001	-0.22599999999999998	0.23479999999999995
+People's inability to work safely within the system. This leads to exploitation.	-0.19500000000000003	-0.21699999999999997	-0.04799999999999999
+taking jobs	0	0	0
+They have no access to health care, and lack opportunity for a good job.	0.2686666666666666	-0.21	0.253
+Exploitation of the immigrants by employers	-0.422	0.21999999999999992	0.0
+Nothing	0	0	0
+Nothing all	0	0	0
+corporations paying slave wages to illegal workers keep in place terrible living standards and patriarchy	-0.2452	-0.1432	-0.0812
+Immigrants often need Sofia services that may come at the cost of services to citizens	0.037500000000000006	-0.23349999999999999	0.030500000000000027
+Not being able to afford college and authorities on their heels to separate families.	0.1795	-0.21899999999999997	0.13199999999999998
+They can't obtain a drivers licensw	0.022000000000000065	-0.266	0.34
+Bigotry	-0.5519999999999999	0.23000000000000007	-0.09399999999999994
+Education gaps	0.316	-0.07200000000000006	0.36400000000000005
+Illegals being taken advantage of by employers	0.34199999999999997	-0.20999999999999996	0.43800000000000006
+Nothing	0	0	0
+Sending US money over borders	0.41999999999999993	0.37200000000000005	0.26400000000000007
+fewer entry-level jobs for citizens	0	0	0
+I really do not believe illegal immigration causes any major problems, other than what politicians are now hyping.	-0.0026666666666666874	-0.18366666666666667	0.08033333333333331
+Low wages for the undocumented immigrants	-0.12200000000000007	-0.558	-0.378
+taxpayers paying for their healthcare	-0.04800000000000004	-0.08800000000000008	-0.2
+republican fear tactics	-0.281	-0.07500000000000004	-0.12799999999999997
+Used by right as propaganda issue	-0.024666666666666632	-0.030000000000000013	0.06999999999999999
+The problems are caused by the way immigrants are treated, not by illegal immigration per se.	-0.17066666666666666	-0.15533333333333335	-0.13
+Racism	-0.704	0.176	-0.10800000000000001
+Our attitudes and laws are the problem is the biggest problem	-0.296	-0.038000000000000075	-0.011999999999999922
+The perception that they take away jobs for US born	0.21333333333333335	-0.2006666666666667	-0.01266666666666666
+Low wages and exploited workers.	-0.12200000000000007	-0.558	-0.378
+undocumented migrants are subject to exploitation	-0.178	0.02999999999999997	0.137
+None	0	0	0
+uninsured health costs	0.36999999999999994	-0.304	0.2
+taxing our already thin resources in education and health care; illegal drivers cannot obtain driver's licenses, so if they get into an accident, they often hit and run	0.07474999999999998	-0.09425	0.14525000000000005
+Unsafe working conditions	-0.43200000000000005	0.03399999999999999	-0.2
+They refuse to learn the language and culture.	0.10999999999999997	-0.14533333333333331	0.258
+Acessing tax payer systems they don't contribute to	-0.08499999999999998	-0.19000000000000003	0.0010000000000000009
+mistreatment of all immigrants due to dumb people who do not realize what the real problem is	0.015428571428571458	-0.16514285714285717	0.07514285714285716
+people taking advantage of them	0.241	-0.22799999999999998	0.25900000000000006
+No problems	0	0	0
+The biggest problem is the harm being done to illegal immigrants. They are vulnerable in their own countries and on their journey here. Once they arrive in the US they are still vulnerable to a cycle of poverty and living in constant fear of many different things.	-0.15766666666666665	-0.03716666666666668	-0.026000000000000006
+Racism, tax avoidance, inability for undocumented immigrants to avail themselves of public serivces	-0.1625	-0.24300000000000002	-0.13049999999999998
+Crime	-0.61	0.13599999999999995	-0.33799999999999997
+Crime	-0.61	0.13599999999999995	-0.33799999999999997
+Bigotry	-0.5519999999999999	0.23000000000000007	-0.09399999999999994
+Employers paying lower wages to undocumented aliens than is permitted by law, thereby harming the quality of life of the immigrants who are being underpaid, etc and and taking jobs away from citizens and legal residents who would demand a fair, legal wage.	0.13433333333333333	-0.14666666666666667	0.22633333333333328
+Fear	-0.414	0.22799999999999992	-0.336
+Not fair to those waiting for legal immigration	0.09199999999999998	-0.27599999999999997	0.08666666666666668
+Reactionary government officials	-0.24400000000000005	-0.25	-0.378
+Undeserved families...families separated or in constant fear of separation.	-0.11699999999999995	-0.10500000000000004	-0.03199999999999997
+xenophobia by Americans, but really that is caused by Americans, not the immigrants who desperate to live in a society where they can be safe, healthy and happy and where they can be productive, contributing citizens to the greater society.	0.2842222222222222	-0.16355555555555557	0.2026666666666667
+Not fully paying taxes (i.e., income taxes)	0.25199999999999995	-0.23600000000000004	0.2720000000000001
+Racist's panties getting in a wad	0.05399999999999999	-0.023999999999999938	-0.06399999999999996
+Political distraction when it's used as a wedge issue to divide and conquer voters based on their fears.	-0.12799999999999997	-0.14733333333333334	-0.02766666666666667
+Lack of ability to collect taxes	0.10533333333333339	-0.318	0.166
+not a huge problem	-0.07600000000000001	-0.09500000000000003	-0.016999999999999994
+na	0	0	0
+Smuggling and national security threats	0.203	-0.23599999999999993	0.263
+Perhaps the immigrants becoming dependent on the gov for their existence	0.075	-0.189	-0.051999999999999956
+keeps some wages too low	-0.12200000000000007	-0.558	-0.378
+None	0	0	0
+Crime	-0.61	0.13599999999999995	-0.33799999999999997
+The racist, bigoted hate mongers who don't want them here. Example: Trump and his followers.	-0.19066666666666668	-0.008000000000000007	0.04799999999999999
+employers taking advantage of their labor and the immigrants not paying taxes	0.14500000000000002	-0.08199999999999993	0.26000000000000006
+Money	0.41999999999999993	0.37200000000000005	0.26400000000000007
+mistreatment of illegal workers by unscrupulous employers	-0.42700000000000005	0.02199999999999997	-0.12400000000000003
+money and benefits	0.41999999999999993	0.37200000000000005	0.26400000000000007
+the immigrants are poorly treated	0	0	0
+Pressure on social services.	-0.035999999999999976	-0.03599999999999994	-0.04299999999999997
+It gives right-wing nut jobs something to whine about	-0.174	-0.21399999999999997	-0.071
+attitudes	0	0	0
+the republican hypocritical bigots	-0.257	-0.239	0.020999999999999998
+Poor working conditions for people here illegally. Lack of access to jobs for children of illegal immigrants.	-0.045999999999999985	-0.11266666666666665	0.08066666666666666
+slave labor	-0.31999999999999995	-0.02399999999999993	-0.198
+discrimination	-0.51	0.12400000000000003	-0.08599999999999994
+Ignorant people using them as a scapegoat	-0.204	-0.15000000000000002	-0.1253333333333333
+fear	-0.414	0.22799999999999992	-0.336
+It gives right wing nut jobs something to complain about.	0.10050000000000006	-0.063	0.16599999999999995
+overcrowding	0	0	0
+Can't think of any.	0.33599999999999997	-0.25	0.3
+Racist bigots like Trump	-0.08866666666666667	-0.16199999999999998	0.10066666666666672
+Inflamed right wing racists.	0.3470000000000001	-0.06799999999999998	0.366
+They are not bound by our laws and when they commit a crime they do not have to bear the consequences.	-0.051666666666666666	-0.11933333333333335	0.014999999999999958
+Process to become a citizen takes too long	0.22466666666666668	-0.336	0.216
+increase in unreported exploitation of immigrants, they do not interact with local law enforcement when they are exploited out of fear.	0.03400000000000001	-0.1302857142857143	0.09742857142857139
+Not a problem except for those who have a narrow world view.	0.03950000000000003	-0.12950000000000003	0.04850000000000003
+High cost of enforcement	-0.030000000000000013	-0.10133333333333332	-0.10466666666666669
+do not think there are any problems created by it	0.209	-0.258	0.2849999999999999
+Undocumented workers can take jobs from relatively unskilled citizens, but this has been much exaggerated.	0.12300000000000004	-0.23400000000000004	0.12700000000000006
+Creation of a class of people who don't have access to institutions like law enforcement to defend their rights	0.19511111111111112	-0.12555555555555556	0.14177777777777775
+nothing	0	0	0
+I don't think illegal immigration is the cause of any problems.	-0.08250000000000005	-0.15000000000000002	-0.005500000000000015
+Not paying taxes	0	0	0
+Crime	-0.61	0.13599999999999995	-0.33799999999999997
+Unable to determine criminal behavior	-0.1825	-0.14750000000000002	0.006999999999999985
+The gap between Rich and poor	0.027333333333333338	0.005333333333333315	0.036
+Lack of healthcare access	0.007999999999999988	-0.19333333333333336	0.08999999999999997
+human trafficking	-0.1	-0.166	-0.011000000000000038
+wages for low income families doesn't keep pace with inflation, and slows the goal for a living wage	0.15866666666666665	-0.31466666666666665	0.07800000000000004
+Wage suppression	-0.03199999999999997	-0.33999999999999997	-0.12299999999999994
+rebublican hysteria	-0.242	0.11799999999999997	-0.308
+may be undesireables	0.17299999999999993	-0.33799999999999997	0.14400000000000004
+none	0	0	0
+Poor living and healthcare conditions	-0.15700000000000003	-0.07700000000000004	-0.2
+They don't pay taxes.	0.24600000000000008	-0.15199999999999997	0.266
+the loss of taxes	-0.42000000000000004	0.040000000000000036	-0.10600000000000005
+The hatred shown by politicians and people in response to undocumented immigrants.	-0.06466666666666666	-0.16333333333333333	0.03000000000000001
+Donald Trump	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+lack of empathy for people trying to escape countries the USA is complicit in destroying, and then taking that lack of empathy to pass cruel laws.	0.04000000000000003	-0.26274999999999993	0.07800000000000006
+Racism and bigotry as a backlash.	-0.6279999999999999	0.203	-0.10099999999999998
+work	0.009999999999999964	-0.13399999999999998	0.22400000000000003
+The U.S. reaction to it as in ICE. Families that have been here for so long and have assimilated and contributed are then deported for no rational reason.	0.1125	-0.23750000000000002	0.19649999999999998
+The loss of unwanted migratory farming jobs	-0.26133333333333336	-0.09666666666666668	-0.07533333333333335
+Politicians	0	0	0
+No problems	0	0	0
+None	0	0	0
+Not paying taxes	0	0	0
+Wages	0	0	0
+Xenophobia.	0	0	0
+There are no inherent problems with illegal immigration, it's all how US citizens are responding to it negatively and not helping people.	-0.15200000000000002	-0.07400000000000002	0.03999999999999995
+Racist white Americans coming out of the woodwork	-0.04200000000000007	-0.21666666666666665	0.03333333333333333
+I dont know	0.36400000000000005	-0.352	0.15600000000000006
+They get the benefits that belong the American citizens deserve	0.29066666666666663	-0.262	0.16066666666666674
+The creation of a permanent, poorly educated underclass doomed to servitude.	0.36999999999999994	0.06999999999999992	0.27599999999999997
+Fear & hatred from U.S. citizens toward immigrants	-0.469	0.13599999999999993	-0.268
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+Loss in tax revenue and increase in insurance rates and ER .	-0.09759999999999999	-0.06560000000000002	0.005199999999999971
+Taken Jobs	0	0	0
+The republicans turn it into a political football	0.08799999999999997	-0.12466666666666665	0.02533333333333333
+crowd our schools and welfare rolls	-0.19399999999999995	-0.05299999999999994	-0.054
+N/A	0	0	0
+downward pressure on wages for working class	-0.11399999999999998	-0.13599999999999998	-0.09333333333333331
+Immigrants reliance on public aid	0.162	-0.21	0.08900000000000005
+Nothing	0	0	0
+They do not pay taxes	0.16400000000000006	-0.209	0.26799999999999996
+None	0	0	0
+The way undocumented immigrants are treated	0.18200000000000002	-0.42000000000000004	-0.03399999999999999
+Healthcare costs	-0.04800000000000004	-0.08800000000000008	-0.2
+Nothing	0	0	0
+JOBS	0	0	0
+Politics	-0.2	-0.312	-0.316
+Republicans inciting hate against them	-0.608	0.25199999999999995	-0.10600000000000005
+I think the biggest problem is the actions of the Immigration and Naturalization Service	0.05149999999999999	-0.21350000000000002	0.01350000000000003
+na	0	0	0
+nos	0	0	0
+I don't see it as a problem. I just think that we need a better path to citizenship.	0.2055	-0.247	0.10899999999999999
+raising the cost of healthcare for everybody	-0.11299999999999999	-0.054000000000000006	-0.233
+Lower wages.	0	0	0
+"Narrow-minded, fearful people who believe that anyone who is different is a ""problem"""	0.066	-0.175	0.07749999999999999
+The ability of the US government to make these people who apply for citizenship, citizens . . . antiquated method still being used.	0.08371428571428573	-0.18857142857142858	0.09428571428571429
+Idiot Americans prejudice	-0.42600000000000005	0.019999999999999928	-0.19899999999999998
+paying fair share of taxes	0.33599999999999997	-0.351	0.25600000000000006
+tax burden (such as welfare benefits paid)	-0.35800000000000004	-0.1466666666666667	-0.304
+Lower wages	0	0	0
+Overcrowding	0	0	0
+Overcrowding	0	0	0
+None?	0	0	0
+Lack of assimilation	-0.26399999999999996	-0.5519999999999999	0.092
+Nothing.	0	0	0
+Placing them in job	0.12799999999999995	-0.2	-0.11199999999999992
+ER expenses	0	0	0
+Racist white people thinking that illegal immigration is a problem are the biggest problem with illegal immigration.	-0.24925000000000003	-0.07750000000000001	-0.042499999999999975
+Drugs	-0.22800000000000004	0.15600000000000006	-0.13599999999999995
+Conflict between political parties	-0.26	-0.05899999999999999	-0.18099999999999997
+irrationality by Republican demagoges	-0.14800000000000005	-0.378	0.08000000000000007
+Rabid republicans	-0.41	0.324	-0.366
+Drain on our resources i.e. education, healthcare.	-0.24000000000000005	-0.41200000000000003	0.03399999999999999
+job loss	-0.14600000000000005	-0.07999999999999999	-0.10899999999999999
+taking jobs	0	0	0
+Crime	-0.61	0.13599999999999995	-0.33799999999999997
+None	0	0	0
+inaccurate population measures, accounting for resource distribution, human trafficking	-0.09300000000000001	-0.212	-0.050333333333333334
+Lower working standards in the industries the immigrants work in.	0.009999999999999964	-0.13399999999999998	0.22400000000000003
+Crimes	0	0	0
+School system fund depletion	0.164	-0.16399999999999998	0.17200000000000001
+"Poor treatment of illegal immigrants by their ""employers"". Since employment is under the table, ""employers"" are not required to pay them fairly, or treat them properly."	0.009000000000000008	-0.035000000000000024	0.05333333333333335
+Lower wages	0	0	0
+Not paying taxes	0	0	0
+No access to healthcare and services	0.14399999999999996	-0.014000000000000058	0.08899999999999997
+Poverty due to their inability to obtain help	-0.12	-0.15440000000000004	-0.04519999999999998
+Bigotry by nativist Americans	-0.5519999999999999	0.23000000000000007	-0.09399999999999994
+go fuck yourself	0.15500000000000008	0.2	0.07999999999999999
+finding a way to eventually assimilate them into the country, getting them housed, employed and paying taxes	0.054	-0.295	-0.0019999999999999584
+Not sure	0.32799999999999996	-0.304	0.36400000000000005
+nothing	0	0	0
+burden on taxpayers	-0.39	-0.20800000000000002	-0.372
+Giving blowhard conservatives who want to divide the country and scare everyone into voting for their horrible policies ammo.	-0.08800000000000001	0.0668	0.05559999999999998
+crime	-0.61	0.13599999999999995	-0.33799999999999997
+Nothing	0	0	0
+loss of jobs	-0.42000000000000004	0.040000000000000036	-0.10600000000000005
+None	0	0	0
+Exploitation of vulnerable immigrants.	-0.354	0.059999999999999956	-0.195
+It's a blown up problem to insight fear for political gain.	-0.12200000000000001	-0.05450000000000005	-0.068
+Ignorance by the people against them being here.	-0.14600000000000002	-0.24700000000000003	-0.07199999999999998
+Jobs	0	0	0
+Taxes not being paid for earned income	0.25199999999999995	-0.23600000000000004	0.2720000000000001
+Not sure	0.32799999999999996	-0.304	0.36400000000000005
+There are people here who exploit illegal immigrants	-0.208	-0.029333333333333333	-0.04799999999999999
+The idiots who want to hurt them	-0.155	0.00099999999999998	-0.08800000000000004
+Exploitation of the immigrants by trafficters who lead the poor to decide there is no other way.	-0.047599999999999996	-0.148	0.06000000000000001
+Drugs	-0.22800000000000004	0.15600000000000006	-0.13599999999999995
+Abuse of the immigrants	-0.694	0.242	-0.42000000000000004
+That it's illegal.	0	0	0
+I think that sometimes we are a dumping ground for people other countries don't want.	0.15350000000000003	-0.3325	0.17000000000000004
+racism	-0.704	0.176	-0.10800000000000001
+People like Trump want to build a wall.	0.18600000000000003	-0.19319999999999998	0.17720000000000002
+There are no problems caused by illegal immigration	-0.34700000000000003	-0.023000000000000048	-0.17800000000000002
+assitance	0	0	0
+Tax payers spending money on lawmakers who spend too much time focusing on illegal immigration	-0.062000000000000034	-0.032	-0.07233333333333332
+Underclass of employees too afraid to assert their rights	-0.20700000000000005	-0.02400000000000002	-0.13600000000000004
+People entering for criminal purposes.	-0.21900000000000003	-0.174	-0.050999999999999976
+They arent the problem. Government opinion is.	0.01599999999999996	-0.172	-0.06099999999999997
+Immigrants stealing the identities of Americans in order to work in the US.	-0.09199999999999998	-0.19399999999999998	0.21199999999999997
+flooded influx flow makes it difficult to keep up with, accommodate, and take care of them all at once.	0.1296	-0.2488	0.05119999999999999
+Loss of jobs for americans	-0.42000000000000004	0.040000000000000036	-0.10600000000000005
+the racism of white folks in the US	-0.234	-0.07699999999999999	0.016999999999999987
+None	0	0	0
+political divisiveness	-0.13000000000000006	-0.2	-0.184
+The way people react to the idea. The fervor caused by the idea of illegal immigration is causing people to behave like insane imbiciles.	0.045600000000000016	-0.12779999999999997	0.06300000000000003
+Employers hiring undocumented workers and paying them below wages, hurting all other documented workers.	0.08200000000000003	-0.304	0.2
+Immigrants not paying taxes	0	0	0
+Racist backlash from conservatives.	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+no problems worse then what is already here	0	0	0
+A strain on public services.	-0.096	-0.18699999999999994	-0.09799999999999996
+It forces people to live in hiding. I don't believe immigration is a bad thing. In fact, I wish all borders around the world were open. I would love to immigrate to a different country and experience a different culture. I truly believe when we experience other cultures, we expand our own knowledge and understanding of others.	0.25000000000000006	-0.20589999999999997	0.20149999999999996
+Poverty	-0.6	0.05999999999999996	-0.368
+Political divisiveness and hate	-0.369	0.025999999999999968	-0.14500000000000002
+wage suppression	-0.03199999999999997	-0.33999999999999997	-0.12299999999999994
+NA	0	0	0
+Unpaid use of healthcare resources.	-0.16533333333333336	-0.04199999999999999	-0.17666666666666667
+I don't think it's as big a problem as people think.	0.07699999999999999	-0.16700000000000004	0.12250000000000005
+NONE	0	0	0
+Education availabilty	0.316	-0.07200000000000006	0.36400000000000005
+fair taxation	0.42799999999999994	-0.34199999999999997	0.22400000000000003
+People getting upset over it.	-0.185	-0.174	-0.029999999999999985
+Dissension over immigration policy	-0.223	-0.24800000000000005	-0.038999999999999965
+Prejudice	-0.458	0.06999999999999992	-0.238
+People take advantage of illegal immigrants for cheap labor	-0.00866666666666665	-0.08366666666666668	0.1146666666666667
+Not sure	0.32799999999999996	-0.304	0.36400000000000005
+Taxation without representation	-0.027999999999999935	-0.12799999999999995	0.15999999999999998
+Conservatives vote for morons like Trump.	0.26800000000000007	-0.05499999999999998	0.30700000000000005
+Racist assholes	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+A person always worried about being deported	-0.06300000000000003	-0.04800000000000004	0.017999999999999974
+Xenophobia	0	0	0
+none	0	0	0
+The biggest problem are the racist xenophobes that fearmonger, not the immigrants themselves	-0.44300000000000006	-0.03500000000000005	-0.06899999999999995
+Not sure	0.32799999999999996	-0.304	0.36400000000000005
+loss of tax dollars	-0.41000000000000003	-0.028000000000000025	-0.24800000000000003
+xenophobia and nationalism	0	0	0
+Dumb shits who can't speak english.	-0.16499999999999998	-0.050999999999999976	0.027999999999999935
+medical cost	-0.06699999999999999	-0.10499999999999998	-0.21100000000000002
+Their children not being able to access the same opportunities as American-born children, despite growing up here	0.312	-0.08200000000000003	0.26733333333333337
+None.	0	0	0
+Gun	-0.26799999999999996	0.548	-0.05800000000000001
+There isn't sufficient manpower to deal with it at the border.	0.21599999999999997	-0.24066666666666667	0.2026666666666667
+Angry republicans	-0.49400000000000005	0.24000000000000005	-0.17799999999999994
+Not sure	0.32799999999999996	-0.304	0.36400000000000005
+Immigrants taken advantage of	0.34199999999999997	-0.20999999999999996	0.43800000000000006
+Political reaction to it.	-0.09700000000000006	-0.205	0.03799999999999998
+I don't think they cause any problems.	0.18199999999999994	-0.277	0.16699999999999998
+None	0	0	0
+Possibly taking jobs from legal American citizens.	0.04800000000000004	-0.32999999999999996	0.33599999999999997
+dont know	0.36400000000000005	-0.352	0.15600000000000006
+Their inability to vite	-0.4	-0.3	-0.32
+Housing-there isn't enough low income housing in American cities today-in the country side there is-that outside of the statistical metropolitan areas.Second is assimilation into culture-and that's the Americans fault	0.06074999999999997	-0.30675	0.05299999999999999
+They are treated badly.	0	0	0
+Racism and hatred from the extreme right	-0.15849999999999995	0.11399999999999996	0.075
+I don't know	0.36400000000000005	-0.352	0.15600000000000006
+Conservatives thinking its OK to be incredibly racist toward brown-skinned people.	-0.17700000000000007	-0.173	-0.012999999999999984
+Families being split up by members being deported	-0.1	0.10999999999999996	0.158
+Because of their illegal status, they are not able to safely utilize police and other emergency services, leaving them and others at risk. If they could be integrated, given a path to legal citizenship or residency, then this risk could be mitigated.	0.04783333333333332	-0.082	0.022999999999999993
+low wage and poor working conditions for illegal immigrants	-0.17050000000000004	-0.20700000000000002	-0.1845
+Not sure	0.32799999999999996	-0.304	0.36400000000000005
+Exploitation of the immigrants	-0.422	0.21999999999999992	0.0
+The number of racists/nationalists who try to harm the immigrants in some way	-0.04750000000000002	-0.185	0.042500000000000024
+welfare recipients, not following the rules to come here legally	-0.07800000000000001	-0.211	0.019000000000000045
+Deportation	-0.28600000000000003	-0.11600000000000002	-0.192
+Xenophobic backlash from nativists	0	0	0
+The dangerous conditions that immigrants live in trying to survive in the US. Also the damage done to families torn apart.	0.008000000000000021	0.04550000000000001	-0.0635
+jerbs	0	0	0
+Conservative hysteria	-0.166	-0.17600000000000005	-0.17199999999999996
+im not sure	0.32799999999999996	-0.304	0.36400000000000005
+messes in other countries	0.08200000000000003	-0.304	0.2
+Employers can pay illegal immigrants wages that are far below the minimum wage. Also U.S. ICE wastes millions of tax dollars trying to deport illegal immigrants who return anyway	-0.09666666666666666	-0.18444444444444447	-0.004222222222222242
+I don't know my mother is hear illegal an I'm worried but she been hear over 25 yrs I was born in the u.s but Mexicans I don't mind cause they come hear for work other countries I feel is a threat	0.12479999999999998	-0.13839999999999997	0.10826666666666666
+Donald trump	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+Job security/economic changes	0.12799999999999995	-0.2	-0.11199999999999992
+no issue for me	-0.20999999999999996	-0.09000000000000004	0.09399999999999994
+crime, drug and human trafficing	0.05600000000000005	-0.18999999999999995	-0.06200000000000001
+finding a better life	0.33599999999999997	0.11799999999999997	0.17799999999999994
+Businesses hiring them dirt cheap for cash to keep it under the table. less in taxes getting payed.	0.17850000000000005	-0.10350000000000001	0.123
+when they are parents, making it tough on the children to deal with being illegals	0.13	-0.11800000000000001	0.2046666666666667
+None.	0	0	0
+Drug trafficking	-0.33399999999999996	-0.07999999999999999	-0.21500000000000002
+Over crowding	0	0	0
+Too much money is being spent on finding, detaining, and deporting immigrants. Easier path to citizenship is needed.	0.33666666666666667	0.0786666666666667	0.122
+Not paying income tax.	0.25199999999999995	-0.23600000000000004	0.2720000000000001
+Trade deals such as NAFTA	0.18200000000000002	-0.10999999999999996	0.25199999999999995
+jobs.	0	0	0
+Takes resources away from other agencies to patrol borders and police communities.	-0.064	-0.08733333333333333	-0.01933333333333335
+THE TOTAL LACK OF CONSISTENT LEGISLATION.	0.028666666666666674	-0.3546666666666667	0.2746666666666666
+the journey across the border is dangerous	-0.08933333333333333	0.06666666666666661	-0.062
+N/A	0	0	0
+The lack of care and security that the immigrants feel	0.19999999999999998	-0.34249999999999997	0.17599999999999996
+Providing Donald Trump with a platform	-0.08200000000000003	-0.249	0.22800000000000004
+Racism and prejudice by white americans towards minorities	-0.30866666666666664	-0.028000000000000014	-0.06799999999999999
+Exploitation of undocumented workers' labor	-0.23699999999999996	0.133	0.041000000000000016
+Not paying taxes on the wages they make	0.21799999999999997	-0.266	0.24399999999999994
+Conservatives keep getting their panties in a twist over it.	0.15400000000000003	-0.10999999999999999	0.10733333333333335
+People complain about illegal immigration.	-0.24466666666666667	-0.03333333333333336	0.014666666666666653
+Labor exploitation	-0.23699999999999996	0.133	0.041000000000000016
+Donald Trump	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+Republicans	0	0	0
+Lack of taxes paid	-0.26399999999999996	-0.5519999999999999	0.092
+The people that are super rich, but still have government healthcare, along with low-interest business loans	0.11480000000000001	-0.24	0.05960000000000001

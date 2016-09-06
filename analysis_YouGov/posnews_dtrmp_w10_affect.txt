@@ -1,0 +1,2149 @@
+line	valence	arousal	dominance
+No	0	0	0
+none	0	0	0
+Position on gun control	-0.09000000000000002	0.05666666666666668	-0.006666666666666705
+Yes. Looks like he CAN unify.	0.38500000000000006	-0.24599999999999997	0.2720000000000001
+Yes, NRA endorsement	0.20999999999999996	-0.24800000000000005	0.184
+no	0	0	0
+"He says what ""real"" americans want to hear."	0.2	0.05800000000000001	0.07799999999999993
+No	0	0	0
+good supreme court choices	0.16999999999999993	-0.17533333333333334	0.09733333333333337
+Nothing. He lies about everything.	0	0	0
+endorsed by the NRA, provided a list of potential Supreme Court nominees 4 evaluation	0.09080000000000002	-0.15040000000000003	0.06999999999999999
+nothing	0	0	0
+No	0	0	0
+He will uphold the 2nd amendment	0.078	-0.314	0.18466666666666665
+No	0	0	0
+NO !	0	0	0
+No.	0	0	0
+no	0	0	0
+nope	0	0	0
+pro gun NRA endorsed	0.0020000000000000573	0.15500000000000003	0.10300000000000004
+make America great again	0.359	-0.21900000000000003	0.28700000000000003
+Everything Donald Trump says is negative. He cannot stop lying. He is a pathological liar.	-0.2253333333333333	-0.26866666666666666	-0.005333333333333338
+He's not a billionaire	0.2	0.35	0.2720000000000001
+No.	0	0	0
+nope	0	0	0
+No-he's an idiot	-0.394	-0.030000000000000072	-0.15999999999999998
+No	0	0	0
+Nothing	0	0	0
+No	0	0	0
+Many positive things; I enjoy his speeches	0.524	0.05	0.454
+nothing	0	0	0
+NRA vote for him	0.04800000000000004	0.009999999999999964	0.358
+I have never ever heard anything positive about trump	0.17400000000000002	-0.17666666666666664	0.25599999999999995
+Nothing	0	0	0
+take carw of every wish	0.196	-0.21000000000000005	0.133
+Speaks his mind	0.34	0.009999999999999964	0.21799999999999997
+are your kidding me?	0	0	0
+no	0	0	0
+He is against Hillary and tells it like it is.	0.4880000000000001	-0.11999999999999993	0.25600000000000006
+no	0	0	0
+Endorsed by the NRA	0	0	0
+Yes. He has helped a lot of people.	0	0	0
+3 points ahead of Clinton Fox poll	0.014999999999999944	-0.15000000000000002	0.09000000000000004
+Would meet with Kim Jung Il	0.2	-0.248	0.183
+no	0	0	0
+He's leading Hillary on a recent national poll	0.04466666666666667	-0.23933333333333337	0.12600000000000003
+No	0	0	0
+none	0	0	0
+No	0	0	0
+no	0	0	0
+no	0	0	0
+No	0	0	0
+he treats both his male and female employees well	0.44299999999999995	0.040000000000000036	0.23099999999999996
+no	0	0	0
+None	0	0	0
+nothing	0	0	0
+no	0	0	0
+no	0	0	0
+will get the job done	0.13666666666666666	-0.2953333333333334	0.1133333333333334
+no	0	0	0
+he is not racial	-0.27	-0.19000000000000003	-0.2
+No	0	0	0
+that he is going to bring change we ned to america	0.07699999999999996	-0.166	0.15299999999999994
+electable	0	0	0
+Good business man	0.25266666666666665	-0.21799999999999997	0.1466666666666667
+Nothing	0	0	0
+He says what he thinks Americans want to hear.	0.2	0.05800000000000001	0.07799999999999993
+he hired a diverese amount of people in the past	0.08066666666666666	-0.19933333333333336	0.06466666666666665
+Women stopping NY Times hit piece	0.006000000000000047	-0.18399999999999997	0.09200000000000007
+He is for legalization of marijuana	-0.274	-0.12799999999999995	-0.04600000000000008
+Party consolidating around him	0.43599999999999994	0.21600000000000003	0.184
+NO	0	0	0
+no	0	0	0
+None	0	0	0
+Will fight ISIS	-0.11399999999999996	-0.07700000000000001	0.129
+No	0	0	0
+no	0	0	0
+Nope.	0	0	0
+no	0	0	0
+released income tax return	0.013999999999999985	-0.2246666666666667	0.008000000000000016
+He is ahead of Clinton in the polls.	0	0	0
+that he's pulling ahead of chilton	0	0	0
+No	0	0	0
+Not letting China take advantage of our uneven trade	0.09450000000000003	-0.1825	0.09100000000000001
+good father	0.477	-0.26599999999999996	0.16000000000000006
+make america great again	0.359	-0.21900000000000003	0.28700000000000003
+Endorsed by the NRA	0	0	0
+"Trump said the Egyptair crash was an act of terrorism and happened because ""we"" are weak. I guess he'd just go starting a war without any more reasonable acts."	-0.12775000000000003	-0.063	-0.06675
+straightforward and honest	0.42999999999999994	-0.196	0.3
+everything	0	0	0
+no	0	0	0
+no	0	0	0
+... he might debate sanders	-0.009999999999999964	-0.027999999999999935	0.192
+Making an effort for unity in the Republican party.	0.15999999999999995	-0.19800000000000004	0.24666666666666667
+Yes	0	0	0
+Smart, good leader, own person	0.3989999999999999	-0.263	0.24100000000000002
+He plans to reform immigration.	0.009999999999999964	-0.04399999999999995	0.11400000000000006
+Straight talk, listens to reason, non-ideologue	0	0	0
+no	0	0	0
+not as bad as liberal media says	-0.352	-0.027999999999999935	-0.288
+no	0	0	0
+No	0	0	0
+he's right about some things to do with trade with China.	0.24266666666666672	-0.12533333333333332	0.318
+No	0	0	0
+Nothing	0	0	0
+He says what I think	0.33599999999999997	-0.25	0.3
+na	0	0	0
+Cares for Veterans	0	0	0
+no	0	0	0
+Yes. He called out Fauxcohontas (Elizabeth Warren) for flipping wigwams (basically, what she accused him of doing, the hypocrite)	0.06600000000000002	-0.20999999999999996	0.0
+yes	0	0	0
+No	0	0	0
+Not one single thing	0.1353333333333333	-0.3366666666666666	0.05333333333333332
+he is on immigration issue	-0.205	-0.12300000000000005	-0.10300000000000002
+Nothing	0	0	0
+That he and Megan from Fox had a good interview.	0.3409999999999999	-0.19799999999999995	0.191
+Yes he will be good for the country	0.27649999999999997	-0.315	0.2435
+none	0	0	0
+Nothing in particular	0.009999999999999964	-0.22000000000000003	0.506
+Yes he's a genius	0.5039999999999999	0.24000000000000005	0.47400000000000003
+Fighting back against mainstream liberal media.	-0.06900000000000003	-0.403	0.07000000000000002
+No	0	0	0
+no	0	0	0
+get enough delegates to win nomination	0.24599999999999997	-0.11199999999999999	0.3006666666666667
+Yes his short list of possiable running mates	0.206	-0.2873333333333334	0.059333333333333314
+yes-listed some conservative Supreme Court choices	-0.052666666666666695	-0.2426666666666667	-0.008666666666666637
+He raised money for vets	0.41999999999999993	0.37200000000000005	0.26400000000000007
+about his health care plan	0.3753333333333333	-0.33266666666666667	0.256
+New York Times was wrong, he calls people bad names which might be true	0.1484	-0.18439999999999998	0.032000000000000015
+No	0	0	0
+no	0	0	0
+Yes - endorsed by NRA, fraudulant article of past girlfriends exposed	0.07699999999999996	-0.179	0.08599999999999995
+no	0	0	0
+who he would put on supreme court	0.03299999999999999	-0.18100000000000002	0.09650000000000004
+trying to unite party	0.358	-0.07299999999999998	0.27699999999999997
+nothing	0	0	0
+He is toning down some of his comments.	0	0	0
+none	0	0	0
+no	0	0	0
+Good man#	0.578	-0.26799999999999996	0.28200000000000003
+chose candidates for Supreme CT	0.22799999999999992	-0.14399999999999996	0.22200000000000006
+Nothing	0	0	0
+no	0	0	0
+yes	0	0	0
+No	0	0	0
+listed suprem court candidates	-0.296	-0.11400000000000006	-0.21200000000000002
+Employees like him	0.4880000000000001	-0.11999999999999993	0.25600000000000006
+no	0	0	0
+Endorsed by NRA	0	0	0
+No, he is an embarrassment	-0.45599999999999996	0.09000000000000004	-0.41600000000000004
+nothing	0	0	0
+Is willing to consider dialogue with n korea	0.3093333333333333	-0.4446666666666667	0.17066666666666663
+HE WILL SET WASHINGTON IN A TAIL SPIN	0.03750000000000004	-0.3525	0.133
+On Jimmy Kimmel last night and his handling of the baiting Kimmel was trying to do	0.209	-0.276	0.15699999999999992
+Maybe pick Ben Carson as running mate	0.308	0.005999999999999996	0.24133333333333332
+Nothing positive	0.514	0.1	0.45199999999999996
+Says what he thinks - apolitical	0	0	0
+"He has "" conversations"" with people"	0.14000000000000004	-0.246	0.08000000000000007
+No	0	0	0
+yes	0	0	0
+no	0	0	0
+no	0	0	0
+No they have heard that hate for him is to grow	-0.05999999999999996	-0.17466666666666666	0.045999999999999965
+He helps families in need	0.09000000000000004	-0.266	0.011999999999999922
+no	0	0	0
+no	0	0	0
+Never	0	0	0
+no	0	0	0
+No	0	0	0
+No.	0	0	0
+out spoken	0	0	0
+Not	0	0	0
+no	0	0	0
+na	0	0	0
+he's winning	0	0	0
+n/a	0	0	0
+No	0	0	0
+Yes	0	0	0
+No	0	0	0
+none	0	0	0
+That He says What he is thinking	0	0	0
+good policies	0.578	-0.26799999999999996	0.28200000000000003
+No	0	0	0
+He loves America	0	0	0
+nothing	0	0	0
+nominated	0	0	0
+no	0	0	0
+He pays women on the same scale as men	0.011999999999999922	-0.24000000000000005	0.03399999999999999
+values	0	0	0
+Wages	0	0	0
+no	0	0	0
+No	0	0	0
+His poll numbers improved.	-0.07400000000000002	-0.17200000000000007	0.08000000000000007
+no	0	0	0
+no	0	0	0
+No	0	0	0
+no	0	0	0
+no	0	0	0
+No	0	0	0
+none	0	0	0
+speaks his mind	0.34	0.009999999999999964	0.21799999999999997
+yes, his cache with hispanics is up	-0.009999999999999964	-0.17200000000000007	0.2119999999999999
+none	0	0	0
+No	0	0	0
+no	0	0	0
+nothing	0	0	0
+No.	0	0	0
+Yes, he is better than he sounds at times, he wants to make our Country great again.	0.3153333333333333	-0.232	0.28133333333333327
+no	0	0	0
+Not really	0	0	0
+Nothing g	0	0	0
+ok	0	0	0
+gender equality	0.17999999999999997	-0.12199999999999997	0.14200000000000002
+none	0	0	0
+no	0	0	0
+none	0	0	0
+no	0	0	0
+he is different	0.18200000000000002	-0.20999999999999996	0.29399999999999993
+Lesser of the evils	0	0	0
+no	0	0	0
+No	0	0	0
+no	0	0	0
+Lowering the deficit	-0.41	-0.16199999999999992	-0.16400000000000006
+No	0	0	0
+No	0	0	0
+Nothing good	0.578	-0.26799999999999996	0.28200000000000003
+Wants to make America great again	0.359	-0.21900000000000003	0.28700000000000003
+No	0	0	0
+no	0	0	0
+He speaks his mind and its showing to the people he will do some more good the the recent presidents we've had recently	0.2146666666666667	-0.2376666666666667	0.19066666666666668
+no	0	0	0
+no	0	0	0
+None	0	0	0
+None	0	0	0
+No	0	0	0
+nothing	0	0	0
+Yea he knows how to manipulate the media	-0.358	-0.04800000000000004	0.14800000000000005
+NRA , SUPREME CT NOMINEES	0.22799999999999992	-0.14399999999999996	0.22200000000000006
+Supreme Court picks	-0.03400000000000003	-0.129	0.005000000000000018
+He might be lying about everything he's said and is secretly a Democrat.	0.23599999999999993	-0.31399999999999995	0.1
+no	0	0	0
+nra endorsement	0.20999999999999996	-0.24800000000000005	0.184
+No	0	0	0
+no	0	0	0
+dans	0	0	0
+no	0	0	0
+Consistent	0.2859999999999999	-0.362	0.3539999999999999
+Seems to be changing from childish antics to adult speech and commentary.	0.0616	-0.12040000000000002	0.1304
+no	0	0	0
+Nope	0	0	0
+Close the border	-0.008999999999999987	-0.189	0.06800000000000006
+Nope	0	0	0
+Not much. Media bias against him.	-0.20999999999999996	-0.14600000000000007	0.08800000000000008
+LATROBE, PA 15650	0	0	0
+no	0	0	0
+NO	0	0	0
+No	0	0	0
+Nothing	0	0	0
+No	0	0	0
+nothing	0	0	0
+Nothing	0	0	0
+No	0	0	0
+NRA endorsed him	0	0	0
+no	0	0	0
+make america great again	0.359	-0.21900000000000003	0.28700000000000003
+no	0	0	0
+Protecting Gun Owners Rights	-0.26799999999999996	0.548	-0.05800000000000001
+NONE	0	0	0
+speeches	0	0	0
+"These questions are bogus. I suppose the Republican elite rallying around him would be considered ""positive "" by some but not by me."	0.09319999999999996	-0.21679999999999996	0.09160000000000004
+Only from himself	0	0	0
+I dont remember	0.3	-0.372	0.2619999999999999
+jobs in america	0	0	0
+He has built a small lead over Hillary in some of the polls	0.13199999999999995	-0.26199999999999996	-0.024999999999999998
+no	0	0	0
+He really likes women.	0	0	0
+Nothing	0	0	0
+never	0	0	0
+No	0	0	0
+no	0	0	0
+tat he is not as bad as he is making himself seem	-0.13099999999999998	-0.18999999999999995	-0.19099999999999995
+Illegal immigrants	-0.49400000000000005	0.10999999999999996	-0.05600000000000005
+No, there is nothing positive about Donald Trump	0.175	-0.11699999999999998	0.312
+no	0	0	0
+Would help us shape the problems we are facing today in many areas.	0.21800000000000005	-0.21999999999999997	0.24466666666666667
+Yes	0	0	0
+that he has a very impressive education (Wharton)	0.363	-0.12600000000000006	0.29000000000000004
+no	0	0	0
+He's leading the election race	-0.005999999999999964	-0.05699999999999994	-0.04400000000000004
+Endorsed by NRA	0	0	0
+Absolutely not	0	0	0
+no	0	0	0
+Nope	0	0	0
+no	0	0	0
+He is a good businessman.	0.578	-0.26799999999999996	0.28200000000000003
+no	0	0	0
+Yes. He called someone in government an idiot.	-0.24400000000000005	-0.25	-0.378
+No	0	0	0
+endorsed by the nra	0	0	0
+nothing	0	0	0
+yes he was working with Paul Ryan	0	0	0
+no	0	0	0
+NO	0	0	0
+No	0	0	0
+no	0	0	0
+NA	0	0	0
+none	0	0	0
+never, last week, last month, last year	0.15	-0.33399999999999996	0.16199999999999992
+he meet and played nice with megan kelly , good choices for vp and supreme court	0.22359999999999997	-0.2156	0.1528
+no	0	0	0
+i do not pay attention, who cares till about a month before the election	0.09600000000000006	-0.21099999999999997	0.13649999999999998
+None	0	0	0
+no	0	0	0
+none	0	0	0
+No	0	0	0
+No	0	0	0
+none	0	0	0
+I don't remember what it was.	0.3	-0.372	0.2619999999999999
+NO	0	0	0
+np	0	0	0
+no	0	0	0
+no	0	0	0
+Helping marines	0	0	0
+nope	0	0	0
+no	0	0	0
+no	0	0	0
+no	0	0	0
+yes	0	0	0
+nothing worth talking about	0	0	0
+no	0	0	0
+yes	0	0	0
+lots of things	0	0	0
+nothing	0	0	0
+no	0	0	0
+yes	0	0	0
+no	0	0	0
+he will actually seal the boarder	0.03133333333333337	-0.38999999999999996	0.17866666666666672
+yes, he is leading	0	0	0
+no	0	0	0
+no	0	0	0
+no	0	0	0
+none	0	0	0
+No	0	0	0
+are you kidding!?!?!?	0	0	0
+nothing	0	0	0
+no	0	0	0
+"he is trying to be more ""Presidential"""	0.23599999999999993	-0.31399999999999995	0.1
+Yes, his interviewvwith Megyn Kelly	0	0	0
+Nothing	0	0	0
+nra endorsed	0	0	0
+negative	-0.496	0.009999999999999964	-0.142
+I have not heard anything positive about that person.	0.343	-0.09799999999999999	0.29799999999999993
+na	0	0	0
+Nothing	0	0	0
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+never	0	0	0
+his list of Supreme Court nominees	0.036666666666666625	-0.24933333333333338	0.04400000000000004
+he is paying his own way	0.18200000000000002	-0.42000000000000004	-0.03399999999999999
+He's not Hitler	0	0	0
+None	0	0	0
+No	0	0	0
+No	0	0	0
+no	0	0	0
+Insurance plan to revert to free market.	0.15499999999999997	-0.17050000000000004	0.194
+no	0	0	0
+No	0	0	0
+that he is toning his attitude a bit, acting more like an adult	0.20400000000000004	-0.09866666666666664	0.24133333333333332
+no	0	0	0
+Nope	0	0	0
+Imagration	0	0	0
+No	0	0	0
+that he's willing to work with the people	0.17200000000000001	-0.276	0.20133333333333336
+Yes	0	0	0
+haven't heard	0	0	0
+strong leader	0.305	0.009999999999999964	0.284
+No	0	0	0
+No	0	0	0
+NOTHING is positive about Donald Trump!!	0.514	0.1	0.45199999999999996
+None	0	0	0
+No	0	0	0
+None	0	0	0
+Nothing	0	0	0
+No	0	0	0
+Most believe he will best right the economy.	0.3126666666666667	-0.25133333333333335	0.35533333333333333
+Nothing	0	0	0
+no	0	0	0
+no	0	0	0
+He is tough.	0	0	0
+No	0	0	0
+THAT HE IS NUTS	0	0	0
+n/a	0	0	0
+No	0	0	0
+yes he got endorsed by the NRA	0	0	0
+samee as last ? no news	-0.008000000000000007	-0.07799999999999993	-0.10399999999999991
+none	0	0	0
+Na	0	0	0
+he will be the republican	0.050666666666666645	-0.3706666666666667	0.16733333333333336
+No	0	0	0
+his supreme court nominees	-0.03400000000000003	-0.129	0.005000000000000018
+No	0	0	0
+That he has affairs with hot women.	0.14600000000000007	-0.04800000000000004	0.0
+nothing	0	0	0
+Everyhting he has statred in the past are accurate	0.251	-0.09400000000000003	0.16499999999999992
+Charismatic, bold, tells it like it is, admits when he is wrong, would be good for the military, smart, honest, trustwhorthy,	0.371	-0.235	0.20650000000000004
+Nothing	0	0	0
+No	0	0	0
+no	0	0	0
+Yes	0	0	0
+Nothing	0	0	0
+Yes	0	0	0
+Nothing	0	0	0
+If I did he probably retracted it the next day	0.2720000000000001	-0.27599999999999997	0.11799999999999997
+No	0	0	0
+No	0	0	0
+Nothing	0	0	0
+No	0	0	0
+NO	0	0	0
+Supreme Court choices	-0.03400000000000003	-0.129	0.005000000000000018
+No!!!	0	0	0
+Supports america	0	0	0
+Nothing	0	0	0
+No	0	0	0
+Nothing.	0	0	0
+Supreme Court nominee list	0.05249999999999997	-0.217	0.07050000000000002
+With Megan kelly	0	0	0
+that GOP groups are going to fund his campaign	0.10999999999999996	-0.191	0.11899999999999995
+None	0	0	0
+Nothing	0	0	0
+not a politician	-0.35	-0.05999999999999996	-0.18000000000000008
+no	0	0	0
+Doing well in polls	0	0	0
+No	0	0	0
+Doesn't matter better than the trash on the dem side	-0.07466666666666662	-0.27666666666666667	0.0786666666666667
+Make America Great Again	0.359	-0.21900000000000003	0.28700000000000003
+no	0	0	0
+His plans for the country.	0	0	0
+I have heard nothing positive about him ever.	0.343	-0.09799999999999999	0.29799999999999993
+no	0	0	0
+no	0	0	0
+no	0	0	0
+no	0	0	0
+economic plan	0.12399999999999993	-0.252	0.04900000000000003
+Money	0.41999999999999993	0.37200000000000005	0.26400000000000007
+every day	0.2720000000000001	-0.27599999999999997	0.11799999999999997
+nothing	0	0	0
+spoke out against sanctuary cities	0.41	-0.472	0.23000000000000007
+NO	0	0	0
+win votes	0.39399999999999996	0.12200000000000007	0.5720000000000001
+no	0	0	0
+Yes. His nomination list for the Supreme Court	0.058999999999999955	-0.23500000000000004	0.08300000000000003
+More presidential	-0.009999999999999964	-0.18800000000000008	0.03599999999999994
+no	0	0	0
+no	0	0	0
+Supreme Court Justice nominees	0.09733333333333331	-0.059333333333333314	0.09066666666666663
+no	0	0	0
+Hillary Clinton and cares about the people and the USA	0.14000000000000004	-0.246	0.08000000000000007
+Supreme Court list	0.036666666666666625	-0.24933333333333332	0.04400000000000004
+None	0	0	0
+No	0	0	0
+Yes	0	0	0
+His foreign policy	-0.13699999999999996	-0.12700000000000006	0.09000000000000002
+Treated women well	0	0	0
+No.	0	0	0
+Nope	0	0	0
+The NRA endorsed Trump	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+Nothing	0	0	0
+No	0	0	0
+No	0	0	0
+He candidates for supreme court	-0.03400000000000003	-0.129	0.005000000000000018
+no	0	0	0
+Everything!	0	0	0
+no	0	0	0
+N/A	0	0	0
+nice guy	0.35	-0.17600000000000002	0.15899999999999997
+no	0	0	0
+No	0	0	0
+no	0	0	0
+Supports second amendment	0.083	-0.302	0.01199999999999992
+No	0	0	0
+Good poll numbers	0.25199999999999995	-0.22000000000000003	0.18100000000000005
+For the USA	0	0	0
+no	0	0	0
+Supreme Court picks	-0.03400000000000003	-0.129	0.005000000000000018
+No	0	0	0
+Met with Republican leadership and was a good meeting	0.13499999999999995	-0.238	0.20600000000000002
+No	0	0	0
+No	0	0	0
+making amends with news anchor woman	0.1945	-0.21599999999999997	0.08300000000000002
+No	0	0	0
+Tax plan	-0.08600000000000005	-0.16200000000000006	-0.06699999999999998
+of course, heard it all	0	0	0
+nothing	0	0	0
+No	0	0	0
+Are you joking?	0	0	0
+no	0	0	0
+The list of people for supreme court.	0.18199999999999994	-0.2933333333333333	0.1413333333333334
+don''t know	0.36400000000000005	-0.352	0.15600000000000006
+None	0	0	0
+NO	0	0	0
+No	0	0	0
+no	0	0	0
+He's beating Hillary	0	0	0
+Nothing.	0	0	0
+nope	0	0	0
+Nothing from the biasd main stream media	0.217	-0.15500000000000008	0.18799999999999997
+none	0	0	0
+Yes. Trump is ahead of Hillary in the polls.	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+None	0	0	0
+No	0	0	0
+na	0	0	0
+Leading	0	0	0
+no	0	0	0
+nothing	0	0	0
+Nothing	0	0	0
+NO	0	0	0
+NO	0	0	0
+No	0	0	0
+Not	0	0	0
+1	0	0	0
+everything about him	0	0	0
+YES	0	0	0
+no	0	0	0
+yes	0	0	0
+no	0	0	0
+none	0	0	0
+Real change cares	0.21799999999999997	-0.19000000000000003	0.16999999999999993
+no	0	0	0
+NRA Endorsement	0.20999999999999996	-0.24800000000000005	0.184
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+I don't really listen to the junk.	0.382	-0.24800000000000005	0.11199999999999992
+Potential nominees for Supreme Court	0.10133333333333333	-0.14666666666666667	0.10133333333333333
+no	0	0	0
+Softening a bit	0.009999999999999964	-0.22800000000000004	0.10600000000000005
+none at all	0	0	0
+no	0	0	0
+Defeating terrorrist	0	0	0
+na	0	0	0
+Nothing	0	0	0
+don't know	0.36400000000000005	-0.352	0.15600000000000006
+No	0	0	0
+Yes. Achieved delagate count for gop nomination	0.15199999999999997	-0.366	0.11699999999999999
+he is a good man	0.33099999999999996	-0.19799999999999995	0.18500000000000005
+SCOTUS list	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+He is working to unify the party.	0	0	0
+No	0	0	0
+HA! no.	0	0	0
+Nra endorsement	0.20999999999999996	-0.24800000000000005	0.184
+I heard nothing about the idiot	-0.394	-0.030000000000000072	-0.15999999999999998
+terrorist bombing plane	-0.322	0.20733333333333334	-0.23266666666666666
+none	0	0	0
+Mr. Trump is a successful businessman perhaps they can turn this country around by running it as a business	0.18325	-0.21675	0.22274999999999995
+No	0	0	0
+Shake things up in Washington	-0.08200000000000003	0.040000000000000036	0.274
+NRA endorsed him as president which is the first time they have ever endorsed anyone	0.201	-0.173	0.04199999999999999
+Good Businessman	0.32699999999999996	-0.298	0.184
+Literally nothing positive about Donald Trump has ever been said	0.175	-0.11699999999999998	0.312
+No	0	0	0
+NRA supports him	0	0	0
+No there is nothing positive about Trump the dump.....	0.175	-0.11699999999999998	0.312
+He apologized (sort of ) to Meagyn Kelly	0	0	0
+Supreme Court nominees	-0.03400000000000003	-0.129	0.005000000000000018
+constitutionalist	0	0	0
+I have not heard anything positive about Donald Trump in the past week.	0.135	-0.147	0.20099999999999996
+Yes several things	0	0	0
+NO	0	0	0
+No	0	0	0
+Successful in buiness	0.5519999999999999	0.016000000000000014	0.542
+spoke at NRA convention in Louisville, KY and said he will protect the 2nd ammendment	0.14333333333333334	-0.3153333333333333	0.1393333333333334
+indurments	0	0	0
+wants to get rid of minimum wage	0.027999999999999983	-0.26249999999999996	0.020500000000000008
+no	0	0	0
+3 point lead in poll over Clinton	0.04266666666666665	-0.20333333333333337	0.12599999999999997
+No	0	0	0
+Not sure, he tells too many lies	0	0	0
+No	0	0	0
+Nope	0	0	0
+he apologized about words that he said about women	0	0	0
+No	0	0	0
+everything the voters say	0.18200000000000002	-0.11400000000000006	0.376
+None	0	0	0
+na	0	0	0
+No	0	0	0
+N/a	0	0	0
+NOTHING	0	0	0
+aggressive negotiator	-0.18200000000000005	0.03200000000000003	0.10899999999999999
+yes enployees stating he is very thoughtful and hands on making decisions	0.45199999999999996	-0.49000000000000005	0.324
+No, not one thing	0.16399999999999998	-0.39	0.09699999999999998
+yes	0	0	0
+Balance budget	0.13999999999999996	-0.254	0.037000000000000005
+No	0	0	0
+no	0	0	0
+no	0	0	0
+No	0	0	0
+none	0	0	0
+No	0	0	0
+no	0	0	0
+How he is going to change the country for the better	0.12299999999999994	-0.22400000000000003	0.21599999999999991
+NOTHING	0	0	0
+Backed by NRA	0	0	0
+NRA support	0.37799999999999995	-0.39	0.22200000000000006
+Nothing	0	0	0
+no	0	0	0
+No	0	0	0
+No	0	0	0
+nothing	0	0	0
+No	0	0	0
+his immigration policy	-0.223	-0.24800000000000005	-0.038999999999999965
+No	0	0	0
+none	0	0	0
+n o	0	0	0
+gun control	-0.191	0.25	0.017999999999999967
+no	0	0	0
+No	0	0	0
+he's a great showman	0.5	-0.17200000000000007	0.33000000000000007
+Looking out for veterans	0	0	0
+so far all I have heard was positive	0.343	-0.09799999999999999	0.29799999999999993
+He got the backing of the NRA	0	0	0
+Nope	0	0	0
+no	0	0	0
+No.	0	0	0
+no	0	0	0
+No	0	0	0
+Nothing!!	0	0	0
+arrogant	-0.496	0.030000000000000072	-0.07200000000000006
+Endorsements	0	0	0
+Nothing	0	0	0
+No	0	0	0
+he is leading in the polls to become the republican nominee	0.07200000000000001	-0.2706666666666666	0.15533333333333332
+some of the things he says make sense	0.21799999999999997	-0.263	0.251
+Republicans are starting to support his candidacy.	0.37799999999999995	-0.39	0.22200000000000006
+No	0	0	0
+Yes, loves America and wants to follow the constitution, specifically protecting the 2nd amendment.	-0.03599999999999994	-0.24800000000000005	-0.038000000000000075
+he wants to change	0.01799999999999997	-0.19000000000000003	0.16199999999999992
+none	0	0	0
+None	0	0	0
+nope	0	0	0
+soft	0.426	-0.392	0.21999999999999992
+Honest; accomplished	0	0	0
+He gave a list of Supreme Court Nominees	0.036666666666666625	-0.24933333333333338	0.04400000000000004
+not one thing	0.16399999999999998	-0.39	0.09699999999999998
+Supports 2nd as amendment	0.11999999999999993	-0.3	-0.04600000000000008
+no	0	0	0
+No	0	0	0
+No	0	0	0
+No	0	0	0
+Was great on Magen Kelly's show	0.341	-0.17600000000000007	0.24800000000000005
+no	0	0	0
+no	0	0	0
+No	0	0	0
+No Comment	0.13000000000000006	-0.288	0.192
+no	0	0	0
+he agreed to debate sanders	-0.009999999999999964	-0.027999999999999935	0.192
+none	0	0	0
+He will make America great again	0.26066666666666666	-0.28600000000000003	0.2986666666666667
+No	0	0	0
+none	0	0	0
+n/a	0	0	0
+He's ahead in the poll	-0.07400000000000002	-0.17200000000000007	0.08000000000000007
+No!	0	0	0
+Good business	0.337	-0.263	0.176
+He hasn't said a lot	0	0	0
+nope	0	0	0
+I heard nothing about him on Wed. That's as close to positive as it gets	0.28	-0.06899999999999999	0.32
+No. He's a moron.	0	0	0
+n0	0	0	0
+no	0	0	0
+none	0	0	0
+Financial Disclosure released	-0.029000000000000005	-0.23	-0.09100000000000001
+He is moderating his rhetoric to appear more sane	0.10533333333333333	-0.27	0.07599999999999997
+No	0	0	0
+He's even closer to clenching the Republican presdential nominee.	-0.14800000000000005	-0.378	0.08000000000000007
+endorsed byy NRA	0	0	0
+Na endorsement	0.20999999999999996	-0.24800000000000005	0.184
+no	0	0	0
+no	0	0	0
+No comment	0.13000000000000006	-0.288	0.192
+nothing	0	0	0
+no	0	0	0
+No	0	0	0
+Nothing	0	0	0
+creates jobs, tells it as he sees it	0	0	0
+Nothing	0	0	0
+no	0	0	0
+no	0	0	0
+No	0	0	0
+No	0	0	0
+Tough	-0.10999999999999996	-0.15199999999999997	0.2
+he wants to build a wall...	0.266	-0.324	0.3
+no	0	0	0
+No	0	0	0
+Nothing	0	0	0
+I've heard nothing positive about Trump. Ever.	0.514	0.1	0.45199999999999996
+None	0	0	0
+NOTHING	0	0	0
+He's trying to talk with the gop	0.32799999999999996	-0.324	0.2880000000000001
+I've never heard a single positive thing about Trump.	0.23399999999999999	-0.148	0.16666666666666666
+No	0	0	0
+no	0	0	0
+a good business man	0.25266666666666665	-0.21799999999999997	0.1466666666666667
+Nothing	0	0	0
+nope	0	0	0
+none	0	0	0
+no	0	0	0
+none	0	0	0
+nothing	0	0	0
+Nope	0	0	0
+He is really a good family man, He will listen to others, He admits he has failings, and will need politicos in his cabinet with experience.	0.2354285714285715	-0.28600000000000003	0.20028571428571432
+supreme court nominees	-0.03400000000000003	-0.129	0.005000000000000018
+Nothing	0	0	0
+No	0	0	0
+yes	0	0	0
+No	0	0	0
+No	0	0	0
+no	0	0	0
+He is keen on current affairs.	0.225	-0.354	0.142
+No	0	0	0
+Nope	0	0	0
+no	0	0	0
+Beating Hillary.	0	0	0
+No	0	0	0
+no	0	0	0
+Endorsed by NRA	0	0	0
+nothing	0	0	0
+He released names of potential SCOTUS justices.	0.37200000000000005	-0.18200000000000002	0.29399999999999993
+donation to veterans	0.4	-0.2	0.3460000000000001
+No	0	0	0
+nothing	0	0	0
+he's doing good at the polls	0.578	-0.26799999999999996	0.28200000000000003
+no	0	0	0
+no	0	0	0
+"He promised to end ""Gun-Free Zones"" if he's elected"	-0.053999999999999916	-0.20999999999999996	-0.11799999999999997
+No	0	0	0
+nothing	0	0	0
+No	0	0	0
+Hes trying hard to keep illegals out	0.067	-0.20699999999999996	0.06699999999999999
+No. Just more about him being racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+His statement on the second amendment.	0.05500000000000007	-0.282	0.22399999999999992
+no	0	0	0
+no	0	0	0
+Kaylie on CNN says he is wonderful every day.	0.48200000000000004	-0.08599999999999994	0.43800000000000006
+No	0	0	0
+no	0	0	0
+supreme court nominees,backing from NRA	-0.03400000000000003	-0.129	0.005000000000000018
+He is going to win so much that everyone will tell him to stop winning - NRA endorsed him - His daughter is hot -(he said so) -	0.15833333333333335	-0.12433333333333335	0.151
+no	0	0	0
+n/a	0	0	0
+Hat he is non-conformist	0.13800000000000007	-0.42400000000000004	0.242
+the washington post lied about him.	0.009999999999999964	-0.284	0.26400000000000007
+No. He's a pig. Which is an insult to pigs everywhere.	-0.476	0.05999999999999996	-0.20800000000000002
+No	0	0	0
+No	0	0	0
+None	0	0	0
+No	0	0	0
+He id saying waht we want to hear	0.212	-0.21	0.164
+no	0	0	0
+No	0	0	0
+yes, he is a conservative	-0.09000000000000004	-0.47000000000000003	-0.03599999999999994
+He loves his children	0.2720000000000001	0.01799999999999997	0.19000000000000003
+no	0	0	0
+He will investigate Hilary clinton	0.1	-0.30100000000000005	0.20400000000000001
+He's a fucking asshole. Nothing positive can be said.	0.2625	-0.053499999999999964	0.20700000000000005
+nothing comes to mind	0.34	0.009999999999999964	0.21799999999999997
+No	0	0	0
+nothing	0	0	0
+No	0	0	0
+Bad	-0.352	-0.027999999999999935	-0.288
+None	0	0	0
+yes	0	0	0
+won some states	0	0	0
+Ha yeah right	0.4640000000000001	0.0	0.43200000000000005
+No	0	0	0
+no	0	0	0
+changing some of his views	0	0	0
+He received the endorsement of the NRA.	0.20999999999999996	-0.24800000000000005	0.184
+Supreme Court list	0.036666666666666625	-0.24933333333333332	0.04400000000000004
+nothing	0	0	0
+He gave money to a soldier Obama left in Mexico, he is creating jobs already and he is independent.	0.255	0.2760000000000001	0.21600000000000003
+he is racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+money	0.41999999999999993	0.37200000000000005	0.26400000000000007
+Are you kidding?	0	0	0
+No	0	0	0
+Que va subir los impuestos a los ricos	0	0	0
+No	0	0	0
+no	0	0	0
+no	0	0	0
+no	0	0	0
+none	0	0	0
+NRA support.	0	0	0
+good business man	0.25266666666666665	-0.21799999999999997	0.1466666666666667
+no	0	0	0
+No	0	0	0
+He seems to be moving more conservative	0.07299999999999995	-0.392	0.03200000000000003
+Not really	0	0	0
+strong	0.36199999999999993	0.027999999999999935	0.308
+no	0	0	0
+No	0	0	0
+NO	0	0	0
+Trying to change the world	0.15499999999999997	-0.14000000000000004	0.09299999999999997
+No	0	0	0
+no	0	0	0
+Gun rights	-0.26799999999999996	0.548	-0.05800000000000001
+Nope	0	0	0
+Nothing	0	0	0
+no	0	0	0
+no	0	0	0
+na	0	0	0
+Propsed tax plan	-0.08600000000000005	-0.16200000000000006	-0.06699999999999998
+Nothing	0	0	0
+NO	0	0	0
+I heard he's planning to re-do the RNC as some kind of beauty pageant/pro-wrestling/Trump University coronation thing. That might be an entertaining trainwreck.	0.36966666666666664	-0.149	0.19999999999999998
+Me	0	0	0
+NO	0	0	0
+He dissed Bill Clinton	-0.378	-0.2	-0.2
+never	0	0	0
+No	0	0	0
+He was endorsed by the NRA, women said reporters for the NY Times took their comments out of context	0.09100000000000001	-0.363	0.172
+no	0	0	0
+nothing	0	0	0
+No	0	0	0
+interview with former girlfriend	0.22399999999999992	0.13999999999999993	0.184
+media Never reports anything positive about Trump	0.175	-0.11699999999999998	0.312
+Nothing	0	0	0
+no	0	0	0
+Nothing	0	0	0
+No	0	0	0
+He's speaks what he thinks and treats women fairly	0	0	0
+Not a single thing.	0.07799999999999993	-0.22999999999999998	-0.03399999999999999
+NO	0	0	0
+yes, economy & fair trade	0.11266666666666665	-0.1293333333333333	0.10266666666666667
+No	0	0	0
+He wins	0	0	0
+Good on economy trade and scouts judges etc	0.16266666666666665	-0.10466666666666662	0.122
+nothing	0	0	0
+No, nothing positive.	0	0	0
+nothing, he's nuts	0	0	0
+no	0	0	0
+He is an NRA member, calls Islamic terrorists what they are, is an expert on economic growth -	0.18933333333333333	-0.15866666666666665	0.14400000000000002
+.	0	0	0
+It does not matter I have respect him	0.2313333333333334	-0.17600000000000002	0.2733333333333333
+Only nominee, advocates keeping SS/Medicare benefits	0	0	0
+Nope	0	0	0
+no	0	0	0
+Some media spokesman said he was personable.	-0.019999999999999928	-0.42000000000000004	0.04800000000000004
+None	0	0	0
+no	0	0	0
+Yes, all of his ex-wives and girlfriends speak highly of him. He has raised terrific, hardworking children and that is a testament to him.	0.1925	-0.1485	0.22049999999999997
+no	0	0	0
+He is winning big	0.12799999999999995	-0.13399999999999998	0.12200000000000007
+No, he's the worst	0	0	0
+That he's trying to apologize for his ignorant behavior	-0.10266666666666661	-0.20200000000000004	-0.055333333333333325
+Not sure	0.32799999999999996	-0.304	0.36400000000000005
+no	0	0	0
+No	0	0	0
+never	0	0	0
+no	0	0	0
+Positive for me? No. Positive for The Donald? He's acting (oh-so) slightly more Presidential lately.	0.3393333333333333	0.003999999999999976	0.3133333333333333
+no	0	0	0
+won another primary	0.06400000000000006	-0.35	0.2699999999999999
+no	0	0	0
+nothing	0	0	0
+never heard anything positive	0.514	0.1	0.45199999999999996
+none	0	0	0
+Sociopathy	0	0	0
+Studying economy and issues with others	-0.27199999999999996	0.06400000000000006	-0.16799999999999998
+no	0	0	0
+starting to unite the republican party	0.18933333333333333	-0.17466666666666666	0.21133333333333335
+No	0	0	0
+Apologized to megyn kelly	0	0	0
+hell no	-0.49000000000000005	0.25199999999999995	-0.30599999999999994
+supreme court list	0.036666666666666625	-0.24933333333333332	0.04400000000000004
+No	0	0	0
+nothing	0	0	0
+No	0	0	0
+Defends freedom	0.5439999999999999	0.13399999999999998	0.47400000000000003
+HE HAS FELL FROM SAYING TERRIBLE THINGS	-0.58	-0.12200000000000007	-0.32
+no	0	0	0
+The bra is backing him.	0.18000000000000008	-0.21600000000000003	0.12599999999999997
+nothing	0	0	0
+No	0	0	0
+No	0	0	0
+none	0	0	0
+Yes, that he's prolife	0	0	0
+no	0	0	0
+nothing	0	0	0
+nothing	0	0	0
+His daughter says he's not a groper	0.3460000000000001	0.0	0.011999999999999922
+No	0	0	0
+NRA endorsed him	0	0	0
+I've never heard anything positive about Donald Trump.	0.514	0.1	0.45199999999999996
+good business man	0.25266666666666665	-0.21799999999999997	0.1466666666666667
+no	0	0	0
+n/a	0	0	0
+Nothing I think of as positive	0.425	-0.075	0.376
+No	0	0	0
+nothing	0	0	0
+That he is a serial liar.	-0.30999999999999994	-0.13399999999999998	0.17200000000000007
+Nothing	0	0	0
+No.	0	0	0
+No	0	0	0
+Supreme court candidates	-0.03400000000000003	-0.129	0.005000000000000018
+No	0	0	0
+NO	0	0	0
+"He's starting to become politically ""smarter""."	0.26400000000000007	-0.31399999999999995	0.23599999999999993
+nothing	0	0	0
+no	0	0	0
+NRA Endorsement	0.20999999999999996	-0.24800000000000005	0.184
+No!	0	0	0
+He believes in American exceptionalism, he’s committed to education, an he demands high performance.	0.15399999999999991	-0.18000000000000008	0.15199999999999997
+nothing	0	0	0
+no	0	0	0
+nothing	0	0	0
+no	0	0	0
+no	0	0	0
+no	0	0	0
+He would be a good president because he will build stop illegal immigration	0.06933333333333337	-0.2044444444444445	0.08044444444444444
+I have never heard	0.17200000000000007	-0.296	0.14399999999999996
+na	0	0	0
+Na	0	0	0
+no	0	0	0
+Pro gun	0.0020000000000000573	0.15500000000000003	0.10300000000000004
+no	0	0	0
+None	0	0	0
+going to make America great again	0.359	-0.21900000000000003	0.28700000000000003
+Trump is currently leading in all or most polls.	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+Nothing	0	0	0
+His kids turned out reasonably well, despite him	0.2960000000000001	0.13800000000000007	0.025999999999999978
+No	0	0	0
+No Comment.	0	0	0
+NO	0	0	0
+NO	0	0	0
+no	0	0	0
+everything	0	0	0
+great businessman	0.288	-0.25000000000000006	0.20800000000000002
+1	0	0	0
+He is a good man who is picking up key endorsements.	0.302	-0.20533333333333328	0.24000000000000002
+No	0	0	0
+No	0	0	0
+no	0	0	0
+no	0	0	0
+he is causing a stir	0.06999999999999992	-0.39	0.34199999999999997
+nothing	0	0	0
+Not really, but that what makes him interesting	0.35600000000000004	0.019999999999999928	0.366
+No	0	0	0
+nothing	0	0	0
+No	0	0	0
+No	0	0	0
+No	0	0	0
+No	0	0	0
+he's the best candidate for president	-0.02699999999999996	0.0030000000000000235	-0.01399999999999997
+No	0	0	0
+Endosed by the NRA	0	0	0
+Nope. Nothing	0	0	0
+No	0	0	0
+No	0	0	0
+NRA endorsement	0.20999999999999996	-0.24800000000000005	0.184
+no	0	0	0
+The NRA endorsed him.	0	0	0
+Better than anyone the Democrats have running - true	0.23900000000000005	-0.09600000000000003	0.16099999999999995
+No.	0	0	0
+NO	0	0	0
+NRA just endorsed him	0	0	0
+NRA endorsed him	0	0	0
+That he was endorsed by the NRA	0	0	0
+No but he tells it like it is	0.4880000000000001	-0.11999999999999993	0.25600000000000006
+Interview with Megyn Kelly	-0.06400000000000006	0.2699999999999999	0.368
+Trying to reconcile with Speaker Ryan	0.21600000000000003	-0.16500000000000004	0.10999999999999996
+NRA endorsement, building the Military, taking care of the Borders, Getting with the World to Kill Isis once and for all and taking care of the Illegals just to name a few things.	0.15466666666666665	-0.23033333333333336	0.09966666666666664
+List of potential Supreme Court appointees.	0.12050000000000001	-0.23250000000000004	0.1065
+No, how could there be	0.23599999999999993	-0.31399999999999995	0.1
+No	0	0	0
+He's likely to lose the general election	0.01550000000000002	-0.1105	0.03849999999999998
+nothing	0	0	0
+He appears to be trying to dial back a few of his more outrageous positions by claiming that it's all negotiable, but an unpredictable candidate could be as bad as one whose positions are unappealing but stable	-0.01020000000000002	-0.2136	0.04999999999999999
+he's honest	0.632	-0.2	0.34
+Wants to protect the USA	0.366	-0.25999999999999995	0.166
+fighting against political corectness	-0.13000000000000006	-0.2	-0.184
+No	0	0	0
+made peace with megyn	0.55	-0.06999999999999992	0.434
+lol nope	0	0	0
+nothing	0	0	0
+leadership	0.2	-0.04800000000000004	0.368
+No	0	0	0
+No	0	0	0
+He's not really a republican	-0.14800000000000005	-0.378	0.08000000000000007
+Not approved by the Republican party	0.14399999999999996	-0.08099999999999999	0.13200000000000003
+no	0	0	0
+That his Supreme Court list is good.	0.036666666666666625	-0.24933333333333332	0.04400000000000004
+No	0	0	0
+He is a savvy manager of his own brand.	0.12200000000000007	-0.16199999999999992	0.3600000000000001
+He published a list of potential conservative Supreme Court Justice nominees.	0.12533333333333332	-0.22	0.10866666666666665
+hes an idiot people need to wake up	0.03750000000000002	-0.1955	0.018500000000000003
+no	0	0	0
+I haven't heard anything positive.	0	0	0
+tone is changing	0.09399999999999994	-0.266	0.03599999999999994
+NYT story was a farce	0.15999999999999998	-0.252	-0.09899999999999998
+Haven't been listening	0	0	0
+nothing	0	0	0
+Nothing	0	0	0
+no	0	0	0
+no	0	0	0
+endorsed by nra	0	0	0
+nothing	0	0	0
+that hes learning about foreign policy	-0.13699999999999996	-0.12700000000000006	0.09000000000000002
+Nope, nor do I intend to from you or the incredibly biased media. I hope the money is worth selling your soul	0.2186666666666667	-0.03233333333333334	0.2253333333333333
+No	0	0	0
+N.R.A. Endorsement.	0	0	0
+he is crazy	0.027999999999999935	0.18000000000000008	-0.16199999999999992
+Less animated	0.33000000000000007	0.15399999999999991	0.34199999999999997
+no	0	0	0
+no	0	0	0
+No	0	0	0
+No	0	0	0
+Nra indorsment	0	0	0
+No	0	0	0
+No	0	0	0
+N/A	0	0	0
+His paid shills talk him up well on the talking head circuit.	0.25	-0.21699999999999997	0.2
+He met with Ryan and Kissinger	0	0	0
+He will remove gun free zones	0.07200000000000004	-0.043500000000000004	0.119
+He's a perfect asshole	-0.07	0.10899999999999999	-0.05799999999999997
+make America great	0.359	-0.21900000000000003	0.28700000000000003
+Nothing	0	0	0
+No	0	0	0
+Nothing	0	0	0
+limit assault weapons	-0.342	0.109	-0.21399999999999997
+"""tells it like it is"" (I don't personally agree with this)"	0.4610000000000001	-0.19799999999999995	0.32200000000000006
+No	0	0	0
+nothing	0	0	0
+No	0	0	0
+leadi g polls	0	0	0
+?	0	0	0
+He's great	0.5	-0.17200000000000007	0.33000000000000007
+There is nothing positive about this man	0.299	-0.01399999999999997	0.27
+His base is accepting him. He is becoming more presidential.	0.13599999999999995	-0.38	0.274
+nope	0	0	0
+Yes, his NRA endorsement	0.20999999999999996	-0.24800000000000005	0.184
+Haha, that's hilarious!	0	0	0
+no.	0	0	0
+Supreme court nominees	-0.03400000000000003	-0.129	0.005000000000000018
+NO	0	0	0
+No	0	0	0
+No	0	0	0
+no	0	0	0
+No	0	0	0
+Yes. Article interviewing his sons and their views on their father and the election.	0.256	-0.282	0.08700000000000002
+His White Power Nationalist resigned as a delegate	0.15333333333333332	-0.16799999999999995	0.21333333333333337
+Nothing is positive about Donald Trump	0.175	-0.11699999999999998	0.312
+He seems to be a good father	0.39666666666666667	-0.282	0.14000000000000004
+Nothing	0	0	0
+no	0	0	0
+No.	0	0	0
+WELL, THAT HE IS TRYING HARD TO UNITE THE PARTY	0.19533333333333333	-0.08199999999999998	0.18199999999999997
+No	0	0	0
+No	0	0	0
+literally nothing ever	0	0	0
+LOLOLOLOLOLOLOLOLOLOLOL!	0	0	0
+Absolutely nothing positive.	0	0	0
+no	0	0	0
+I have heard NOTHING about Donald Trump that is positive	0.17400000000000002	-0.17666666666666664	0.256
+Nope	0	0	0
+Got a haircut.	0	0	0
+Winner	0.5720000000000001	0.30600000000000005	0.484
+no	0	0	0
+No!	0	0	0
+no. ..	0	0	0
+The poll numbers reflect him beating Hillary	0.07299999999999995	-0.251	0.21200000000000002
+Rethinking his ideas	0	0	0
+No!!!	0	0	0
+No	0	0	0
+none	0	0	0
+Yes, the women the NYT's twisted their story all came out with praise and admiration for Trump, working with Paul Ryan, Great Supreme Court picks, and many people endorsing him as a man of excellent character and businessman.	0.28959999999999997	-0.10060000000000002	0.20280000000000004
+Making Supreme Court Choices publlc	-0.03400000000000003	-0.129	0.005000000000000018
+none	0	0	0
+No	0	0	0
+No	0	0	0
+NO	0	0	0
+No	0	0	0
+No	0	0	0
+yes he said he would make america great	0.3	-0.22533333333333336	0.25400000000000006
+Endorsed by the NRA	0	0	0
+No	0	0	0
+tough on terroism	-0.10999999999999996	-0.15199999999999997	0.2
+NOT FROM ANYBODY I KNOW	0.36400000000000005	-0.352	0.15600000000000006
+Nothing	0	0	0
+bad	-0.352	-0.027999999999999935	-0.288
+no	0	0	0
+his take on the transgender bathroom issue	-0.06466666666666665	-0.20466666666666675	0.03666666666666665
+his possible choices for VP	0.42799999999999994	-0.258	0.2
+no	0	0	0
+No	0	0	0
+"""Soft"" interview with Megyn"	-0.06400000000000006	0.2699999999999999	0.368
+polls shows him leading	0	0	0
+He'll stir up thestatus-quo	0.06999999999999992	-0.39	0.34199999999999997
+no	0	0	0
+Nothing	0	0	0
+no	0	0	0
+He can beat Hillary	0.079	-0.13400000000000004	0.203
+NO	0	0	0
+no	0	0	0
+None	0	0	0
+wants to save America	0.45199999999999996	-0.07599999999999998	0.26799999999999996
+Everything he wants to do is for the good of this country	0.296	-0.264	0.27399999999999997
+No	0	0	0
+nothing	0	0	0
+no	0	0	0
+No	0	0	0
+His list of possible Supreme Court nominees would be positive	0.20999999999999996	-0.20828571428571424	0.15314285714285716
+He respects our police	-0.08200000000000003	0.19000000000000003	-0.312
+Never	0	0	0
+There is nothing positive about him.	0.514	0.1	0.45199999999999996
+He is against promoting thugs and lazy poeple	-0.39	-0.39	0.158
+Yes, but don't remember exactly what.	0.3	-0.372	0.2619999999999999
+No.	0	0	0
+Will bring jobs back to the U.S.	0.05066666666666666	-0.34800000000000003	0.17
+Aaahaahaha!!!	0	0	0
+Bloggers	0	0	0
+He puts to American people first	0.30300000000000005	-0.13299999999999995	0.17800000000000002
+no	0	0	0
+He made Cruz quit.	0	0	0
+No	0	0	0
+Support of the NTA	0.37799999999999995	-0.39	0.22200000000000006
+There is nothing positive about Donald Trump.	0.514	0.1	0.45199999999999996
+nothing	0	0	0
+Nope	0	0	0
+Praised for list of Supreme Court potential nominees; endorsed by the NRA; had a good interview session with Megyn Kelly; multiple women challenged New York Times story about Trump and how he treats women	0.1686666666666666	-0.20133333333333334	0.14600000000000002
+No	0	0	0
+no	0	0	0
+0	0	0	0
+The NRA Endorsement Today	0.20999999999999996	-0.24800000000000005	0.184
+Supreme court potential nominees	0.10133333333333333	-0.1466666666666667	0.10133333333333332
+No	0	0	0
+no	0	0	0
+talented	0.5900000000000001	-0.09000000000000004	0.22799999999999992
+No	0	0	0
+no	0	0	0
+Better Care for our vets	0.5279999999999999	-0.466	0.31199999999999994
+His list for Supreme Ct Judge.	0.20299999999999993	-0.317	0.17200000000000007
+Never heard anything positive about Donald Trump	0.175	-0.11699999999999998	0.312
+No	0	0	0
+Hasnt campaigned in 2 weeks. Positive interview with meghan kelley	0.22499999999999998	0.18499999999999994	0.41
+Defends the second amendment	0.083	-0.302	0.01199999999999992
+Yes, he won the nomination	0.12599999999999997	-0.192	0.2
+No	0	0	0
+Actually paid taxes in some years	0	0	0
+no	0	0	0
+No	0	0	0
+No	0	0	0
+no	0	0	0
+N/A	0	0	0
+he would protect 2nd admendment rights	0.274	-0.24899999999999997	0.17700000000000005
+No just negative	-0.496	0.009999999999999964	-0.142
+He's ahead.	0	0	0
+I have never heard anything positive about Donald Trump.	0.343	-0.09799999999999999	0.29799999999999993
+He is unifying the Republican party around his candidacy.	0.14399999999999996	-0.08099999999999999	0.13200000000000003
+supreme court nominee picks	0.010666666666666649	-0.12599999999999997	0.053333333333333344
+nope	0	0	0
+No	0	0	0
+None	0	0	0
+His last 50 speaches	0	0	0
+softer side	0.06400000000000006	-0.372	0.16400000000000006
+none	0	0	0
+none	0	0	0
+no	0	0	0
+Starting to unite people in the party. His list of possible judges.	0.2565	-0.339	0.193
+Raised $$%	0	0	0
+Rs are beginning to side with him.	0.17099999999999999	-0.386	0.15400000000000003
+He is winning the votes	0	0	0
+He tells it like it is	0.4880000000000001	-0.11999999999999993	0.25600000000000006
+he ehlps others and dont ask for creit	0.19000000000000003	-0.304	0.258
+His daughter likes him and says he treats women well.	0.3460000000000001	0.0	0.011999999999999922
+POSTURED ON SC NOMINATIONS	0	0	0
+He's american	0	0	0
+he's slowly coming around to making less extremist messages	0	0	0
+Nothing	0	0	0
+No.	0	0	0
+Never	0	0	0
+nothing	0	0	0
+none	0	0	0
+nope	0	0	0
+Says whatever he wants	0	0	0
+no	0	0	0
+none	0	0	0
+yes	0	0	0
+yes	0	0	0
+nothing	0	0	0
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+nothing	0	0	0
+no	0	0	0
+No	0	0	0
+No	0	0	0
+Wants America great again	0.5	-0.17200000000000007	0.33000000000000007
+He might not actually be planning to deport 11 million people in 2 years	0.1285	-0.17900000000000002	0.022500000000000034
+Anti establishment	-0.10600000000000005	-0.15399999999999991	0.009999999999999964
+Everything on TV performances are great	0.355	-0.16200000000000003	0.18900000000000006
+no	0	0	0
+Supreme Court choices list	0.036666666666666625	-0.24933333333333332	0.04400000000000004
+No	0	0	0
+No.	0	0	0
+None	0	0	0
+nothing	0	0	0
+no	0	0	0
+YES!	0	0	0
+nothing	0	0	0
+No	0	0	0
+Says what needs to be said	0.23599999999999993	-0.31399999999999995	0.1
+endorsed by NRA	0	0	0
+Yes everything	0	0	0
+Nothing	0	0	0
+nothing	0	0	0
+Not really	0	0	0
+no	0	0	0
+none	0	0	0
+No	0	0	0
+none	0	0	0
+Neutral	0.1	-0.30999999999999994	0.16199999999999992
+the TRUTH	0.43800000000000006	-0.22400000000000003	0.39
+Yes, he is ahead	0	0	0
+No	0	0	0
+No	0	0	0
+No	0	0	0
+No	0	0	0
+no	0	0	0
+Nothing	0	0	0
+no	0	0	0
+no	0	0	0
+no	0	0	0
+Yes. He is just yes yes yes everything America needs, wants, needs, wants, needs and wants. Immigration, Jobs, Good on Mental Health, You name it. TrumpTrain	0.206	-0.308	0.13533333333333333
+nothing	0	0	0
+nothing	0	0	0
+no	0	0	0
+Against NAFTA & the TPP	0	0	0
+No.	0	0	0
+gaining in the polls	0	0	0
+None	0	0	0
+Don't remember	0.3	-0.372	0.2619999999999999
+nothing	0	0	0
+His Supreme Court considerations	-0.03400000000000003	-0.129	0.005000000000000018
+The Republican Establishment hates him and sees him as a threat to their hegemony of American politics. He is a loose cannon that could destroy the Republican Party.	-0.23066666666666671	-0.08866666666666667	-0.027333333333333296
+Met with Henry Kissinger and names for the Supreme Court	-0.03400000000000003	-0.129	0.005000000000000018
+no	0	0	0
+"Becoming ""the voice of the people"". States what many would like the opportunity to."	0.34750000000000003	-0.15199999999999997	0.2775000000000001
+Nope	0	0	0
+Nothing	0	0	0
+none	0	0	0
+NRA endorsement	0.20999999999999996	-0.24800000000000005	0.184
+Donald Trump may pick a VP soon	0.04266666666666664	-0.324	0.18266666666666675
+no	0	0	0
+He says what he thinks.	0	0	0
+Nothing	0	0	0
+republicans are falling into line	-0.03599999999999994	-0.352	-0.022000000000000065
+willing to take action	0.17666666666666667	-0.10200000000000002	0.16666666666666666
+never heard anything positive	0.514	0.1	0.45199999999999996
+no	0	0	0
+He says what he thinks	0	0	0
+N/A	0	0	0
+that he wants to get rid of common core education	0.13880000000000003	-0.2656	0.16999999999999998
+presumptive nominee	0.1	-0.11999999999999993	0.15
+made peace with megyn kelly	0.55	-0.06999999999999992	0.434
+he pai42 million in his campagine	0.51	0.07599999999999998	0.16400000000000006
+He stands for what he believes	0	0	0
+No	0	0	0
+No	0	0	0
+Yes, he is now backed by the NRA and they support the 2nd amendment	0.24899999999999994	-0.345	0.088
+No	0	0	0
+vocal about terrorism	-0.259	0.133	-0.10299999999999998
+no	0	0	0
+for the people	0.14000000000000004	-0.246	0.08000000000000007
+he will not let the US be manipulated & stick to what is best for us	0.13599999999999998	-0.35750000000000004	0.1995
+nothing	0	0	0
+NRA	0	0	0
+entertaining	0.6	0.05600000000000005	0.29000000000000004
+The right to carry guns	0.29900000000000004	-0.15299999999999997	0.21000000000000008
+NO	0	0	0
+no	0	0	0
+Gave a speech	0.12400000000000003	-0.18000000000000008	0.33599999999999997
+nothing!	0	0	0
+No	0	0	0
+Treats women better than Bill Clinton	-0.378	-0.2	-0.2
+NONE	0	0	0
+No	0	0	0
+NO!	0	0	0
+Continues to speak out for the people.	0.18200000000000002	-0.16199999999999992	0.17799999999999994
+nothing	0	0	0
+supreme court examoles	-0.03400000000000003	-0.129	0.005000000000000018
+Nothing in particular	0.009999999999999964	-0.22000000000000003	0.506
+is good	0.578	-0.26799999999999996	0.28200000000000003
+NO	0	0	0
+no	0	0	0
+he's a winner	0.5720000000000001	0.30600000000000005	0.484
+positive he will be president	0.21500000000000002	-0.17300000000000001	0.1875
+yes, he will turn this counrty around	0.07700000000000004	-0.362	0.24900000000000003
+Nope	0	0	0
+He's great.	0	0	0
+No	0	0	0
+wall	0.011999999999999922	-0.42000000000000004	-0.15600000000000006
+No	0	0	0
+his endorsement by the NRA	0.20999999999999996	-0.24800000000000005	0.184
+Nope	0	0	0
+yes	0	0	0
+wewe	0	0	0
+no	0	0	0
+False Press Coverage	0.11599999999999992	-0.401	0.07400000000000002
+No	0	0	0
+no, he's an asshole	-0.5780000000000001	0.27599999999999997	-0.422
+no	0	0	0
+NOTHING	0	0	0
+Absolutely NOT	0	0	0
+no	0	0	0
+No.	0	0	0
+Chris Christie's fat	-0.45199999999999996	-0.22199999999999998	-0.2
+Nope	0	0	0
+Hell no!	-0.49000000000000005	0.25199999999999995	-0.30599999999999994
+nothing...	0	0	0
+No.	0	0	0
+None	0	0	0
+List of Supreme Court justices under consideration	0.09749999999999999	-0.2645	0.13850000000000004
+none	0	0	0
+no	0	0	0
+NO	0	0	0
+There is nothing positive about Donald Trump.	0.514	0.1	0.45199999999999996
+Endorsed by the NRA	0	0	0
+no	0	0	0
+Yes...numbers are up	0	0	0
+supported by the NRA	0	0	0
+nra comments	0	0	0
+His daughter is good looking enough to be a sex worker	0.3392	-0.06839999999999999	0.17719999999999997
+No	0	0	0
+no	0	0	0
+None	0	0	0
+5r4	0	0	0
+yes	0	0	0
+No	0	0	0
+No the media wouldn't show it	0.18200000000000002	-0.18000000000000008	0.166
+No	0	0	0
+None	0	0	0
+No	0	0	0
+NO	0	0	0
+No	0	0	0
+second amendment protection	0.17066666666666672	-0.24666666666666667	0.12199999999999994
+nothing	0	0	0
+Yes	0	0	0
+no	0	0	0
+no	0	0	0
+NO	0	0	0
+No	0	0	0
+Hes strong	0.36199999999999993	0.027999999999999935	0.308
+no	0	0	0
+no	0	0	0
+changing tone to sound more presidential	0.12466666666666669	-0.2086666666666667	0.0573333333333333
+That Hillary Clinton leads him in national polls, thank God!	0.33899999999999997	-0.32199999999999995	0.352
+should win nomination	0.25999999999999995	-0.03499999999999997	0.386
+no	0	0	0
+no	0	0	0
+Nothing	0	0	0
+nothing at all	0	0	0
+NRA endorsed him	0	0	0
+Nope	0	0	0
+No	0	0	0
+that he's hilarious	0.5599999999999999	0.22200000000000006	0.26400000000000007
+none	0	0	0
+no	0	0	0
+tells it like it is	0.4880000000000001	-0.11999999999999993	0.25600000000000006
+no	0	0	0
+No.	0	0	0
+He's rich	0.366	0.36199999999999993	0.366
+no	0	0	0
+his choices for surpreme court	-0.296	-0.11400000000000006	-0.21200000000000002
+Great leader and busiess man	0.2773333333333333	-0.10266666666666668	0.22600000000000006
+not really	0	0	0
+None	0	0	0
+No	0	0	0
+No	0	0	0
+nothing	0	0	0
+He is going to be our next President	0.14100000000000001	-0.18599999999999997	-0.01200000000000001
+He is the only one to turn this country around	0.17866666666666664	-0.3426666666666667	0.18599999999999994
+polls ratings	0	0	0
+Nothing. He is horrible.	0	0	0
+He's....who knows	0	0	0
+No	0	0	0
+endorsements by many republican senators	-0.14800000000000005	-0.378	0.08000000000000007
+No	0	0	0
+no	0	0	0
+Nothing	0	0	0
+He's open to talk with other countries	0.21266666666666664	-0.24733333333333332	0.24066666666666667
+No.	0	0	0
+Backing down on some of his more egregious proposals	0	0	0
+no	0	0	0
+How he made up with Megyn Kelly	0	0	0
+He is mellowing	0	0	0
+serious on Immigration	-0.01200000000000001	-0.17300000000000004	-0.083
+Nothing.	0	0	0
+He's an adept businessman	0.15199999999999997	-0.247	0.19299999999999995
+Yes, he was reaching out to the Republican establishment	-0.14800000000000005	-0.378	0.08000000000000007
+Create jobs	0.5720000000000001	0.25199999999999995	0.4
+NRA ENDORSED HIM	0	0	0
+That is not even possible.	0	0	0
+To Make America Great again as opposed to how the idiot Obama has run the United States for the past 7 plus years !	0.1248	-0.09560000000000002	0.10760000000000003
+He wants to increase military funding & make our military stronger	0.08960000000000004	-0.028800000000000013	0.15279999999999996
+conciliatory tone	0.09399999999999994	-0.266	0.03599999999999994
+Beginning to unify party.	0.2779999999999999	-0.4	0.14399999999999996
+entertaining	0.6	0.05600000000000005	0.29000000000000004
+everything....the blacks, the illegals,the elitists, the GOP, the Dems, the gays, the Mexicans all hate him...I love that ...fuck em' VOTE TRUMP	-0.031000000000000007	0.0	0.152
+HE'S GOING TO GET THINGS DONE IS WASHINGTON	0.21799999999999997	-0.266	0.13000000000000006
+Nothing	0	0	0
+HELLS NO he sucks fucken ass!!!	0	0	0
+Supreme Court list of nominees	0.036666666666666625	-0.24933333333333332	0.04400000000000004
+Never. Not one thing!	0.21799999999999997	-0.466	0.11199999999999992
+tax reform	-0.19500000000000003	-0.07000000000000002	-0.13799999999999998
+paying off a mortgage of someone helping change a flat tire on his limo	-0.05360000000000002	-0.24960000000000004	-0.002000000000000024
+Tied with Clinton in polls	0	0	0
+supreme court nominees	-0.03400000000000003	-0.129	0.005000000000000018
+are you kidding?	0	0	0
+no	0	0	0
+"he ""kissed and made up"" with the news lady"	0.187	-0.13399999999999998	0.03500000000000005
+hes liberal	0	0	0
+Bringing together the GOP	0	0	0
+for the NRA	0	0	0
+nothing	0	0	0
+no	0	0	0
+he wants to make america great again	0.359	-0.21900000000000003	0.28700000000000003
+No	0	0	0
+no	0	0	0
+He is very generous	0.48599999999999993	0.14000000000000004	0.36199999999999993
+nothing	0	0	0
+n/a	0	0	0
+no	0	0	0
+no	0	0	0
+His endorsement from NRA	0.20999999999999996	-0.24800000000000005	0.184
+Strength, Power, Ability, Cares about us	0	0	0
+He wants to raise the minimum wage	0.20133333333333328	-0.21333333333333335	0.009333333333333374
+stop illegal immigration	-0.24933333333333332	-0.07266666666666673	-0.11466666666666671
+NA	0	0	0
+None	0	0	0
+no	0	0	0
+for the 2nd admentent	0	0	0
+era	0.05800000000000001	-0.27599999999999997	-0.016000000000000014
+That he wasn't going to win the preisential race.	0.39399999999999996	0.12200000000000007	0.5720000000000001
+Supreme court picks	-0.03400000000000003	-0.129	0.005000000000000018
+He's going to shake things up	-0.08200000000000003	0.040000000000000036	0.274
+NO	0	0	0
+He announced potential Supreme Court justice norminees	0.16599999999999998	-0.08999999999999998	0.14149999999999996
+no	0	0	0
+NOT SURE	0.32799999999999996	-0.304	0.36400000000000005
+na	0	0	0
+Straight shooter	-0.25999999999999995	0.2960000000000001	-0.040000000000000036
+Heartless Hillary	-0.44000000000000006	-0.03599999999999994	0.04399999999999995
+absolutely nothing	0	0	0
+nothing	0	0	0
+meg fox	0.10399999999999991	-0.12799999999999995	0.1
+no	0	0	0
+no	0	0	0
+endorsed by NRA	0	0	0
+No	0	0	0
+would protect our gun rights	0.09333333333333337	0.0166666666666667	0.0986666666666667
+Supreme Court Picks	-0.03400000000000003	-0.129	0.005000000000000018
+I have not been in tune with all the news this past week to be able to answer this question but I can say he is focused on this country, that wall on Mexico and illegal immigration and that is my concern I can go on and on but I think this is a start we need Hillary in jail she is a liar.	0.10095238095238093	-0.1998095238095238	0.08542857142857144
+NO	0	0	0
+His choices for Supreme Court	-0.03400000000000003	-0.129	0.005000000000000018
+No	0	0	0
+No	0	0	0
+Nothing	0	0	0
+No	0	0	0
+no	0	0	0
+No	0	0	0
+Nothing	0	0	0
+N/A	0	0	0
+dumb ass	-0.211	0.07299999999999995	-0.20000000000000004
+No	0	0	0
+He has beautiful hair.	0.522	0.142	0.23399999999999999
+he made millions	0	0	0
+Nothing	0	0	0
+Nothing	0	0	0
+that he is crazy	0.027999999999999935	0.18000000000000008	-0.16199999999999992
+No	0	0	0
+he is a fighter	0.019999999999999928	0.05999999999999996	0.284
+n/a	0	0	0
+he is ahead of Killary in several polls	0	0	0
+Changed mind about gun control	-0.013999999999999999	0.17	0.08466666666666663
+He is acting more Presidential, and seems more humble	0.30399999999999994	-0.364	0.2539999999999999
+Nothing positive	0.514	0.1	0.45199999999999996
+No.	0	0	0
+lots	0	0	0
+Endorsed by NRA	0	0	0
+nothing	0	0	0
+ECONOMY, TERRORISM	-0.6799999999999999	0.484	-0.462
+No	0	0	0
+no	0	0	0
+no	0	0	0
+defending his women's stance	0.21999999999999992	-0.42800000000000005	0.22799999999999992
+He is leading in the polls over Clinton	0	0	0
+he thinks outside the box	0.06600000000000002	-0.466	-0.06600000000000002
+Nope	0	0	0
+No	0	0	0
+there is nothing positive about him.	0.514	0.1	0.45199999999999996
+NRA endorsed	0	0	0
+He's polling slightly better?	-0.09000000000000004	-0.35	0.18200000000000002
+that he is a businessmen and knows how to pick winners	0.18200000000000002	-0.27599999999999997	0.18800000000000008
+nothing	0	0	0
+No	0	0	0
+Former employee's comments	0	0	0
+none	0	0	0
+just what he says about himself	0	0	0
+Endorsed by NRA	0	0	0
+no	0	0	0
+No	0	0	0
+none	0	0	0
+Nothing	0	0	0
+His immigration views.	-0.2	-0.15600000000000006	-0.3
+he is trying to act more presedential	0.12799999999999995	-0.16199999999999992	0.22200000000000006
+he's the republican front runner	-0.006000000000000047	-0.18400000000000002	0.13000000000000006
+No.	0	0	0
+Not a thing	0.10999999999999996	-0.31399999999999995	0.08200000000000003
+none	0	0	0
+nope	0	0	0
+none	0	0	0
+No	0	0	0
+no	0	0	0
+willing to stand up for u s a	0.20999999999999996	-0.41400000000000003	0.23899999999999996
+yes	0	0	0
+Ano	0	0	0
+Winning makes strange bedfellows.	-0.05600000000000005	-0.3	0.05600000000000005
+He has the best words	0	0	0
+Economic growth	0.10999999999999997	-0.14299999999999996	0.02500000000000001
+blunt	-0.06999999999999992	-0.07799999999999993	0.12599999999999997
+No	0	0	0
+LOL	0	0	0
+He is winning the republican nomination	-0.011000000000000038	-0.28500000000000003	0.14000000000000004
+Good Supreme Court nominees	0.16999999999999993	-0.17533333333333334	0.09733333333333337
+teaching americans how to make more income	0.23499999999999996	-0.251	0.258
+no	0	0	0
+party unity	0.38499999999999995	0.088	0.258
+He is a bulldog	-0.051999999999999956	-0.25599999999999995	-0.11199999999999992
+no	0	0	0
+no	0	0	0
+NO	0	0	0
+no	0	0	0
+good	0.578	-0.26799999999999996	0.28200000000000003
+nothing	0	0	0
+no	0	0	0
+Yes	0	0	0
+Nothing	0	0	0
+No	0	0	0
+no	0	0	0
+ok yes	0	0	0
+no	0	0	0
+No	0	0	0
+Supports 2nd amendment	0.11999999999999993	-0.3	-0.04600000000000008
+the nra endorsed him	0	0	0
+mostly honest	0.632	-0.2	0.34
+no	0	0	0
+Nope.	0	0	0
+Nothing.	0	0	0
+no.	0	0	0
+no	0	0	0
+nothing	0	0	0
+politacally flexible	0.34800000000000003	-0.10999999999999996	0.33599999999999997
+no	0	0	0
+no	0	0	0
+I've never heard anything positive about Donald trump.	0.514	0.1	0.45199999999999996
+no	0	0	0
+no	0	0	0
+Nothing	0	0	0
+Supreme Court Justice list	0.11749999999999997	-0.16699999999999998	0.09849999999999999
+nothing	0	0	0
+no	0	0	0
+Will protect USA from illegal invaders	-0.021333333333333333	-0.18999999999999997	0.14400000000000002
+na	0	0	0
+na	0	0	0
+Supported by the NRA	0	0	0
+You are kidding, Right????	0	0	0
+Absolutely nothing	0	0	0
+No	0	0	0
+NO	0	0	0
+lots of stuff	0.17200000000000007	-0.296	-0.03399999999999999
+NRA endorsement	0.20999999999999996	-0.24800000000000005	0.184
+He gets things done.	0	0	0
+He sat down with Ryan and core GOP	0.23800000000000007	-0.352	0.17799999999999994
+no	0	0	0
+There is nothing positive about Trump.	0.514	0.1	0.45199999999999996
+His Supreme Court potential nominees	0.10133333333333333	-0.1466666666666667	0.10133333333333332
+import fees	0.05600000000000005	-0.20999999999999996	0.11600000000000002
+No	0	0	0
+Nothing	0	0	0
+AIRPLANE CRASH	-0.18500000000000003	0.016999999999999994	-0.258
+His talk at the NRA about protecting the 2nd ammendment	0.32799999999999996	-0.324	0.2880000000000001
+nra supports him	0	0	0
+none	0	0	0
+nothing	0	0	0
+Nothing	0	0	0
+Sort of made peace with Megyn Kelly	0.55	-0.06999999999999992	0.434
+His wife and daughters are good looking.	0.45899999999999996	-0.21299999999999997	0.191
+He is beginning to bring the Republican party together	0.17549999999999993	-0.176	0.138
+no	0	0	0
+no	0	0	0
+Not	0	0	0
+yes would be a strong president	0.20649999999999996	-0.14550000000000002	0.11800000000000002
+No.	0	0	0
+Says what he thinks is wrong in US	-0.352	0.05800000000000001	-0.32199999999999995
+no	0	0	0
+Yes protecting the 2 admenment	0	0	0
+Accurately assessing the Egypt Air crash cause	-0.01666666666666671	-0.248	-0.05400000000000003
+moderating his positions	0	0	0
+No	0	0	0
+No	0	0	0
+master negotiator, speaks his mind	0.242	-0.05499999999999998	0.02599999999999998
+no	0	0	0
+no	0	0	0
+no	0	0	0
+none	0	0	0
+He has secured the nomination	0.12599999999999997	-0.192	0.2
+He flew his airplane to pick up stranded Marines	0.11600000000000002	-0.07599999999999997	0.006000000000000047
+he's a patriot	0.15999999999999998	-0.027999999999999935	0.21799999999999997
+No	0	0	0
+Nothing	0	0	0
+no	0	0	0
+he says what he thinks, unfiltered	0	0	0
+popular	0.142	-0.051999999999999956	0.038000000000000075
+NRA endorsement, growing GOP support	0.37799999999999995	-0.39	0.22200000000000006
+no	0	0	0
+yes honesty	0.48599999999999993	-0.336	0.36199999999999993
+Everything	0	0	0
+nothing	0	0	0
+Yes.He is still in the Republican lead	-0.018000000000000065	-0.294	0.06200000000000001
+no	0	0	0
+no	0	0	0
+He is trying to unite the party	0.358	-0.07299999999999998	0.27699999999999997
+no	0	0	0
+yes, he is appologizing for his remarks.	0	0	0
+he would raise taxes on the wealthy	0.3	-0.052666666666666695	0.16600000000000006
+bring jobs back	0.043999999999999956	-0.312	0.09399999999999996
+n/a	0	0	0
+nothing	0	0	0
+never	0	0	0
+lol no	0	0	0
+Loves USA	0	0	0
+question trade agreements	0.22700000000000004	-0.188	0.21399999999999997
+no	0	0	0
+Nothing	0	0	0
+Yes - Stand on Economy	-0.10900000000000003	-0.15799999999999997	0.004999999999999977
+Equality for women	0.35	-0.053999999999999916	0.2
+none	0	0	0
+no	0	0	0
+No	0	0	0
+Selecting choices for Supreme court.	0.22799999999999992	-0.14399999999999996	0.22200000000000006
+Friendly with Megyn Kelly	0.568	-0.14600000000000007	0.5199999999999999
+no	0	0	0
+nothing	0	0	0
+He's not as sexist as his opponents make him out to be.	-0.05100000000000002	-0.061000000000000026	0.02999999999999997
+no	0	0	0
+supreme court picks	-0.03400000000000003	-0.129	0.005000000000000018
+No	0	0	0
+yes	0	0	0
+no	0	0	0
+can't remember	0.3	-0.372	0.2619999999999999
+NO	0	0	0
+Nothing	0	0	0
+None	0	0	0
+No comment	0.13000000000000006	-0.288	0.192
+none	0	0	0
+NO	0	0	0
+Nothing	0	0	0
+No.	0	0	0
+He doesn't care what bathroom people use	0.18899999999999995	-0.3255	0.1105
+will help the poor, assure freedom of religion, prptect the Second Amendment, and fix the economy and help blacks and hispanics fet the jobs they need	0.19333333333333333	-0.1928888888888889	0.23488888888888887
+NOTHING	0	0	0
+His poll numbers are surging	-0.07400000000000002	-0.17200000000000007	0.08000000000000007
+HIS CHOICE OF PEOPLE TO HELP PICK THE JUDGE TO REPLACE ALITO(SP).	0.1456666666666667	-0.22966666666666669	0.13933333333333334
+Nothing	0	0	0
+About his rating	-0.07200000000000006	-0.04600000000000008	0.274
+yes, forien policy	-0.246	-0.34	0.22200000000000006
+"That he's been acting ""more presidential"""	0	0	0
+endorsed by the Republican party	0.14399999999999996	-0.08099999999999999	0.13200000000000003
+No	0	0	0
+NO	0	0	0
+N/A	0	0	0
+anti illegals	-0.10600000000000005	-0.15399999999999991	0.009999999999999964
+NOTHING.	0	0	0
+That he might only be pretending to be an idiot.	0.23599999999999993	-0.31399999999999995	0.1
+nothing positive about this bigot bastard...	0.032	0.08700000000000002	0.03799999999999998
+none	0	0	0
+no	0	0	0
+he's for legal immigration	-0.07599999999999998	-0.243	0.017999999999999988
+supreme court nominees	-0.03400000000000003	-0.129	0.005000000000000018
+Changed view of gun control	-0.016000000000000018	0.05333333333333332	0.13466666666666663
+Mo	0	0	0
+Somewhat more subdued	-0.284	-0.41	-0.08599999999999994
+No	0	0	0
+None	0	0	0
+RINO	0	0	0
+nra endorsement	0.20999999999999996	-0.24800000000000005	0.184
+no	0	0	0
+he is hones , says what he means	0	0	0
+Reuniting	0	0	0
+NRA endorsement	0.20999999999999996	-0.24800000000000005	0.184
+wants to make our country great again	0.3153333333333333	-0.232	0.28133333333333327
+Willing to learn and compromise fort the good of the country and the republican party	0.2791428571428571	-0.21485714285714289	0.25571428571428567
+He does not support the disastrous free trade deals we have made or are planning to make, and he knows the Iraq war was a mistake and he won't touch social security	0.06739999999999999	-0.07839999999999998	0.077
+none	0	0	0
+no	0	0	0
+That he is an idiot and unqualified to even run for President. He is a racist, self-centered, ;ying homophopic, ignorant individual.	-0.19199999999999998	-0.053000000000000026	-0.11449999999999996
+no	0	0	0
+nothing	0	0	0
+Good Megan Kelly interview	0.25699999999999995	0.0009999999999999731	0.325
+No	0	0	0
+no	0	0	0
+yes	0	0	0
+That he tells it like it is	0.4880000000000001	-0.11999999999999993	0.25600000000000006
+no	0	0	0
+no	0	0	0
+Nothing	0	0	0
+none	0	0	0
+Pro gun, kick isis butt, deport illegals	-0.06333333333333331	-0.15000000000000002	0.00999999999999999
+n	0	0	0
+No	0	0	0
+no	0	0	0
+no	0	0	0
+No	0	0	0
+No	0	0	0
+Trying to make amends for dumb comments	0.013999999999999976	-0.1386666666666667	0.10466666666666663
+No	0	0	0
+none	0	0	0
+Yes... That he would do a great job...	0.25466666666666665	-0.22533333333333336	0.26266666666666666
+Everything	0	0	0
+no	0	0	0
+The women he promoted in his organization	0.142	-0.382	0.192
+NRA endorsement	0.20999999999999996	-0.24800000000000005	0.184
+Interview with Megan	-0.06400000000000006	0.2699999999999999	0.368
+None	0	0	0
+No	0	0	0
+No	0	0	0
+NONE	0	0	0
+yes, reaching out to women	0	0	0
+never	0	0	0
+closing the gap with clinton and leading in some categories	-0.01799999999999997	-0.27999999999999997	-0.05800000000000001
+I try to ignore any talk about Trump	-0.01050000000000003	-0.27449999999999997	0.15350000000000005
+no	0	0	0
+nothing	0	0	0
+no	0	0	0
+na	0	0	0
+No.	0	0	0
+nothing	0	0	0
+was nominee	0.1	-0.11999999999999993	0.15
+NRA endorsement	0.20999999999999996	-0.24800000000000005	0.184
+for free trade but with the best interest of the us first, does not want to start a war ,would try to work well with putan and china	0.15375	-0.02775000000000001	0.13224999999999998
+Backs 2nd admendment	0	0	0
+One of his previous girlfriends said he was generous.	0.083	-0.374	0.06799999999999998
+the republican party is coming together around him	0.14399999999999996	-0.08099999999999999	0.13200000000000003
+no	0	0	0
+no	0	0	0
+No.	0	0	0
+I have not heard anything positive.	0.17200000000000007	-0.296	0.14399999999999996
+Start to get backing	0.25	-0.15200000000000005	0.11500000000000003
+no	0	0	0
+The NRA supports him	0	0	0
+Nothing	0	0	0
+Nothing	0	0	0
+Immigration laws	-0.2	-0.15600000000000006	-0.3
+He tells it like it is.	0.4880000000000001	-0.11999999999999993	0.25600000000000006
+nothing	0	0	0
+No	0	0	0
+no	0	0	0
+hes not bought unlike other wanna be presidents	0.15899999999999997	-0.30899999999999994	0.15000000000000002
+Make America great!	0.21799999999999997	-0.266	0.24399999999999994
+Nothing	0	0	0
+Nothing	0	0	0
+no	0	0	0
+na	0	0	0
+yes foreign policy,supreme court list ,several other things	-0.015999999999999983	-0.20550000000000002	0.017000000000000015
+Strong willed	0.36199999999999993	0.027999999999999935	0.308
+Trying to unite Republicans	0.2800000000000001	-0.362	0.36999999999999994
+Never	0	0	0
+Supposedly uniting the party	0.43599999999999994	0.21600000000000003	0.184
+He can be civilized sometimes.	0.27133333333333337	-0.3466666666666667	0.2306666666666667
+Absolutlely nothing.	0	0	0
+He said keeping God in America. Make America great again.	0.29933333333333334	-0.10866666666666673	0.19133333333333336
+NO	0	0	0
+nothing	0	0	0
+Changed the system	0.1	-0.324	0.13000000000000006
+Nope	0	0	0
+na	0	0	0
+That some women who have known him thought he was pretty OK.	0.3546666666666667	-0.12133333333333333	0.238
+No	0	0	0
+nothing	0	0	0
+n/a	0	0	0
+Nothing	0	0	0
+mal	0	0	0
+nothing	0	0	0
+Nothing that made any sense	0.21799999999999997	-0.25999999999999995	0.258
+no	0	0	0
+release of prespective judges for the Supreme Court	0.08666666666666661	-0.116	0.09466666666666669
+He has started to act less crazy	0.07799999999999994	0.009000000000000077	0.03000000000000007
+not a thing	0.10999999999999996	-0.31399999999999995	0.08200000000000003
+Nothing	0	0	0
+No	0	0	0
+no	0	0	0
+yes he is working on the wall	0.011999999999999922	-0.42000000000000004	-0.15600000000000006
+NA	0	0	0
+NRA endorsement	0.20999999999999996	-0.24800000000000005	0.184
+The way he called out Hillary Clinton for enabling her husband	0.332	-0.272	0.054999999999999986
+No	0	0	0
+No	0	0	0
+No	0	0	0
+He died.	0	0	0
+lol no	0	0	0
+ha ha	0	0	0
+pro 2nd ammendent	0.2720000000000001	-0.238	0.26400000000000007
+NO	0	0	0
+He had a successful TV show?	0.38099999999999995	-0.06799999999999998	0.29500000000000004
+no	0	0	0
+Many of his top employees are women	0.2	-0.13399999999999998	0.25
+Nothing	0	0	0
+No	0	0	0
+Nothing positive	0.514	0.1	0.45199999999999996
+Is this a trick question?	-0.022000000000000065	0.11400000000000006	-0.356
+Met with Corker	0	0	0
+NO	0	0	0
+Less status quo talk with world leaders	0.19933333333333328	-0.21600000000000005	0.12266666666666672
+That he is most likely to be the Republican candidate for President	0.08280000000000001	-0.1604	0.07600000000000003
+yes	0	0	0
+Yes. He is the official Republican with his primary victory in North Dakota.	0.1456	-0.262	0.166
+no	0	0	0
+Nothing really	0	0	0
+no	0	0	0
+No	0	0	0
+no; there is nothing positive about Donald Trump	0.175	-0.11699999999999998	0.312
+He knows how to manipulate the media.	-0.358	-0.04800000000000004	0.14800000000000005
+None	0	0	0
+Nothing	0	0	0
+Yes	0	0	0
+no	0	0	0
+No	0	0	0
+Yes, he tells it like it is	0.4880000000000001	-0.11999999999999993	0.25600000000000006
+No	0	0	0
+No	0	0	0
+leading in the polls, nice family, employs good people	0.36933333333333335	-0.26933333333333337	0.21866666666666668
+There isn't anything positive	0.514	0.1	0.45199999999999996
+dfs	0	0	0
+nothing	0	0	0
+no	0	0	0
+Meeting with Washington Post	-0.040000000000000036	-0.271	0.179
+no	0	0	0
+no	0	0	0
+Economic and foreign policies	-0.0040000000000000036	-0.09500000000000001	-0.1
+He will fight illegal immigration; he will get rid of Obamacare	-0.11766666666666666	-0.14233333333333334	0.111
+Endorsed by the NRA	0	0	0
+no	0	0	0
+winning	0	0	0
+No	0	0	0
+no	0	0	0
+nothing	0	0	0
+yes, reaching out to women	0	0	0
+no	0	0	0
+Seems to be settling down and being more serious	0.20599999999999996	-0.252	0.11699999999999999
+he has nice children	0.33100000000000007	-0.13800000000000004	0.242
+No	0	0	0
+yes	0	0	0
+no	0	0	0
+maybe	0	0	0
+Yes	0	0	0
+Absolutely not	0	0	0
+Nope	0	0	0
+no	0	0	0
+nra speech	0.12400000000000003	-0.18000000000000008	0.33599999999999997
+None	0	0	0
+no	0	0	0
+supreme court nominees, ending illegal immigration	-0.18319999999999997	-0.09319999999999999	-0.08560000000000001
+Like his choices for Supreme Court	0.13999999999999999	-0.12599999999999997	0.08866666666666669
+No	0	0	0
+No	0	0	0
+Yes. You could count on him to do what he says	0.12999999999999998	-0.403	0.15199999999999994
+gaining support from established repuclicans	0.37799999999999995	-0.39	0.22200000000000006
+No	0	0	0
+yes	0	0	0
+no	0	0	0
+no	0	0	0
+His poll numbers against the dems is getting better	-0.07400000000000002	-0.17200000000000007	0.08000000000000007
+no	0	0	0
+yes a lot	0	0	0
+No	0	0	0
+He wants to make changes in the white house, he can't be bought, he wont be pushed into things like others	0.20533333333333328	-0.2496666666666666	0.16366666666666665
+No	0	0	0
+No	0	0	0
+No	0	0	0
+His daughter spoke positively about him	0.3460000000000001	0.0	0.011999999999999922
+Nothing	0	0	0
+Against illegal immigration, wants to make trade with other countries fair.	-0.003000000000000006	-0.14250000000000002	0.15999999999999998
+Nothing positive about Herr Trump!	0.514	0.1	0.45199999999999996
+That he has been endorsed by the NRA	0	0	0
+No	0	0	0
+rising in polls	0	0	0
+Nothing	0	0	0
+Nothing new	0.5359999999999999	0.027999999999999935	0.04399999999999995
+Nothing positive	0.514	0.1	0.45199999999999996
+no	0	0	0
+no	0	0	0
+no	0	0	0
+Supreme Court Names	-0.03400000000000003	-0.129	0.005000000000000018
+I'm positive he's crazy.	0.514	0.1	0.45199999999999996
+nothing	0	0	0
+no	0	0	0
+Yes	0	0	0
+nothing	0	0	0
+won primaries	0	0	0
+Getting more Republican buy-in.	-0.14800000000000005	-0.378	0.08000000000000007
+no	0	0	0
+nothing	0	0	0
+none	0	0	0
+Nope.	0	0	0
+No	0	0	0
+plan to stop illegal immigration	-0.13	-0.11150000000000004	-0.02200000000000002
+no	0	0	0
+gtdgdg	0	0	0
+No, that's not possible	0.42799999999999994	-0.258	0.2
+he is an idiot	-0.394	-0.030000000000000072	-0.15999999999999998
+His possible supreme court selections	0.11999999999999998	-0.17200000000000001	0.07
+Warm	0.5	-0.32999999999999996	0.266
+NY times caught lying about Trump	0.00899999999999998	-0.348	0.19800000000000006
+No	0	0	0
+none	0	0	0
+Nothing	0	0	0
+nra backing him	0	0	0
+nothing	0	0	0
+Not one thing!	0.21799999999999997	-0.466	0.11199999999999992
+none	0	0	0
+his limo was broken down and a person stopped to help him. To thank him, Trump paid the man mortgate off! How awesome is that!	0.17924999999999996	-0.14799999999999996	0.19575000000000004
+No	0	0	0
+Making military strong	0.171	0.09399999999999996	0.24299999999999997
+none	0	0	0
+no	0	0	0
+Grets things done	0	0	0
+no	0	0	0
+no	0	0	0
+yes--he is uniting republicans	0	0	0
+Made up with reporter	-0.08599999999999994	-0.366	0.03399999999999999
+Alpha male who will take charge and stop the PC nonsense started by Obama	0.02542857142857146	-0.18571428571428575	0.10342857142857143
+never	0	0	0
+No	0	0	0
+Nothing	0	0	0
+He is proud of his daughter, Ivanka.	0.4	0.10999999999999996	0.418
+Jo	0	0	0
+Support for transgender people to use the restroom of their choice; wants to open talks with North Korea	0.13666666666666663	-0.2773333333333334	0.09333333333333337
+nope	0	0	0
+Yes. Loves our country	0.22799999999999992	-0.258	0.2699999999999999
+getting serious about policies	0.176	-0.19000000000000003	0.13399999999999998
+He is v er y smart.	0	0	0
+his list od potential supreme court justicees	0.12050000000000001	-0.23250000000000004	0.1065
+Supreme Court nominees, telling the truth about Clinton the enabler, and Clinton the philanderer	0.12333333333333334	-0.16066666666666668	0.13333333333333333
+Putting good people around her	0.359	-0.257	0.18100000000000005
+No.	0	0	0
+I've never heard anything positive about Trump.	0.514	0.1	0.45199999999999996
+his ideals are similar to mine	0.17200000000000007	-0.31399999999999995	0.15999999999999998
+Only things that he says about himself	0	0	0
+intent to build major infrastructure	0.14249999999999996	-0.19499999999999995	0.16800000000000004
+nothing	0	0	0
+Less arrogant	-0.496	0.030000000000000072	-0.07200000000000006
+No	0	0	0
+no	0	0	0
+NO!	0	0	0
+NO	0	0	0
+Are you kidding?	0	0	0
+no	0	0	0
+Better for economy per survey	-0.081	-0.09999999999999995	0.10899999999999999
+None	0	0	0
+no	0	0	0
+He is positively mentally ill.	0	0	0
+Supports NRA	0	0	0
+No	0	0	0
+Everything is positive	0.514	0.1	0.45199999999999996
+Working with Republican Party	0.14399999999999996	-0.08099999999999999	0.13200000000000003
+no	0	0	0
+I've never heard anything positive about him	0.514	0.1	0.45199999999999996
+he's good to his employees	0.578	-0.26799999999999996	0.28200000000000003
+No	0	0	0
+no	0	0	0
+N/A	0	0	0
+yes that he is a good person	0.3989999999999999	-0.263	0.24100000000000002
+Zero	0	0	0
+He stands for what he says	0	0	0
+no	0	0	0
+smart	0.546	-0.238	0.36199999999999993
+Fuck no!	0.04600000000000008	0.42799999999999994	0.09399999999999994
+no	0	0	0
+His daughters respect him	0.358	-0.041999999999999996	0.45199999999999996
+pay your tax like all the real people do Trump ass hole	0.10622222222222227	-0.192	0.03311111111111111
+nothing	0	0	0
+Nothing	0	0	0
+he's a good man and he will win	0.27999999999999997	-0.17349999999999996	0.31600000000000006
+repub establishment don't want	0.2	0.05800000000000001	0.07799999999999993
+no	0	0	0
+na	0	0	0
+No.	0	0	0
+He only kind of disrespects women	0.556	-0.362	0.524
+No	0	0	0
+No	0	0	0
+None	0	0	0
+no	0	0	0
+speaks his mind	0.34	0.009999999999999964	0.21799999999999997
+Would make america safter	0.2	-0.252	0.21600000000000003
+No	0	0	0
+will put america first	0.18266666666666667	-0.22266666666666668	0.262
+no	0	0	0
+He was accused of raping an ex wife	-0.05999999999999997	-0.1	-0.05
+No	0	0	0
+No	0	0	0
+He's against our trade policies that have lost our country jobs	0.021999999999999992	-0.16049999999999998	0.10899999999999996
+No	0	0	0
+No	0	0	0
+he might not be a fascist	-0.07200000000000004	-0.18299999999999994	-0.06200000000000001
+He immediately spoke the truth about the downing the Egypt Air flight 804.	0.334	-0.24466666666666667	0.20000000000000004
+NO NO NO - is continues to harp on Muslins unfairly	0.08000000000000007	-0.34800000000000003	0.258
+No	0	0	0
+No	0	0	0
+no	0	0	0
+no	0	0	0
+Tells it like it is	0.4880000000000001	-0.11999999999999993	0.25600000000000006
+Nothing	0	0	0
+equality for the LGBT community	0.284	-0.147	0.31100000000000005
+I'm working on it! Which day of the week?	0.2720000000000001	-0.27599999999999997	0.11799999999999997
+rep candidate	-0.06399999999999997	-0.07299999999999995	0.06800000000000006
+yes	0	0	0
+dont know	0.36400000000000005	-0.352	0.15600000000000006
+winning states	0	0	0
+No	0	0	0
+Met with Paul Ryan & other R leaders	0.08200000000000003	-0.304	0.2
+about his daughter Ivanka	0.3460000000000001	0.0	0.011999999999999922
+no	0	0	0
+I have...he wants to eliminate illegal immigration	-0.3053333333333333	-0.10600000000000002	-0.08666666666666666
+he will lead us in the right direction	0.18250000000000005	-0.241	0.2585
+NRA support	0.37799999999999995	-0.39	0.22200000000000006
+No	0	0	0
+no	0	0	0
+Yes	0	0	0
+No	0	0	0
+no	0	0	0
+NRA endorsement	0.20999999999999996	-0.24800000000000005	0.184
+Never hear anything positive about this disgusting man.	0.10133333333333332	0.018000000000000033	0.25066666666666665
+No	0	0	0
+No	0	0	0
+nra endorsing him	0	0	0
+Yes. Latest polls have shown Donald Trump pulling slightly ahead of Hilary.	0.0040000000000000036	-0.31499999999999995	0.15800000000000003
+No.	0	0	0
+He's right about the primary process being unfair	0.07050000000000003	-0.20500000000000002	0.181
+Polls show him tied with Dem.	0.18200000000000002	-0.18000000000000008	0.166
+No	0	0	0
+Everything out of trump's mouth	0.11799999999999997	-0.17200000000000007	0.2
+i haven't heard anything	0	0	0
+He is not as crazy as he pretends to be.	0.027999999999999935	0.18000000000000008	-0.16199999999999992
+no	0	0	0
+strong bussisnessman, NRA supported	0.36199999999999993	0.027999999999999935	0.308
+No	0	0	0
+No	0	0	0
+Making less blunders on foreign policy	-0.13699999999999996	-0.12700000000000006	0.09000000000000002
+NRA Suppots Trump	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+he's ahead of liar Hillary	-0.518	0.31999999999999995	-0.051999999999999956
+No	0	0	0
+Nothing	0	0	0
+no	0	0	0
+yes - speaks his mind	0.34	0.009999999999999964	0.21799999999999997
+none	0	0	0
+No	0	0	0
+no	0	0	0
+Nothing	0	0	0
+"""He isn't afraid to say what he thinks!!"""	-0.184	-0.04500000000000002	-0.04100000000000001
+Nothing	0	0	0
+NONE	0	0	0
+no	0	0	0
+able to make good deals	0.37466666666666665	-0.28600000000000003	0.25333333333333335
+He is winning this election	-0.1	-0.15399999999999991	0.0
+Would have helped Cruz's running mate after falling off the stage	0.246	-0.09760000000000002	0.15360000000000001
+Supreme Court List	0.036666666666666625	-0.24933333333333332	0.04400000000000004
+no	0	0	0
+nothing	0	0	0
+None	0	0	0
+Trump loves Hispanics	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+Picked conservitives for the Supreme Court	-0.03400000000000003	-0.129	0.005000000000000018
+nothing new	0.5359999999999999	0.027999999999999935	0.04399999999999995
+Something, but I don't remember	0.3	-0.372	0.2619999999999999
+He crazy	0.027999999999999935	0.18000000000000008	-0.16199999999999992
+Donald Trump businesses have profited from his candidacy	-0.010666666666666677	-0.34	0.10200000000000004
+never	0	0	0
+no	0	0	0
+No	0	0	0
+Miilo yianopulos wants to suck his dick	-0.323	0.11999999999999993	-0.10900000000000003
+None	0	0	0
+none	0	0	0
+No	0	0	0
+Nope.	0	0	0
+NRA endorsed him	0	0	0
+Doesn't answer to anyone	0.21999999999999992	-0.2	0.19000000000000003
+nra supports	0	0	0
+no	0	0	0
+no	0	0	0
+no	0	0	0
+no	0	0	0
+No	0	0	0
+Speaks his mind	0.34	0.009999999999999964	0.21799999999999997
+He's a good dad	0.5029999999999999	-0.22899999999999998	0.253
+Nothing	0	0	0
+none	0	0	0
+no	0	0	0
+no	0	0	0
+No	0	0	0
+no	0	0	0
+None	0	0	0
+NO	0	0	0
+He's closing the voting gap against Hillary Clinton	-0.01799999999999997	-0.27999999999999997	-0.05800000000000001
+No	0	0	0
+Endorsed by NRA, met with Henry Kissinger	0	0	0
+No	0	0	0
+None	0	0	0
+Interview by Fox news moderator Megan	0.010666666666666616	0.021333333333333343	0.12133333333333335
+no	0	0	0
+nothing	0	0	0
+no	0	0	0
+yes	0	0	0
+No	0	0	0
+no	0	0	0
+ALL NEGATIVE	-0.496	0.009999999999999964	-0.142
+none	0	0	0
+HE DOESN'T GIVE A FLYING FUCK ABOUT THE MEDIA	0.29600000000000004	0.17099999999999999	0.11899999999999995
+Nope	0	0	0
+No	0	0	0
+NRA backs him	0	0	0
+No	0	0	0
+Delay the influx of middle eastern refugees	-0.064	-0.37800000000000006	-0.11533333333333327
+definitely not	0	0	0
+Nothihg	0	0	0
+he will get things done	0.14100000000000001	-0.343	0.22600000000000006
+No	0	0	0
+no	0	0	0
+no	0	0	0
+Nothing about Donald Trump is positive.	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+No	0	0	0
+None	0	0	0
+turn america back into a great country	0.1925	-0.30400000000000005	0.205
+His life expectancy is comfortably low.	0.30000000000000004	-0.006000000000000047	0.12999999999999998
+There is nothing positive to say about this man!	0.34800000000000003	-0.007000000000000027	0.414
+he is gonna make america great again	0.359	-0.21900000000000003	0.28700000000000003
+None	0	0	0
+No	0	0	0
+anti trade	0.037999999999999985	-0.13199999999999995	0.13099999999999995
+NO	0	0	0
+List of potential judges	0.275	-0.336	0.208
+No	0	0	0
+That he loves taco salad.	0.30600000000000005	-0.16199999999999992	0.22599999999999998
+Never	0	0	0
+No	0	0	0
+Yes. Redneck hate	-0.36399999999999993	0.07599999999999997	-0.04800000000000004

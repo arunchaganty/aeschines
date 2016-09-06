@@ -1,0 +1,2255 @@
+line	valence	arousal	dominance
+No	0	0	0
+trump attacks on Bill Clinton	-0.271	-0.267	-0.01399999999999997
+POSITION ON GUN CONTROL	-0.09000000000000002	0.05666666666666668	-0.006666666666666705
+Nothing I can repeat. Very many negative comments, some profane.	-0.10699999999999998	-0.18100000000000002	0.07300000000000005
+E-Mail scandal getting worse...	-0.274	0.12799999999999995	-0.22400000000000003
+yes, she is calling herself the nominee even though the primary isn't over, very arrogant	-0.11066666666666665	-0.1466666666666666	0.11599999999999995
+Everything!	0	0	0
+High negatives	0.15399999999999991	-0.18000000000000008	0.15199999999999997
+everything	0	0	0
+lies about everything	0	0	0
+Trump smears	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+the Clinton Foundation corruption, and the pay for play Scandal, and the email Scandal keeps growing.	0.1708	-0.17600000000000002	0.1608
+no	0	0	0
+No	0	0	0
+That she might consider Bill for a position in her administration	-0.016000000000000025	-0.3355	-0.022500000000000058
+vulnerable	-0.28600000000000003	-0.1	-0.39
+more propoganda that she is untrustworthy	-0.466	-0.040000000000000036	-0.15600000000000006
+She's an alleged enabler and is going to jail	-0.44699999999999995	-0.04400000000000004	-0.18200000000000002
+Too many to mention	0.07799999999999993	-0.47000000000000003	0.06600000000000002
+everything	0	0	0
+only from GOP	0	0	0
+Negative likeability	-0.496	0.009999999999999964	-0.142
+liar and conceited	-0.484	0.31799999999999995	-0.03399999999999999
+E-mail problems, covering up for Bill Clinton's sexual escapades, crooked	-0.1386666666666667	0.008666666666666647	-0.05466666666666666
+The media has nothing good to say about Hillary Clinton, ever.	0.38	-0.191	0.329
+Nothing	0	0	0
+May be indicted over email scandal	0.06799999999999995	-0.16199999999999998	0.07150000000000002
+Lots mostly from Bernie	0	0	0
+No	0	0	0
+Repetitive email silliness	0.08799999999999997	-0.09733333333333333	0.14733333333333332
+She refused to participate in a debate with Sanders in California.	0.04500000000000002	-0.06999999999999992	0.238
+No	0	0	0
+Many things (tired, corrupt, hiding Bill's crimes)	0	0	0
+Bringing Billy in	0	0	0
+Republicans lie about her.	-0.522	-0.038000000000000075	-0.05600000000000005
+Nothing	0	0	0
+criminal	-0.5780000000000001	-0.10199999999999995	-0.18200000000000002
+Bengazi	0	0	0
+Lost her lustre	-0.49400000000000005	0.022000000000000065	-0.22999999999999998
+nonsense	-0.2	-0.09600000000000009	-0.051999999999999956
+Oh, there is too much in her past that is wrong and irresponsible.	-0.167	0.0	-0.14300000000000002
+yes	0	0	0
+Hillary is a liar, untruthful, and will say and do anything to become elected.	0.14800000000000005	-0.2785	0.301
+Yes. Liar. Liar. Liar.	0	0	0
+Naming Bubba as her economic advisor	-0.016000000000000014	-0.31899999999999995	-0.00899999999999998
+keeps stealing delegates	-0.45	-0.08599999999999994	0.1
+She's in serious trouble re her private Email server	0.0216	-0.14120000000000002	0.023999999999999987
+no	0	0	0
+All the usuals	0	0	0
+none	0	0	0
+no	0	0	0
+no	0	0	0
+no	0	0	0
+Nothing	0	0	0
+yes Bill will be the real president because she cannot handle it	0.08866666666666669	-0.2476666666666667	0.07933333333333334
+a chameleon warhawk; flip-flopper; actually more a Republican than Democrat; playing the woman card; dishonest; friend of Wall Street, Monsanto and corporations, not the people	0.1733333333333333	-0.26466666666666666	0.07666666666666666
+None	0	0	0
+a lot	0	0	0
+hated by republicans	0	0	0
+Yea- Bengazi/ EMail	0.2	-0.1	0.22200000000000006
+cheater and liar	-0.46399999999999997	0.255	-0.11699999999999999
+too much	0	0	0
+another obama	0	0	0
+No	0	0	0
+yesh that she lies and takes money from crooked people plus her campaign is rigged	0.025999999999999985	-0.08449999999999999	0.002000000000000021
+liar, thief	-0.536	0.20999999999999996	-0.372
+Lies	0	0	0
+Fees to Bill for favors from State	-0.11599999999999996	-0.271	-0.034999999999999976
+email security, FBI investigation	0.03600000000000003	0.020000000000000018	0.22200000000000006
+no	0	0	0
+she stole the Kentucky election	-0.1	-0.15399999999999991	0.0
+More covering up for paid speeches to Wall Street	0.01299999999999999	-0.365	-0.03700000000000001
+Her emails were a violation of national security laws	-0.04533333333333334	-0.18933333333333333	0.06066666666666665
+Untrustworthiness	0	0	0
+Claims that she is a liar	-0.518	0.31999999999999995	-0.051999999999999956
+Comments on eliminating coal jobs	-0.08800000000000008	-0.49000000000000005	-0.02400000000000002
+yes, same old fox news bull	-0.11900000000000001	-0.08249999999999993	0.05449999999999999
+She is totally crooked & corrupt!	-0.366	-0.16400000000000006	-0.364
+Don't know	0.36400000000000005	-0.352	0.15600000000000006
+Lied about e-mails	0	0	0
+No	0	0	0
+she lies	0	0	0
+She purposely hid emails on her private server. She thinks she's the inevitable nominee.	-0.046	-0.21100000000000002	-0.252
+emails, flip flopping on policies	0.11999999999999993	-0.07599999999999998	0.06400000000000006
+telling lies about sanders	0	0	0
+She is not indicted yet.	0	0	0
+more scandal about her speeches	-0.274	0.12799999999999995	-0.22400000000000003
+Not trustworthy	0.45	-0.15600000000000006	0.458
+She is Bill's enabler	0	0	0
+not enough said about emails, Benghazi, White Water, pork belly futures, etc. etc. etc.	0.03666666666666665	-0.2733333333333334	0.10133333333333332
+getting rid of the coal miners,	-0.17700000000000005	-0.30700000000000005	-0.0060000000000000496
+She let our people get murdered on her watch	0.15950000000000003	-0.32399999999999995	0.183
+Claims not to be subject of FBI investiagtion	0.15099999999999997	-0.23699999999999996	0.187
+Everything she says, does, promotes is negative. She's evil.	0	0	0
+I heard she's a hawk.	0	0	0
+Her campaign botched a venn diagram	0.001999999999999953	-0.279	0.12699999999999995
+Deceptive and dishonorable	-0.394	0.07100000000000001	-0.24300000000000002
+everthing	0	0	0
+no	0	0	0
+no	0	0	0
+she is blaiming bernie for her low favorability ... wont debate sanders dispite giving her word	-0.040000000000000036	-0.235	0.049499999999999995
+Hacking of emails.	0	0	0
+Yes and just about everything	0	0	0
+Dishonest, Cheater, hypocrite.	0	0	0
+She could have prevented the embassy attacks by listening to the intel and the requests for more personnel.	0.11600000000000002	-0.257	0.15099999999999997
+Emails, unethical, thinks she's royalty	0.10399999999999991	-0.13599999999999995	0.13599999999999995
+yes. people aren't sure about her	0.23399999999999999	-0.275	0.22200000000000006
+all over the place	0.17200000000000007	-0.296	0.30600000000000005
+No	0	0	0
+She and the rest of the Clinton family should cut ties with the Clinton Foundation.	0.26733333333333337	-0.21933333333333338	0.08733333333333337
+Nothing	0	0	0
+everything she says	0	0	0
+na	0	0	0
+So many lies	0	0	0
+yes	0	0	0
+She wimped out of a CA debate	-0.009999999999999964	-0.027999999999999935	0.192
+not enought room to list all the negatives	0.14399999999999996	-0.43500000000000005	0.13200000000000003
+Yes- a lot	0	0	0
+changing her opinion all the time	0.19799999999999995	-0.20599999999999996	0.06400000000000006
+Nothing	0	0	0
+Trump said she is not fit to be president	0.09350000000000001	-0.20900000000000002	0.09250000000000003
+No	0	0	0
+none	0	0	0
+She has too many negatives to win.	0	0	0
+Yes she's a cunt	-0.25999999999999995	0.21999999999999992	-0.352
+FBI criminal investigation	-0.353	0.019000000000000045	0.020000000000000018
+YES	0	0	0
+no	0	0	0
+yes liar and thief	-0.527	0.26499999999999996	-0.21199999999999997
+emails	0	0	0
+Yes lots.	0	0	0
+yes-just might be indicted: uncesure server	0.1529999999999999	-0.286	0.06399999999999997
+emails, CASH, Bill	-0.378	-0.2	-0.2
+pandering for black and female votes	0.292	-0.05199999999999995	0.19000000000000003
+White water, Ben gisie, foundations, husband girl friends. Martha didn't have sex with that women, my faithful husband is going to help me straighten out the economy	0.3108000000000001	-0.089	0.17059999999999995
+She engineered the fiasco at the Nevada Convention	-0.09500000000000001	-0.10499999999999998	-0.235
+no	0	0	0
+many things, vote manipulation sticks out	-0.192	-0.008999999999999985	0.21799999999999997
+attempts to malign her character	0.22799999999999992	-0.13000000000000006	0.47400000000000003
+Heard how she treated women Bill Raped!	-0.378	-0.2	-0.2
+liar	-0.518	0.31999999999999995	-0.051999999999999956
+e-mail scandal	-0.274	0.12799999999999995	-0.22400000000000003
+not connecting with young voters	0.2619999999999999	-0.18200000000000002	0.11999999999999993
+She lies.	0	0	0
+no	0	0	0
+yes, because to some people she can't do anything right	0.2286666666666667	-0.17066666666666666	0.26066666666666666
+She is a liar !	-0.518	0.31999999999999995	-0.051999999999999956
+Destroy coal industry; more lies	-0.277	-0.229	-0.08200000000000003
+Little enthusiasm among voters	0.305	-0.16200000000000003	0.187
+no	0	0	0
+yes	0	0	0
+Lost Oregon. She needs help to NOT look so stodgy. That's not the right word...she just never looks relaxed...a good quality once elected, but people don't react well to her.	0.20875000000000005	-0.13199999999999998	0.20425000000000001
+Clinton Foun0dation under investigation for fraud	-0.359	0.088	-0.04099999999999997
+Liar,Liar. Clinton foundation is a fraud!	0.17200000000000007	-0.518	0.28200000000000003
+laughing about a rape victim in a case she was involved in many years ago	-0.41533333333333333	0.1166666666666667	-0.2433333333333333
+Lots. Bill is a liability with his history of women.	-0.16266666666666665	-0.2026666666666667	-0.13066666666666668
+She said people's votes in California don't matter	0.16400000000000006	-0.19000000000000003	0.22400000000000003
+she is for comprehensive background checks for gun purchases and licenses	0.033333333333333326	0.0006666666666666673	0.09066666666666669
+Only from Trump.	0	0	0
+She's standing by her man	0.08399999999999999	-0.12799999999999995	0.08800000000000008
+EVERY MINUTE OF EVERY DAY	0.18600000000000005	-0.262	-0.02400000000000002
+Yes. Her health may be an issue	0.12649999999999995	-0.26749999999999996	0.14550000000000002
+Everything is negative with that evil, murdering bitch!	-0.496	0.009999999999999964	-0.142
+Convicted of treason	-0.39	0.15999999999999998	-0.266
+She can't be trusted (lie)	0.23599999999999993	-0.31399999999999995	0.1
+Lied about many issues	0	0	0
+Should be in prison	-0.18800000000000003	-0.14700000000000002	-0.09599999999999999
+should be in jail now	-0.19100000000000003	-0.21	-0.05899999999999998
+Disregard for American sacrifice of life overseas.	0.06399999999999995	-0.06399999999999999	0.09133333333333328
+Crooked hc	-0.366	-0.16400000000000006	-0.364
+yes	0	0	0
+no	0	0	0
+Too much to list	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+About the leaks of the emails	0	0	0
+She lies, and Cheats.	0	0	0
+yes	0	0	0
+passed	0	0	0
+Electron fraud, rudeness and disrespect to your citizens, basic traits of a deplorable human being	-0.1146666666666667	-0.11099999999999999	-0.06999999999999997
+no	0	0	0
+No	0	0	0
+I have heard nothing negative	-0.16199999999999998	-0.14300000000000002	0.000999999999999987
+none	0	0	0
+Ollt	0	0	0
+Clinton can't be trusted	0.23599999999999993	-0.31399999999999995	0.1
+her voice	0.3	-0.35	0.24399999999999994
+emails	0	0	0
+n/a	0	0	0
+Yes. More about Bengazi.	0	0	0
+Yes, she's bad	-0.352	-0.027999999999999935	-0.288
+No	0	0	0
+Past questionable judgements	-0.04299999999999997	-0.17400000000000002	-0.026000000000000068
+That she would rather Sling mud than be truthful.	0.07049999999999995	-0.23349999999999996	0.07200000000000004
+everything from the liar	-0.518	0.31999999999999995	-0.051999999999999956
+No	0	0	0
+She is a pathological liar	-0.488	0.009999999999999981	-0.12599999999999997
+the improper use of email accounts in the past	-0.009000000000000032	-0.08999999999999998	0.04399999999999999
+too much to list....	0	0	0
+her emails	0	0	0
+Problems with the Clinton foundation	0.17200000000000007	-0.518	0.28200000000000003
+values	0	0	0
+She sucks	0	0	0
+No	0	0	0
+Poll numbers are down	-0.07400000000000002	-0.17200000000000007	0.08000000000000007
+negative ratings	-0.496	0.009999999999999964	-0.142
+no	0	0	0
+No	0	0	0
+anything trump says i dont believe	0.12299999999999996	-0.33399999999999996	0.242
+no	0	0	0
+No	0	0	0
+none	0	0	0
+untrustworthy	-0.466	-0.040000000000000036	-0.15600000000000006
+yes. She has threatened and intimidated the victims of her husband.	0	0	0
+not truely	0	0	0
+No	0	0	0
+no	0	0	0
+no	0	0	0
+I have heard she has a high unfavorable rating but I don't believe it.	0.16599999999999998	-0.21400000000000002	0.22049999999999997
+Yes, she is a crook, married to a sex offender, doesn't care at all about others, a murderer, and a liar.	0.437	0.02699999999999994	0.27299999999999996
+she is in league with corporations	0.06999999999999992	-0.15	0.25600000000000006
+She's a liar	-0.518	0.31999999999999995	-0.051999999999999956
+Positive	0.514	0.1	0.45199999999999996
+ok	0	0	0
+bill's impeachment	-0.384	-0.16799999999999998	-0.10800000000000001
+cheater	-0.41	0.19000000000000003	-0.18200000000000002
+none	0	0	0
+the usuall e mails	0	0	0
+none	0	0	0
+no	0	0	0
+she is the anti-christ	0	0	0
+Criminal!	0	0	0
+emails	0	0	0
+No	0	0	0
+yes	0	0	0
+Obscession about guys and transexuals	0	0	0
+No	0	0	0
+No	0	0	0
+Email Benghazi	0.2	-0.1	0.22200000000000006
+Bill Clinton	-0.378	-0.2	-0.2
+No	0	0	0
+yes	0	0	0
+she's a liar and got the most part of people/women convinced she'll do good	0.02399999999999998	-0.1355	0.1355
+no	0	0	0
+Dirty Emails	-0.366	0.009999999999999964	0.009999999999999964
+no	0	0	0
+None	0	0	0
+Just Trump lies	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+No	0	0	0
+will win	0.229	-0.149	0.44700000000000006
+Yes she is skating to the nomination	0.12599999999999997	-0.192	0.2
+Email scandal	-0.037000000000000005	0.01399999999999997	-0.000999999999999987
+"Lied about email server, racist ""superpredator"" remarks, arrogant behavior about nomination. She's human garbage."	-0.10800000000000001	-0.1048	0.06839999999999999
+no	0	0	0
+benghazi, isis, syria, iraq, emails	0	0	0
+Lies Lies, Private server, Bengahzi, Bill	-0.14499999999999996	-0.238	-0.16699999999999998
+Benghazi and emails and pandering to minorities	0	0	0
+no	0	0	0
+dans	0	0	0
+no	0	0	0
+All she espouses is not believable!	0	0	0
+No	0	0	0
+no	0	0	0
+She's a lying criminal	-0.5780000000000001	-0.10199999999999995	-0.18200000000000002
+Liar	-0.518	0.31999999999999995	-0.051999999999999956
+BENGHAZIIII (sarcasm)	0	0	0
+No, it's not allowed.	0	0	0
+LATROBE, PA 15650	0	0	0
+her defence of a rapist in 1972 (i think)	-0.74	0.266	-0.558
+Nothing I would listen to	0.28200000000000003	-0.24300000000000002	0.15
+Trump calling her names	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+nothing	0	0	0
+She's a lying politician	-0.35	-0.05999999999999996	-0.18000000000000008
+NO	0	0	0
+Clinton Foundation is a slush fund for her campaign.	0.1393333333333333	-0.256	0.14933333333333335
+no	0	0	0
+her right hand man is getting sued	0.2426666666666667	-0.11066666666666665	0.23200000000000007
+untrustworthy	-0.466	-0.040000000000000036	-0.15600000000000006
+She is against the right to bear arms	0.26500000000000007	-0.05	0.07500000000000001
+crooked	-0.366	-0.16400000000000006	-0.364
+Gun Control	-0.191	0.25	0.017999999999999967
+NONE	0	0	0
+no	0	0	0
+Same as above.	0	0	0
+Liar	-0.518	0.31999999999999995	-0.051999999999999956
+No	0	0	0
+I dont know	0.36400000000000005	-0.352	0.15600000000000006
+Some people claimed that her campaign and the Democratic party are sabotaging Bernie's ability to win delegates.	0.23666666666666666	-0.062000000000000006	0.2496666666666667
+no	0	0	0
+She's a woman.	0	0	0
+She is more of the same, big government, and untrustworthy.	0.12799999999999995	-0.13399999999999998	0.12200000000000007
+helped free a rapist by treating victim as unreliable	-0.28300000000000003	0.0685	-0.21500000000000002
+Email controversy	-0.07899999999999999	0.05899999999999998	-0.01399999999999997
+no	0	0	0
+she is all talk	0.32799999999999996	-0.324	0.2880000000000001
+Bengazi	0	0	0
+Liar	-0.518	0.31999999999999995	-0.051999999999999956
+No	0	0	0
+no	0	0	0
+to much to list	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+Too many to list	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+superdelegates and everything else that's been said already	0	0	0
+dont' recall	-0.04600000000000008	-0.10399999999999991	0.15600000000000006
+She's losing the general election polls	-0.017999999999999974	-0.20599999999999996	0.02400000000000002
+Emails and servers	0	0	0
+The fact that she may be freaking INDITED. And that her camp is spreading bullcrap about Bernie's followers being violent in Nevada which they were not--they were loud and angry, that does not equal violence	0.03999999999999998	-0.148	0.053142857142857144
+no	0	0	0
+No	0	0	0
+no	0	0	0
+She is an unqualified liar.	-0.304	-0.06600000000000002	-0.2
+She did not swallow the sperm	0.10400000000000001	-0.13599999999999998	0.014999999999999951
+lots of neg talk all of the time	0.22399999999999995	-0.32099999999999995	0.08000000000000007
+She lies.	0	0	0
+Emails	0	0	0
+no	0	0	0
+the usual misogynistic attacks	0.09600000000000009	-0.36	0.316
+everything	0	0	0
+no	0	0	0
+Everything out of Trump's mouth about her	0.11799999999999997	-0.17200000000000007	0.2
+No.	0	0	0
+security issues	0.28200000000000003	-0.16199999999999992	0.2
+NA	0	0	0
+no	0	0	0
+no, I took the week off from politics	-0.07300000000000005	-0.32299999999999995	-0.12999999999999998
+she lied , she lied , she lied , she lied ,	0	0	0
+unlikeable	0	0	0
+some things about fbi investigations, she lost some primarys	-0.49400000000000005	0.022000000000000065	-0.22999999999999998
+None	0	0	0
+no	0	0	0
+She's secretive, a liar, and not trustworthy	0.45	-0.15600000000000006	0.458
+none	0	0	0
+No	0	0	0
+No	0	0	0
+none	0	0	0
+no	0	0	0
+yes, that she said she already had this election won	-0.1	-0.15399999999999991	0.0
+everything	0	0	0
+allot	0	0	0
+No	0	0	0
+nope	0	0	0
+no	0	0	0
+no	0	0	0
+lies alot	0	0	0
+no	0	0	0
+every time she opens her mouth she lies	0.11899999999999994	-0.245	0.03600000000000003
+yes she made racist remarks and hid more emails	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+too much to mention	0.07799999999999993	-0.47000000000000003	0.06600000000000002
+everything	0	0	0
+unpopular	-0.41	-0.15	-0.304
+she's a b_____	0	0	0
+gun control	-0.191	0.25	0.017999999999999967
+no	0	0	0
+thief,liar,probably will be charged with treason	-0.03000000000000001	-0.19133333333333336	0.05200000000000001
+no	0	0	0
+no	0	0	0
+no	0	0	0
+Liar	-0.518	0.31999999999999995	-0.051999999999999956
+no	0	0	0
+No	0	0	0
+she still supports fracking and her refusal to reveal text of speeches to wall street	0.01760000000000001	-0.32120000000000004	0.09480000000000001
+big money donations	0.2739999999999999	0.11900000000000004	0.19300000000000006
+no	0	0	0
+the constant drumbeat of her not being trustworthy	0.31500000000000006	-0.29700000000000004	0.36500000000000005
+Yes, her negativism	0	0	0
+Lack of trust	0.09200000000000005	-0.346	0.241
+shady lady	0.062	-0.166	0.083
+postive	0	0	0
+I do not put attention to any negative publicity about her.	-0.016400000000000022	-0.152	0.10599999999999996
+lots of things	0	0	0
+Nothing	0	0	0
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+She is dishonest.	0	0	0
+no	0	0	0
+no	0	0	0
+shes against the 2nd amendment rights	0.11999999999999993	-0.3	-0.04600000000000008
+She's selfish	-0.34	-0.08599999999999994	0.06400000000000006
+No	0	0	0
+No	0	0	0
+No	0	0	0
+no	0	0	0
+Her dealing with husband's girlfriends.	0	0	0
+yes about the emails	0	0	0
+That she is dishonest	-0.4	-0.009999999999999964	0.0
+the her history with lying is catching up with her which is also a positive if you don't like her	0.40066666666666667	-0.11466666666666664	0.22266666666666665
+no	0	0	0
+Shes a liar	-0.518	0.31999999999999995	-0.051999999999999956
+Evetything	0	0	0
+Yeah I watched a video of all the times she has lied on public television, it was long.	0.19200000000000003	-0.244	0.1266666666666667
+everything she says is negative	-0.496	0.009999999999999964	-0.142
+Yes	0	0	0
+She is a very dishonest person in everything	-0.09000000000000005	-0.13399999999999998	0.1
+she is a lier	0	0	0
+That she's untrustworthy.	0	0	0
+Loss of trust	0.014000000000000012	-0.05	0.142
+Only from the Trump campaign.	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+No	0	0	0
+No	0	0	0
+the email breach	-0.033	-0.20400000000000001	0.08700000000000001
+Nothing	0	0	0
+She refused to use secure means for communications.	0.22599999999999998	-0.22099999999999995	0.2
+Everything	0	0	0
+no	0	0	0
+scandals, breaking promises on debates and publishing her wall street speech transcripts. basically a giant liar that cannot be trusted	-0.0031428571428571616	-0.18457142857142858	0.10428571428571429
+She covered up Bill Clinton affairs. And, his Monica Lewinsky affair should have the last straw for her. He embarrassed in the eyes of the world. She should have left the adulterer even if he was President.	-0.08324999999999999	-0.17425000000000002	-0.015500000000000003
+No	0	0	0
+ONLY THE CRAP TRUMP IS SPOUTING	-0.23800000000000004	-0.20499999999999996	-0.0029999999999999333
+n/a	0	0	0
+No	0	0	0
+no	0	0	0
+nothing hate the news	-0.308	0.08700000000000001	-0.10499999999999998
+shes dishonest	-0.4	-0.009999999999999964	0.0
+Na	0	0	0
+she is a lier..and a traitor....	0	0	0
+She's a liar	-0.518	0.31999999999999995	-0.051999999999999956
+she is terrible candidate	-0.33999999999999997	-0.029000000000000005	-0.11199999999999996
+That she is an enabler.	0	0	0
+email	0.2	-0.1	0.22200000000000006
+It is all negative because she and her husband are a pair of jerks.	0.05866666666666669	-0.148	0.11266666666666665
+Murderer (Bengazi), liar, untrustworthy, evil, a disgrace	-0.563	0.11100000000000002	-0.385
+liar	-0.518	0.31999999999999995	-0.051999999999999956
+Republicans still want tapes to reveal that they are right about her.	0.27866666666666673	-0.03800000000000002	0.26999999999999996
+No	0	0	0
+Yes	0	0	0
+yes about her emails	0	0	0
+Email scandal	-0.037000000000000005	0.01399999999999997	-0.000999999999999987
+Should tell about coal, plan	0.14099999999999993	-0.22800000000000004	0.12200000000000007
+Murderer, traitor, dishonest	-0.4	-0.009999999999999964	0.0
+She is not trustworthy	0.45	-0.15600000000000006	0.458
+yes, that is all I ever hear.	0	0	0
+No	0	0	0
+NA	0	0	0
+No	0	0	0
+everything	0	0	0
+NO	0	0	0
+She lies lies lies	0	0	0
+,no	0	0	0
+That she hates coal miners	-0.08800000000000008	-0.49000000000000005	-0.02400000000000002
+Bill's past affairs	0.01799999999999997	-0.05800000000000001	0.03599999999999994
+Trade agreements	0.18200000000000002	-0.10999999999999996	0.25199999999999995
+Illegal use of sensitive material/phone	-0.06400000000000004	-0.10533333333333332	-0.018666666666666682
+Her e mails	0	0	0
+Nothing	0	0	0
+Bengazi cover-up, Clinton Fund illegalities, a summary of Hillary Clinton's most recent lies	0.13466666666666663	-0.22	0.13333333333333333
+no	0	0	0
+Benghazi and emails	0	0	0
+Lies a lot	0	0	0
+the press is now alluding to the likelihood of a contested convention, with the underlying message that she can be weakened by bernie	0.159	-0.3073333333333333	0.12700000000000003
+Collusion w/ DNC	0	0	0
+Her email problem.	0.2	-0.1	0.22200000000000006
+felony crimes	-0.516	-0.009999999999999964	-0.13800000000000007
+she falls alot, has a bad memory too!	-0.017999999999999988	-0.10599999999999997	-0.06899999999999999
+Lies, lies, lies	0	0	0
+Yes - she will say anything to be elected	0.16066666666666665	-0.2826666666666667	0.266
+Liar, dishonest. Backpedaled, run by wall St. She would be a complete disaster.	0.2024	-0.282	0.13080000000000003
+bigger liar	-0.518	0.31999999999999995	-0.051999999999999956
+Put coal miners out of work and give more away to illegals	0.12149999999999997	-0.23450000000000001	0.133
+no	0	0	0
+Email and Benghazi.	0.2	-0.1	0.22200000000000006
+Yes, but it was all from Trump so I don't believe any of it.	0.12299999999999996	-0.33399999999999996	0.242
+much	0	0	0
+no	0	0	0
+no	0	0	0
+e mail scandal	-0.00899999999999998	-0.05500000000000002	-0.08600000000000003
+liar	-0.518	0.31999999999999995	-0.051999999999999956
+She got gave her husband	0.48200000000000004	-0.12400000000000003	0.14399999999999996
+none	0	0	0
+emails	0	0	0
+against guns, but has armed bodyguards	-0.17799999999999994	0.25999999999999995	0.13599999999999995
+Old school politician	-0.20999999999999996	-0.08333333333333327	-0.05333333333333338
+her emails	0	0	0
+Everything	0	0	0
+no	0	0	0
+Yes. Her denial of doing anything wrong when she knew she was breaking the law.	-0.319	0.013999999999999969	-0.256
+Super delegates	0.41	-0.15	0.382
+yes	0	0	0
+no	0	0	0
+Won't admit to criminal activities	-0.23300000000000007	-0.21599999999999997	-0.13500000000000006
+yes email	0.2	-0.1	0.22200000000000006
+Crooked	-0.366	-0.16400000000000006	-0.364
+No	0	0	0
+Nothing	0	0	0
+she will try to take guns	0.05200000000000002	-0.23866666666666672	0.1586666666666667
+No	0	0	0
+Indictment	-0.22199999999999998	0.05	-0.166
+Clinton Global Initiative	0.225	-0.22099999999999997	0.14399999999999993
+Yes. She's basically a Republican, in the sense that she's totally in the pocket of the financial and banking industries - along with a healthy dose of ties to interest-group handouts and union thugs.	0.16428571428571428	-0.19485714285714284	0.14000000000000004
+Emails still an issue; treats other women poorly, deciding to be quiet instead of speak up against trump as a campaign strategy	0.10428571428571427	-0.31342857142857133	0.1674285714285714
+Her money dealings	0.41999999999999993	0.37200000000000005	0.26400000000000007
+The ongoing email investigation	0.010000000000000028	-0.03733333333333332	0.15333333333333338
+She has lied several time	0.11999999999999993	-0.31799999999999995	-0.12799999999999995
+no	0	0	0
+Everything!	0	0	0
+a lot of things	0	0	0
+She doesn't know what she is doing.	0.36400000000000005	-0.352	0.15600000000000006
+She says what the voters want to hear	0.268	-0.10899999999999999	0.20999999999999996
+no	0	0	0
+No	0	0	0
+no	0	0	0
+In the pocket of big business	0.11933333333333333	-0.164	0.15533333333333332
+No	0	0	0
+Will be indicted	0.15	-0.367	0.21100000000000002
+The Devils daughter	0.3460000000000001	0.0	0.011999999999999922
+about her email	0.2	-0.1	0.22200000000000006
+Not enough room to comment	0.12000000000000001	-0.33399999999999996	0.16699999999999998
+Had people murdered and robbed	0.14000000000000004	-0.246	0.08000000000000007
+No	0	0	0
+No	0	0	0
+Everything that comes out of her mouth	0.11799999999999997	-0.17200000000000007	0.2
+emails while secretary of state	0.09100000000000001	-0.29100000000000004	0.233
+No	0	0	0
+Damn near everything	-0.13599999999999995	0.019999999999999928	-0.12200000000000007
+yes	0	0	0
+nothing	0	0	0
+No	0	0	0
+Benghazi, Benghazi, Benghazi. But I don't believe the Republican hype.	0.13099999999999995	-0.356	0.196
+That her emails were compromised for a couple of years.	0.42200000000000004	-0.009999999999999964	0.12200000000000007
+from fox not news their poll.	0.04799999999999995	-0.10299999999999994	-0.001999999999999953
+No	0	0	0
+nothing	0	0	0
+None	0	0	0
+some	0	0	0
+No	0	0	0
+no	0	0	0
+She's a criminal	-0.5780000000000001	-0.10199999999999995	-0.18200000000000002
+Not really.	0	0	0
+her comments about blacks being modern day predators	0.24100000000000002	-0.09799999999999995	0.08999999999999994
+nOT FROM THE MAIN STREAM MEDIA	0.217	-0.15500000000000008	0.18799999999999997
+criminal	-0.5780000000000001	-0.10199999999999995	-0.18200000000000002
+Yes. That more people are not trusting Hillary. That Hillary has been a lesbian for many years.	0.14600000000000002	-0.01899999999999999	0.07400000000000002
+None	0	0	0
+na	0	0	0
+everything	0	0	0
+She's not trustworthy	0.45	-0.15600000000000006	0.458
+nothing	0	0	0
+Raise pay and cut taxes	0.15666666666666668	-0.039333333333333324	0.08800000000000002
+No	0	0	0
+More bullshit about Beghazi, Trump calling her an enabler of her husband's infidelity, and continued attacks by Sanders.	-0.34900000000000003	0.03300000000000003	-0.11399999999999998
+No	0	0	0
+NOt	0	0	0
+1	0	0	0
+everything about the lying bitch	-0.49000000000000005	0.19000000000000003	-0.27
+YES	0	0	0
+all republicans hate her	-0.608	0.25199999999999995	-0.10600000000000005
+all kinds of things.	0	0	0
+Benghazi	0	0	0
+none	0	0	0
+Murderer liar elitest snake	-0.4426666666666666	0.37799999999999995	-0.252
+Trump calling her names and saying she enables her husband	0.15899999999999997	-0.22899999999999998	0.15800000000000003
+Email scandal, Clinton Foundation	0.18600000000000005	-0.309	0.25200000000000006
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+Only about the e-mails she has tried to hide.	0	0	0
+Yes.. Gifts to Clinton Foundation from Foreign governments	0.07200000000000006	-0.21600000000000003	0.12000000000000002
+More deception	-0.528	0.158	-0.238
+no. I am very good using the mute button! I've had enough!	0.184	-0.389	0.05899999999999998
+The kids don't like her, generation gap	0.24550000000000005	-0.10349999999999995	0.06750000000000003
+shes a liar	-0.518	0.31999999999999995	-0.051999999999999956
+no	0	0	0
+cheater	-0.41	0.19000000000000003	-0.18200000000000002
+Charity sham, Personal email server, etc...	0.2626666666666666	-0.24733333333333332	0.12733333333333333
+too much to mention	0.07799999999999993	-0.47000000000000003	0.06600000000000002
+Nothing	0	0	0
+she lied	0	0	0
+Yes, liar	-0.518	0.31999999999999995	-0.051999999999999956
+She loves abortion, and wants people who love abortion as supreme court judges, also that the elections are being rigged, and her husband is a possible rapist	0.044749999999999984	-0.05775000000000001	0.0007500000000000145
+Yes. Emails, Bengazi, 1978 rape case, mutiple deaths of people associated with Clinton's, drug use lying about it all	-0.1735	-0.01599999999999994	-0.173
+lier, flip flopper, not trustworthy	0.285	-0.11600000000000002	0.261
+FBI investigation	-0.12799999999999995	0.14000000000000004	0.22200000000000006
+She can't handle economy without Bill.	-0.06299999999999994	-0.11999999999999997	0.016000000000000014
+She just so corrupt.	0	0	0
+allegations of a rigged political system, specifically in NV	-0.13000000000000006	-0.2	-0.184
+That she lies, steals, and cause the deaths of Americans.	0.027999999999999935	-0.304	0.03399999999999999
+Poor leader counts on husband too much	0.1546666666666667	-0.06600000000000002	0.06799999999999996
+N/A	0	0	0
+bengazi lies	0	0	0
+none	0	0	0
+Let's put it this way I haven't heard anything good	0.2593333333333333	-0.3053333333333334	0.14533333333333337
+Yes	0	0	0
+Email scandle	0.2	-0.1	0.22200000000000006
+That she wants to pull her husband out of retirement to run the economy	0.186	-0.0748	0.07760000000000002
+Liar, Criminal	-0.5780000000000001	-0.10199999999999995	-0.18200000000000002
+No	0	0	0
+Enabler of Bill's sexual predation	0.32799999999999996	0.39	0.4
+false accusations from Trump	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+No	0	0	0
+she is using her husband to try to earn votes	0.33666666666666667	-0.15133333333333338	0.22733333333333336
+LIAR	-0.518	0.31999999999999995	-0.051999999999999956
+I have not heard anything negative about Hillary Clinton in the last week.	-0.16199999999999998	-0.14300000000000002	0.000999999999999987
+She is still running even though she should be in jail	-0.02533333333333332	-0.10533333333333335	0.01999999999999998
+YES; SHE'S A LIAR, A THIEF, A MURDERER, AND AN EVIL EVIL WOMAN! SHE WILL NEVER GET MY VOTE!	-0.1955	-0.10450000000000002	-0.026999999999999955
+No	0	0	0
+Crook	-0.42800000000000005	-0.07599999999999998	-0.23600000000000004
+will abolish the 2nd ammendment	-0.08399999999999999	-0.29200000000000004	0.12600000000000006
+a lot	0	0	0
+yes,don't remember	0.3	-0.372	0.2619999999999999
+no	0	0	0
+not qualified	0	0	0
+No	0	0	0
+no	0	0	0
+Yes ordinary politicians	0.009999999999999964	-0.42800000000000005	0.17799999999999994
+Usual Benghazi and email nonsense.	0.14800000000000005	-0.22999999999999998	0.269
+nothing	0	0	0
+No	0	0	0
+she has people killed & she needs to be in prison for Bengazi	-0.07866666666666666	-0.18000000000000002	-0.0373333333333333
+None	0	0	0
+none	0	0	0
+No	0	0	0
+N/a	0	0	0
+nothing	0	0	0
+liar	-0.518	0.31999999999999995	-0.051999999999999956
+email trouble	-0.11299999999999999	0.00899999999999998	0.046
+No	0	0	0
+lies	0	0	0
+yes	0	0	0
+.?	0	0	0
+NO	0	0	0
+negative reports on how she used her server for State Dept. business	-0.04599999999999997	-0.21200000000000002	0.021499999999999984
+yes, scandel	0	0	0
+e mails	0	0	0
+no	0	0	0
+Yes, that she is a liar.	0	0	0
+none	0	0	0
+Too many scandals	0	0	0
+nothing	0	0	0
+About how her hubby is a cheater and rapist.	-0.14299999999999996	0.027000000000000038	-0.062000000000000006
+MOST HATED PRESIDENTIAL CANIDATE	-0.009999999999999964	-0.18800000000000008	0.03599999999999994
+Is on record of changing position over 35 times	0.1573333333333333	-0.34400000000000003	0.08933333333333333
+Everything	0	0	0
+Nothing	0	0	0
+no	0	0	0
+Nothing she's untrustworthy don't care	0.030999999999999944	-0.253	0.07799999999999994
+No	0	0	0
+no news	-0.008000000000000007	-0.07799999999999993	-0.10399999999999991
+She's okay with men using the bathroom with girls	0.051999999999999956	-0.42800000000000005	0.05
+she should be in jail	-0.19100000000000003	-0.21	-0.05899999999999998
+No	0	0	0
+people are still making a big deal out of her emails	0.1653333333333333	-0.20000000000000004	0.14200000000000004
+she wonderful	0.48200000000000004	-0.08599999999999994	0.43800000000000006
+no	0	0	0
+gun control	-0.191	0.25	0.017999999999999967
+she is a liar and untrustwhorthy	-0.518	0.31999999999999995	-0.051999999999999956
+No	0	0	0
+anything a republican says	-0.14800000000000005	-0.378	0.08000000000000007
+She is still breathing	0	0	0
+everything about her is negative	-0.496	0.009999999999999964	-0.142
+no	0	0	0
+Yep	0	0	0
+Nothing's good about the person and her cohorts she should be in prison with her cohorts	0.10549999999999995	-0.20500000000000002	0.07250000000000002
+no	0	0	0
+Nothing from anybody sane. But from the usual suspects on the far right and far left, lots of nonsense about the emails and Vince Foster and etc.	0.12000000000000005	-0.15200000000000002	0.232
+Everything she does	0	0	0
+yes	0	0	0
+No	0	0	0
+Just the usual propaganda by right-wing morons.	-0.11599999999999996	-0.18	0.0
+none	0	0	0
+Scandals; not trustworthy	0.45	-0.15600000000000006	0.458
+None	0	0	0
+No	0	0	0
+everything	0	0	0
+no way would she be voted for	0.19999999999999998	-0.324	0.08466666666666671
+Bad DOJ audit over emails and the asinine way the rules want records preserved.	-0.07919999999999999	-0.06159999999999999	-0.1092
+Yes, Dishonest, Untrustworthy, Lier, Crooked	-0.366	-0.16400000000000006	-0.364
+less than trustworthy	0.45	-0.15600000000000006	0.458
+none	0	0	0
+Nope	0	0	0
+no	0	0	0
+mails	0	0	0
+Too many things to list.	0	0	0
+e-mail server, Bengahzi, constantly lying and saying dumb things, lies, lies, lies.	-0.512	0.05999999999999996	-0.12200000000000007
+normal rhetoric from Trump	-0.0033333333333333826	-0.36533333333333334	0.12866666666666662
+Yes	0	0	0
+No	0	0	0
+All the time	0.11999999999999993	-0.31799999999999995	-0.12799999999999995
+Alot	0	0	0
+No	0	0	0
+None	0	0	0
+too many to mention	0.07799999999999993	-0.47000000000000003	0.06600000000000002
+about email but that is not relevant	0.184	-0.255	0.18500000000000005
+Not this week	0.053999999999999916	-0.33399999999999996	0.05600000000000005
+No Comment	0.13000000000000006	-0.288	0.192
+yes	0	0	0
+more about the investigation into her email servers, and rumblings about voter fraud	-0.137	0.006499999999999994	0.06950000000000005
+n/a	0	0	0
+fired from her first job	0.297	-0.10999999999999997	0.08200000000000002
+She is a lizr and avoids answers to questions	0	0	0
+fdhrth	0	0	0
+No	0	0	0
+only negative	-0.496	0.009999999999999964	-0.142
+n/a	0	0	0
+Clinton foundation	0.17200000000000007	-0.518	0.28200000000000003
+More e mail nonsense	0.028000000000000025	-0.16700000000000004	0.0
+Not trueful	0	0	0
+No	0	0	0
+All regular, tired, old GOP rumors and propaganda.	-0.362	-0.10399999999999991	-0.15600000000000006
+Same old crap about some e-mails.	-0.33699999999999997	-0.08999999999999994	-0.16699999999999998
+Email	0.2	-0.1	0.22200000000000006
+Under FBI investigation, corrupt, committing election fraud, lying, selling weapons to terrorists.	-0.1	-0.15399999999999991	0.0
+She is a liar	-0.518	0.31999999999999995	-0.051999999999999956
+no	0	0	0
+yes. her past	0.01799999999999997	-0.05800000000000001	0.03599999999999994
+no	0	0	0
+She has reneged on her agreement to debate in California, she is claiming to already have the Dem nomination for the presidency	0.15360000000000004	-0.15799999999999997	0.1648
+She is against the NRA. This isn't true.	0	0	0
+She keeps using the same woman card repeatedly.	0.259	-0.35300000000000004	0.09899999999999994
+no	0	0	0
+Arguing with Bernie sanders	0	0	0
+her emails were illeagal	0	0	0
+criminal	-0.5780000000000001	-0.10199999999999995	-0.18200000000000002
+No comment	0.13000000000000006	-0.288	0.192
+nothing	0	0	0
+no	0	0	0
+No	0	0	0
+Nothing	0	0	0
+liar, cheater, elitest, swindler, criminal, self centered, egoist	0.37200000000000005	-0.04399999999999995	0.548
+Not sure	0.32799999999999996	-0.304	0.36400000000000005
+no	0	0	0
+no	0	0	0
+Yes, Issues with Clinton Foundation. Not sure of the foundation of issues.	0.25	-0.41100000000000003	0.32300000000000006
+Hippocrite	0	0	0
+too nice	0.39	-0.29400000000000004	0.29399999999999993
+everything	0	0	0
+talk about her husband helping run her govt, the emails, her lying	0.36400000000000005	-0.13333333333333333	0.17333333333333337
+Email scandal	-0.037000000000000005	0.01399999999999997	-0.000999999999999987
+Her attitude toward Sanders seems ambiguous.	-0.05600000000000005	-0.04800000000000004	0.176
+Her emails	0	0	0
+Nothing.	0	0	0
+Everything	0	0	0
+That Trump will beat her in the general	-0.039999999999999994	-0.22700000000000004	0.16500000000000004
+No	0	0	0
+about the oil comment	-0.043999999999999956	-0.21899999999999997	0.15899999999999997
+nothing	0	0	0
+she an enabler	0	0	0
+Nothing	0	0	0
+nope	0	0	0
+none	0	0	0
+yes she's a liar	-0.518	0.31999999999999995	-0.051999999999999956
+everything	0	0	0
+nothing	0	0	0
+everything about her is negative	-0.496	0.009999999999999964	-0.142
+Just the same made up conspiracies	0	0	0
+Liar, egotist, Obamaite, Heathen, Her daughter Chelsea wasn't fathered by Bill Clinton, She had a homosexual relationship with Yoko Ono, Insiders say she is more vulgar in Language than DOnald Trump when not in public.	0.05225000000000002	-0.1335	0.10099999999999999
+non-profit foundation. total joke	0.32	-0.00199999999999996	0.26799999999999996
+No	0	0	0
+Benghazi	0	0	0
+yes	0	0	0
+Inconsistent	-0.336	-0.36	-0.14000000000000004
+She is a liar.	0	0	0
+No	0	0	0
+lying lesbian	0.15199999999999997	0.20800000000000002	0.06799999999999998
+She attacks and blames others for attacking her.	0	0	0
+No	0	0	0
+No	0	0	0
+yes	0	0	0
+None	0	0	0
+Her prior history, how convoluted and how shady and manufactured a person she is.	-0.05800000000000002	-0.26666666666666666	0.07533333333333332
+No	0	0	0
+Too close to wall street	0.02400000000000002	-0.32266666666666666	0.03800000000000002
+No	0	0	0
+More lies, stealing, and deceptions	0	0	0
+manipulating delegates	0	0	0
+She's lying about her stance on immigrants	0.21999999999999992	-0.42800000000000005	0.22799999999999992
+Everything said about Hillary Clinton is negative.	0	0	0
+got of a rapist when she was a diffenter	-0.74	0.266	-0.558
+No	0	0	0
+no	0	0	0
+the e-mails she had on her personal phone	0.21799999999999997	-0.3	-0.08399999999999999
+corporate sponsors	-0.019999999999999928	-0.051999999999999956	0.009999999999999964
+yes	0	0	0
+She's a lying bitch	-0.49000000000000005	0.19000000000000003	-0.27
+She declared herself the Democtratic nominee for POTUS.	0.1	-0.11999999999999993	0.15
+Her email came up	0.2	-0.1	0.22200000000000006
+nothing	0	0	0
+Just from donald trump	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+emails	0	0	0
+Yes. The way she treated the women who accused her husband of sexual assault.	0.33066666666666666	-0.05133333333333334	0.17
+no	0	0	0
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+Yes she is CROOKED	-0.366	-0.16400000000000006	-0.364
+No	0	0	0
+yes	0	0	0
+email,bengazi,clinton initiative	0.33599999999999997	-0.18200000000000002	0.33399999999999996
+Almost every word out of Trump's mouth about Hillary and Bill Clinton is negative	-0.15050000000000002	-0.1405	0.025499999999999988
+no	0	0	0
+people don't trust her	0.29400000000000004	-0.193	0.23500000000000004
+yup	0	0	0
+That she is a liar	-0.518	0.31999999999999995	-0.051999999999999956
+she hid more emails. and the FBI is investigation the clinton foundation for giving loans to friends	0.02200000000000006	-0.189	0.25200000000000006
+No	0	0	0
+No	0	0	0
+None	0	0	0
+Yes. Continued email controversy	-0.07899999999999999	0.05899999999999998	-0.01399999999999997
+nope	0	0	0
+no	0	0	0
+Waffles on important issues, basically a Moderate Republican.	0.23399999999999999	-0.129	0.19199999999999998
+yes, her failed foreign policy	-0.13699999999999996	-0.12700000000000006	0.09000000000000002
+Yes	0	0	0
+yes, emails	0	0	0
+Everything	0	0	0
+No	0	0	0
+that she's not very nice to the women who her husband cheated with.	0.43600000000000005	-0.20900000000000002	0.21899999999999994
+Liar Liar	-0.518	0.31999999999999995	-0.051999999999999956
+More about her lying	0	0	0
+No	0	0	0
+Lots.. emails deleted... why are they letting it slide?	0	0	0
+that she is a liar	-0.518	0.31999999999999995	-0.051999999999999956
+might be indited	0.23599999999999993	-0.31399999999999995	0.1
+Clinton Foundation, VA Gov	0	0	0
+Yes, several things	0	0	0
+no	0	0	0
+yes	0	0	0
+She is an enabler of her husband's sexual addiction.	0.32799999999999996	0.39	0.4
+She lies very often.	0	0	0
+Bills women	0	0	0
+she is a liar	-0.518	0.31999999999999995	-0.051999999999999956
+Way more than I can list. Everything she says is a lie, she has no heart	0.2846666666666667	-0.25933333333333336	0.11333333333333336
+none	0	0	0
+politician	-0.35	-0.05999999999999996	-0.18000000000000008
+email debacle	0.020000000000000018	-0.07199999999999998	0.016999999999999987
+No	0	0	0
+lies all the time	0.11999999999999993	-0.31799999999999995	-0.12799999999999995
+Nada	-0.08599999999999994	-0.25999999999999995	-0.17799999999999994
+Scandalous last 40 yrs	-0.336	0.16999999999999993	-0.09600000000000009
+no	0	0	0
+her approval rating has continued to fall	0.018666666666666647	-0.16466666666666668	0.122
+i don't recall what was this weeks putdown	-0.04600000000000008	-0.10399999999999991	0.15600000000000006
+yes	0	0	0
+Where do I start!!	0.08200000000000003	-0.266	0.2699999999999999
+is not presidential material	0.06600000000000002	-0.22000000000000003	0.06600000000000002
+no	0	0	0
+No	0	0	0
+liar, bitch, witch, thief, traitor,enemy of the state	0.14600000000000007	-0.34199999999999997	0.13000000000000006
+Lots - is there anything but negativity surrounding her?	-0.45199999999999996	0.01799999999999997	-0.316
+no	0	0	0
+emails	0	0	0
+No	0	0	0
+NO	0	0	0
+Everything	0	0	0
+"I have heard of and seen a highly edited and manipulated video of ""13 straight minutes of Hillary lying"" which takes many of her words out of context"	0.16666666666666666	-0.2333333333333333	0.14399999999999996
+yes - benghazi	0	0	0
+1 She's Hillary Clinton. 2 She or her supporters have been rigging the primaries and caucuses.	0.17200000000000007	-0.296	0.14399999999999996
+Nope	0	0	0
+Nothing	0	0	0
+she lost oregon	-0.49400000000000005	0.022000000000000065	-0.22999999999999998
+no	0	0	0
+na	0	0	0
+Email scandal	-0.037000000000000005	0.01399999999999997	-0.000999999999999987
+No	0	0	0
+State Dept. IG report	0.049999999999999996	-0.31899999999999995	0.059000000000000066
+Her	0	0	0
+lier	0	0	0
+No	0	0	0
+"""She is a crook"""	0	0	0
+Liar	-0.518	0.31999999999999995	-0.051999999999999956
+Email scandal	-0.037000000000000005	0.01399999999999997	-0.000999999999999987
+No	0	0	0
+just more lies upon lies	0	0	0
+Just things Trump has said	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+nothing last week.	0	0	0
+Her clothes	0.3539999999999999	-0.372	0.09399999999999994
+Trump's comments, which I liked	0	0	0
+Nothing	0	0	0
+no	0	0	0
+I don't pay attention anymore.	0.29100000000000004	-0.17099999999999999	0.27999999999999997
+Lots	0	0	0
+she is married to a rapist	-0.74	0.266	-0.558
+She may have violated something by using a private e-mail server while Secretary of State.	0.09519999999999999	-0.2864	0.11240000000000001
+still the emails	0	0	0
+yes, giving away more benefits	0	0	0
+"Yes. Almost all the Clinton's ""donations"" to charity have been to their own foundation."	0.271	-0.32599999999999996	0.18
+damn right	0.16400000000000006	0.009999999999999964	0.155
+Corrupt, bad sec. Bad senator, liar etc	-0.4073333333333333	0.08800000000000002	-0.2093333333333333
+Her husband has flown onb a sex offenders plane over 20 times.	0.324	0.12599999999999997	0.13066666666666668
+she is decitful	0	0	0
+Not that I remember.	0	0	0
+email nonsense	0.0	-0.09800000000000005	0.08500000000000005
+she's a liar	-0.518	0.31999999999999995	-0.051999999999999956
+Every time she says something it is a lie - which lie shall I mention?	-0.18800000000000003	-0.17250000000000004	-0.015500000000000028
+.	0	0	0
+It does not matter I do not respect her	0.20133333333333336	-0.166	0.3153333333333333
+More people starting to doubt she is telling the truth	0.07800000000000003	-0.20133333333333336	0.02733333333333336
+Nope	0	0	0
+no	0	0	0
+Liar	-0.518	0.31999999999999995	-0.051999999999999956
+The media is constantly saying she is such a liar. She is no more of a liar than any other political figure. The media needs to be more fair.	-0.08250000000000003	-0.1245	0.016000000000000014
+Yesm pretty much everything that comes out of her mouth	0.329	-0.03600000000000003	0.27
+just that she didnt have much hope at becoming president.	0.3340000000000001	-0.119	0.25
+She is still under investigation and may be forced to drop out	0.016000000000000007	-0.1505	0.11850000000000005
+No	0	0	0
+Tons of stuff from conservatives.	0.17200000000000007	-0.296	-0.03399999999999999
+She's has a two-face	0	0	0
+Not sure	0.32799999999999996	-0.304	0.36400000000000005
+no	0	0	0
+no	0	0	0
+none	0	0	0
+no	0	0	0
+Same as above.	0	0	0
+if she wasnt a woman she would not have much support at all	0.2875	-0.29100000000000004	0.18500000000000003
+she lies	0	0	0
+continuing investigation of emails	-0.12799999999999995	0.14000000000000004	0.22200000000000006
+she is a liar	-0.518	0.31999999999999995	-0.051999999999999956
+more email stuff	0.18600000000000005	-0.198	0.09400000000000003
+She needs to be indicted	0.23599999999999993	-0.31399999999999995	0.1
+only from the republicants	0	0	0
+none	0	0	0
+Benghazi	0	0	0
+Server	0.06999999999999992	-0.258	0.027999999999999935
+no	0	0	0
+pays women less in clinton foundation	0.17200000000000007	-0.518	0.28200000000000003
+People think she's not a natural candidate	0.165	-0.1745	0.12700000000000006
+she's phony and arrogant	-0.496	-0.04499999999999993	-0.12700000000000006
+honesty	0.48599999999999993	-0.336	0.36199999999999993
+No	0	0	0
+no	0	0	0
+No	0	0	0
+Liar, Corrupt, Criminal	-0.5780000000000001	-0.10199999999999995	-0.18200000000000002
+DONALD TRUMP HAS BEEN ON HER CASE	-0.06400000000000006	-0.253	0.19700000000000006
+liar,cover ups her crimes	0	0	0
+no	0	0	0
+No	0	0	0
+Idiot	-0.394	-0.030000000000000072	-0.15999999999999998
+none	0	0	0
+Pro choice and in a lot of trouble	0.03933333333333339	-0.1386666666666667	0.14866666666666667
+yes her e-mails	0	0	0
+delegate manipulation	-0.20099999999999998	-0.14199999999999993	0.17099999999999999
+not much	0	0	0
+Spurious attacks from the GOP	0	0	0
+No	0	0	0
+Trump us a had of her in the polls	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+"No. Except things that ""reportedly"" come from news casts about things that Donald Trump ""allegedly"" says about Hillary Clinton."	-0.014666666666666708	-0.23266666666666666	0.08533333333333341
+she can t handle the job	0.18533333333333335	-0.292	0.12533333333333338
+no	0	0	0
+women	0	0	0
+Every time Trump mentions her	-0.022000000000000068	-0.32599999999999996	0.02200000000000006
+Email issue	-0.004999999999999977	-0.09500000000000003	0.158
+favoritism in the Clinton Initiative	0.14899999999999994	-0.07599999999999997	0.15
+From the corporate media and Republicans yes	-0.019999999999999928	-0.051999999999999956	0.009999999999999964
+only negative thing I can think of is she sounds like an old hen	0.08371428571428573	-0.21028571428571421	0.10085714285714288
+Nothing.	0	0	0
+Imagined conspiracy theories	-0.316	0.14800000000000005	-0.27199999999999996
+Email scandal	-0.037000000000000005	0.01399999999999997	-0.000999999999999987
+Yes. That her email situation is still under investigation.	0.133	-0.14500000000000002	0.04400000000000004
+HER HUSBAND MISTRESS	0.127	0.03399999999999999	0.10499999999999998
+Where do I start? Liar, panderer, etc.	0.08200000000000003	-0.266	0.2699999999999999
+she's not for black americans	0.08000000000000007	-0.284	0.09600000000000009
+no	0	0	0
+More email revelations	0.2	-0.1	0.22200000000000006
+yes, SHE LIES ABOUT EVERYTHING!!	0	0	0
+nothing	0	0	0
+no	0	0	0
+nothing	0	0	0
+no	0	0	0
+no	0	0	0
+no	0	0	0
+Her hiding her emails	0	0	0
+dishonest	-0.4	-0.009999999999999964	0.0
+Na	0	0	0
+She was a liar	-0.518	0.31999999999999995	-0.051999999999999956
+Not qualified	0	0	0
+no	0	0	0
+They always say something negative!	0.18200000000000002	-0.11400000000000006	0.376
+liar, cheater, untrustworthy	-0.466	-0.040000000000000036	-0.15600000000000006
+Clinton is behind Trump pn all or most polls.	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+No	0	0	0
+Takes Wall Street money	0.14866666666666664	-0.1193333333333333	0.06333333333333335
+There are more instances of insecure communications, she's not actively pursuing the youth vote	-0.06199999999999998	-0.08266666666666668	0.027333333333333338
+Emails	0	0	0
+The private emails from her	0.08800000000000008	-0.27599999999999997	-0.13399999999999998
+no	0	0	0
+Yes = email server	0.13499999999999995	-0.179	0.125
+she is the devil	-0.378	0.08000000000000007	-0.23200000000000004
+nothing but truth	0.43800000000000006	-0.22400000000000003	0.39
+problems with marriage	0.5119999999999999	-0.009999999999999964	0.06600000000000002
+Yes, her constant lying and saw a you tube video called 13 minutes of lies, it was amazing	0.198	-0.16080000000000005	0.1352
+No	0	0	0
+Young women dont like her at all	0.375	-0.15099999999999997	0.188
+dont know	0.36400000000000005	-0.352	0.15600000000000006
+n/a	0	0	0
+questionable tatics	-0.10399999999999991	-0.29000000000000004	-0.08800000000000008
+Concern re: use of own server when Sec. of State	0.06549999999999997	-0.20549999999999996	0.06699999999999999
+O yeah	0	0	0
+Accusations about her husband by Trump	0.15899999999999997	-0.22899999999999998	0.15800000000000003
+various	0.10399999999999991	-0.23600000000000004	-0.027999999999999935
+no	0	0	0
+She is mostly a corporate mouthpiece beholding to Wall Street.	-0.025999999999999978	-0.24933333333333332	-0.07400000000000002
+policy positions	-0.246	-0.34	0.22200000000000006
+No	0	0	0
+Yes, her criminal endeavors, belittling of sexual assault victims and being payed off by millionaires.	-0.2800000000000001	0.216	-0.02799999999999998
+distrusting	0	0	0
+NA	0	0	0
+Liar. Deceitful. Back stabber	-0.04800000000000004	-0.48200000000000004	0.04399999999999995
+No	0	0	0
+Lots of stuff	0.17200000000000007	-0.296	-0.03399999999999999
+she is going to a gun control meeting tom.	-0.15733333333333335	0.08066666666666666	0.0433333333333333
+She let a rapist of a 12 yr old get off with time served.	-0.11480000000000001	-0.176	-0.10000000000000002
+Liar-Benghazi B_tch-Hildebeast-Private Server-Emails-Clinton Charity-and more!	0	0	0
+She's far too hand in glove with Wall Street.	0.138	-0.3033333333333334	0.07333333333333332
+Her e-mails keep coming up.	0.26400000000000007	-0.31399999999999995	0.142
+She is going to tag her husband to run the economy if she is elected	0.11250000000000003	-0.08849999999999997	0.06000000000000001
+liar	-0.518	0.31999999999999995	-0.051999999999999956
+Just thatcher is resisting answering FBI questions about her private server.	0.08800000000000008	-0.27599999999999997	-0.13399999999999998
+She has a problem telling truth	0.07100000000000004	-0.13100000000000006	0.18900000000000006
+Trump accused Bill of rape	-0.41133333333333333	-0.028666666666666656	-0.17799999999999996
+too reliant on her husband	0.48200000000000004	-0.12400000000000003	0.14399999999999996
+she continues to lie and take jobs, lies where her money comes from puts Classified Information at risk, Our Military Men and Woman risk, and deals with our Enemy's (Iran,Cuba to name a few)She has shown and continues to show It is about Her pocket book and not the American people or The United States	0.13516666666666668	-0.14600000000000002	0.11516666666666665
+She attacked women who were assaulted by Bill. She freed the rspist of a 12 year old and bragged about it.	-0.106	-0.21899999999999994	0.0029999999999999333
+She's a liar, not held accountable for criminal activity.	-0.21900000000000003	-0.13099999999999995	-0.03399999999999998
+Her email scandal. She won't show her tax transcript.	-0.006000000000000005	-0.12533333333333338	-0.0006666666666666488
+nothing	0	0	0
+Nothing new in the last week; there are ongoing comments about her Wall St. connections, her use of a private email server; etc.	0.1383333333333333	-0.18033333333333335	-0.0013333333333333346
+she's frigid	-0.246	-0.22599999999999998	0.12200000000000007
+Yes, her ethics or lack of ethics	0.04533333333333336	-0.35600000000000004	0.24399999999999997
+liar enabler fraud anti woman	-0.19900000000000007	-0.009500000000000022	-0.04000000000000001
+Nothing that i believe is true	0.41	-0.33399999999999996	0.31199999999999994
+everything	0	0	0
+nothing	0	0	0
+none	0	0	0
+No	0	0	0
+No	0	0	0
+She lies	0	0	0
+Email scandal	-0.037000000000000005	0.01399999999999997	-0.000999999999999987
+lies	0	0	0
+Not personable.	0	0	0
+Nothing	0	0	0
+I have heard that she is dishonest, unlikeable, and likely to be corrupt.	0.26266666666666666	-0.242	0.1573333333333333
+She lost Oregon.	-0.49400000000000005	0.022000000000000065	-0.22999999999999998
+she stayed with Bill after his womanizing	-0.378	-0.2	-0.2
+no	0	0	0
+neo-con foreign policy	-0.13699999999999996	-0.12700000000000006	0.09000000000000002
+nothing	0	0	0
+Anger issues, attempts to smear Sanders supporters, even more close corporate ties	-0.17649999999999996	-0.074	0.050999999999999976
+Haven't been listening	0	0	0
+trust issues	0.44800000000000006	-0.14000000000000004	0.39
+Untrustworthy	-0.466	-0.040000000000000036	-0.15600000000000006
+too scripted	0	0	0
+her voice	0.3	-0.35	0.24399999999999994
+take away the second amendment	0.043333333333333356	-0.23333333333333336	-0.0033333333333333826
+yes that she is a liar	-0.518	0.31999999999999995	-0.051999999999999956
+"She is a sociopath who habitually lies in order to get what she wants. She also clearly thinks that she is above the law which is obvious in the way she responds when confronted with the allegations of her criminal activity. But we have all known that for years....some of us just love to live in a state of ignorance because we are scared of the truth. These people are commonly referred to as ""sheeple"""	0.01614285714285715	-0.1658571428571429	0.028571428571428574
+Yes, email violations	0.2	-0.1	0.22200000000000006
+Where to begin...	0	0	0
+no	0	0	0
+She is a loser	-0.43	-0.21200000000000002	-0.09399999999999994
+no	0	0	0
+no	0	0	0
+Yes a meme	0	0	0
+She has ugly feet	-0.506	-0.11400000000000006	-0.22800000000000004
+Email scandal	-0.037000000000000005	0.01399999999999997	-0.000999999999999987
+Accusations about Bill Clinton.	-0.378	-0.2	-0.2
+No	0	0	0
+Open FBI investigation and her husband's association with a sex offender	0.03920000000000001	0.03679999999999996	0.13799999999999998
+I only hear negative things and too many to recollect.	-0.08000000000000002	-0.133	0.09999999999999999
+Split the last 2 primaries	-0.1	0.10999999999999996	0.158
+Benghazi, email scandal, corruption	-0.1	-0.06399999999999997	-0.02599999999999998
+She hates men, especially white men	0.23599999999999993	-0.32999999999999996	0.142
+Bengazi coverup	0	0	0
+Not really	0	0	0
+No	0	0	0
+Emails	0	0	0
+NA	0	0	0
+publicly discounting Sanders efforts	0	0	0
+she's corrupt (I don't agree with this)	0.016999999999999987	-0.03999999999999994	0.06400000000000006
+Millions from speeches to Wall Street	0.01299999999999999	-0.365	-0.03700000000000001
+email problem	-0.04799999999999999	-0.06900000000000003	0.10500000000000007
+No	0	0	0
+should ne in jail	-0.618	-0.10600000000000005	-0.21799999999999997
+?	0	0	0
+She's a liar and killer,unethical	-0.518	0.31999999999999995	-0.051999999999999956
+her lies	0	0	0
+Bitch	-0.49000000000000005	0.19000000000000003	-0.27
+SOmething about being indicted for the stupid email scandal	-0.16866666666666666	-0.0346666666666667	-0.06533333333333331
+She was paid $500 million for speeches to Wall Street.	0.26099999999999995	-0.17200000000000004	0.0040000000000000036
+"""Benghazi"" over and over, even though Gowdy has admitted there is nothing there"	0	0	0
+shes a liar	-0.518	0.31999999999999995	-0.051999999999999956
+Yes, about her slandering victims of her husband's sexual misconduct	0.01899999999999996	0.154	0.21600000000000003
+Again, far too much to list. I can't stand her, and she's a criminal.	0.053999999999999916	-0.38	0.17799999999999994
+no	0	0	0
+She is a crimina	0	0	0
+deficit of honesty	0.03799999999999998	-0.24899999999999997	0.09899999999999994
+No	0	0	0
+yes, her email thing again	0.15499999999999997	-0.20699999999999996	0.15200000000000005
+Yes. She is a liar	-0.518	0.31999999999999995	-0.051999999999999956
+Yes. Her foundation received over 100 million from Middle Eastern leaders.	0.2	-0.29400000000000004	0.09100000000000005
+email, although it's been beaten to death	-0.6220000000000001	0.10600000000000005	-0.316
+Trump calling her an enabler for her husbands alleged trysts	-0.22000000000000003	-0.158	0.012999999999999998
+Her emails	0	0	0
+Only out of Trumps mouth	0.11799999999999997	-0.17200000000000007	0.2
+the clinton initiative finances, the Nevada conventionher campaign rigging the event there	0.16266666666666665	-0.15400000000000003	0.12066666666666663
+That she's a liar.	0	0	0
+YES	0	0	0
+No	0	0	0
+No	0	0	0
+she's shady as fuck	-0.10599999999999996	0.14299999999999996	0.04299999999999997
+So much! Just pick and choose something, she is an awful human being. She caters to rich, casts aside the poor. #VoteForBernie	0.032	-0.21499999999999997	0.07700000000000001
+She should be in jail.	0.23599999999999993	-0.31399999999999995	0.1
+liar	-0.518	0.31999999999999995	-0.051999999999999956
+exaggerations about her husband	0.48200000000000004	-0.12400000000000003	0.14399999999999996
+She was arrogantly proclaiming herself nominee already	0.1	-0.11999999999999993	0.15
+Lie about her responsibility for Benghazi	-0.29300000000000004	0.010999999999999944	0.15099999999999997
+Not going to be prosecuted	0.23599999999999993	-0.31399999999999995	0.1
+none	0	0	0
+Not actually negative but framed thay way	-0.15699999999999997	-0.20500000000000004	-0.088
+big business	0.11200000000000002	-0.196	0.096
+Liar	-0.518	0.31999999999999995	-0.051999999999999956
+The Benghazi scandal just got worse	-0.274	0.12799999999999995	-0.22400000000000003
+A lot, cover up(s), not telling the truth	0.278	-0.23600000000000004	0.273
+keeps telling Bernie Sanders to quit	-0.25599999999999995	-0.19000000000000003	-0.12200000000000007
+everything	0	0	0
+Won't debate Bernie even though she had agreed to it before.	-0.009999999999999964	-0.027999999999999935	0.192
+No	0	0	0
+Too many to name, email scandal, Clinton Foundation scandal, Covering for Bill's assaults on women, Implying that the DNC will choose her no matter what voters want, Paying women in her foundation less than men, Taking contributions from the Saudis regardless of their oppression of women, Possible health problems	0.1448888888888889	-0.29711111111111105	0.18733333333333332
+Clinton Foundation donations for favors	0.17200000000000007	-0.518	0.28200000000000003
+none	0	0	0
+Hatred of Hillary	-0.524	0.04399999999999995	-0.2
+She lies. I disagree.,	0	0	0
+Linked to Terry McAuliffe's Investigation	-0.12799999999999995	0.14000000000000004	0.22200000000000006
+She;s a liar	-0.518	0.31999999999999995	-0.051999999999999956
+yes she's a lier	0	0	0
+Clinton Foundation corruption	-0.11399999999999998	-0.27299999999999996	0.0040000000000000036
+No	0	0	0
+soft on terroism	0.426	-0.392	0.21999999999999992
+i DON'T TAKE THE TIME TO LISTEN TO THIS GARBAGE	0.010499999999999982	-0.22350000000000003	-0.004999999999999983
+money Bill took for speeches while she was head of the State Department	0.08520000000000003	-0.15599999999999997	0.05440000000000002
+Trump lies and attacks	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+When she was secretary of state an embassador was killed in a bombing something that she did, but I don't know the details very well	-0.008499999999999966	-0.128	0.07650000000000001
+she continues to lie	-0.522	-0.038000000000000075	-0.05600000000000005
+YES, most everything	0	0	0
+Everything !!	0	0	0
+yes	0	0	0
+No	0	0	0
+see above	0.2539999999999999	-0.22000000000000003	0.2
+yes she will be the nominee	0.13333333333333333	-0.2846666666666666	0.19066666666666668
+Negative attitude	-0.276	-0.019000000000000038	0.017
+lies.	0	0	0
+Never	0	0	0
+prison for sure	-0.14200000000000002	-0.14200000000000004	0.03600000000000003
+No	0	0	0
+She may go to Jail	-0.08133333333333333	-0.1653333333333333	0.012000000000000047
+Only from Trump and he doesn't count	0.006999999999999937	-0.437	0.10300000000000004
+fib investigating her emil scandal	-0.322	0.12399999999999994	-0.14400000000000004
+She claims she's won the primary even though she hasn't	0.06400000000000006	-0.35	0.2699999999999999
+fuck HILLLARY!!!!	0.04600000000000008	0.42799999999999994	0.09399999999999994
+Everything she says is negative	-0.496	0.009999999999999964	-0.142
+How much she was paid for speaking	0	0	0
+no	0	0	0
+No	0	0	0
+She wants her husband to manage things she should know how to do.	0.26266666666666666	-0.25733333333333336	0.15866666666666665
+She enables her husband's rapes	0	0	0
+Everything out of Trump's mouth	0.11799999999999997	-0.17200000000000007	0.2
+The Republicans turned Bengazi into a political fiasco.	-0.13000000000000006	-0.2	-0.184
+Open her mouth	0.17299999999999993	-0.14300000000000007	0.217
+yes, too numerous to mention.	0.06999999999999992	-0.32199999999999995	0.25
+So much can't name it all - one thing is her email scandal	0.07559999999999997	-0.22880000000000006	0.043999999999999984
+War hawk. Criminal. Incompetent. Rigging democratic election. Changes positions. Incompetent. Got people killed in Bengazi. Will be indicted befire taking office (emails)	-0.011000000000000005	-0.20833333333333334	0.08533333333333337
+Not really.	0	0	0
+too much to state here	0.14600000000000007	-0.34199999999999997	0.13000000000000006
+no	0	0	0
+no	0	0	0
+No	0	0	0
+again so many I cant think of one to name.	0.27699999999999997	-0.358	0.20599999999999996
+lots but not worth listening too	0	0	0
+nothing	0	0	0
+Liar, corrupt, elitist, disingenuous	0	0	0
+That she's a lying traitorwho shouldn't even be allowed to run because of the FBI investigating her.	0.259	-0.13299999999999995	0.09400000000000004
+"FBI director said she is under investigation, not part of a ""security review""; women assaulted by Bill Clinton say she is an ""enabler""; 13 minute video on social media showing her lying on her policy positions; questions raised about money given to Clinton Foundation by banks and foreign countries while she was secretary of state"	0.06861538461538462	-0.16384615384615386	0.1403076923076923
+She made remarks about coal miners	-0.08800000000000008	-0.49000000000000005	-0.02400000000000002
+no	0	0	0
+0	0	0	0
+The she will have Bill Clinton run the economy for her.	-0.02639999999999996	-0.16079999999999997	0.037200000000000025
+Clinton Foundation Cash from Foreign Entities	0.21533333333333338	-0.03800000000000004	0.15733333333333335
+No	0	0	0
+no	0	0	0
+compulsive liar, felon	-0.32999999999999996	-0.03799999999999999	-0.22900000000000004
+no	0	0	0
+So many negatives things	0	0	0
+She's against the 2nd Amendment.	0	0	0
+More about emails	0	0	0
+Yes	0	0	0
+She attacked women who Bill raped..email issues continue.trying to ignore Bernie and the voters he represents. Shall i go on?..ok...benghazi...bill...monica...above the law. Transcripts. Etc etc etc	-0.06899999999999996	-0.19099999999999998	0.002499999999999992
+She's a liar	-0.518	0.31999999999999995	-0.051999999999999956
+All week long...	0.053999999999999916	-0.33399999999999996	0.05600000000000005
+Email scandal	-0.037000000000000005	0.01399999999999997	-0.000999999999999987
+Bengazi refuses to die..	0	0	0
+tuned it out	0	0	0
+email scandal	-0.037000000000000005	0.01399999999999997	-0.000999999999999987
+That she's a liar	-0.518	0.31999999999999995	-0.051999999999999956
+No	0	0	0
+continues to lie	-0.522	-0.038000000000000075	-0.05600000000000005
+N/A	0	0	0
+email server	0.13499999999999995	-0.179	0.125
+she is trying to reduce childcare costs	0.019999999999999928	-0.266	-0.016000000000000014
+All those speeches she did for millions	0	0	0
+Not enough space here.	0.37799999999999995	-0.27999999999999997	-0.003999999999999915
+bernie sanders calling her corrupt... again	0	0	0
+That she won't release transcripts of her paid speeches.	0.32799999999999996	-0.09000000000000004	0.274
+continuing email issues, husband is a rapist	-0.019333333333333313	0.013999999999999993	-0.06400000000000002
+She's not in jail.	0	0	0
+Oh my ~ basically she exists.	0	0	0
+Trump's childish attacks	-0.022000000000000065	0.0	-0.12400000000000003
+Only from those running aginst h	0.30600000000000005	0.10399999999999991	0.17799999999999994
+questionable income	0.07400000000000001	-0.263	0.092
+email	0.2	-0.1	0.22200000000000006
+she is refusing to debate Bernie Sanders	-0.009999999999999964	-0.027999999999999935	0.192
+Stance in 2nd amendment. Coal workers. Email scandal. Foundation has issues.	0.12599999999999997	-0.38400000000000006	0.177
+Liw	0	0	0
+she is not as strong as Bernie at beating trump	0.09899999999999994	-0.15300000000000002	0.24000000000000005
+She lied about Benghazi and her e-mails. She is mentally unbalanced	-0.38	-0.051999999999999956	-0.358
+Too numerous to list, lots of bad things	-0.14100000000000001	-0.17499999999999993	-0.01899999999999999
+high unfavorables	0.15399999999999991	-0.18000000000000008	0.15199999999999997
+everything, she has so many things shehas done ,and getting away with it ,would never vote for her and i am a female	0.27599999999999997	0.09500000000000001	0.32099999999999995
+Her husband was a jerk.	0.48200000000000004	-0.12400000000000003	0.14399999999999996
+She waffles on issues, is hawkish,	0	0	0
+STILL NO EMAIL ACCOUNTABILITY	0.08899999999999997	-0.18	0.266
+She used a lab top that wasn't government property	0.01750000000000001	-0.14100000000000001	0.13599999999999998
+using henchmen in the DNC to stifle Bernie Sanders' campaign	-0.09000000000000004	-0.3	0.027999999999999935
+No	0	0	0
+Struggling in polls, Clinton foundation may have given money to a Clinton mistress	0.12919999999999998	-0.12239999999999998	0.18880000000000002
+No	0	0	0
+liar	-0.518	0.31999999999999995	-0.051999999999999956
+her emails	0	0	0
+Poor jugement	-0.266	-0.06600000000000002	-0.2
+yes	0	0	0
+noen	0	0	0
+she is a traitor	-0.522	-0.14600000000000007	-0.053999999999999916
+yes	0	0	0
+everything she's a crook	-0.42800000000000005	-0.07599999999999998	-0.23600000000000004
+She likes to change her ideas and support of controversial issues	0.11399999999999999	-0.10933333333333338	0.10866666666666668
+nothing	0	0	0
+her FL event where she had travone martins mom on stage.	0.38499999999999995	-0.02800000000000003	0.129
+nothing	0	0	0
+She lies	0	0	0
+No	0	0	0
+Liar and hypocrite	-0.434	0.13699999999999993	-0.041000000000000016
+She is too beholden to corporations	0.009999999999999964	-0.352	-0.03200000000000003
+To many to list	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+Questionable activities......evasive, too connected to the elite	0.019000000000000038	-0.05499999999999998	-0.01000000000000005
+is a liar	-0.518	0.31999999999999995	-0.051999999999999956
+Everything	0	0	0
+None	0	0	0
+She is not addressing her husband's past indiscretions	0.01799999999999997	-0.05800000000000001	0.03599999999999994
+No	0	0	0
+emails	0	0	0
+no	0	0	0
+She has covered multiply affairs of her husband.	0.08599999999999994	-0.12200000000000007	0.09600000000000009
+HER!	0	0	0
+nothing	0	0	0
+Her awful voice.	-0.544	-0.027999999999999935	-0.388
+Liar should be in prison	-0.29800000000000004	0.008666666666666644	-0.08133333333333331
+pandering,criminal activity, implication ln questionable deaths,	-0.075	-0.274	-0.06200000000000001
+Yes because two people that died in Benghazi. She is a scumbag	-0.03466666666666666	-0.18666666666666668	-0.12133333333333333
+She needs to go to Jail	-0.17699999999999996	-0.06699999999999999	-0.07599999999999998
+everything	0	0	0
+Oh yeah, but this text box is too small.	0.183	-0.385	0.1
+Bernie fans don't like her and think she's dishonest, Trump also is mean to her	0.036500000000000005	-0.1855	0.1405
+No	0	0	0
+none	0	0	0
+Neutral	0.1	-0.30999999999999994	0.16199999999999992
+plenty	0	0	0
+going to jail	-0.618	-0.10600000000000005	-0.21799999999999997
+No	0	0	0
+Still about using personal server while Sec. of State.	0.14399999999999996	-0.272	-0.014000000000000058
+No	0	0	0
+no not relly talked about her this week or heard anything	0.053999999999999916	-0.33399999999999996	0.05600000000000005
+A lot	0	0	0
+no	0	0	0
+no	0	0	0
+no	0	0	0
+Yes. She is running for President	0.17600000000000007	0.02299999999999995	0.026999999999999955
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+no	0	0	0
+Won't release her speaches	0.32799999999999996	-0.09000000000000004	0.274
+Yes. She's a liar, and has been caught lying many times.	0	0	0
+no	0	0	0
+No	0	0	0
+Bengazi	0	0	0
+typical email problem	-0.05999999999999999	-0.15466666666666667	0.09666666666666675
+Part of the abuse of the state caucus and candidate election process. Accepts too much money from greed pig corporations. War hawk. Neoliberal. Establishment politician.	-0.1628888888888889	-0.02955555555555552	-0.04733333333333331
+Too many to mention.	0	0	0
+more criminal activity	-0.16800000000000004	-0.06499999999999995	0.054000000000000006
+can't remember	0.3	-0.372	0.2619999999999999
+Liar, thinks she's above the law, says what she thinks people want to hear not what's really happening, wants total gun control.	0.09440000000000003	-0.01319999999999999	0.16399999999999998
+none	0	0	0
+I still remember Benghazi.	0.3	-0.372	0.2619999999999999
+Democratic primaries seem to be rigged.	0.15533333333333335	-0.26666666666666666	0.11000000000000003
+no	0	0	0
+A woman can't be prez.	0.32699999999999996	-0.277	0.14299999999999996
+The usual scandals about emails, Benghazi, stolen White House property, Bill Clinton's scandals, and her being owned by the banking industry.	0.0972	-0.25039999999999996	0.09760000000000002
+might be indicted	0.23599999999999993	-0.31399999999999995	0.1
+nade a mess of choices regarding foreign policy	-0.19133333333333327	-0.10466666666666669	-0.08066666666666664
+no	0	0	0
+Covered up sexual assault	-0.13100000000000006	0.375	0.049000000000000044
+She's bought and paid for	0	0	0
+That he is not a conservative	-0.09000000000000004	-0.47000000000000003	-0.03599999999999994
+that she will win by dictatorship	-0.005999999999999987	-0.00733333333333334	0.1486666666666667
+email scandal	-0.037000000000000005	0.01399999999999997	-0.000999999999999987
+foundation made loan to saudi arabia	0.005000000000000074	-0.42900000000000005	0.018000000000000016
+poll says 66% of the people do not trust Hillary	0.14900000000000002	-0.20600000000000002	0.20500000000000002
+Everything	0	0	0
+Yes	0	0	0
+Just the email debacle	0.020000000000000018	-0.07199999999999998	0.016999999999999987
+Everything	0	0	0
+Don't care	0.5279999999999999	-0.466	0.31199999999999994
+Just her integrity problem	-0.036999999999999963	-0.18300000000000005	0.19000000000000006
+e-mail mishandling	0	0	0
+liar	-0.518	0.31999999999999995	-0.051999999999999956
+CLINTON FOUNDATION	0.17200000000000007	-0.518	0.28200000000000003
+we don't need to have two clinton's for president	0.14200000000000002	-0.23850000000000002	0.010499999999999954
+She lies and twists the truth	0.43800000000000006	-0.22400000000000003	0.39
+Emails	0	0	0
+not trustworthy	0.45	-0.15600000000000006	0.458
+Ben Gazi, email scandal, ect...	0.2	-0.1	0.22200000000000006
+Flip flops on views	0.11999999999999993	-0.07599999999999998	0.06400000000000006
+NO	0	0	0
+wall street lover	0.21200000000000005	-0.07999999999999997	0.06666666666666667
+Secret emails	0.06600000000000002	-0.17200000000000007	0.08200000000000003
+Yes, that she is all for the RICH People	0.253	0.05799999999999997	0.22300000000000003
+No	0	0	0
+email account problem	-0.0060000000000000235	-0.12866666666666673	0.07400000000000002
+yes	0	0	0
+Just the email issue!	0.2	-0.1	0.22200000000000006
+Some people want to indict her!!!	0.024666666666666687	-0.14533333333333334	0.03800000000000001
+nothing	0	0	0
+lits	0	0	0
+she wants to abolish the 2nd amendment but that's not true	-0.05600000000000006	-0.23200000000000004	-0.058
+She refused to discuss her emails at a rally, and she turned down a Fox Democratic debate	0.103	-0.1845	0.22600000000000003
+is good vote	0.313	-0.129	0.32
+She's corrupt, can't beat trump	-0.14400000000000004	-0.11500000000000002	0.14500000000000002
+lies from the Sanders camp	0.4	-0.17200000000000007	0.17799999999999994
+no	0	0	0
+no	0	0	0
+everything	0	0	0
+she is a liar and crook	-0.47300000000000003	0.12199999999999998	-0.144
+always	0	0	0
+She is feeling the Bern and is saying everything he was saying during his campaign. Copy cat politics.	0.24466666666666667	-0.2326666666666667	0.11000000000000003
+Yeah she sucks.	0	0	0
+She doesn't understand Venn diagrams	0.33599999999999997	-0.296	0.34199999999999997
+fbi investigation	-0.12799999999999995	0.14000000000000004	0.22200000000000006
+No	0	0	0
+making Bill her economic czar	-0.1506666666666667	-0.17266666666666666	-0.16199999999999998
+Nothing.	0	0	0
+all of it	0	0	0
+wewew	0	0	0
+no	0	0	0
+liar	-0.518	0.31999999999999995	-0.051999999999999956
+No	0	0	0
+yes, she's a compulsive lying bitch	-0.29500000000000004	0.062000000000000006	-0.20000000000000004
+everything on fox	0.10399999999999991	-0.12799999999999995	0.1
+EMAILS	0	0	0
+NO	0	0	0
+untrustworthy	-0.466	-0.040000000000000036	-0.15600000000000006
+She is a liar	-0.518	0.31999999999999995	-0.051999999999999956
+Not Sure	0.32799999999999996	-0.304	0.36400000000000005
+State Department investigation	0.028000000000000042	-0.23399999999999999	0.10600000000000004
+She is a liar	-0.518	0.31999999999999995	-0.051999999999999956
+not sure.	0	0	0
+Untrustworthy	-0.466	-0.040000000000000036	-0.15600000000000006
+None	0	0	0
+Yes, every time she opens her lying mouth	0.11899999999999994	-0.245	0.03600000000000003
+yes all about her past as secretary	0.026999999999999955	-0.14900000000000002	0.18599999999999994
+everything	0	0	0
+no	0	0	0
+She has issues with venn diagrams.	0	0	0
+Yes, she is a liar	-0.518	0.31999999999999995	-0.051999999999999956
+yes--but they are all lies	0	0	0
+Yes...everything	0	0	0
+She is a liar, a cheater	-0.41	0.19000000000000003	-0.18200000000000002
+Bill will run her economic policy	-0.0516	-0.23760000000000003	0.054800000000000036
+Trump calling her an enabler	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+more email problems, health concerns	0.285	-0.202	0.21100000000000002
+She cozied up with the Iraq War crowd, especially that awful Lieberman.	-0.549	0.11299999999999998	-0.367
+Every word about her a lie in her favor.	-0.18400000000000005	-0.11900000000000005	0.09399999999999994
+crooked hillary	-0.366	-0.16400000000000006	-0.364
+committing extreme election fraud, won't release her transcripts, backed out of a California debate, hired internet trolls to post child pornography on Sanders supporters Facebook pages to get them taken down, is now catering to Republican donors and voters	0.10933333333333334	-0.06466666666666665	0.11555555555555558
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+Her hawkish foreign policy.	-0.027999999999999935	0.08599999999999994	-0.041999999999999996
+None	0	0	0
+yes	0	0	0
+She's a liar.	0	0	0
+Yes	0	0	0
+She is a liar	-0.518	0.31999999999999995	-0.051999999999999956
+That she's worse then her husband	0.48200000000000004	-0.12400000000000003	0.14399999999999996
+None	0	0	0
+Only from Donald Trump	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+Her husband	0.48200000000000004	-0.12400000000000003	0.14399999999999996
+lies about being for women	0	0	0
+nothing	0	0	0
+Yes	0	0	0
+email	0.2	-0.1	0.22200000000000006
+emails	0	0	0
+Yes, she's phoney	0	0	0
+No	0	0	0
+She is a bully	-0.466	0.17200000000000007	-0.364
+most everything	0	0	0
+email scandal, benghazi	0.2	-0.1	0.22200000000000006
+phony world initiative fund, passively supported her husbands philandering which included rape	-0.14	0.014000000000000012	-0.08250000000000002
+The negative things being said are Republican campaign lies!	-0.2446666666666667	-0.22266666666666668	-0.011333333333333327
+bashing trump	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+no	0	0	0
+The Republicans do not want her to nominate a Supreme Court justice.	0.07719999999999999	-0.154	0.11359999999999996
+Democratic party using unfair voting gathering biased toward Clinton.	0.01199999999999999	-0.01600000000000001	0.055500000000000015
+stupid email	-0.11600000000000002	-0.11600000000000002	0.014000000000000054
+Betrayed Bill's mistresses	0	0	0
+A lot!	0	0	0
+Yes	0	0	0
+all the time- my family & friends do not like her!	0.34	-0.17200000000000001	0.24066666666666667
+e-mail scandal	-0.274	0.12799999999999995	-0.22400000000000003
+surprisingly, no	0	0	0
+not stable	0.040000000000000036	-0.378	0.266
+e-mails, changing positions	0	0	0
+Nothing negative. Just lies from Trump.	0	0	0
+references to the 2008 election when she stayed in the primary race vs. Obama even after she could no longer win	0.11150000000000002	-0.08549999999999995	0.18849999999999997
+She's a liar	-0.518	0.31999999999999995	-0.051999999999999956
+no	0	0	0
+to many to name	0.12400000000000003	-0.392	0.027999999999999935
+Her lies that come out her mouth everytime she popens it	0.12299999999999996	-0.22900000000000004	0.19400000000000006
+yeah but it's too much to type out, most people around here don't like her	0.28	-0.26466666666666666	0.10466666666666669
+None	0	0	0
+No	0	0	0
+zero comments	0	0	0
+Liar unethical, criminal	-0.548	0.109	-0.11699999999999999
+Women do not like her	0.2850000000000001	-0.19299999999999998	0.263
+she is a very nasty person to those that work for her	-0.06000000000000003	-0.10133333333333332	0.07333333333333335
+e mails, speeches, foundation	0.17200000000000007	-0.518	0.28200000000000003
+Can't seem to put the nomination away	0.078	-0.25733333333333336	0.09800000000000005
+The body trail, email sacandal	0.195	-0.088	0.187
+clinton cash	0.502	0.31799999999999995	0.23200000000000004
+i will put coal out of business	0.02250000000000001	-0.34900000000000003	0.139
+No	0	0	0
+Too many lies to count	0.17799999999999994	-0.54	0.03399999999999999
+Email scandal	-0.037000000000000005	0.01399999999999997	-0.000999999999999987
+A hawk and not qualified	0.292	-0.03399999999999999	0.1
+Yes! $$$$ taken on behalf of Clinton Foundation as a bribe to obtain arms and weapons. $$$ taken as bribes for alleged speaking fees. And numerous other items of a very crooked nature.	-0.09028571428571427	-0.23828571428571427	0.06857142857142855
+No	0	0	0
+no	0	0	0
+Emails, lies, phonyness	0	0	0
+She collected over 200,000.00o for a speech	0.12400000000000003	-0.18000000000000008	0.33599999999999997
+extremely dishonest, a behind the scenes psycho	-0.36	0.2	-0.38
+Liar.	0	0	0
+Very adept politician	-0.061000000000000026	-0.11299999999999999	0.059999999999999956
+Yes, that she can't win against Sanders	0.39399999999999996	0.12200000000000007	0.5720000000000001
+War criminal	-0.5660000000000001	0.07599999999999997	-0.264
+Don't tell truth	0.246	-0.22600000000000003	0.18900000000000006
+DENYING ABOUT EMAILS	0	0	0
+I have not heard anything negative about HC.	-0.16199999999999998	-0.14300000000000002	0.000999999999999987
+Everything reported about Hillary is negative - but she is so stupid to realize that!!	-0.2133333333333333	-0.158	0.017333333333333367
+Benghazi	0	0	0
+Defended a rapist.	0	0	0
+corrupt	-0.4	0.1960000000000001	-0.25999999999999995
+she is a liar, crook and left our boys to die in benghazi	-0.547	0.15200000000000002	-0.29000000000000004
+SHE SHOULD BE CHARGED BY THE DOJ!!	0.23599999999999993	-0.31399999999999995	0.1
+The 13 Minutes of Hillary Lying video	0.32799999999999996	-0.040000000000000036	0.16799999999999998
+Yes. Not truthwordy	0	0	0
+No	0	0	0
+Naming Bill Clinton to run economy	-0.12266666666666665	-0.029333333333333305	-0.09333333333333331
+email scandal	-0.037000000000000005	0.01399999999999997	-0.000999999999999987
+too many to choose from	0.2	-0.27999999999999997	0.366
+Clinton foundation	0.17200000000000007	-0.518	0.28200000000000003
+death, destruction, lies...the usual	0.09600000000000009	-0.36	0.316
+she's not qualified to be president	0.14100000000000001	-0.18599999999999997	-0.01200000000000001
+r u kidding?	0	0	0
+on going illegal emails	-0.49400000000000005	0.10999999999999996	-0.05600000000000005
+benghazi witch hunt	-0.30200000000000005	0.039999999999999945	0.008999999999999984
+Another 4 years of the same	0	0	0
+habitual liar	-0.33899999999999997	-0.007000000000000006	0.00600000000000005
+same old same old: email, Wall Street connections	-0.112	-0.27799999999999997	-0.0766666666666667
+not that I noticed	0	0	0
+she wants to put coal miners out of work	-0.020000000000000046	-0.28400000000000003	0.12933333333333338
+No	0	0	0
+no	0	0	0
+nothing	0	0	0
+n/a	0	0	0
+Bill Clinton	-0.378	-0.2	-0.2
+Emails	0	0	0
+yes that her and Billy boy have been cooking rhe election books big time	0.1403333333333333	-0.20699999999999996	0.11533333333333333
+Trump's hits on her about the 2nd Amendment	0.11999999999999993	-0.3	-0.04600000000000008
+Liar, Con, Self absorbed, Fake, Enabler	0.37200000000000005	-0.04399999999999995	0.548
+She's a liar and corrupt and in the pocket of the 1%	-0.26133333333333336	0.1386666666666667	-0.012666666666666623
+Bill's affairs and Hillary going after the women to shut them up	-0.1	-0.19000000000000003	0.12200000000000007
+more shit about those emails again	-0.21799999999999997	0.13399999999999998	-0.08200000000000003
+Only from Trump	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+She is still trying to control guns	-0.11400000000000006	-0.04800000000000004	0.09399999999999994
+no	0	0	0
+bengazi	0	0	0
+lier	0	0	0
+none	0	0	0
+She is untrustworthy	-0.466	-0.040000000000000036	-0.15600000000000006
+She's beholden to financial interests	0.004999999999999982	-0.221	-0.03399999999999999
+no	0	0	0
+She tried to cover up her promise to rid the U.S. of coal miners, once again lying through her teeth. She refused to address the subject of her husband's sexual abuse of women throughout his years as governor and president. There were allegations about the Clinton Foundation accepting donations from foreign nations that were designed to curry favor from her should she become president.	0.06428571428571431	-0.1757142857142857	0.1217142857142857
+no	0	0	0
+"HEARSAY "" ' CROOKED HILLARY ' ""{"	-0.30100000000000005	-0.12300000000000005	-0.24999999999999997
+NA	0	0	0
+None	0	0	0
+She's a lying, cheating, raping criminal out to destroy America	-0.522	-0.03499999999999996	-0.16100000000000003
+A whole lot, but primarily about the super delegates and Clinton control of the DNC	0.156	-0.16733333333333333	0.24133333333333337
+bill in charge economy	-0.24266666666666667	-0.09533333333333331	-0.11133333333333334
+mo	0	0	0
+corrupt	-0.4	0.1960000000000001	-0.25999999999999995
+trump is not presidental	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+No	0	0	0
+lying, cheating, thieveing no good dumb cunt	-0.06466666666666666	0.003999999999999976	-0.064
+She lies	0	0	0
+I heard that she was cheating in the polls today with 4000 votes huh kinda goes what I was just saying about her being a liar.	0	0	0
+No	0	0	0
+Today	0	0	0
+She's a liar.	0	0	0
+emails	0	0	0
+No	0	0	0
+No	0	0	0
+everything	0	0	0
+Benghazi, her husband	0.48200000000000004	-0.12400000000000003	0.14399999999999996
+Watched a 13 minute video of her lying	0.21399999999999997	-0.14400000000000004	0.000999999999999987
+Narrow margin in Kentucky.	-0.029999999999999985	-0.176	0.03400000000000007
+Same junk about emails	-0.28600000000000003	-0.20999999999999996	-0.027999999999999935
+only what trump has said	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+Yes there was a cartoon in a Hispanic newspaper that showed her with a horrible look on her face because Bernie Sanders is growing and she is not	0.05960000000000003	-0.11920000000000001	0.09239999999999998
+She's a lying two timing piece of shit.	0.14666666666666667	-0.3133333333333333	0.0346666666666667
+she believe the min wage should be 12.00	0.282	-0.3206666666666666	0.10266666666666668
+peole keep bringing up her private email account	0.15750000000000003	-0.2345	0.0605
+too much to say	0.18200000000000002	-0.11400000000000006	0.376
+Too many to cite	-0.009999999999999964	-0.2	0.23800000000000007
+no	0	0	0
+heartless hillary	-0.44000000000000006	-0.03599999999999994	0.04399999999999995
+Same bullshit about her being a liar	-0.526	0.36	-0.22599999999999998
+she is not well	0	0	0
+n/a	0	0	0
+She is a hawk and a lot of voters don't trust her.	0.37	-0.08700000000000002	0.245
+EVERYTNING	0	0	0
+Un trustworthy	0.45	-0.15600000000000006	0.458
+yea	0	0	0
+Not popular with millennials	0.142	-0.051999999999999956	0.038000000000000075
+"Yes, she has been lying about her private email. She is still at fault even if she ""didn't realize"" what she was doing was wrong."	-0.10299999999999998	-0.23600000000000004	-0.16500000000000004
+too much to list	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+Box too small. Long list of scandals	0.12199999999999997	-0.47800000000000004	0.028000000000000025
+emails	0	0	0
+YES, DEVIOUS, LIAR	-0.518	0.31999999999999995	-0.051999999999999956
+Not last week	0.053999999999999916	-0.33399999999999996	0.05600000000000005
+no	0	0	0
+She and Donald trump are just alike in different ways.	0.00899999999999998	-0.27199999999999996	0.23299999999999998
+everything	0	0	0
+Stuff about the email server mess	0.03550000000000002	-0.1785	-0.0515
+Yes, she's dishonest	-0.4	-0.009999999999999964	0.0
+Liar, says what people want to hear even if she has no intention of honoring what she says	0.198	-0.17049999999999998	0.21549999999999997
+You can't trust her.	0.44800000000000006	-0.14000000000000004	0.39
+video of her MANY lies	0.32799999999999996	-0.040000000000000036	0.16799999999999998
+several opinion pieces about why she's the worst, least capable candidate of them all	0.19533333333333333	-0.07666666666666662	0.2553333333333334
+that she is for wall street	0.01299999999999999	-0.365	-0.03700000000000001
+everything	0	0	0
+Yes	0	0	0
+E-mails	0	0	0
+"""I don't trust her. She'll do anything to get elected."""	0.24933333333333338	-0.224	0.26333333333333336
+email scandal	-0.037000000000000005	0.01399999999999997	-0.000999999999999987
+No	0	0	0
+voter fraud in primaries	-0.31000000000000005	-0.0070000000000000305	-0.08299999999999996
+Ask Bill about economics	-0.04933333333333331	-0.25466666666666665	-0.04400000000000001
+no	0	0	0
+I don't recall	-0.04600000000000008	-0.10399999999999991	0.15600000000000006
+From Trump - If she is elected President, the Country would never recover from the disaster	-0.0264	-0.13520000000000001	0.08120000000000002
+none	0	0	0
+Charges of cronyism	0	0	0
+Bills sex island visits.	0.391	0.18499999999999994	0.175
+only that she lies	0	0	0
+some old thing she's a lier	-0.126	-0.20899999999999994	-0.03700000000000001
+says she is the nominee, that it has been decided.	0	0	0
+Always hear negative about her the lies have gone on for 25 years.	0.004000000000000013	-0.18733333333333335	0.11466666666666665
+crook	-0.42800000000000005	-0.07599999999999998	-0.23600000000000004
+none	0	0	0
+takes money from big corporations and rich donors and still wants people to believe she will fight for the working class, keeps most of the money she takes in despite saying she gives it to down ticket Dems, Wasserman Shcultz is doing everything she can to cheat Hill into the White House, pandering champ	0.15657142857142856	-0.07528571428571428	0.19085714285714286
+none	0	0	0
+No	0	0	0
+a lot of negatives things about her money she has made, investments, too many to list	0.29899999999999993	-0.059	0.19300000000000006
+a good liar	0.02999999999999997	0.025999999999999995	0.11500000000000003
+yes	0	0	0
+No	0	0	0
+Untrustworthy	-0.466	-0.040000000000000036	-0.15600000000000006
+Everything	0	0	0
+How she continues to vasilate on core issues	0.23800000000000007	-0.352	0.17799999999999994
+greedy	-0.58	-0.04800000000000004	-0.2
+Yes email scandal	-0.037000000000000005	0.01399999999999997	-0.000999999999999987
+A lot	0	0	0
+She said she would put bill in charge of economy	-0.10559999999999999	-0.1504	0.008400000000000029
+lots, she's a liar, trying to cheat seniors	-0.39	-0.01799999999999997	-0.12599999999999997
+She is a liar and oppurtunist	-0.518	0.31999999999999995	-0.051999999999999956
+lots of scandals	0	0	0
+To many to mention including her felony private server	-0.07	-0.2535	-0.04450000000000002
+Yes. She is a crook.	0	0	0
+was a Goldwater girl and has some very conservative ideas	0.17	-0.21199999999999997	0.008999999999999987
+no	0	0	0
+unlikeable, unscrupulous, beholden to moneyed interests	0.009999999999999964	-0.352	-0.03200000000000003
+no	0	0	0
+good	0.578	-0.26799999999999996	0.28200000000000003
+privileged, paid by big money	0.2739999999999999	0.11900000000000004	0.19300000000000006
+yes, everything	0	0	0
+She belongs in prison	-0.612	0.019999999999999928	-0.292
+Yes	0	0	0
+She said she would put Bill Clinton in charge of the economy.	-0.06399999999999999	-0.20400000000000001	0.05250000000000003
+no	0	0	0
+no	0	0	0
+yes	0	0	0
+email problems	0.2	-0.1	0.22200000000000006
+Yes. Her unfavorables are high	0.15399999999999991	-0.18000000000000008	0.15199999999999997
+Still free from prison	0.019000000000000017	0.04799999999999996	0.0040000000000000036
+she is a liar married to a liar rapist	-0.592	0.302	-0.22066666666666665
+liar	-0.518	0.31999999999999995	-0.051999999999999956
+illegally acquired votes, illegally accepted money, illegally kept emails at home	0.4960000000000001	-0.24400000000000005	0.3539999999999999
+just lots of name-calling.	0	0	0
+Hillary is not showing a softer side. I personally think she is doing just fine. She is keeping up just fine with her male counterparts.	0.33933333333333326	-0.19266666666666668	0.21133333333333335
+that trump calls her a liar.	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+yes she is a crook running on her gender	-0.03733333333333334	-0.05400000000000003	0.008666666666666628
+liar	-0.518	0.31999999999999995	-0.051999999999999956
+n/a	0	0	0
+domineering personality	0.22799999999999992	-0.1	0.34199999999999997
+crooked	-0.366	-0.16400000000000006	-0.364
+no	0	0	0
+not honest	0.632	-0.2	0.34
+Transcripts, shady campaign finances	-0.17400000000000002	-0.22099999999999997	0.009999999999999964
+lies, ,e mails, husband, condesceti	0	0	0
+only things that conservatives have said that are lies that can be disputed	0.22999999999999998	-0.3273333333333333	0.17733333333333334
+Her e- mails.	0	0	0
+Lies about Benghazi	0	0	0
+high paid speeches, missing emails, her saying Bill will run the economy, Benghazi.	0.0305	-0.18800000000000003	0.09050000000000002
+n	0	0	0
+no	0	0	0
+Lying, cheating	0	0	0
+na	0	0	0
+na	0	0	0
+Rigged primaries.	0	0	0
+Nothing	0	0	0
+Nothing	0	0	0
+Too pushy.	0	0	0
+Only the stupid and untrue things that Trump says	-0.302	-0.2126666666666667	0.0006666666666667135
+Possible indictment	0.10299999999999998	-0.10400000000000001	0.017
+to much to waste my time !!!!	-0.17900000000000005	-0.255	-0.10599999999999997
+Email scandal	-0.037000000000000005	0.01399999999999997	-0.000999999999999987
+She is a liar.	0	0	0
+The probe to look into her emails is still weighing over her	-0.041999999999999996	-0.176	0.005999999999999964
+no	0	0	0
+N/A	0	0	0
+Continued lying and denials	0	0	0
+crooked	-0.366	-0.16400000000000006	-0.364
+Deceitful	-0.48	0.03599999999999994	-0.17799999999999994
+More anti gun statements	-0.187	0.19700000000000006	-0.02400000000000002
+Nothing	0	0	0
+LOTS OFTHINGS	0	0	0
+More about the ongoing email scandal	-0.03866666666666666	-0.041333333333333354	0.00466666666666668
+slandered women who accused bill of sexual harrassment	-0.025000000000000022	0.095	0.1
+none	0	0	0
+Won't discuss emails, turned down democratic debate	0.10266666666666667	-0.20333333333333334	0.268
+Too many too mention	0.07799999999999993	-0.47000000000000003	0.06600000000000002
+Warmonger, billions from oil shieks Wall Street	-0.06399999999999999	-0.29333333333333333	0.017333333333333315
+She's a liar can't trust her	-0.034999999999999976	0.08999999999999996	0.16900000000000004
+proabkly but donoto recall	-0.04600000000000008	-0.10399999999999991	0.15600000000000006
+Medusa in the flesh, sez the republicans	0	0	0
+Yes	0	0	0
+yes liar	-0.518	0.31999999999999995	-0.051999999999999956
+she's dishonest, corrupt, in the pocket of special interests	0.317	-0.202	0.309
+She's a shill for big banks	0.12799999999999995	-0.13399999999999998	0.12200000000000007
+Too much to list.	0	0	0
+lots	0	0	0
+Yes	0	0	0
+Where to begin...	0	0	0
+email indictment	-0.010999999999999982	-0.025	0.028000000000000025
+Liar	-0.518	0.31999999999999995	-0.051999999999999956
+Yes	0	0	0
+email scandal, Benghazi	0.2	-0.1	0.22200000000000006
+na	0	0	0
+no	0	0	0
+Clinton foundation finances	0.17200000000000007	-0.518	0.28200000000000003
+Classified email and servers - she has commited a crime that threatens national security	0.020400000000000022	-0.10279999999999996	0.0692
+She continues to lie and take $ from Saudi Arabia	-0.27899999999999997	-0.06700000000000009	-0.04500000000000002
+most corrupt person on the planet, a sociopathic liar, covers up for a rapist husband	-0.10950000000000003	0.020000000000000018	-0.11850000000000001
+No	0	0	0
+No	0	0	0
+Not trustworthy for big banks	0.289	-0.14500000000000002	0.29000000000000004
+none	0	0	0
+her stupid emails.	-0.43200000000000005	-0.13200000000000003	-0.19399999999999995
+13 minute of lying video, Clinton Cash, Clinton Foundation auditing, FBI investigation, email.	0.13600000000000004	-0.383	0.05800000000000001
+Too cozy with the business establishment	0.2760000000000001	-0.273	0.20400000000000001
+She's crooked. No surprise there.	0.4880000000000001	0.31400000000000006	0.03399999999999999
+untrustworthy	-0.466	-0.040000000000000036	-0.15600000000000006
+email security, Clinton Foundation donations, speeches to Wall Street	0.09950000000000002	-0.33699999999999997	0.10750000000000003
+yes criminal	-0.5780000000000001	-0.10199999999999995	-0.18200000000000002
+Everything	0	0	0
+emails	0	0	0
+No	0	0	0
+no	0	0	0
+dishonest	-0.4	-0.009999999999999964	0.0
+She is unfit to be President	-0.04266666666666665	-0.206	-0.060000000000000026
+shes garbage	-0.42400000000000004	-0.23200000000000004	0.030000000000000072
+yes, she is a crook	-0.42800000000000005	-0.07599999999999998	-0.23600000000000004
+She's in bed with wall st. bankers	0.22199999999999998	-0.41000000000000003	0.09500000000000001
+you dont have enough room to put it all on here	0.09999999999999999	-0.3013333333333333	0.158
+n/a	0	0	0
+calculated	0	0	0
+everything	0	0	0
+she's too close to big money	0.19799999999999998	1.850371707708594e-17	0.19133333333333344
+She's a liar, untrustworthy	-0.466	-0.040000000000000036	-0.15600000000000006
+email questions	0.2	-0.1	0.22200000000000006
+general stuff about her hawkishness that isn't new	0.25733333333333336	-0.17533333333333337	0.019333333333333334
+Continues to refuse to release transcripts from speeches given to financial institutions.	0.003999999999999985	-0.10533333333333333	0.04600000000000002
+Yes - association to Wall Street	0.042	-0.332	0.05133333333333331
+Tons!	0	0	0
+none	0	0	0
+Yes, duplicity	0	0	0
+"""Clinton Cash"" is getting attention"	0.33599999999999997	-0.19000000000000003	0.29399999999999993
+Emails unprotected	-0.304	0.06999999999999992	-0.376
+No	0	0	0
+yup. lots. she should be in jail	-0.19100000000000003	-0.21	-0.05899999999999998
+nothing	0	0	0
+Hauling in so much money when she gives a speech.	0.41999999999999993	0.37200000000000005	0.26400000000000007
+still gets money from big corporations	0.2739999999999999	0.11900000000000004	0.19300000000000006
+More of the same - emails and benghazi	0	0	0
+protecting rapist husband	-0.12899999999999998	0.071	-0.20700000000000005
+Benghazi	0	0	0
+Handling confidential material	0.176	-0.176	0.04800000000000004
+No	0	0	0
+NO	0	0	0
+no	0	0	0
+no	0	0	0
+yes	0	0	0
+Just taday report State Dept Report on email server	0.06479999999999997	-0.2584	0.07120000000000004
+Dishonest	-0.4	-0.009999999999999964	0.0
+No	0	0	0
+Email leak	0.0	-0.007000000000000034	0.06800000000000006
+no	0	0	0
+No	0	0	0
+Yes, many things. For example, complaints that she is too hawkish.	0	0	0
+She's a shill	0	0	0
+yes will rebuild the military and fix the economy	0.054000000000000034	-0.11800000000000002	0.14679999999999999
+that she doesn't care about the poor minorities	0.13099999999999995	-0.266	0.055999999999999966
+The case against her email scandal is heating up.	0.03299999999999997	-0.10550000000000004	0.09650000000000003
+NONE	0	0	0
+Criminal and liar	-0.548	0.109	-0.11699999999999999
+N/A	0	0	0
+That she's bought out by wall st and big banks	0.06999999999999994	-0.277	-0.016999999999999994
+yes, illegal use of email and Bengazi	-0.08600000000000003	-0.05066666666666666	0.05533333333333334
+Illegal emails	-0.49400000000000005	0.10999999999999996	-0.05600000000000005
+N/A	0	0	0
+no	0	0	0
+Nothing.	0	0	0
+That she is a pawn of corporations.	-0.22000000000000003	-0.142	0.03200000000000003
+She doesn't represent change; her politics are for the wealthy	0.053333333333333316	-0.16000000000000003	0.04333333333333336
+Yes the emails, the lies.... the list goes on...	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+none	0	0	0
+Bengazi	0	0	0
+bengazi, emails	0	0	0
+Emails	0	0	0
+No	0	0	0
+Delegating her responsibilities to Bill Clinton	-0.378	-0.2	-0.2
+Her email situation.	0.2	-0.1	0.22200000000000006
+She's a lying sack of shit.	0.022000000000000065	-0.15199999999999997	0.0
+Nothing.	0	0	0
+elitist conservative	-0.09500000000000003	-0.27799999999999997	0.05600000000000005
+Email breach	-0.033	-0.20400000000000001	0.08700000000000001
+No	0	0	0
+she always lies	0	0	0
+lots	0	0	0
+liar & devious	-0.402	0.04299999999999998	-0.009999999999999964
+Liar	-0.518	0.31999999999999995	-0.051999999999999956
+she lies	0	0	0
+behngazi	0	0	0
+Enabler	0	0	0
+un trustworthy	0.45	-0.15600000000000006	0.458
+FBI e-mail criminal investigation, Goldman Sachs - still won't release transcripts, her party minions continue to cheat at each primary and convention	-0.0025714285714285817	-0.14714285714285716	0.08342857142857142
+none	0	0	0
+no	0	0	0
+Nothing.	0	0	0
+no	0	0	0
+mostly stuff that either isnt true or doesnt matter	0.16800000000000007	-0.243	0.09500000000000003
+Liar, enabler of bill's use of women	0.03599999999999994	-0.16199999999999992	0.0
+She supports men using the little girls room	0.146	-0.27	0.08899999999999997
+benghazi	0	0	0
+yes	0	0	0
+That she is a negative role model	-0.06666666666666671	-0.10999999999999999	0.0786666666666667
+i'm sure i have but am turned off to all the nonsense until we can have substative debate	0.12400000000000001	-0.232	0.18000000000000002
+no	0	0	0
+Nothing	0	0	0
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+Emails, corruption	-0.4	-0.027999999999999935	-0.274
+n	0	0	0
+No	0	0	0
+no	0	0	0
+Nothing	0	0	0
+no	0	0	0
+No	0	0	0
+Some people don't trust her	0.29400000000000004	-0.193	0.23500000000000004
+She doesn't believe that she can fix the economy	0.16050000000000003	-0.23049999999999998	0.194
+bengazi emails liar fake	-0.497	0.17500000000000002	-0.079
+Bo	0	0	0
+none	0	0	0
+Yes...she is strickly for the wrong...	0	0	0
+Everything	0	0	0
+no	0	0	0
+Covering up her past	0.01799999999999997	-0.05800000000000001	0.03599999999999994
+Will have Bill help her out	0.062000000000000034	-0.26449999999999996	0.16099999999999998
+Still making large $$ speeches	0.15399999999999991	0.06999999999999992	0.009999999999999964
+Assumes she's nominee	0.1	-0.11999999999999993	0.15
+No	0	0	0
+No	0	0	0
+NONE	0	0	0
+she lies, she is racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+email questions still	0.2	-0.1	0.22200000000000006
+not from the liberal press although there is plenty they could choose from	0.13899999999999996	-0.36	0.16100000000000003
+where her money goes	0.41999999999999993	0.37200000000000005	0.26400000000000007
+everything about Hillary is wrong	-0.352	0.05800000000000001	-0.32199999999999995
+too secretive	-0.16999999999999993	0.14600000000000007	0.16199999999999992
+the Nevada DNC was horrible. Hillary is a liar.	0	0	0
+ma	0	0	0
+na	0	0	0
+n/a	0	0	0
+nothing	0	0	0
+email scandal	-0.037000000000000005	0.01399999999999997	-0.000999999999999987
+putting Bill in charge of the economy	-0.24266666666666667	-0.09533333333333331	-0.11133333333333334
+she is a lyer, war monger	-0.554	0.2539999999999999	-0.346
+None	0	0	0
+Untruthful	0	0	0
+a lesbian	0.15199999999999997	0.20800000000000002	0.06799999999999998
+She said she would put her husband in charge of the economy.	0.15100000000000002	-0.18500000000000003	0.13850000000000004
+So many things	0	0	0
+she's a liar	-0.518	0.31999999999999995	-0.051999999999999956
+how she handled her husbands affairs and how she handles the clinton fund	0.30999999999999994	-0.08200000000000003	0.20999999999999996
+no	0	0	0
+yes	0	0	0
+Yes. That usiing a private e-mail for State Department business is improper. (Found by the FBI_	0.09900000000000006	-0.344	0.008000000000000004
+Still questions about emails	0	0	0
+That they think she might have cheated in the Kentucky election.	0.254	-0.273	0.22199999999999998
+No	0	0	0
+shes a crook	-0.42800000000000005	-0.07599999999999998	-0.23600000000000004
+she think all people should have guns taken away so we cannot protect ourselves	0.2535	-0.263	0.17250000000000001
+Promises official role for Bill.	0.08499999999999996	-0.15599999999999997	0.08100000000000004
+Liar	-0.518	0.31999999999999995	-0.051999999999999956
+Nothing	0	0	0
+Her personal email issues and the lies	0.209	-0.193	0.083
+taking away the right to bear arms	0.26500000000000007	-0.05	0.07500000000000001
+That she has never really accomplished anything as a senator or Sec'y of State	0.00500000000000006	-0.296	0.14900000000000002
+not a good campaigner	0.578	-0.26799999999999996	0.28200000000000003
+Emails and husband	0.48200000000000004	-0.12400000000000003	0.14399999999999996
+corporate wh*re	-0.019999999999999928	-0.051999999999999956	0.009999999999999964
+she killed our soldiers	0	0	0
+Email scandal, liar, greedy	-0.18999999999999997	-0.07400000000000002	0.011000000000000024
+Nothing	0	0	0
+Nothing	0	0	0
+no	0	0	0
+naaaa	0	0	0
+every day email,money from foreign govt's,&	0.12200000000000007	-0.09500000000000001	0.037999999999999985
+Not trustworthy	0.45	-0.15600000000000006	0.458
+Vince Foster had a two holes in his head and one in his hand.	0.21666666666666667	-0.3033333333333333	0.07799999999999994
+She's a liar!	0	0	0
+Liar, law breaker, ugly pant suits, hair, face, etc.	-0.17666666666666667	-0.20800000000000005	-0.1166666666666667
+Liar.	0	0	0
+Nothing.	0	0	0
+She said keep our border's open to everyone.	0.246	-0.214	0.188
+YES	0	0	0
+many things	0	0	0
+Email	0.2	-0.1	0.22200000000000006
+no	0	0	0
+Too much to list - Bengazi, apologizing to our enemies	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+na	0	0	0
+She lost Oregon.	-0.49400000000000005	0.022000000000000065	-0.22999999999999998
+No	0	0	0
+nothing	0	0	0
+n/a	0	0	0
+Lying about her e-mails when she was Secretary of State.	0.03599999999999994	-0.24000000000000005	0.33599999999999997
+good	0.578	-0.26799999999999996	0.28200000000000003
+nope	0	0	0
+Turned off independent voters by stating Bill would be in charge of the economy	0.010333333333333352	-0.08133333333333331	0.07100000000000004
+no	0	0	0
+political commentators both Democrat and Republican mantion her lack of vision and focus	0.036666666666666674	-0.24566666666666662	0.122
+She claims to have already won the nomination for the Democratic party, she has reneged on her agreement for another debate in California,	0.15560000000000002	-0.16799999999999998	0.2312
+ask Trump	0.012999999999999984	-0.31899999999999995	0.21500000000000002
+She's too establishment.	0	0	0
+No	0	0	0
+no	0	0	0
+yes all the time and that was only a few days ago	0.11999999999999993	-0.31799999999999995	-0.12799999999999995
+NA	0	0	0
+Everything is negative	-0.496	0.009999999999999964	-0.142
+She did not win one of the states this past week	0.17099999999999996	-0.184	0.19399999999999998
+No	0	0	0
+Too much to list. She is a liar!	0	0	0
+No	0	0	0
+She's still Alive.	0	0	0
+people talking about how she's too tied to her donors	0.14000000000000004	-0.246	0.08000000000000007
+gun confiscation	-0.26799999999999996	0.548	-0.05800000000000001
+no	0	0	0
+"I've hear mostly negative coverage and comments. She's a hawk, she's ""untrustworthy"" (without any specifics cited), she's the ""anti-christ,"" she is stupid, she is too friendly with rich people, she is ""denying the peoples' will."""	0.18559999999999996	-0.08240000000000001	0.2556
+no	0	0	0
+Her ads against Trump are classless, disgusting and ignorant, just like her	-0.074	-0.0746666666666666	0.1286666666666667
+Nothing	0	0	0
+Nothing the smear idiots have not lied about before	-0.029999999999999985	-0.244	0.06099999999999995
+No	0	0	0
+nothing	0	0	0
+Lied about use of personal server and Bill running the economy as a unelected position of extreme importance	0.05555555555555554	-0.11133333333333334	0.006888888888888858
+emails	0	0	0
+nothinv	0	0	0
+NO	0	0	0
+more about untruthfulness	0	0	0
+That she is a criminal who should be brought to justice	0.00599999999999995	-0.11199999999999995	0.05999999999999996
+she lies	0	0	0
+Yes. The Inspector General levied some very serious procedural violations about the e-mail scandal.	0.012000000000000014	-0.22150000000000003	0.05800000000000001
+no	0	0	0
+Everyday!!!!!! She is a crook and a killer!!!!	-0.42800000000000005	-0.07599999999999998	-0.23600000000000004
+yes	0	0	0
+No	0	0	0
+too numerous to list here; a constant barrage of negativity	-0.035199999999999995	-0.288	0.05120000000000001
+She's a woman and therefore unqualified for the presidency.	0.056999999999999995	-0.15300000000000002	-0.007000000000000034
+Bill Clinton	-0.378	-0.2	-0.2
+Sneaky conniving liar	-0.365	0.2819999999999999	-0.05499999999999998
+Yes	0	0	0
+every thing i heard was bad	-0.12100000000000001	-0.17099999999999993	-0.10299999999999998
+She is corrupt	-0.4	0.1960000000000001	-0.25999999999999995
+no	0	0	0
+Yes she is a criminal and it's true	-0.5780000000000001	-0.10199999999999995	-0.18200000000000002
+Still under federal investigation.	-0.388	-0.10999999999999996	-0.44800000000000006
+Benghazi, Goldman Sach speech, corruption, lies, etc.	0	0	0
+The usual - people alleging that she's going to be indicted	0.15733333333333335	-0.30666666666666664	0.16533333333333336
+speaking fees, breaking security laws with her server, bill's infidelities, chelsea's husband costing investors millions of $'s, etc	0.382	-0.14299999999999996	0.172
+Noth Ng	0	0	0
+faffafaf	0	0	0
+no	0	0	0
+Predicting violence if Trump elected	-0.31100000000000005	-0.07199999999999997	-0.08999999999999996
+no	0	0	0
+She's getting $ from Saudi Arabia	0	0	0
+Liar, corrupt, will do or say anything for a vote	0.09400000000000003	-0.19750000000000004	0.3315
+She is responsible for what happened in Benghazi; she lies to the American people; she wants to change some of the things in the Constitution	0.12266666666666666	-0.3066666666666667	0.24
+Liar, email fraud	-0.19500000000000003	-0.03200000000000003	-0.04099999999999997
+she enabled her husband's behavior	0.05600000000000005	-0.14600000000000007	0.176
+none	0	0	0
+Yes. Hiding info again.	0.19000000000000003	-0.25599999999999995	0.011999999999999922
+no	0	0	0
+that she is a liar and a back stabbing bitch	-0.35200000000000004	0.009333333333333313	-0.09266666666666667
+lots, her emails, her lies about her past, her sexist husband that she never divorced	0.08100000000000002	0.009999999999999967	-0.020000000000000018
+nothing but lies	0	0	0
+liar	-0.518	0.31999999999999995	-0.051999999999999956
+unfortunately, no	0	0	0
+bill clinton is stuck with her.	-0.378	-0.2	-0.2
+Same stuff you hear every week	0.18733333333333332	-0.302	0.12133333333333335
+Claiming victory before it's over.	0.518	0.18000000000000008	0.39
+yes	0	0	0
+no	0	0	0
+no	0	0	0
+Yes	0	0	0
+Only on cable news not from people I run into in my daily life.	0.14840000000000003	-0.14639999999999995	0.059600000000000056
+Some	0	0	0
+women	0	0	0
+Shes a moron	-0.14000000000000004	-0.1	-0.09000000000000004
+no	0	0	0
+husband who flew to island for sex with minors, judicial watch hearing, eliminating coal industry	0.1542857142857143	-0.11457142857142859	0.09857142857142857
+No	0	0	0
+No	0	0	0
+Yes - she wants to make Bill Clinton an adviser on economic issues	-0.0010000000000000373	-0.2675	0.030499999999999965
+Scandals	0	0	0
+Yes. Lies	0	0	0
+She's a woman	0.418	-0.24000000000000005	0.18599999999999994
+everything is negative when it comes to her	-0.496	0.009999999999999964	-0.142
+Liar	-0.518	0.31999999999999995	-0.051999999999999956
+yes	0	0	0
+no	0	0	0
+Bought and paid for	0	0	0
+Liar, thief, crooked, murderer....	0	0	0
+no	0	0	0
+yes her lies about emails and attach on bengasey	0.051999999999999956	-0.238	-0.05999999999999996
+No	0	0	0
+She's a liar	-0.518	0.31999999999999995	-0.051999999999999956
+Bejazi	0	0	0
+classified email scandal	0.010666666666666677	-0.016666666666666663	-0.02200000000000001
+Email scandal	-0.037000000000000005	0.01399999999999997	-0.000999999999999987
+None	0	0	0
+She lost the primary in Oregon	-0.215	-0.16399999999999995	0.019999999999999962
+everything out of her mouth is a lie.	0.11799999999999997	-0.17200000000000007	0.2
+Trump likes to call her names.	0.035999999999999935	-0.33799999999999997	0.14700000000000008
+The FBI investigating her email and its connection to the Clinton Foundation	0.19066666666666668	-0.24266666666666667	0.31533333333333335
+No	0	0	0
+polls are narrowing	0	0	0
+e-mail server	0.06999999999999992	-0.258	0.027999999999999935
+Nothing	0	0	0
+Taking away protection of 2nd ammendmenr	0.3460000000000001	-0.13599999999999995	0.34199999999999997
+She has political baggage	-0.11500000000000003	-0.2	0.0030000000000000165
+no	0	0	0
+used private email account for official business	0.12240000000000002	-0.21480000000000002	0.052000000000000005
+supports rapist husband	-0.12899999999999998	0.071	-0.20700000000000005
+how she is a liar and inflates her stories	-0.518	0.31999999999999995	-0.051999999999999956
+no	0	0	0
+traitor should go to jail	-0.292	-0.09333333333333337	-0.06866666666666663
+Yes	0	0	0
+nothing about Clinton is negative	-0.496	0.009999999999999964	-0.142
+her emails	0	0	0
+She's a liar.	0	0	0
+She is a liar.	0	0	0
+nope	0	0	0
+nothing	0	0	0
+none	0	0	0
+Yes. Bitch.	0	0	0
+No	0	0	0
+refused to debate on Fox news	0.028666666666666646	-0.07799999999999994	0.0626666666666667
+Email Scandal	-0.037000000000000005	0.01399999999999997	-0.000999999999999987
+everything	0	0	0
+jgjgj	0	0	0
+I ignore Trump and his cronies	-0.249	-0.28700000000000003	0.06900000000000003
+no	0	0	0
+Dressed in black face for halloween	0.17600000000000007	-0.183	0.14400000000000004
+She's a pathological liar	-0.488	0.009999999999999981	-0.12599999999999997
+Untrustworthy	-0.466	-0.040000000000000036	-0.15600000000000006
+indited by FBI	0	0	0
+No	0	0	0
+everything	0	0	0
+She is a liar	-0.518	0.31999999999999995	-0.051999999999999956
+corupt	0	0	0
+The same old rehashed junk.	-0.362	-0.10399999999999991	-0.15600000000000006
+she lies	0	0	0
+sex scandal	0.03600000000000003	0.32399999999999995	0.004999999999999977
+She is not on top of issues, like not sending help to Bengazi. She sent emails that she shouldnt have.	0.35933333333333345	-0.13199999999999998	0.29466666666666663
+none	0	0	0
+When her husband was cheating on her, and some of the woman came forward, Hillary tried to ruin the woman and discredit them. But she says in public that if a woman is abused, we should take her word for it but that is not what she did	0.11244444444444444	-0.17555555555555558	0.08777777777777776
+She's trying to bully Sanders into dropping out of the race as though she is entitled to tell someone else what to do.	-0.108	-0.005333333333333311	-0.15466666666666665
+Not telling the truth about emails.	0.43800000000000006	-0.22400000000000003	0.39
+none	0	0	0
+she's a liar	-0.518	0.31999999999999995	-0.051999999999999956
+She is a liar and untrustworthy.	-0.518	0.31999999999999995	-0.051999999999999956
+no	0	0	0
+no	0	0	0
+She won't debate Bernie Sanders	-0.009999999999999964	-0.027999999999999935	0.192
+bad person	-0.06600000000000003	-0.14299999999999996	-0.043999999999999984
+Emails	0	0	0
+Liar, greedy, narsacist, dirtbag globalist	0	0	0
+no	0	0	0
+Liar, untrustworthy	-0.466	-0.040000000000000036	-0.15600000000000006
+Her lack of respect towards Bernie Sanders.	0.047000000000000014	-0.297	0.27199999999999996
+No integrity	0.22200000000000006	-0.328	0.392
+That she stayed with Bill Clinton after his affair.	-0.378	-0.2	-0.2
+Email scandal	-0.037000000000000005	0.01399999999999997	-0.000999999999999987
+Speaking fees more than I will make in a lifetime.	0.14100000000000001	-0.343	0.28300000000000003
+No	0	0	0
+unsecured emails, declining a debate before the CA primary, making a joke of her husband's infidelity, not taking voter suppression and election fraud seriously, saying she is the nominee when primaries are not finished just to name a few.	-0.024250000000000018	-0.11599999999999998	0.027500000000000004
+Hell yes	-0.49000000000000005	0.25199999999999995	-0.30599999999999994
+liar again	-0.518	0.31999999999999995	-0.051999999999999956
+Whatever Donald Trump says.	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+her million dollar speech fees	0.3706666666666667	0.003333333333333327	0.17133333333333337
+She is an enabler for a sexual predator, her negatives were lower than cockroaches and nuclear fallout	-0.08133333333333338	0.2533333333333333	-0.028666666666666635
+Lies and untrustworthy	-0.466	-0.040000000000000036	-0.15600000000000006
+No.	0	0	0
+I've heard that she's in Wall Street's back pocket.	-0.01800000000000006	-0.45100000000000007	-0.05600000000000005
+benghazi, waco, emails, cop hater	-0.317	-0.096	-0.23700000000000002
+She's in the pocket of big banks	0.13099999999999995	-0.11699999999999999	0.19800000000000004
+criminality around email server	0.13499999999999995	-0.179	0.125
+She is fighting with Bernie Sander	0.08000000000000007	-0.34199999999999997	0.092
+relinquish economy to husband	-0.013999999999999957	-0.05333333333333332	-0.04666666666666669
+Not trustworthy	0.45	-0.15600000000000006	0.458
+government official criticism of e-mail handling	-0.10866666666666669	-0.084	-0.15133333333333332
+No.	0	0	0
+no	0	0	0
+No.	0	0	0
+NO	0	0	0
+Bernie supporters attacking her	0	0	0
+no	0	0	0
+Rehash of Benghazi	-0.15	-0.242	0.06999999999999992
+Cold personality	0.045999999999999985	-0.195	0.18799999999999997
+supported by the 1%	0	0	0
+Not truthful	0.4960000000000001	-0.258	0.35
+"super-PAC & super-delegate supporters (do not equal ""one person, one vote"")"	0.25599999999999995	-0.381	0.21999999999999995
+No	0	0	0
+Not trustworthyet, won't do in office what she claims now	-0.004999999999999984	-0.328	0.15099999999999997
+Email scandal	-0.037000000000000005	0.01399999999999997	-0.000999999999999987
+Everything is negative	-0.496	0.009999999999999964	-0.142
+Comments about West Virginia	0.14399999999999996	-0.39	-0.011999999999999922
+corrupt	-0.4	0.1960000000000001	-0.25999999999999995
+no	0	0	0
+Way, way too many things to list!	0.18200000000000002	-0.42000000000000004	-0.03399999999999999
+No	0	0	0
+she needs her husband for economics assist	0.23733333333333337	-0.2106666666666667	0.07866666666666665
+She declared herself winner of democratic primary even though it's not over.	0.2586666666666667	-0.0593333333333333	0.3593333333333333
+She lies and is in wall streets pocket	0.07299999999999995	-0.26	0.05899999999999998
+that she is a liar	-0.518	0.31999999999999995	-0.051999999999999956
+Emails	0	0	0
+liar about benghazi	-0.518	0.31999999999999995	-0.051999999999999956
+more about her lies and emails	0	0	0
+dishonest	-0.4	-0.009999999999999964	0.0
+e-mails	0	0	0
+No	0	0	0
+nice lady	0.386	-0.24200000000000005	0.23399999999999999
+nothing	0	0	0
+Everything	0	0	0
+she is just saying more lies	0	0	0
+hurt rape victims/BENGHAZI	-0.601	0.196	-0.38
+Nah	0	0	0
+na	0	0	0
+covered up sexual abuse scandal	-0.21333333333333335	0.25333333333333335	-0.08133333333333335
+She's so prepared the others are attacking her husband	0.48200000000000004	-0.12400000000000003	0.14399999999999996
+Letting Bill Clinton help her	0.006000000000000005	-0.17099999999999999	0.08899999999999997
+No	0	0	0
+The email scandal and a possible indictment in the future	0.09359999999999999	-0.022800000000000008	0.027600000000000013
+email scandal is still ongoing	-0.03866666666666667	-0.04133333333333334	0.00466666666666668
+bill	-0.378	-0.2	-0.2
+shes a criminal	-0.5780000000000001	-0.10199999999999995	-0.18200000000000002
+Her scandles	0	0	0
+No	0	0	0
+no	0	0	0
+shut down coal mines	-0.09400000000000004	-0.34	0.04900000000000002
+no	0	0	0
+No	0	0	0
+E-mail scandal	-0.274	0.12799999999999995	-0.22400000000000003
+She broke her promise to debate Bernie this month. Also, she seems increasingly like a irrevocably damaged candidate, as revelations of the FBI investigation into her email come out.	0.16766666666666666	-0.10233333333333332	0.22900000000000006
+She's got a lot of baggage she's losing to trump, head to head.	0.03600000000000003	-0.15499999999999997	0.15099999999999997
+No	0	0	0
+She completely lacks compassion toward the people who will be hurt by implementing her agenda. She apologizes but she doesn't really understand what she's apologizing for, she only understands that she has to for political reasons.	0.10228571428571429	-0.23314285714285715	0.09685714285714288
+That she is alive	0.31400000000000006	0.18599999999999994	0.3539999999999999
+her people not willing to hear Bernie Sander's peoples concerns	0.2806666666666667	-0.3233333333333333	0.24066666666666667
+Yes, the audit and the Governor involvement.	-0.186	-0.05699999999999998	-0.026999999999999996
+No	0	0	0
+Her charity is a farce	0.11799999999999998	-0.28200000000000003	-0.023999999999999966
+liar liar liar	-0.518	0.31999999999999995	-0.051999999999999956
+Everything	0	0	0
+Boring	-0.458	-0.43	0.20999999999999996
+More talk about her e-mails	0.32799999999999996	-0.324	0.2880000000000001
+she is a liar and doesn't care about anyone but herself	0.004999999999999949	-0.07300000000000004	0.13
+Whatever Trump said about her.	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+yes, bengazi, e mails, coal miners	-0.08800000000000008	-0.49000000000000005	-0.02400000000000002
+none	0	0	0
+no	0	0	0
+No	0	0	0
+Unresolved investigation	-0.259	0.031000000000000055	-0.05699999999999998
+crooked Hillary	-0.366	-0.16400000000000006	-0.364
+Can't put away Bernie Sanders-yet, hasa waited too long too show her version of the future and coherent way.	0.15719999999999998	-0.2076	0.14960000000000004
+no	0	0	0
+Yes she is a liar	-0.518	0.31999999999999995	-0.051999999999999956
+E mails	0	0	0
+nothing	0	0	0
+Email, Benghazi, affair cover up	-0.131	-0.08399999999999999	0.16699999999999998
+Just the lies that Trump tells about her.	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+not truthful	0.4960000000000001	-0.258	0.35
+Yes	0	0	0
+More lies	0	0	0
+no	0	0	0
+she might NOT have a terminal disease	-0.21266666666666667	-0.15333333333333332	-0.15533333333333335
+Just about her husband's infidelity.	0	0	0
+No	0	0	0
+everytime she opened her mouth	0.11799999999999997	-0.17200000000000007	0.2
+Yes. She is even more against the Second Amendment than our incumbent President.	-0.008000000000000007	-0.322	-0.04466666666666672
+emails emails emails emails emails	0	0	0
+She's lying about her e-mails	0	0	0
+Bengarzi lies.	0	0	0
+No	0	0	0
+Everything out of Trump's mouth	0.11799999999999997	-0.17200000000000007	0.2
+i haven't heard anything	0	0	0
+She violated top secret containment protocols for her own convenience with relation to her email server while secretary of state.	0.13024999999999998	-0.15325	0.12525
+pro-choice under any & all circumstances	0	0	0
+Bengazi, e-mails, and FBI investagition	0	0	0
+No	0	0	0
+No	0	0	0
+nope	0	0	0
+Email scandals, Benghazi, Clinton Cash	0.351	0.10899999999999997	0.22700000000000004
+no	0	0	0
+Yes about the personal email scam	-0.025333333333333357	-0.1526666666666667	-0.028666666666666646
+Nothing	0	0	0
+too many to count	0.17799999999999994	-0.54	0.03399999999999999
+yes, anti-gun	0	0	0
+none	0	0	0
+Ongoing benghazi rumors	-0.041999999999999996	-0.15199999999999997	0.016000000000000014
+no	0	0	0
+The continued noise about everything in her life	0.003999999999999976	0.13399999999999998	0.13599999999999995
+"""Her stances are moderate but too 'right leaning'."""	0.10399999999999991	-0.2	0.10600000000000005
+She's a liar and a criminal.	-0.518	0.31999999999999995	-0.051999999999999956
+HUSBAND'S PAST ACTIVITIES WITH WOMEN!	0.01799999999999997	-0.05800000000000001	0.03599999999999994
+yes	0	0	0
+She's a congenital liar!!!!	-0.17799999999999994	-0.17400000000000002	-0.284
+Every day, too much to list	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+Nada numero dos?	-0.08599999999999994	-0.25999999999999995	-0.17799999999999994
+Bill Clinton, the DNC is rigged	-0.378	-0.2	-0.2
+a friend did not like the idea that she would use Bill Clinton for economic development since he was almost impeached.	0.14575000000000002	-0.16999999999999996	0.11325000000000002
+noting	0	0	0
+Email scandal	-0.037000000000000005	0.01399999999999997	-0.000999999999999987
+She's dishonest	-0.4	-0.009999999999999964	0.0
+She let her husband have afairs and belittled and threatened the women he had sex with	0.29750000000000004	-0.08950000000000005	0.18349999999999994
+nothing new	0.5359999999999999	0.027999999999999935	0.04399999999999995
+only from trump and republicans	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+Jeez... yeah	0	0	0
+people continue to find her vocal delivery strident	0.18280000000000002	-0.2744	0.17840000000000003
+emails	0	0	0
+nothing	0	0	0
+yes	0	0	0
+Being a liar	-0.518	0.31999999999999995	-0.051999999999999956
+She is a liar	-0.518	0.31999999999999995	-0.051999999999999956
+she is eeeevil!! only complete stupid morons are voting for her	-0.06600000000000003	-0.30900000000000005	0.12000000000000002
+Benghazi	0	0	0
+everything	0	0	0
+No	0	0	0
+The right is baiting the left to hate Hillary Clinton.	-0.07199999999999995	0.12599999999999997	0.163
+erased thousands of emails over bengazi	0	0	0
+Too many to list	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+no	0	0	0
+Yes	0	0	0
+email scandall	0.2	-0.1	0.22200000000000006
+no	0	0	0
+she's cold	-0.13599999999999995	-0.29000000000000004	0.03399999999999999
+Email	0.2	-0.1	0.22200000000000006
+Under federal investigation	-0.258	0.015000000000000041	-0.113
+Benghazi	0	0	0
+Polling as very untrustworthy	-0.278	-0.195	0.012999999999999984
+none	0	0	0
+no	0	0	0
+no	0	0	0
+no	0	0	0
+None	0	0	0
+"She was a ""Goldwater"" girl. She constantly changes her views depending on who she is trying to win votes from. She flip-flops on issues such as gay marriage, getting money out of politics, and said she will release Wall St. transcripts but has not done so as of yet. I have also read many stories and seen videos of her just flat out lying to American people. She takes donations from big oi/energy, Wall St. Banks, and other special interest groups. The Clinton Foundation is not as charitable as she makes it seem."	0.221	-0.23012499999999997	0.17275
+Trump ties her to Bill Clinton's sexual harassment	-0.18100000000000002	-0.028499999999999987	0.04550000000000002
+She is taking the nomination before all the primaries have happened	0.14900000000000002	-0.244	0.172
+She lies and panders	0	0	0
+Too much to list.	0	0	0
+Ok	0	0	0
+No	0	0	0
+She defended her support for the most recent Honduran coup	0.1366666666666667	-0.23266666666666672	0.0646666666666667
+When ever she opens her mouth	0.11799999999999997	-0.17200000000000007	0.2
+emails	0	0	0
+nothing	0	0	0
+Something she did in Libya or a second place that won't be going to trial until next year, conveniently, for the second time	0.04600000000000001	-0.2543333333333333	0.03266666666666667
+taking money from Wall Street	0.14866666666666664	-0.1193333333333333	0.06333333333333335
+yes	0	0	0
+Won't debate Bernie, said votes don't count, email issues, etc...	0.09500000000000003	-0.06399999999999997	0.20700000000000002
+email server	0.13499999999999995	-0.179	0.125
+none	0	0	0
+NO	0	0	0
+none	0	0	0
+Stealing the Democratic nomination	-0.06133333333333332	-0.1373333333333333	0.20800000000000005
+SHE IS NOT IN JAIL	-0.618	-0.10600000000000005	-0.21799999999999997
+All the memes Bernie supporters post on Facebook. So annoying.	0.009999999999999964	-0.284	0.26400000000000007
+He does not have experience	0.275	-0.277	0.266
+No	0	0	0
+Where to begin.	0	0	0
+No	0	0	0
+She's a crook and a liar.	-0.42800000000000005	-0.07599999999999998	-0.23600000000000004
+nothing	0	0	0
+Nothing	0	0	0
+Deeply corrupt liar, thief, murderer	-0.508	0.281	-0.347
+she is a liar	-0.518	0.31999999999999995	-0.051999999999999956
+More about the e-mails, also the money she's receiving from big donors.	0.2739999999999999	0.11900000000000004	0.19300000000000006
+no	0	0	0
+Deleted emails that lead to the death of soldiers	-0.2550000000000001	-0.051999999999999956	-0.13600000000000004
+no	0	0	0
+state department audit of handling of electronic communications	0.01999999999999999	-0.2395	-0.02149999999999996
+yes	0	0	0
+Her speaking fees	0	0	0
+No	0	0	0
+she is a cheat and liar	-0.454	0.151	-0.08899999999999997
+She's not Sanders, either.	0	0	0
+"Bumper sticker ""Hilary for Prison"""	0.03600000000000003	-0.25	0.06299999999999999
+NO...I don't listen or watch the brainwashing media.	0.23600000000000002	-0.28700000000000003	0.21099999999999994
+liar	-0.518	0.31999999999999995	-0.051999999999999956
+Liar	-0.518	0.31999999999999995	-0.051999999999999956
+No	0	0	0
+using the dnc and media and surrogates to attack opposition like firing matt bruenig from demos.org	-0.15666666666666662	0.06333333333333334	-0.08866666666666666
+Yes, a lot. but its still for past issues. Not for what is currently going on.	0.01799999999999997	-0.05800000000000001	0.03599999999999994
+Lying	0	0	0
+untrustworthy	-0.466	-0.040000000000000036	-0.15600000000000006
+Income from speeches	0.25199999999999995	-0.23600000000000004	0.2720000000000001
+To many to mention, from the Right.	0	0	0
+No	0	0	0
+Traitor trash bitch	-0.488	-0.07466666666666667	-0.15866666666666662
+Yes. Bill infidelity	-0.479	-0.029999999999999985	-0.21400000000000002

@@ -1,0 +1,2085 @@
+line	valence	arousal	dominance
+Yes: smart, strong, rational, experienced.	0	0	0
+no	0	0	0
+Nothing positive	0.514	0.1	0.45199999999999996
+No	0	0	0
+I've never heard anything positive about Hilary Clinton	0.514	0.1	0.45199999999999996
+no	0	0	0
+She is most qualified to be President	0.14100000000000001	-0.18599999999999997	-0.01200000000000001
+nothing I would consider positive	0.336	-0.19866666666666666	0.284
+not responding to trumps outbursts	0	0	0
+Medicare for 50 plus	0	0	0
+Experienced pragmatist	0	0	0
+no, media is focused on Clinton/Sanders primary battles	0.06400000000000006	-0.35	0.2699999999999999
+Not much	0	0	0
+No	0	0	0
+no	0	0	0
+QUALIFIED	0	0	0
+she is the most qualified candidate.	0	0	0
+Standing up for reproductive rights and wage equality	0.22866666666666666	-0.13399999999999995	0.014666666666666717
+No	0	0	0
+Lots	0	0	0
+No	0	0	0
+Foreign policy experience	0.03466666666666668	-0.17066666666666672	0.18933333333333335
+Nothing	0	0	0
+No	0	0	0
+N/A	0	0	0
+No	0	0	0
+She stands up for the rights of women, the poor, immigrants and children. She has great political experience so she is ready to effectively lead the country.	0.23759999999999995	-0.21200000000000002	0.15799999999999997
+Nothing	0	0	0
+pro choice	0.2720000000000001	-0.267	0.28800000000000003
+Experienced	0	0	0
+Gets things done	0	0	0
+no	0	0	0
+There is nothing positive to say.	0.514	0.1	0.45199999999999996
+no	0	0	0
+No	0	0	0
+No.	0	0	0
+no	0	0	0
+She supports control of assult weapons	-0.11400000000000006	-0.04800000000000004	0.09399999999999994
+she's coming back to Detroit Monday!	-0.04800000000000004	-0.48200000000000004	0.04399999999999995
+none	0	0	0
+no	0	0	0
+no	0	0	0
+Yes she is inspiring	0	0	0
+She is smart	0.546	-0.238	0.36199999999999993
+no	0	0	0
+no	0	0	0
+None	0	0	0
+nothing positive	0.514	0.1	0.45199999999999996
+experienced capable progressive	0.33099999999999996	-0.16200000000000003	0.36800000000000005
+NO	0	0	0
+nothing	0	0	0
+no	0	0	0
+nothing	0	0	0
+No	0	0	0
+no	0	0	0
+nothing	0	0	0
+No	0	0	0
+Nothing	0	0	0
+She wants to help our country and not allow guns in public	0.24049999999999996	-0.28500000000000003	0.21450000000000002
+nothing	0	0	0
+Nothing	0	0	0
+No	0	0	0
+Not much	0	0	0
+no	0	0	0
+Don't know	0.36400000000000005	-0.352	0.15600000000000006
+No	0	0	0
+she has foreign policy experience	0.03466666666666668	-0.17066666666666672	0.18933333333333335
+No.	0	0	0
+no	0	0	0
+no	0	0	0
+She may be indicted.	0.17299999999999993	-0.33799999999999997	0.14400000000000004
+no. there is none	0	0	0
+Most qualified candidate in the race	-0.005999999999999964	0.052000000000000046	0.0040000000000000036
+No	0	0	0
+no	0	0	0
+nothing, nada	-0.08599999999999994	-0.25999999999999995	-0.17799999999999994
+Hillary is sharing campaign money to help other dem candidates.	0.2005	-0.09349999999999997	0.21749999999999997
+never	0	0	0
+no	0	0	0
+no	0	0	0
+nope	0	0	0
+Giving her husband Bill an position in her cabinet if elected.	0.058999999999999976	-0.226	0.010999999999999989
+No	0	0	0
+She won the Kentucky primary.	0	0	0
+I don't think she has personally killed anyone.	0.33599999999999997	-0.25	0.3
+yes. equality for women	0.35	-0.053999999999999916	0.2
+liberal media says alot	0	0	0
+No	0	0	0
+N/A	0	0	0
+Nothing	0	0	0
+no	0	0	0
+na	0	0	0
+No	0	0	0
+no	0	0	0
+No.	0	0	0
+no	0	0	0
+Nope	0	0	0
+She campaigns on substance and policy	-0.194	-0.308	0.18600000000000003
+no	0	0	0
+Nothing	0	0	0
+no	0	0	0
+No	0	0	0
+none	0	0	0
+She has a rational view of gun ownership.	0.07866666666666665	0.01999999999999998	0.18266666666666667
+Never in my life	0.33599999999999997	0.11799999999999997	0.17799999999999994
+None	0	0	0
+No	0	0	0
+no	0	0	0
+no	0	0	0
+No	0	0	0
+No	0	0	0
+not really --don't listen about her	0.382	-0.24800000000000005	0.11199999999999992
+nothing	0	0	0
+Nothing bought and paid for like street walker	0.25100000000000006	-0.21499999999999994	0.16900000000000004
+She wants to implement some arms control policies	-0.052000000000000046	-0.14200000000000004	0.242
+yes	0	0	0
+no	0	0	0
+support gun ownership together with detailed background checks	0.10199999999999995	-0.0712	0.17560000000000003
+no	0	0	0
+foreign policy experience	0.03466666666666668	-0.17066666666666672	0.18933333333333335
+Nothing	0	0	0
+no	0	0	0
+yes, she's most qualified	0	0	0
+She is a liar !	-0.518	0.31999999999999995	-0.051999999999999956
+Absolutely NOT	0	0	0
+Clearer about her chances to be elected President	0.14100000000000001	-0.18599999999999997	-0.01200000000000001
+no	0	0	0
+no	0	0	0
+Won Kentucky. Won't get into cat fight with Trump over Pres. Clintons past. Will put Mr. Clinton in charge of economy.	0.02228571428571429	-0.176	0.12542857142857147
+she edged Sanders i Kentucky primar	0	0	0
+Getting very rich off Govt.	0.366	0.36199999999999993	0.366
+not really	0	0	0
+No	0	0	0
+No	0	0	0
+she is pro womens rights	0.2720000000000001	-0.238	0.26400000000000007
+Anything she says.	0	0	0
+She's standing by her man	0.08399999999999999	-0.12799999999999995	0.08800000000000008
+NOT LAST WEEK OR EVER	0.053999999999999916	-0.33399999999999996	0.05600000000000005
+No	0	0	0
+Bill Clinton will help her create jobs.	0.16200000000000003	-0.12750000000000006	0.225
+She is the most qualified candidate	-0.1	0.06400000000000006	0.09600000000000009
+No	0	0	0
+Not in jail yet	-0.618	-0.10600000000000005	-0.21799999999999997
+Nothing about her is a positive	0.514	0.1	0.45199999999999996
+That ft was not qualified to be pres	0.23599999999999993	-0.31399999999999995	0.1
+no	0	0	0
+no	0	0	0
+None	0	0	0
+Yes and no some positive and not	0.514	0.1	0.45199999999999996
+No	0	0	0
+yes	0	0	0
+no	0	0	0
+No	0	0	0
+no, press never says anything nice about her	0.23399999999999999	-0.36700000000000005	0.12499999999999999
+Yes - equality	0.35	-0.053999999999999916	0.2
+I have heard nothing positive	0.343	-0.09799999999999999	0.29799999999999993
+perfect for the demicrats	0.43800000000000006	-0.05800000000000001	0.30600000000000005
+Ollt	0	0	0
+Has experience and knowledge	0.41700000000000004	-0.14299999999999996	0.41400000000000003
+her international experience	0.254	-0.23399999999999999	0.22700000000000004
+good speeches	0.578	-0.26799999999999996	0.28200000000000003
+n/a	0	0	0
+No	0	0	0
+No	0	0	0
+No	0	0	0
+Fighting for middle class	0.09500000000000001	-0.272	0.03500000000000005
+NO	0	0	0
+NEVER	0	0	0
+No	0	0	0
+No	0	0	0
+no	0	0	0
+no	0	0	0
+going after trump	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+No	0	0	0
+values	0	0	0
+None	0	0	0
+Education policies	0.316	-0.07200000000000006	0.36400000000000005
+no	0	0	0
+no	0	0	0
+No	0	0	0
+not much	0	0	0
+no	0	0	0
+No	0	0	0
+none	0	0	0
+for women	0	0	0
+nothing	0	0	0
+not really	0	0	0
+She is in CA	0	0	0
+no	0	0	0
+no	0	0	0
+She has a clear, progressive, realistic and obtainable plan of change and growth for our country.	0.15599999999999997	-0.15250000000000002	0.245
+No	0	0	0
+no	0	0	0
+Nothingfr&&	0	0	0
+Positove	0	0	0
+ok	0	0	0
+women equal	0.29399999999999993	-0.296	0.32799999999999996
+none	0	0	0
+great with fogeign leaders	0.5	-0.17200000000000007	0.33000000000000007
+none	0	0	0
+basic policy	-0.073	-0.375	0.21600000000000003
+nothing	0	0	0
+Nothing	0	0	0
+no	0	0	0
+No	0	0	0
+yes	0	0	0
+NO	0	0	0
+No	0	0	0
+No	0	0	0
+Nothing	0	0	0
+She might get arrested	0.21799999999999997	-0.266	0.13000000000000006
+Np	0	0	0
+no	0	0	0
+nothing but the fact she's a women and that's the only reply we hear from voters voting for her.	0.27066666666666667	-0.31	0.3
+great woman	0.45899999999999996	-0.20600000000000007	0.258
+no	0	0	0
+None	0	0	0
+Shes ahead in the polls	0	0	0
+No	0	0	0
+leaving bernie	0	0	0
+Not really	0	0	0
+No	0	0	0
+She is going to lose the nomination and Bernie Sanders will be president.	0.03599999999999998	-0.21000000000000002	0.125
+no	0	0	0
+nope	0	0	0
+No	0	0	0
+no	0	0	0
+dans	0	0	0
+no	0	0	0
+Nothing positive	0.514	0.1	0.45199999999999996
+No	0	0	0
+she will be the nominee	0.13333333333333333	-0.2846666666666666	0.19066666666666668
+Nothing	0	0	0
+She's set to win nomination	0.18866666666666668	-0.15	0.3113333333333333
+Never	0	0	0
+LATROBE, PA 15650	0	0	0
+she would make her husband in charge of the economy	0.10640000000000005	-0.14279999999999998	0.08840000000000002
+She's a misunderstood genuinely a good person.	0.578	-0.26799999999999996	0.28200000000000003
+Her focus is what's best for the counting	0.2960000000000001	-0.10999999999999996	0.368
+She won the Kentucky primary by a hair.	0.06400000000000006	-0.35	0.2699999999999999
+nothing	0	0	0
+She's for women's rights	0	0	0
+No	0	0	0
+no	0	0	0
+no	0	0	0
+nope	0	0	0
+smart and experienced	0.546	-0.238	0.36199999999999993
+She plans to put Bill Clinton in charge of finance	-0.11900000000000001	-0.11450000000000003	-0.01599999999999997
+no	0	0	0
+none	0	0	0
+NONE	0	0	0
+very honest	0.632	-0.2	0.34
+Nada, same old, same old.	0	0	0
+Qualified, negative public persona despite positive private persona	0.05333333333333335	-0.156	0.1066666666666667
+No	0	0	0
+No	0	0	0
+I dont know	0.36400000000000005	-0.352	0.15600000000000006
+No	0	0	0
+no	0	0	0
+She's a woman.	0	0	0
+She will fight for maternity leave for women	-0.035	-0.07299999999999998	0.07849999999999996
+nothing at all good	0.578	-0.26799999999999996	0.28200000000000003
+Fighting for women rights	0	0	0
+no	0	0	0
+she is really fighting for women' rights	0	0	0
+foreign ralations experience	0.17500000000000002	-0.08600000000000003	0.17300000000000004
+Woman	0.418	-0.24000000000000005	0.18599999999999994
+Good analysis of how dangerous Trump is	-0.017500000000000022	-0.12299999999999998	0.03900000000000004
+no	0	0	0
+no	0	0	0
+No	0	0	0
+no	0	0	0
+don't recall	-0.04600000000000008	-0.10399999999999991	0.15600000000000006
+smart	0.546	-0.238	0.36199999999999993
+no	0	0	0
+Nothing	0	0	0
+Not really	0	0	0
+no	0	0	0
+No	0	0	0
+no	0	0	0
+NOTHING	0	0	0
+She had sperm on her jacket	0.133	-0.17899999999999994	0.13199999999999995
+that she is trying to soften her image, whatever that means!	0.31400000000000006	-0.40800000000000003	0.23800000000000007
+No	0	0	0
+No	0	0	0
+no	0	0	0
+currently focussing on gun control	-0.191	0.25	0.017999999999999967
+no	0	0	0
+no	0	0	0
+For the people	0.14000000000000004	-0.246	0.08000000000000007
+No.	0	0	0
+no	0	0	0
+NA	0	0	0
+no	0	0	0
+no, i took the week off from politics	-0.07300000000000005	-0.32299999999999995	-0.12999999999999998
+nothing	0	0	0
+pragmatic	-0.08399999999999999	-0.324	0.09000000000000004
+no	0	0	0
+None	0	0	0
+yes	0	0	0
+none	0	0	0
+No	0	0	0
+No	0	0	0
+none	0	0	0
+no	0	0	0
+no I have not	0.17200000000000007	-0.296	0.14399999999999996
+nothing	0	0	0
+none	0	0	0
+No	0	0	0
+nope	0	0	0
+no	0	0	0
+no	0	0	0
+no	0	0	0
+no	0	0	0
+nope	0	0	0
+no	0	0	0
+no	0	0	0
+none	0	0	0
+anti trump	-0.13500000000000006	-0.24399999999999994	0.09100000000000001
+no	0	0	0
+no	0	0	0
+no	0	0	0
+nothing	0	0	0
+no	0	0	0
+a lot	0	0	0
+no	0	0	0
+well informed on all issues	0	0	0
+no	0	0	0
+Most qualified	0	0	0
+Trustworthy	0.45	-0.15600000000000006	0.458
+she said we need to transition coal miners to other trades and not leave them behind	0.021199999999999976	-0.2868	0.03279999999999998
+concern for womens rights	0.009999999999999964	-0.05999999999999996	0.10999999999999996
+no	0	0	0
+she is trying to connect more with the working class	0.23400000000000007	-0.21	0.12000000000000002
+No	0	0	0
+Income equality	0.30099999999999993	-0.145	0.23600000000000004
+postive	0	0	0
+No really	0	0	0
+no	0	0	0
+Not commenting about Trumps insults	0	0	0
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+no	0	0	0
+no	0	0	0
+none	0	0	0
+She's not Trump.	0	0	0
+Yes	0	0	0
+No	0	0	0
+Yes Benghazi witch hunt proven to be shame	-0.21100000000000002	-0.03849999999999999	0.039999999999999994
+Her husband will have a position in her cabinets	0.2075	-0.2925	0.13849999999999998
+no	0	0	0
+Addressing climate change.	0.15999999999999998	-0.20999999999999996	-0.2
+no	0	0	0
+No	0	0	0
+that she is losing her lead over Trump	-0.02600000000000007	-0.27199999999999996	0.10800000000000001
+no	0	0	0
+Never	0	0	0
+Nothing	0	0	0
+Def not	0	0	0
+nothing	0	0	0
+No	0	0	0
+nothing	0	0	0
+That she's sane and dependable	0.3970000000000001	-0.269	0.23999999999999994
+No	0	0	0
+She will stand up for women's rights.	0.05899999999999998	-0.4	0.25
+Yes	0	0	0
+No	0	0	0
+no	0	0	0
+Nothing	0	0	0
+No	0	0	0
+Nothing	0	0	0
+equal rights for all	0.29399999999999993	-0.296	0.32799999999999996
+no	0	0	0
+No	0	0	0
+HER STAND ON GUNS CONTROL	-0.030000000000000072	-0.21400000000000002	0.13599999999999995
+n/a	0	0	0
+Yes. She can bring good changes that'll help people.	0.34650000000000003	-0.231	0.273
+no	0	0	0
+nothing I dont watch political news	-0.01600000000000001	-0.20133333333333334	0.0073333333333333445
+none	0	0	0
+Na	0	0	0
+no	0	0	0
+No	0	0	0
+no	0	0	0
+She is the best candidate	-0.1	0.06400000000000006	0.09600000000000009
+That she is fighting for income equality in a practical way.	0.24266666666666661	-0.19666666666666666	0.2266666666666667
+polls	0	0	0
+Nothing	0	0	0
+Have heard nothing positive at all.	0.343	-0.09799999999999999	0.29799999999999993
+nope	0	0	0
+Her husband Bill Clinton	0.05200000000000002	-0.16200000000000003	-0.028000000000000025
+No	0	0	0
+None	0	0	0
+no	0	0	0
+She wants to create jobs.	0.5720000000000001	0.25199999999999995	0.4
+Nothing	0	0	0
+She strongly believes she will be the nominee	0.13333333333333333	-0.2846666666666666	0.19066666666666668
+no, have not heard anything positive	0.343	-0.09799999999999999	0.29799999999999993
+No	0	0	0
+NA	0	0	0
+No	0	0	0
+NO	0	0	0
+Nope	0	0	0
+Talking about equality!	0	0	0
+That she supports coal miners	-0.08800000000000008	-0.49000000000000005	-0.02400000000000002
+She might go to jail	-0.17699999999999996	-0.06699999999999999	-0.07599999999999998
+Commitment to black Americans	0.17300000000000004	-0.21600000000000003	0.14800000000000005
+no	0	0	0
+Nothing	0	0	0
+No	0	0	0
+no	0	0	0
+No	0	0	0
+talk about bill clinton and the economy	-0.10733333333333334	-0.15333333333333332	-0.026666666666666634
+Medicare buy in at 50 years	0.36400000000000005	-0.142	0.35600000000000004
+Not sure	0.32799999999999996	-0.304	0.36400000000000005
+no	0	0	0
+No	0	0	0
+Absolutely not because there is nothing	0	0	0
+No	0	0	0
+no	0	0	0
+No	0	0	0
+Yes, she's qualified and then some.	0	0	0
+no	0	0	0
+no	0	0	0
+no	0	0	0
+no	0	0	0
+liar	-0.518	0.31999999999999995	-0.051999999999999956
+She gave you and all more suport	0	0	0
+none	0	0	0
+won Kentucky	0	0	0
+nothing	0	0	0
+Not really	0	0	0
+no	0	0	0
+Nothing	0	0	0
+no	0	0	0
+No	0	0	0
+Bill Clinton	-0.378	-0.2	-0.2
+yes	0	0	0
+no	0	0	0
+She's still mad at Bernie Sanders	-0.506	0.11799999999999997	-0.019999999999999928
+yes best clinton	0	0	0
+No	0	0	0
+nope	0	0	0
+She is winning	0	0	0
+she will violate our civil rights	-0.08466666666666667	-0.226	0.03333333333333336
+No	0	0	0
+No	0	0	0
+nothing	0	0	0
+Yes. She's the Democratic candidate for President with the most leadership experience and the best ability to actually get her desired policies implemented.	0.18314285714285714	-0.1042857142857143	0.21314285714285716
+Nope	0	0	0
+She's reaching out to Sanders supporters	0	0	0
+No	0	0	0
+no	0	0	0
+Nothing!	0	0	0
+don't recall	-0.04600000000000008	-0.10399999999999991	0.15600000000000006
+N/A	0	0	0
+the inmigrantes	0	0	0
+No	0	0	0
+no	0	0	0
+Nothing	0	0	0
+No	0	0	0
+Nothing	0	0	0
+Not a single good thing.	0.32799999999999996	-0.24899999999999997	0.12400000000000003
+yes. that she is the most qualified	0	0	0
+No	0	0	0
+Not really	0	0	0
+Equal pay for woman	0.3193333333333333	-0.2293333333333333	0.25999999999999995
+No	0	0	0
+nothing	0	0	0
+No	0	0	0
+No	0	0	0
+no	0	0	0
+nothing	0	0	0
+No	0	0	0
+Her child care plan.	0.484	-0.2	0.176
+yes she will beat berny.	-0.029999999999999985	-0.15800000000000006	0.22000000000000003
+No	0	0	0
+don't know	0.36400000000000005	-0.352	0.15600000000000006
+None	0	0	0
+least of all evils	0	0	0
+No	0	0	0
+no	0	0	0
+She's a criminal	-0.5780000000000001	-0.10199999999999995	-0.18200000000000002
+She stated she will be the Dem Nom.	0.15	-0.367	0.21100000000000002
+no	0	0	0
+NO	0	0	0
+none	0	0	0
+No.	0	0	0
+Her tax proposal	-0.155	-0.075	-0.03200000000000003
+na	0	0	0
+nothing	0	0	0
+shes fighting gun control	-0.191	0.25	0.017999999999999967
+She is the most qualified and experienced	0	0	0
+nothing	0	0	0
+Emails again	0	0	0
+Smart	0.546	-0.238	0.36199999999999993
+No	0	0	0
+"That she will win the nomination, she is acting ""presidential"" and she is calling for unity in the Party."	0.264	-0.11266666666666668	0.40866666666666673
+Yes	0	0	0
+NOt	0	0	0
+1	0	0	0
+no	0	0	0
+NO	0	0	0
+experienced and very smart	0.546	-0.238	0.36199999999999993
+no	0	0	0
+no	0	0	0
+power word	0.17399999999999993	-0.05899999999999999	0.23899999999999996
+No	0	0	0
+No	0	0	0
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+Nothing	0	0	0
+No	0	0	0
+No	0	0	0
+no	0	0	0
+Imitation of trump	-0.12800000000000003	-0.22099999999999997	0.03600000000000003
+shes smart	0.546	-0.238	0.36199999999999993
+no	0	0	0
+no	0	0	0
+No	0	0	0
+nothing	0	0	0
+Won democratic nomination on Tuesday	0.133	-0.16299999999999998	0.262
+nothing	0	0	0
+No	0	0	0
+No	0	0	0
+no	0	0	0
+NO	0	0	0
+Just deceptive spin.	-0.254	-0.009999999999999964	-0.22800000000000004
+No	0	0	0
+only that she is a near-certainty for the nomination	0.12599999999999997	-0.192	0.2
+Not a thing positive	0.312	-0.10699999999999997	0.267
+No	0	0	0
+N/A	0	0	0
+none	0	0	0
+She lies she's committed treason she can't handle her email accounts she doesn't deserve to be president everything she's tried financially foreign policy what has been a failure for the last 4 years	-0.028	-0.10777777777777778	0.06488888888888891
+No	0	0	0
+No	0	0	0
+Nothing	0	0	0
+That she will probably win the primary	0.17400000000000002	-0.21599999999999997	0.38800000000000007
+She knows Trump is not qualified to be president.	0.035999999999999935	-0.32399999999999995	0.13600000000000004
+Standing up to Donald Trump and NRA regarding Sensible gun laws to keep guns from criminals, the mentally ill and violent offenders	-0.0736	-0.01919999999999996	0.03720000000000001
+Giving a talking about gun violence with mothers who have lost their children to gins.	-0.1552	0.09640000000000003	-0.06119999999999999
+she won	0	0	0
+NOPE	0	0	0
+She is working with a lot of Latino communities to help stop the gun violence.	0.022666666666666706	0.078	0.11066666666666662
+No there isn't anything good about her	0.578	-0.26799999999999996	0.28200000000000003
+NO	0	0	0
+No	0	0	0
+Getting close to nomination	0.08600000000000002	-0.215	0.19400000000000006
+Caring	0	0	0
+no	0	0	0
+n/a	0	0	0
+no	0	0	0
+No	0	0	0
+no	0	0	0
+No	0	0	0
+She isn't stooping to the level of Trump....	0.14399999999999996	-0.5700000000000001	0.12200000000000007
+nothing	0	0	0
+No	0	0	0
+no	0	0	0
+None	0	0	0
+none	0	0	0
+Yes	0	0	0
+great poll numbers	0.213	-0.17200000000000007	0.20500000000000007
+Yes	0	0	0
+nothing	0	0	0
+no	0	0	0
+no	0	0	0
+No	0	0	0
+no	0	0	0
+No	0	0	0
+She's going to WIN!!	0	0	0
+yes, good at foeign policy	0.16599999999999998	-0.304	0.25200000000000006
+no	0	0	0
+No.	0	0	0
+none	0	0	0
+no	0	0	0
+everything	0	0	0
+Nothing other than her lies	0.08200000000000003	-0.304	0.2
+GAINING IN THE POLLS	0	0	0
+Nothing	0	0	0
+Nothing	0	0	0
+Nothing	0	0	0
+no	0	0	0
+Nothing she's untrustworthy don't care	0.030999999999999944	-0.253	0.07799999999999994
+No	0	0	0
+no	0	0	0
+No	0	0	0
+she is not in jail	-0.618	-0.10600000000000005	-0.21799999999999997
+No	0	0	0
+she is starting to focus on donald trump	0.06600000000000002	-0.22199999999999998	0.27
+no	0	0	0
+no.	0	0	0
+no	0	0	0
+No	0	0	0
+Not sure	0.32799999999999996	-0.304	0.36400000000000005
+She may be indicted	0.17299999999999993	-0.33799999999999997	0.14400000000000004
+nothing	0	0	0
+no	0	0	0
+Yep	0	0	0
+Everything largest voter turnout ever this country needs a major overhaul Trump will need help and a Large Broom	0.09345454545454546	-0.20454545454545456	0.16309090909090906
+no	0	0	0
+That she's by far the most qualified of all the Presidential candidates.	-0.009999999999999964	-0.18800000000000008	0.03599999999999994
+yes	0	0	0
+No	0	0	0
+she is a strong woman to take all the insults from trump	0.145	-0.16050000000000003	0.158
+Likely Democratic Candidate	0.14000000000000004	-0.06199999999999998	0.216
+Not answering Donald Trump dumb remarks	-0.338	-0.137	0.025
+She makes good policy statements	0.16599999999999998	-0.304	0.25200000000000006
+she is leading in the democratic polls to become the nominee	0.16800000000000004	-0.18933333333333327	0.23666666666666666
+Not a single thing	0.09399999999999994	-0.27199999999999996	0.02400000000000002
+Will not respond to Trumps attack on her husband	0.022000000000000033	-0.12900000000000003	0.08600000000000001
+Won the WA primary after losing the WA caucus	0.06400000000000006	-0.35	0.2699999999999999
+No	0	0	0
+good plan for international relations	0.312	-0.2353333333333333	0.20133333333333336
+none	0	0	0
+Nope	0	0	0
+yes, she helps everyone and wants equality	0.35	-0.053999999999999916	0.2
+imigration	0	0	0
+No	0	0	0
+experience	0.37799999999999995	-0.258	0.38800000000000007
+No	0	0	0
+No	0	0	0
+No	0	0	0
+No	0	0	0
+No	0	0	0
+None	0	0	0
+control gun violence	-0.28	0.23	-0.10533333333333335
+she is honest	0.632	-0.2	0.34
+Not this week	0.053999999999999916	-0.33399999999999996	0.05600000000000005
+No Comment	0.13000000000000006	-0.288	0.192
+yes	0	0	0
+no	0	0	0
+n/a	0	0	0
+nothing	0	0	0
+Nohing	0	0	0
+ergreg	0	0	0
+Yes. She's ahead as the democratic nominee	0.12000000000000002	-0.12699999999999995	0.237
+only negative	-0.496	0.009999999999999964	-0.142
+n/a	0	0	0
+Nothing	0	0	0
+No!	0	0	0
+Women's rights	0	0	0
+No	0	0	0
+Yes, she is honest, and honestly winning this race.	0	0	0
+She didn't take Trump's bait	-0.11799999999999998	-0.19800000000000004	0.07800000000000001
+No. Lots of people try to paint her as good. But she's rotten to the core.	-0.024499999999999994	-0.1415	0.06350000000000003
+no	0	0	0
+well planned platform	0.0	-0.16400000000000006	0.284
+none	0	0	0
+no	0	0	0
+Nothing	0	0	0
+Her stance on gun control	-0.05400000000000003	0.023999999999999983	0.08799999999999997
+She is thought by our military generals and CIA to be the best to deal with foreign wars.	0.15360000000000001	-0.09120000000000002	0.13799999999999998
+She's closer to winning the Democratic presidential nomination	0.08533333333333336	-0.17133333333333334	0.18666666666666665
+nothing	0	0	0
+no	0	0	0
+no	0	0	0
+No comment	0.13000000000000006	-0.288	0.192
+nothing	0	0	0
+no	0	0	0
+No	0	0	0
+Nothing	0	0	0
+no	0	0	0
+Not sure	0.32799999999999996	-0.304	0.36400000000000005
+no	0	0	0
+no	0	0	0
+They hope she win	0.44500000000000006	0.09000000000000004	0.4640000000000001
+Yes. Benghazi committee has yet to find anything illegal. Positive LGBT position	0.25499999999999995	-0.2035	0.18899999999999997
+No	0	0	0
+strength	0.3460000000000001	0.05999999999999996	0.484
+nope	0	0	0
+No	0	0	0
+I felt her speech to WV miners was right on the mark.	0.29400000000000004	-0.09000000000000004	0.384
+No	0	0	0
+Rational foreign policy.	0.071	-0.031000000000000055	0.09800000000000003
+Nothing	0	0	0
+I'm not sure	0.32799999999999996	-0.304	0.36400000000000005
+No	0	0	0
+nothing	0	0	0
+she was presidential	-0.009999999999999964	-0.18800000000000008	0.03599999999999994
+Not giving into Donald' rantings	0	0	0
+yes. chance to meet n dine with Clinton	0.2493333333333333	-0.19933333333333336	0.14599999999999996
+none	0	0	0
+nope	0	0	0
+none	0	0	0
+nothing	0	0	0
+only negative	-0.496	0.009999999999999964	-0.142
+I liked her Ellen interview	-0.06400000000000006	0.2699999999999999	0.368
+She's alive and breathing	0.31400000000000006	0.18599999999999994	0.3539999999999999
+none	0	0	0
+No	0	0	0
+No	0	0	0
+no	0	0	0
+Politically skilled and knowledgeable	0.5	-0.03499999999999996	0.46199999999999997
+She gets stuff done.	0.17200000000000007	-0.296	-0.03399999999999999
+No	0	0	0
+no	0	0	0
+No	0	0	0
+No	0	0	0
+No	0	0	0
+yes	0	0	0
+None	0	0	0
+No	0	0	0
+No	0	0	0
+Keep health insurance	0.12866666666666665	-0.286	0.17
+No	0	0	0
+There is nothing positive	0.514	0.1	0.45199999999999996
+support womens causes	0.37799999999999995	-0.39	0.22200000000000006
+Nothing positive can be said about Hillary Clinton.	0.34400000000000003	-0.19533333333333333	0.27999999999999997
+nothing	0	0	0
+Yes, she support strict gun laws	-0.053333333333333344	0.01933333333333335	0.07266666666666666
+equal pay for women	0.27	-0.22399999999999998	0.297
+no	0	0	0
+experience	0.37799999999999995	-0.258	0.38800000000000007
+no	0	0	0
+No	0	0	0
+No.	0	0	0
+She winning a lot plsced	0	0	0
+nothing	0	0	0
+Shes a fighter	0.019999999999999928	0.05999999999999996	0.284
+No	0	0	0
+no	0	0	0
+no	0	0	0
+Yes every guest I have heard on CNN or Fox that represented the Democratic Party said she has so much more experience and he is way too volatile.	0.23428571428571424	-0.16999999999999998	0.21371428571428572
+No	0	0	0
+no	0	0	0
+none	0	0	0
+People have said she is the most qualified -- she has tons of experience - She would be a more peaceful President than Trump -- She is getting more votes	0.19875	-0.23349999999999999	0.16450000000000004
+no	0	0	0
+she is ahead in delegates	0	0	0
+nope	0	0	0
+No	0	0	0
+nothing	0	0	0
+No	0	0	0
+No	0	0	0
+None	0	0	0
+No	0	0	0
+nope	0	0	0
+released her tax returns long ago	-0.4	-0.09600000000000009	-0.39
+no	0	0	0
+No	0	0	0
+no	0	0	0
+No	0	0	0
+no	0	0	0
+Nothing	0	0	0
+That she is a true progressive candidate.	0.25199999999999995	-0.12400000000000003	0.32200000000000006
+She's ahead of the race beyond that cankerous old man	-0.06333333333333331	-0.06399999999999995	-0.05200000000000002
+No	0	0	0
+Good	0.578	-0.26799999999999996	0.28200000000000003
+None	0	0	0
+nothing	0	0	0
+no	0	0	0
+She started attacking Trump	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+No.	0	0	0
+no	0	0	0
+no	0	0	0
+Nothing positive about Hillary Clinton	0.514	0.1	0.45199999999999996
+She lies very well.	0	0	0
+No	0	0	0
+nothing	0	0	0
+no	0	0	0
+none	0	0	0
+ahead in delegates	0	0	0
+fighting hard	-0.13000000000000006	-0.1	-0.008000000000000007
+Yes, she supports women equally	0	0	0
+nothing	0	0	0
+Que va ganando en las encuestas	0	0	0
+No	0	0	0
+no	0	0	0
+no	0	0	0
+r u kidding?	0	0	0
+none	0	0	0
+She died.	0	0	0
+will give Mr. Clinton an active position	0.254	-0.178	0.1685
+no	0	0	0
+No	0	0	0
+she may be indicted	0.17299999999999993	-0.33799999999999997	0.14400000000000004
+strong	0.36199999999999993	0.027999999999999935	0.308
+good at foreign policy	0.10133333333333334	-0.17400000000000002	0.15400000000000003
+Her husband would be on her team	0.27049999999999996	-0.25	0.18450000000000003
+YES	0	0	0
+No	0	0	0
+She is focused on issues and not mudslinging, she recently spoke of how to fix the fact that childcare costs more than rent	0.11666666666666674	-0.2573333333333333	0.22666666666666666
+she won a primary and didn't tell Sanders off	0.05899999999999998	-0.28900000000000003	0.129
+yes - gun control	-0.191	0.25	0.017999999999999967
+She's not Trump.	0	0	0
+Nope	0	0	0
+Nothing	0	0	0
+she won Kentucky	0	0	0
+no	0	0	0
+na	0	0	0
+No	0	0	0
+No	0	0	0
+Folks pushing back against Sanders	-0.04800000000000004	-0.48200000000000004	0.04399999999999995
+I saw an electoral map that points out that, if Democrats lose 5% of the vote in every state versus 2012, they'll still win on electoral votes.	-0.0019999999999999983	-0.11925	0.12675
+Me	0	0	0
+none	0	0	0
+No	0	0	0
+no	0	0	0
+No	0	0	0
+No	0	0	0
+she's ready for the general election	0.09733333333333334	-0.21066666666666664	0.08666666666666666
+not really	0	0	0
+nothing.	0	0	0
+Her idea to expand Medicare to people 55 years old	0.06449999999999997	-0.18949999999999997	0.058
+haha nope	0	0	0
+She is a go getter	0.26400000000000007	-0.027999999999999935	0.06600000000000002
+no	0	0	0
+No	0	0	0
+no	0	0	0
+She is experienced, she is smart, she is always prepared	0	0	0
+She wants to protect people from preventable gun violence.	0.07933333333333335	0.014000000000000012	0.06266666666666669
+not really	0	0	0
+no	0	0	0
+No	0	0	0
+no	0	0	0
+No	0	0	0
+She is helping those who cant help themselves	0.39	-0.142	0.37799999999999995
+She called Trump unqualified to be President.	-0.07733333333333338	-0.238	0.02400000000000002
+qualified	0	0	0
+no	0	0	0
+She took a day off and was not seen by the public for 24 hours.	0.16900000000000004	-0.30299999999999994	0.05300000000000002
+.	0	0	0
+It does not matter I do not respect her	0.20133333333333336	-0.166	0.3153333333333333
+No	0	0	0
+None	0	0	0
+no	0	0	0
+The fact that she says she is not going to argue with a bully or play into a bully's hand.	-0.01999999999999999	-0.018499999999999982	0.011999999999999983
+No	0	0	0
+Nothing	0	0	0
+No	0	0	0
+Uphold raising the minimum wage	0.06999999999999999	-0.294	0.07266666666666664
+She'll be the first woman president	0.2915	-0.15799999999999997	0.10949999999999999
+Not sure	0.32799999999999996	-0.304	0.36400000000000005
+no	0	0	0
+no	0	0	0
+none	0	0	0
+no	0	0	0
+Unfortunately, even as a Democrat I find myself more drawn to news stories about Trump than legitimate stories about Clinton.	0.0732	-0.15799999999999997	0.13920000000000005
+no	0	0	0
+no	0	0	0
+yes	0	0	0
+none	0	0	0
+No	0	0	0
+no	0	0	0
+no	0	0	0
+read a blog from a disability activist that she has hired many disabled staffers and is great on these issues	0.042000000000000016	-0.18933333333333335	0.1316666666666667
+no	0	0	0
+nothing	0	0	0
+yes	0	0	0
+no	0	0	0
+She is true to her beliefs.	0	0	0
+Nothing	0	0	0
+SHE HAS SPOKEN ABOUT THE TACTICS THAT DONALD TRUUMP HAS FELL TO	0	0	0
+no	0	0	0
+No negative campaigning.	-0.496	0.009999999999999964	-0.142
+no	0	0	0
+No	0	0	0
+None	0	0	0
+none	0	0	0
+No	0	0	0
+yes stance on free trade	0.3506666666666666	-0.15400000000000003	0.25999999999999995
+promoting sexual equality	0.33899999999999997	0.16800000000000004	0.30000000000000004
+she has 36 mil dollars on the campaign budget	-0.0693333333333334	-0.27466666666666667	0.04133333333333334
+Moving to the General Election	-0.017999999999999974	-0.20599999999999996	0.02400000000000002
+No	0	0	0
+No	0	0	0
+Yes. She's in favor of equal rights, she believes all people have a right to vote.	0.2808	-0.18319999999999997	0.24640000000000004
+no	0	0	0
+no	0	0	0
+strong	0.36199999999999993	0.027999999999999935	0.308
+That she is the presumptive democratic nominee	0.12000000000000002	-0.12699999999999995	0.237
+No	0	0	0
+nothing	0	0	0
+After twenty years of trying to prove she's crooked they havent found anything	0.028000000000000008	-0.26	-0.06
+basically she says everything I believe in	0.41	-0.33399999999999996	0.31199999999999994
+She is not anti 2nd amendment.	-0.10600000000000005	-0.15399999999999991	0.009999999999999964
+Her presidential demeanor in the face of opposition criticism	-0.05279999999999997	-0.12000000000000002	-0.01560000000000002
+No.	0	0	0
+NO	0	0	0
+nothing in the last week	0.053999999999999916	-0.33399999999999996	0.05600000000000005
+no	0	0	0
+No	0	0	0
+no	0	0	0
+nothing	0	0	0
+no	0	0	0
+nothing	0	0	0
+no	0	0	0
+She's for the poor	-0.266	-0.06600000000000002	-0.2
+no	0	0	0
+no	0	0	0
+She has experience	0.37799999999999995	-0.258	0.38800000000000007
+strong woman	0.38999999999999996	-0.10600000000000005	0.24699999999999997
+Na	0	0	0
+She doesn't respond to Trump	-0.011000000000000038	-0.358	0.18600000000000005
+None	0	0	0
+no	0	0	0
+Have not recently	0.17200000000000007	-0.296	0.14399999999999996
+No	0	0	0
+She is the most prepared and civil	0.15999999999999998	-0.41	0.20800000000000002
+Foreign policy experience	0.03466666666666668	-0.17066666666666672	0.18933333333333335
+No Comment.	0	0	0
+yes	0	0	0
+NO	0	0	0
+no	0	0	0
+nothing but lies	0	0	0
+highly qualified	0	0	0
+Nothing	0	0	0
+No	0	0	0
+No	0	0	0
+dont know	0.36400000000000005	-0.352	0.15600000000000006
+n/a	0	0	0
+she is a leader fighting for the middle class	0.14600000000000002	-0.18400000000000002	0.11000000000000003
+Taking high road in actions against Trump, not sinking to his level	0.13866666666666663	-0.32933333333333337	0.158
+Not one single word	0.14999999999999994	-0.29866666666666664	0.10733333333333328
+Women's rights	0	0	0
+various	0.10399999999999991	-0.23600000000000004	-0.027999999999999935
+She has a clear plan to deal with raising the minimum wage and growing the economy	0.09533333333333327	-0.25033333333333335	0.08100000000000003
+Lay out all the candidates resumes and she is the most qualified to be president.	0.23599999999999993	-0.2869999999999999	0.18200000000000005
+Less disliked than Trump	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+No	0	0	0
+No	0	0	0
+nothing	0	0	0
+Standing up for gun controll	-0.26799999999999996	0.548	-0.05800000000000001
+Nope.	0	0	0
+No	0	0	0
+Lots of stuff	0.17200000000000007	-0.296	-0.03399999999999999
+nothing	0	0	0
+No.	0	0	0
+Not a darn thing	-0.06400000000000002	-0.33999999999999997	0.09699999999999998
+No matter how much money the Republicans spend, they can't find her guilty of any crimes.	0.123	-0.04599999999999997	0.15900000000000006
+She will fight for women rights.	-0.11399999999999996	-0.07700000000000001	0.129
+No	0	0	0
+no	0	0	0
+Not at all	0	0	0
+intelligent	0.5199999999999999	0.13399999999999998	0.3539999999999999
+No	0	0	0
+Failure of House Committee - Benghazi	-0.009333333333333365	-0.16599999999999998	0.13399999999999998
+No, she should be in prison for her 30 years of lies, deceit, fraud and murder of the four dead Americans in Benganzi.	-0.369	-0.09166666666666667	-0.19299999999999998
+No	0	0	0
+No	0	0	0
+No	0	0	0
+nothing	0	0	0
+Clinton appears to be focused on explaining how she govern if elected. I agree with most of her positions and find them realistic.	0.21599999999999997	-0.27599999999999997	0.17950000000000005
+no	0	0	0
+No	0	0	0
+nothing	0	0	0
+No	0	0	0
+no	0	0	0
+she is strong on women's rights	0.36199999999999993	0.027999999999999935	0.308
+leadership	0.2	-0.04800000000000004	0.368
+No	0	0	0
+No	0	0	0
+She is smart	0.546	-0.238	0.36199999999999993
+None	0	0	0
+no	0	0	0
+No	0	0	0
+Nothing	0	0	0
+She is experienced, pragmatic, and hard-working.	0	0	0
+She barely won Kentucky primary.	0	0	0
+Obama pretty much endorsed her	0.54	0.1	0.34
+no	0	0	0
+wonkish	0	0	0
+She is leading in delegates.	0	0	0
+nothing	0	0	0
+No	0	0	0
+Haven't been listening	0	0	0
+competent	0.20999999999999996	-0.18200000000000002	0.2880000000000001
+we like her	0.4880000000000001	-0.11999999999999993	0.25600000000000006
+Her record on women's rights	0.17799999999999994	-0.34	0.1
+prepared	0	0	0
+no	0	0	0
+no	0	0	0
+nothing	0	0	0
+nope	0	0	0
+Not a thing and I do not plan to ever hear anything positive about her besides a bunch of lies that you all and the media love to spew out like watery diahrrea.	0.2156	-0.1822	0.18679999999999997
+No	0	0	0
+Never	0	0	0
+Madame President	0.04600000000000008	-0.05800000000000001	-0.12400000000000003
+No	0	0	0
+no	0	0	0
+no	0	0	0
+No	0	0	0
+No	0	0	0
+No	0	0	0
+She won Kentucky.	0	0	0
+No	0	0	0
+N/A	0	0	0
+nope	0	0	0
+No	0	0	0
+She likes women	0	0	0
+No	0	0	0
+No	0	0	0
+Nothing	0	0	0
+no	0	0	0
+refusing to bad mouth Trump	-0.13266666666666668	-0.17800000000000002	0.028000000000000035
+"""not crazy"""	0	0	0
+Will stand up to the gun lobby	-0.04950000000000001	-0.08049999999999999	0.137
+wants to help w/ child care costs, experienced, pro-family	0.4526666666666667	-0.18066666666666667	0.24333333333333332
+No	0	0	0
+?	0	0	0
+Nothing	0	0	0
+She's positive	0.514	0.1	0.45199999999999996
+Nothing I can remember	0.29100000000000004	-0.372	0.275
+She will release UFO files to the public that have been held secret for decades. We have the right to know.	0.19028571428571434	-0.22914285714285718	0.198
+plans for economy, education, defense	0.07200000000000006	0.022000000000000065	0.10600000000000005
+nothing	0	0	0
+No	0	0	0
+Nope, most people dislike her. That's why the DNC is screwing the American voters!	-0.10499999999999997	-0.19600000000000004	0.121
+no	0	0	0
+No	0	0	0
+her support og G & L rights	0.37799999999999995	-0.39	0.22200000000000006
+No	0	0	0
+Qualified	0	0	0
+yes, nice person	0.30499999999999994	-0.276	0.24699999999999997
+No	0	0	0
+No	0	0	0
+paid childcare	0	0	0
+That she will be the Democratic nominee	0.135	-0.24699999999999997	0.224
+She's taking the high road re: debating Trump	0.03599999999999995	-0.25066666666666665	0.17466666666666666
+Bengali investigators...set up	0	0	0
+her statements after the plane went missing were verycautious, very presidential	0.067	-0.10300000000000002	0.025
+No.	0	0	0
+NONE	0	0	0
+No	0	0	0
+Yes....equal pay for women	0.24600000000000008	-0.15199999999999997	0.266
+nope	0	0	0
+Nothing, only the corrupt, vile person that she is trying to hide, but not very well. lol	-0.16900000000000007	-0.08099999999999996	-0.016999999999999987
+Never	0	0	0
+can handle presidency	0.18600000000000005	-0.2533333333333333	0.16000000000000003
+Going to be indicted	0.23599999999999993	-0.31399999999999995	0.1
+Her calm in replying to Mr Trump I have followed her time in office and know her well.	0.12966666666666668	-0.39266666666666666	0.14400000000000004
+Nope	0	0	0
+Women's issues are family issues.	0.45	-0.13000000000000006	0.1960000000000001
+Needs to be prosecuted	0.23599999999999993	-0.31399999999999995	0.1
+none	0	0	0
+No	0	0	0
+no	0	0	0
+No	0	0	0
+no	0	0	0
+NO !	0	0	0
+That she isn't responding to Trump's attaks.	0	0	0
+No	0	0	0
+no	0	0	0
+Nothing	0	0	0
+none	0	0	0
+No	0	0	0
+She has specific plans for various areas of government; wants to reduce possibility of unrestricted gun use.	0.05239999999999999	-0.09480000000000004	0.045999999999999985
+No	0	0	0
+No	0	0	0
+hell no	-0.49000000000000005	0.25199999999999995	-0.30599999999999994
+No	0	0	0
+i DON'T TAKE THE TIME TO LISTEN TO THIS GARBAGE	0.010499999999999982	-0.22350000000000003	-0.004999999999999983
+Medicare buy-in,	0	0	0
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+none	0	0	0
+NO	0	0	0
+There is nothing postive	0	0	0
+no	0	0	0
+She is going to put Bill in charge of the economy	-0.1775	-0.1285	-0.03649999999999998
+No. I've been busy moving cross country.	0.10800000000000001	-0.24300000000000005	-0.15599999999999997
+yes The FBI is closing in	0	0	0
+nothing	0	0	0
+She's still in it.	0	0	0
+Yes	0	0	0
+prison for sure	-0.14200000000000002	-0.14200000000000004	0.03600000000000003
+No	0	0	0
+nothing	0	0	0
+Her work for women's rights	0.009999999999999964	-0.13399999999999998	0.22400000000000003
+no	0	0	0
+Mone	0	0	0
+no shes a lier and killer	-0.6519999999999999	0.41	-0.11400000000000006
+Nothing positive about her	0.514	0.1	0.45199999999999996
+No	0	0	0
+will help women	0.22700000000000004	-0.281	0.35
+no	0	0	0
+No	0	0	0
+Nope	0	0	0
+N/A	0	0	0
+Fights for women	0	0	0
+She called Trump unfit to be President.	-0.1126666666666667	-0.298	0.038666666666666676
+no	0	0	0
+no	0	0	0
+No.	0	0	0
+She is brilliant and resilient.	0.5	0.19000000000000003	0.43200000000000005
+Not really.	0	0	0
+nothing	0	0	0
+no	0	0	0
+no	0	0	0
+In favor of raising minimum wage.	0.14699999999999996	-0.21199999999999997	0.146
+No	0	0	0
+no	0	0	0
+She is the smartest one of all.	0.21799999999999997	-0.466	0.11199999999999992
+she would be best for the USA	0.20899999999999996	-0.27599999999999997	0.14400000000000004
+Nope, because there is none.	0	0	0
+No	0	0	0
+No	0	0	0
+yes	0	0	0
+0	0	0	0
+She said that she has the nomination of ther party.	0.12599999999999997	-0.192	0.2
+No	0	0	0
+no	0	0	0
+better foreign policy than Obama	-0.13699999999999996	-0.12700000000000006	0.09000000000000002
+no	0	0	0
+no	0	0	0
+She could be indicted re: emails.	0.23599999999999993	-0.31399999999999995	0.1
+Hillary Clinton had time to relax on the Ellen show	0.2886666666666667	-0.3406666666666667	0.14200000000000004
+No	0	0	0
+Nothing	0	0	0
+There's NO SUCH THING!	0	0	0
+No	0	0	0
+Supports equality for all	0.35	-0.053999999999999916	0.2
+tuned it out	0	0	0
+progressive	0.25199999999999995	-0.12400000000000003	0.32200000000000006
+That she's the only candidate with enough experience to handle the job.	0.14133333333333334	-0.16599999999999998	0.22800000000000006
+No	0	0	0
+no	0	0	0
+N/A	0	0	0
+London mayor says she is a good role model for girls	0.19799999999999995	-0.19449999999999995	0.22550000000000003
+Her foreign policy experience	0.03466666666666668	-0.17066666666666672	0.18933333333333335
+no	0	0	0
+How she already knows the white house	0.33699999999999997	-0.26999999999999996	0.21200000000000002
+Well, she's still alive	0.31400000000000006	0.18599999999999994	0.3539999999999999
+plan for a child care program	0.32399999999999995	-0.21200000000000002	0.22850000000000004
+That she is not spending a lot of money on the primaries.	0.41999999999999993	0.37200000000000005	0.26400000000000007
+no	0	0	0
+nope	0	0	0
+She's not guilty of the things the Republicans want her to be guilty.	0.017999999999999978	-0.10866666666666662	0.025999999999999978
+She won the Kentucky primary	0.06400000000000006	-0.35	0.2699999999999999
+Soke well of equal rights	0.29399999999999993	-0.296	0.32799999999999996
+got ideas	0	0	0
+no	0	0	0
+Nothing	0	0	0
+N	0	0	0
+she is leading delegates	0	0	0
+no - there is NOTHING positive about Hillary Clinton	0.514	0.1	0.45199999999999996
+That she might be going to prison	-0.18800000000000003	-0.14700000000000002	-0.09599999999999999
+path to securing nomination is closer	0.13399999999999998	-0.22199999999999998	0.06200000000000001
+nope	0	0	0
+Editorial about how she is the first candidate someone of my age and gender can relate to	0.15142857142857144	-0.20971428571428571	0.14742857142857144
+She may support expansion of Medicare to people 50 years old	0.1092	-0.19239999999999996	0.08360000000000004
+SHE WON KY PRIMARY	0.06400000000000006	-0.35	0.2699999999999999
+That bill Clinton is going to help her	0.006000000000000005	-0.17099999999999999	0.08899999999999997
+No	0	0	0
+No.	0	0	0
+Competent, nothing illegal found in email	-0.14700000000000002	0.004999999999999977	0.083
+none	0	0	0
+nope	0	0	0
+Ready to lead	0.21999999999999995	-0.215	0.12799999999999992
+no	0	0	0
+none	0	0	0
+no	0	0	0
+never have	0.17200000000000007	-0.296	0.14399999999999996
+experienced and intelligent	0.5199999999999999	0.13399999999999998	0.3539999999999999
+no way	0.18200000000000002	-0.42000000000000004	-0.03399999999999999
+nothing	0	0	0
+No	0	0	0
+Yes	0	0	0
+Absolutely not	0	0	0
+Her stances on disability rights issues are excellent and the campaign is responsive about them	0.057999999999999954	-0.12749999999999997	0.12999999999999998
+Nope	0	0	0
+no	0	0	0
+No	0	0	0
+None	0	0	0
+She is more competent than the competition	0.13799999999999998	-0.016000000000000014	0.158
+Winning	0	0	0
+good things	0.578	-0.26799999999999996	0.28200000000000003
+no	0	0	0
+NO!	0	0	0
+nothing	0	0	0
+Nothing	0	0	0
+No	0	0	0
+Nothing	0	0	0
+nothing	0	0	0
+NO!	0	0	0
+no	0	0	0
+No	0	0	0
+none	0	0	0
+Neutral	0.1	-0.30999999999999994	0.16199999999999992
+she got her hair done	0.23599999999999993	-0.258	0.3380000000000001
+nope	0	0	0
+Qualifications	0.07400000000000002	-0.04800000000000004	0.23800000000000007
+No.	0	0	0
+No	0	0	0
+No	0	0	0
+No, not much in the last week	0.053999999999999916	-0.33399999999999996	0.05600000000000005
+Nothing	0	0	0
+no	0	0	0
+no	0	0	0
+no	0	0	0
+No	0	0	0
+nothing	0	0	0
+experienced	0	0	0
+Nothng positive	0.514	0.1	0.45199999999999996
+NO.	0	0	0
+no	0	0	0
+No	0	0	0
+nothing	0	0	0
+no	0	0	0
+No	0	0	0
+no	0	0	0
+no	0	0	0
+none	0	0	0
+Nothing	0	0	0
+The Benghazi witch hunt has turned up no negative evidence.	-0.3666666666666667	0.029999999999999954	-0.04133333333333334
+her answer to trumps attacks on her personal life	0.25799999999999995	-0.1226666666666667	0.10399999999999998
+Knows a ton about foreign policy	-0.09133333333333331	-0.18133333333333337	0.06533333333333335
+Nothing	0	0	0
+she displays leadership	0.2	-0.04800000000000004	0.368
+no,	0	0	0
+no	0	0	0
+that she might win the election	0.14699999999999996	-0.015999999999999924	0.28600000000000003
+no	0	0	0
+none	0	0	0
+nothing	0	0	0
+Absolutely nothing	0	0	0
+Yes	0	0	0
+No	0	0	0
+No	0	0	0
+No	0	0	0
+no	0	0	0
+rebutting Trump's attacks	0	0	0
+That shes qualified	0	0	0
+no	0	0	0
+non	0	0	0
+Bill will be a great 1st gentleman	0.18439999999999998	-0.25560000000000005	0.1528
+No	0	0	0
+NO!	0	0	0
+Wrongly accused of inaccurate statements in viral video, had reasonable and detailed tax and spending policies, supports policies benefiting poor and middle class families	-0.069	-0.16775000000000004	-0.098
+EXPERTISE, COMPANSION, WOMEN'S RIGHTS, ETC.	0	0	0
+not much	0	0	0
+Gave a speech	0.12400000000000003	-0.18000000000000008	0.33599999999999997
+Yes, that she is well experienced	0	0	0
+No	0	0	0
+unsure	-0.32599999999999996	-0.09000000000000004	-0.27199999999999996
+no	0	0	0
+Providing for women's health care, pro-choice, understands foreign policy and how the country operates when it comes to the presidency.	0.08099999999999999	-0.20400000000000001	0.1625
+She is leading in the polls.	0	0	0
+nothing	0	0	0
+no	0	0	0
+Nothing	0	0	0
+is good women	0.578	-0.26799999999999996	0.28200000000000003
+Some people think she can beat trump	0.094	-0.21960000000000002	0.19160000000000005
+gearing up to be the nominee and challenge Trump	0.0905	-0.17949999999999997	0.0895
+no	0	0	0
+no not listening to the news	-0.008000000000000007	-0.07799999999999993	-0.10399999999999991
+no	0	0	0
+positive she is not going to win	0.45399999999999996	0.11100000000000004	0.512
+no	0	0	0
+Nope	0	0	0
+Nothing positive ever.	0.514	0.1	0.45199999999999996
+No	0	0	0
+nothing	0	0	0
+No	0	0	0
+nothing.	0	0	0
+no	0	0	0
+we	0	0	0
+no	0	0	0
+no	0	0	0
+Did good in ky	0.578	-0.26799999999999996	0.28200000000000003
+hahahaha, NO	0	0	0
+all other news sources	0.03700000000000001	-0.19099999999999995	0.04800000000000005
+DOWN ON WAMAN	0	0	0
+She is more qualified then Trump to be President	0.03933333333333332	-0.2353333333333333	0.04933333333333335
+no	0	0	0
+Not Sure	0.32799999999999996	-0.304	0.36400000000000005
+Hahaha. NO!	0	0	0
+nothing	0	0	0
+Dedicated	0	0	0
+None	0	0	0
+No	0	0	0
+none	0	0	0
+no	0	0	0
+no	0	0	0
+She is not Donald Trump.	0	0	0
+No	0	0	0
+yes-she is the front-runner	0	0	0
+No	0	0	0
+wage equality	0.275	-0.18399999999999994	0.04800000000000005
+no	0	0	0
+She did a great job raising Chelsea.	0.31399999999999995	-0.18600000000000005	0.10900000000000007
+Never	0	0	0
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+None	0	0	0
+no	0	0	0
+None	0	0	0
+No	0	0	0
+No	0	0	0
+None	0	0	0
+She has knowledge of how to run this country because she is married to a former President	0.253	-0.07399999999999998	0.1685
+She is meeting with families of gun violence	-0.272	0.16000000000000003	-0.10533333333333335
+No	0	0	0
+no	0	0	0
+she is pro-choice	0	0	0
+No	0	0	0
+no	0	0	0
+woman issues	0.418	-0.24000000000000005	0.18599999999999994
+No	0	0	0
+No	0	0	0
+No	0	0	0
+no	0	0	0
+that she is focusing on the economy	-0.27199999999999996	0.06400000000000006	-0.16799999999999998
+She is the most highly qualified presidential candidate in recent history.	-0.008666666666666661	-0.12000000000000004	0.0346666666666667
+nothing	0	0	0
+Yes - everything	0	0	0
+She is doing well.	0	0	0
+She is speaking respectfully of Bernie Sanders	0	0	0
+for woamns rights	0	0	0
+Nope	0	0	0
+No	0	0	0
+none	0	0	0
+no	0	0	0
+nope	0	0	0
+She's released her tax returns for decades. She's our next President!	-0.4	-0.09600000000000009	-0.39
+she supports universal background checks for gun purchases	0.01999999999999998	0.08533333333333336	0.05400000000000003
+no	0	0	0
+no	0	0	0
+Nothing	0	0	0
+Nicer then she appears	0	0	0
+no	0	0	0
+None	0	0	0
+She does not play dirty against Trumps attacks	0.07200000000000001	-0.11400000000000002	0.13399999999999998
+she's is positive	0.514	0.1	0.45199999999999996
+she has a well organized campaign structure in place for the general election run	0.07733333333333335	-0.19333333333333333	0.10600000000000002
+At least she has political experence	-0.13000000000000006	-0.2	-0.184
+No	0	0	0
+n0	0	0	0
+She will defend the rights of the working class	0.1566666666666667	-0.20800000000000007	0.2326666666666667
+she's a Democrat	0.10800000000000001	0.13000000000000006	0.12200000000000007
+No	0	0	0
+zero	0	0	0
+No	0	0	0
+no	0	0	0
+Innocent on Benghazi	0.30999999999999994	-0.11999999999999993	0.184
+Experienced/Qualified	0	0	0
+No	0	0	0
+She'd appoint Bill in charge of economic policy	-0.0984	-0.2232	0.005600000000000022
+no	0	0	0
+No	0	0	0
+none	0	0	0
+Protecting minorities.	0	0	0
+Very adept politician	-0.061000000000000026	-0.11299999999999999	0.059999999999999956
+No	0	0	0
+NONE	0	0	0
+She has continued to focus on running a serious, professional campaign.	0.2866666666666667	-0.04199999999999999	0.298
+No she is as dumb and stupid as Obama and wants to continue what he has done for the past 7 years which is so ignorant.	-0.20099999999999998	-0.13750000000000004	-0.011500000000000019
+She has experience and on good terms with foreign nations	0.30933333333333335	-0.1466666666666667	0.20933333333333337
+gaining ground	0.05600000000000005	-0.53	0.1
+Not crazy	0.027999999999999935	0.18000000000000008	-0.16199999999999992
+NO	0	0	0
+SHE IS CORRUPT NO ONE TALKS GOOD ABOUT HER!!	0.13199999999999998	-0.17933333333333326	0.04466666666666667
+She has a shot to win in Arizona and Georgia	-0.021000000000000046	0.20900000000000007	0.12500000000000006
+Yes. Focused	0	0	0
+Great run	0.391	-0.06200000000000001	0.20900000000000007
+no	0	0	0
+no	0	0	0
+No	0	0	0
+everything she says about her lying self.	0	0	0
+she's going on the offensive against trump	-0.20200000000000007	-0.17199999999999996	0.10300000000000004
+r u kidding?	0	0	0
+no	0	0	0
+experiance	0	0	0
+no	0	0	0
+her depth of experience	0.26899999999999996	-0.19400000000000003	0.21800000000000005
+haven't paid attention	0.33599999999999997	-0.19000000000000003	0.29399999999999993
+none	0	0	0
+No	0	0	0
+no	0	0	0
+She is qualufied to be President.	0.23599999999999993	-0.31399999999999995	0.1
+nothing	0	0	0
+n/a	0	0	0
+no	0	0	0
+no	0	0	0
+Her response to the Egyptian airliner. That she's a more serious candidate	0.08866666666666667	-0.13799999999999998	0.1466666666666667
+Never have!	0	0	0
+No	0	0	0
+no	0	0	0
+She is always positive	0.514	0.1	0.45199999999999996
+None	0	0	0
+yes	0	0	0
+no	0	0	0
+That she has the presidential nomination in the bag.	0.058	-0.19000000000000006	0.11799999999999998
+She knows what she's doing	0	0	0
+Intelligent	0.5199999999999999	0.13399999999999998	0.3539999999999999
+no	0	0	0
+no	0	0	0
+NOT SURE	0.32799999999999996	-0.304	0.36400000000000005
+na	0	0	0
+General likeness of the clintons	0.192	-0.20200000000000004	0.16699999999999998
+yes	0	0	0
+qualified	0	0	0
+no	0	0	0
+No	0	0	0
+no	0	0	0
+No	0	0	0
+None	0	0	0
+Is working to promote more woman in politics	0.17600000000000002	-0.204	0.028666666666666656
+No.	0	0	0
+Today	0	0	0
+reaction to egyptair	-0.06400000000000006	-0.20999999999999996	0.25999999999999995
+No	0	0	0
+No	0	0	0
+I feel for her as a woman who was cheated on and the world refuses to forget	0.1775	-0.15850000000000006	0.0024999999999999883
+she's not trump	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+No	0	0	0
+No	0	0	0
+N/A	0	0	0
+Challenging Tump to make his tax returns public as she has for many years	-0.038666666666666676	-0.2306666666666667	-0.05266666666666667
+no	0	0	0
+No	0	0	0
+She'll follow the trend and says what you want to hear.	0.0766666666666667	-0.09999999999999999	0.009999999999999962
+she has help with the education	0.353	-0.10700000000000003	0.371
+She will put Bill Clinton in charge of the economy	-0.12919999999999998	-0.18680000000000002	0.03520000000000002
+Lots of experience	0.37799999999999995	-0.258	0.38800000000000007
+no	0	0	0
+nothing	0	0	0
+n/a	0	0	0
+She is qualified and experienced.	0	0	0
+never hear anything positive about Killary	0.425	-0.08799999999999998	0.39699999999999996
+no	0	0	0
+Experienced, very impressive resume	0.19399999999999995	-0.22300000000000003	0.11200000000000002
+No.	0	0	0
+never	0	0	0
+Nothing that I believed	0	0	0
+defence of women rights	0	0	0
+NONE	0	0	0
+Not last week	0.053999999999999916	-0.33399999999999996	0.05600000000000005
+yes	0	0	0
+She gave a positive speech in Chicago.	0.319	-0.040000000000000036	0.39399999999999996
+no	0	0	0
+nothing	0	0	0
+No	0	0	0
+Nothing	0	0	0
+No	0	0	0
+several opinion pieces about why she's the best, most qualified candidate	0.08799999999999998	-0.014999999999999944	0.17600000000000007
+that she is going to win it is in the numbers	0.39399999999999996	0.12200000000000007	0.5720000000000001
+nothing	0	0	0
+No	0	0	0
+Pretty much clinched the nomination	0.333	-0.046	0.27
+"""She's better than Trump."""	0	0	0
+Yes. She would not make rash statements about what caused the airplane going from Paris to Cairo regret g what happened.	-0.04759999999999999	-0.12719999999999998	-0.0035999999999999977
+saying Donal Trump is not qualify to be President	0.11799999999999998	-0.12399999999999999	0.11100000000000004
+she will enlist Bill's help	0.11266666666666669	-0.2733333333333334	0.272
+No	0	0	0
+no	0	0	0
+No	0	0	0
+none	0	0	0
+National security prowess	0.19866666666666669	-0.14066666666666663	0.26133333333333336
+not a thing	0.10999999999999996	-0.31399999999999995	0.08200000000000003
+nope	0	0	0
+fighting income inequality, fighting racism, xenophobic, women's right	0.358	-0.11800000000000002	0.3520000000000001
+Many things but I'll state she is taking the high ground against Sanders.	0.11866666666666668	-0.3506666666666667	0.12733333333333333
+no	0	0	0
+none	0	0	0
+none	0	0	0
+No	0	0	0
+no	0	0	0
+the best liar	-0.518	0.31999999999999995	-0.051999999999999956
+no	0	0	0
+All	0	0	0
+A candidate who knows their way around inside the Beltway AND around the world.	0.04100000000000001	-0.178	0.03100000000000005
+Nothing	0	0	0
+Nothing	0	0	0
+old	-0.362	-0.10399999999999991	-0.15600000000000006
+No	0	0	0
+Nope	0	0	0
+Nothing	0	0	0
+nothing positive to hear	0.425	-0.08799999999999998	0.39699999999999996
+she won ky.	0	0	0
+nothing	0	0	0
+That she stands for women asper Juan Williams fox news	0.04799999999999995	-0.10299999999999994	-0.001999999999999953
+no	0	0	0
+being gentle with Bernie so she doesn't offend his supporters	0.07100000000000001	-0.20200000000000004	0.112
+no	0	0	0
+politically savvy, intelligent, prepared	0	0	0
+no	0	0	0
+good	0.578	-0.26799999999999996	0.28200000000000003
+will win democratic nomination	0.18100000000000002	-0.15599999999999997	0.35450000000000004
+no	0	0	0
+Yes	0	0	0
+The right hates her	0.4640000000000001	0.0	0.43200000000000005
+Nothing	0	0	0
+Her support of equality	0.364	-0.22199999999999998	0.21100000000000002
+no	0	0	0
+no	0	0	0
+her people love her	0.37	-0.08699999999999997	0.13200000000000003
+Yes. She's leading in the polls	0	0	0
+FBI investigating	0	0	0
+no	0	0	0
+liar	-0.518	0.31999999999999995	-0.051999999999999956
+no	0	0	0
+plan to alter the way the fed regional boards are selected, her support for Sanders staying in until the end	0.10633333333333334	-0.2373333333333333	0.07600000000000003
+Hillary said she would not respond to Donald Trumps opinion about Bill and other matters. It takes away from talking about issues.	0.0608	-0.24359999999999998	0.12880000000000003
+alot. that she would be the first female president in America and she would run the economy as great as they did in the 90's.	0.23622222222222222	-0.08311111111111108	0.12911111111111115
+no	0	0	0
+she wants to help immigration	0.095	-0.14900000000000002	0.03899999999999998
+pro AIDS funding	0.022000000000000044	-0.23266666666666666	0.06200000000000005
+She is strong and smart	0.45399999999999996	-0.10500000000000002	0.33499999999999996
+experience, middle ground	0.05	-0.48	0.06100000000000003
+She said some positive ideas to reform the federal reserve.	0.04533333333333334	-0.017999999999999967	0.03933333333333333
+no	0	0	0
+her plan for expanding Medicare, plan for day care, calm and collected way of speaking about plane crash	0.14457142857142852	-0.2751428571428572	0.10828571428571432
+She is good on foreign affairs	0.275	-0.09100000000000001	0.12000000000000002
+Lost Oregon Primary	-0.215	-0.16399999999999995	0.019999999999999962
+nothing	0	0	0
+no	0	0	0
+a	0	0	0
+na	0	0	0
+No	0	0	0
+Nothing	0	0	0
+Nothing	0	0	0
+She has the knowledge and temperment to be president	0.246	-0.13333333333333328	0.1386666666666667
+no	0	0	0
+Nothing	0	0	0
+She is happy all the time.	0.6940000000000002	0.20999999999999996	0.442
+She is only slightly losing	0	0	0
+no	0	0	0
+N/A	0	0	0
+No	0	0	0
+positively no good	0.578	-0.26799999999999996	0.28200000000000003
+None	0	0	0
+Nothing	0	0	0
+NO	0	0	0
+nothing	0	0	0
+none	0	0	0
+Nothing	0	0	0
+I have never heard anything positive about Hillary	0.343	-0.09799999999999999	0.29799999999999993
+She washed her hands after going to the bathroom.	0	0	0
+waqyn tomuch tolist	0	0	0
+won the Kentucky primary, and perseveres	0	0	0
+Yes	0	0	0
+no	0	0	0
+she's competent and knowledgeable about policy	0.18466666666666667	-0.19733333333333333	0.3160000000000001
+Nothing	0	0	0
+no	0	0	0
+No she's a lier	0	0	0
+Evaluating Mark Cuban as a VP	0	0	0
+not really	0	0	0
+No	0	0	0
+Yes	0	0	0
+No.	0	0	0
+na	0	0	0
+no	0	0	0
+n o	0	0	0
+No she comitted a federal crime	-0.499	0.012999999999999998	-0.393
+No	0	0	0
+no	0	0	0
+Details on maternity leave and child care plans	0.264	-0.13449999999999998	0.10199999999999997
+No	0	0	0
+none	0	0	0
+that she has championed for women's rights for years	0	0	0
+She's good at lying and dodging questions	0.578	-0.26799999999999996	0.28200000000000003
+Her grasp of the issues	0.09000000000000004	-0.19000000000000003	0.2960000000000001
+She's loosing ground	0.05600000000000005	-0.53	0.1
+qualified	0	0	0
+won KY primary	0.06400000000000006	-0.35	0.2699999999999999
+no	0	0	0
+Won Kentucky	0	0	0
+Nope	0	0	0
+experience	0.37799999999999995	-0.258	0.38800000000000007
+Yes. She is in the democratic lead	0.12599999999999997	-0.172	0.18399999999999997
+no	0	0	0
+NOTHING	0	0	0
+No	0	0	0
+no	0	0	0
+Most qualified, being unfairly treated—should be more respected	0.23599999999999993	-0.31399999999999995	0.1
+none	0	0	0
+she's moving towards the goals of Sanders	0	0	0
+no	0	0	0
+n/a	0	0	0
+qualified	0	0	0
+she'll put liberals on the supreme court	-0.0166666666666667	-0.162	0.06600000000000004
+Bill as economic adviser	-0.07400000000000005	-0.268	-0.040666666666666684
+no	0	0	0
+Pushing Donald Trump on his refusal to release tax returns.	-0.16150000000000003	-0.23000000000000004	0.009500000000000036
+No	0	0	0
+Nothing	0	0	0
+none	0	0	0
+No	0	0	0
+No	0	0	0
+No	0	0	0
+Focus on Democratic unity	0.2566666666666667	-0.09466666666666666	0.3413333333333333
+no	0	0	0
+nothing	0	0	0
+She is inclusive and supportive of persons with disabilities	0.39	-0.23399999999999999	0.316
+no	0	0	0
+She's a mom so she cares about mothers issues	0.5279999999999999	-0.07599999999999998	0.258
+No	0	0	0
+NO`	0	0	0
+she is going to be the next president of USA	0.14100000000000001	-0.18599999999999997	-0.01200000000000001
+no	0	0	0
+yes	0	0	0
+Nothing	0	0	0
+Tenacious about her job.	0.13000000000000006	-0.04399999999999995	0.08399999999999999
+Position on guns	0.11199999999999992	-0.32999999999999996	-0.05600000000000005
+No	0	0	0
+Women rights	0	0	0
+none	0	0	0
+yes	0	0	0
+Nothing special	0.5	-0.304	0.344
+Yes, many things. For example, her anti-segregation work after college.	0.009999999999999964	-0.13399999999999998	0.22400000000000003
+She helped disabled people	-0.15999999999999998	-0.252	-0.008000000000000007
+no	0	0	0
+pretty much that Trump is an idiot	-0.006000000000000005	-0.08800000000000001	0.11733333333333339
+No	0	0	0
+NONE	0	0	0
+Nothing	0	0	0
+About her rating	-0.07200000000000006	-0.04600000000000008	0.274
+no	0	0	0
+That she has worked within the system in order to change it, and is more honest and trustworthy than people give her credit for	0.25625000000000003	-0.21100000000000002	0.20325
+no	0	0	0
+Nothing	0	0	0
+N/A	0	0	0
+help poor	0.062	-0.10400000000000001	0.08899999999999997
+Nothing.	0	0	0
+That she protects the rights of women.	0	0	0
+She is savvy, smart and knows politics	0.17300000000000001	-0.275	0.022999999999999965
+"Nothing positive, she is a lair and says whatever to win the election. just because she has been ""groomed"" for the presidentcy doesnt mean she should win..... pretty much fuck clinton.."	0.09320000000000002	0.13639999999999997	0.1728
+Donald trump said she want to take away guns	2.3129646346357427e-18	-0.12400000000000001	0.07200000000000001
+none	0	0	0
+popularity rising	0.16199999999999992	-0.13599999999999995	0.17799999999999994
+no	0	0	0
+No	0	0	0
+No	0	0	0
+Nothing	0	0	0
+Wants to have a longer waiting period to purchase guns.	0.04400000000000001	-0.14533333333333334	0.22399999999999998
+No	0	0	0
+She was good.	0	0	0
+DINO	0	0	0
+Helping Miners	0	0	0
+No	0	0	0
+she lies	0	0	0
+nothing	0	0	0
+no	0	0	0
+No	0	0	0
+she did coke	0.30999999999999994	-0.14000000000000004	0.10600000000000005
+nope	0	0	0
+She disclosed her income tax information	0.03933333333333331	-0.2906666666666667	-0.013333333333333336
+foreign policy	-0.13699999999999996	-0.12700000000000006	0.09000000000000002
+She is at least pretending, for the moment, to support medicare-for-all	0.37799999999999995	-0.39	0.22200000000000006
+none	0	0	0
+no	0	0	0
+Experienced, knoweledgeable about the law and policies.	-0.09000000000000004	-0.29000000000000004	-0.03399999999999999
+no	0	0	0
+she is ready to be a leader	0.2706666666666666	-0.18066666666666667	0.19066666666666662
+No	0	0	0
+She brushed her teeth	0.0	-0.24000000000000005	0.13000000000000006
+Expanding Medicare for Americans older than age 50	0.15600000000000006	-0.258	-0.06600000000000002
+federal reserve appointments	-0.08000000000000004	-0.13899999999999996	-0.16800000000000007
+no	0	0	0
+That she is a positive role model	0.26999999999999996	-0.07999999999999997	0.27666666666666667
+keeps her 'cool'	0	0	0
+no	0	0	0
+Nothing	0	0	0
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+n	0	0	0
+Her husband will be involved	0.26066666666666666	-0.286	0.18866666666666668
+no	0	0	0
+Good	0.578	-0.26799999999999996	0.28200000000000003
+no	0	0	0
+No	0	0	0
+She talks about issues	0	0	0
+No	0	0	0
+that she will face charges	0.16800000000000007	-0.25100000000000006	0.257
+No	0	0	0
+none	0	0	0
+NO	0	0	0
+Nothing	0	0	0
+no	0	0	0
+no	0	0	0
+Nothing	0	0	0
+No	0	0	0
+Yes	0	0	0
+NONE	0	0	0
+no	0	0	0
+no	0	0	0
+there is nothing positive about hillary	0.514	0.1	0.45199999999999996
+no - other than she's not lying and trying to now trying to copy Bernie's platform	0.04199999999999999	-0.2793333333333333	0.13933333333333334
+good fundraising, supports women	0.578	-0.26799999999999996	0.28200000000000003
+nothing	0	0	0
+all	0	0	0
+na	0	0	0
+Just the normal campaign news	0.045333333333333316	-0.3066666666666667	0.0673333333333333
+nothing	0	0	0
+nothing	0	0	0
+She is trying hard to beat Trump	-0.1393333333333334	-0.11000000000000003	0.09400000000000001
+She calls for enforcement of back ground check laws.	0.06299999999999999	-0.36000000000000004	-0.030500000000000017
+None	0	0	0
+a lesbian	0.15199999999999997	0.20800000000000002	0.06799999999999998
+She's not going to sink to Donald Trump's nasty style of campaigning.	-0.041333333333333354	-0.08399999999999998	0.036666666666666604
+no	0	0	0
+no	0	0	0
+no	0	0	0
+NO	0	0	0
+Showed taxes	0	0	0
+That she is for all people no matter what their sex, color, etc.	0.15200000000000005	-0.21800000000000003	0.15200000000000005
+No	0	0	0
+shes a good crook	0.07499999999999996	-0.172	0.022999999999999993
+I would like to hear she was indicted	0.3353333333333334	-0.2113333333333333	0.26200000000000007
+Hanging in there. Supports expanded overtime.	0	0	0
+No	0	0	0
+Christian	0	0	0
+Nothing	0	0	0
+Attempting to be funny.	0.23599999999999993	-0.31399999999999995	0.1
+not really	0	0	0
+organized,good administrator	0.06400000000000006	-0.051999999999999956	0.09600000000000009
+She has experience	0.37799999999999995	-0.258	0.38800000000000007
+no	0	0	0
+no	0	0	0
+No	0	0	0
+Trustworthy	0.45	-0.15600000000000006	0.458
+That she is far ahead	0	0	0
+no	0	0	0
+na	0	0	0
+no	0	0	0
+She's going to let Bill have the economy.	-0.005333333333333301	-0.318	0.051999999999999956
+None	0	0	0
+Strong leader.	0.36199999999999993	0.027999999999999935	0.308
+She agrees on the issues with me.	0	0	0
+No	0	0	0
+NO	0	0	0
+no	0	0	0
+Alot of. Good things	0.578	-0.26799999999999996	0.28200000000000003
+no	0	0	0
+Nope	0	0	0
+na	0	0	0
+She won Kentucky.	0	0	0
+No	0	0	0
+nothing	0	0	0
+yes, about the african american young men	0.2729999999999999	-0.18	0.13999999999999996
+good	0.578	-0.26799999999999996	0.28200000000000003
+nope	0	0	0
+She called Trump unqualified	-0.23400000000000004	-0.19999999999999998	-0.01399999999999997
+Turning the corner from primary to general election	-0.00149999999999997	-0.27149999999999996	0.07349999999999998
+no	0	0	0
+no	0	0	0
+No	0	0	0
+ahed in polls	0	0	0
+She's a better choice to lead the country.	0.192	-0.253	0.17799999999999994
+No	0	0	0
+no	0	0	0
+no	0	0	0
+NA	0	0	0
+No	0	0	0
+She is for gun control	-0.191	0.25	0.017999999999999967
+Can't remember	0.3	-0.372	0.2619999999999999
+No	0	0	0
+Nothing positive about this women!	0.514	0.1	0.45199999999999996
+her cooking programs	0.3539999999999999	-0.16199999999999992	0.4539999999999999
+No	0	0	0
+She Died.	0	0	0
+nope	0	0	0
+sanders could be her running mate	0.326	-0.006666666666666664	0.21199999999999997
+She's going to win the Democratic nomination.	0.267	-0.005999999999999957	0.44800000000000006
+no	0	0	0
+Nothing	0	0	0
+Yes, various including she looks good to beat Bernie, then Trump	0.09849999999999995	-0.1835	0.13600000000000004
+No	0	0	0
+nothing	0	0	0
+Her vast experience	0.25699999999999995	-0.158	0.23900000000000005
+nothing	0	0	0
+VERY PROFESSIONAL	0.258	-0.11999999999999993	0.34800000000000003
+no	0	0	0
+Nothing	0	0	0
+no	0	0	0
+NO.	0	0	0
+no	0	0	0
+No way!!!!!	0	0	0
+yes	0	0	0
+No	0	0	0
+She is a positive voice for change in the boy's club.	0.2773333333333334	-0.14666666666666667	0.286
+She has experience	0.37799999999999995	-0.258	0.38800000000000007
+Really	0	0	0
+No	0	0	0
+nothing good	0.578	-0.26799999999999996	0.28200000000000003
+She did not attack Bernie	-0.6	0.41	-0.32199999999999995
+Has less than 100 delegates to be nominee	0.16799999999999998	-0.21699999999999994	0.125
+No never she is as evil as Obama	-0.532	0.13399999999999998	-0.27999999999999997
+No	0	0	0
+She pledged to reduce the influence of bankers on the Federal Reserve	-0.008500000000000021	-0.17099999999999999	-0.040000000000000036
+zero	0	0	0
+Nothing	0	0	0
+sadaff	0	0	0
+yes; equal pay for women	0.27	-0.22399999999999998	0.297
+no	0	0	0
+no	0	0	0
+Nothing	0	0	0
+No	0	0	0
+she only needs 90 delegates to be nominee	0.16799999999999998	-0.21699999999999994	0.125
+winning	0	0	0
+No	0	0	0
+no	0	0	0
+hell no	-0.49000000000000005	0.25199999999999995	-0.30599999999999994
+none	0	0	0
+she is helping women	0	0	0
+nothing	0	0	0
+no	0	0	0
+she is still married to bill clinton	-0.378	-0.2	-0.2
+Loved her response about her husband to trump	0.2595	-0.157	0.2155
+She's been willing to consider new information in making policy position decisions.	0.2243333333333333	-0.34800000000000003	0.1333333333333333
+no	0	0	0
+no	0	0	0
+yes	0	0	0
+No	0	0	0
+Yes. Experienced, intelligent, strong	0.36199999999999993	0.027999999999999935	0.308
+Yes	0	0	0
+no	0	0	0
+No	0	0	0
+no	0	0	0
+no	0	0	0
+No	0	0	0
+No	0	0	0
+No	0	0	0
+No	0	0	0
+nothing is positive about her	0.514	0.1	0.45199999999999996
+Warm and caring	0.5	-0.32999999999999996	0.266
+no	0	0	0
+yes	0	0	0
+Is doing well	0	0	0
+she might go to jail	-0.17699999999999996	-0.06699999999999999	-0.07599999999999998
+no	0	0	0
+no	0	0	0
+No	0	0	0
+NO	0	0	0
+Yes	0	0	0
+Experienced	0	0	0
+She is trying to protect women	0.366	-0.25999999999999995	0.166
+She is highly qualified to be president	0.14100000000000001	-0.18599999999999997	-0.01200000000000001
+She appears to lead in national polls against Trump by a margin of 6-7 points	0.005499999999999967	-0.27799999999999997	0.143
+Oh God NO!!!	0.18000000000000008	0.11199999999999992	0.0
+She is positive and capable.	0.514	0.1	0.45199999999999996
+Nothing	0	0	0
+No	0	0	0
+thinks before speaking	0	0	0
+Nothing	0	0	0
+no	0	0	0
+She is experienced	0	0	0
+no	0	0	0
+no	0	0	0
+She has overcome a lot of unfair and unfounded attacks on her character and record. She has principles that she would stand up for. She is a strong female figure that we should hold up as a standard.	0.13418181818181815	-0.1330909090909091	0.17709090909090908
+No, nothing	0	0	0
+nothing	0	0	0
+no	0	0	0
+nothing	0	0	0
+No	0	0	0
+everything about Clinton is positive	0.514	0.1	0.45199999999999996
+none	0	0	0
+No	0	0	0
+Intellegent	0	0	0
+NOPE	0	0	0
+nothing	0	0	0
+none	0	0	0
+Nope.	0	0	0
+No	0	0	0
+NO	0	0	0
+No	0	0	0
+jjhgjg	0	0	0
+Everything is positive. I don't read garbage	-0.03899999999999998	-0.246	0.12600000000000006
+NO	0	0	0
+No	0	0	0
+none	0	0	0
+NO	0	0	0
+none	0	0	0
+no	0	0	0
+nothing	0	0	0
+She is blonde and well-dressed.	0.2	0.15	0.11199999999999992
+none	0	0	0
+NO	0	0	0
+No	0	0	0
+No	0	0	0
+none	0	0	0
+no	0	0	0
+no	0	0	0
+no	0	0	0
+no	0	0	0
+Excelent	0	0	0
+That she may be indighted for all her crimes.	0.17299999999999993	-0.33799999999999997	0.14400000000000004
+no	0	0	0
+No	0	0	0
+Yes, how she will work to get things done and is truthful enough to admit some things can't be accomplished.	0.18933333333333333	-0.287	0.17300000000000004
+No	0	0	0
+nope	0	0	0
+Hell no	-0.49000000000000005	0.25199999999999995	-0.30599999999999994
+no	0	0	0
+No	0	0	0
+no	0	0	0
+Nothing	0	0	0
+None	0	0	0
+She's pushing paid family leave.	0.45	-0.13000000000000006	0.1960000000000001
+Yes, she called Trump out for one of his latest BS comments	0.026999999999999955	-0.4	0.142
+no	0	0	0
+She's the lesser of two evils	0.25999999999999995	-0.33399999999999996	0.009999999999999964
+She is beating Donald Trump	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+restraint over sanders	-0.30599999999999994	-0.19000000000000003	-0.10999999999999996
+nothing	0	0	0
+I heard one of her commercials about the things that she wants to do as president.	0.15	-0.366	0.19099999999999992
+no	0	0	0
+She donates funds philanthropically.	0	0	0
+NO	0	0	0
+None	0	0	0
+yes, she is going to win	0.39399999999999996	0.12200000000000007	0.5720000000000001
+Nothing	0	0	0
+Her views on more paid leave	-0.06400000000000006	-0.10399999999999991	0.09399999999999994
+Intellect	0.324	-0.11799999999999997	0.3380000000000001
+No	0	0	0
+Support of early child development	0.2893333333333334	-0.1593333333333333	0.19933333333333336
+No all negative	-0.496	0.009999999999999964	-0.142
+Working with Bernie sanders	0	0	0
+no	0	0	0
+NO	0	0	0
+No	0	0	0
+no	0	0	0
+N/A	0	0	0
+She's not trump	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+no	0	0	0
+Women's rights	0	0	0
+no	0	0	0
+no	0	0	0
+nothing	0	0	0
+no	0	0	0
+No	0	0	0
+none	0	0	0
+nothing	0	0	0
+Nothing	0	0	0
+no	0	0	0
+knowledge o foreign policy	0.06066666666666672	-0.09400000000000001	0.2066666666666667
+no	0	0	0
+Nah	0	0	0
+na	0	0	0
+Child Care!	0.44000000000000006	0.06600000000000002	0.040000000000000036
+equal pay for women	0.27	-0.22399999999999998	0.297
+No	0	0	0
+no	0	0	0
+no	0	0	0
+none	0	0	0
+Has Fair views on things	0.42799999999999994	-0.34199999999999997	0.22400000000000003
+No	0	0	0
+no	0	0	0
+no	0	0	0
+No	0	0	0
+Supports lgbt equality	0.35	-0.053999999999999916	0.2
+She says that women should receive equal pay for equal work	0.2544	-0.2036	0.30079999999999996
+Nothing	0	0	0
+No.	0	0	0
+she was a good sec. of state	0.362	-0.30499999999999994	0.20600000000000004
+No	0	0	0
+That she is a good cock sucker	0.12933333333333333	-0.05733333333333329	0.072
+not rushing to place blame on what happen to the airplane tha went down	-0.02249999999999999	-0.131	-0.024499999999999963
+No	0	0	0
+She declared herself the democratic nominee	0.12000000000000002	-0.12699999999999995	0.237
+NO	0	0	0
+I have never heard anything good about this woman	0.3893333333333333	-0.268	0.20399999999999996
+No	0	0	0
+No	0	0	0
+nope	0	0	0
+Support for child care. Her experience in foreign policiy.	0.292	-0.12400000000000003	0.15200000000000002
+no	0	0	0
+none	0	0	0
+no	0	0	0
+Yes. Stalwart	0	0	0
+Steady power, who has solid experience dealing internationally.	0.2806666666666667	-0.3953333333333333	0.3006666666666667
+intelligent	0.5199999999999999	0.13399999999999998	0.3539999999999999
+Her foriegnpolicy comment were reassuring compared with Trumps	0.13000000000000006	-0.288	0.192
+no	0	0	0
+No	0	0	0
+she knows what the people want	0.17000000000000004	-0.094	0.079
+Nothing	0	0	0
+"Her 'legal issues"" are non issues, her calls for party unity, women's rights, LGBT equality, her opinions on foreign affairs"	0.20400000000000001	0.15099999999999997	0.07100000000000001
+no	0	0	0
+No	0	0	0
+She is gaining momentum in presidential elections	0.10499999999999998	-0.18000000000000008	0.03399999999999999
+no	0	0	0
+that she might have a terminal disease	-0.21266666666666667	-0.15333333333333332	-0.15533333333333335
+She has 3 million more votes than Bernie Sanders	0.51	0.07599999999999998	0.16400000000000006
+No	0	0	0
+nope	0	0	0
+"Yes. She is changing her slogan to ""stronger together""."	-0.019999999999999928	-0.30999999999999994	0.04800000000000004
+She know a lot about pretty much anything.	0.45200000000000007	-0.126	0.24800000000000005
+She's fighting for women's rights	0	0	0
+Never heard anything positive, ever.	0	0	0
+No	0	0	0
+Everything out of her mouth	0.11799999999999997	-0.17200000000000007	0.2
+i haven't heard anything	0	0	0
+No.	0	0	0
+no	0	0	0
+No	0	0	0
+No	0	0	0
+Yes, her experience	0.37799999999999995	-0.258	0.38800000000000007
+Defending the weakest among us	0	0	0
+No.	0	0	0
+no	0	0	0
+No	0	0	0
+she is experienced in politic	0	0	0
+Nothing	0	0	0
+she is the most qualified candidate	-0.1	0.06400000000000006	0.09600000000000009
+no	0	0	0
+none	0	0	0
+No	0	0	0
+no	0	0	0
+Her stands on equality	0.35	-0.053999999999999916	0.2
+"""She isn't Trump or a Republican!"""	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+Nothing	0	0	0
+HELP THE MIDDLE CLASS AND THE POOR	0.07850000000000001	-0.18800000000000003	0.06200000000000001
+no	0	0	0
+She's getting an indictment	-0.22199999999999998	0.05	-0.166
+Um.... nada?	0	0	0
+She's a woman	0.418	-0.24000000000000005	0.18599999999999994
+She is winning more delegates than Bernie Sanders	0	0	0
+she will make bill clinton incharge of the economy	-0.09199999999999998	-0.20550000000000002	0.049500000000000016
+None	0	0	0
+She's not Trump	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+nothing new	0.5359999999999999	0.027999999999999935	0.04399999999999995
+Patient statement about downed jet	0.25133333333333335	-0.218	0.14400000000000002
+NO	0	0	0
+She leads the primary by 3 million votes	0.28700000000000003	-0.137	0.21699999999999997
+no	0	0	0
+nothing	0	0	0
+yes	0	0	0
+She is experience	0.37799999999999995	-0.258	0.38800000000000007
+Won Kentucky	0	0	0
+she is an evil corporatist and she sucks	-0.532	0.13399999999999998	-0.27999999999999997
+None	0	0	0
+everything	0	0	0
+Yes she has experience needed to run the country	0.296	-0.156	0.24866666666666667
+She is less than 100 delegates from winning the Democratic nomination.	0.14000000000000004	-0.13399999999999998	0.324
+no	0	0	0
+leads in canidants	0	0	0
+no	0	0	0
+calling out Trump	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+no	0	0	0
+she's smart	0.546	-0.238	0.36199999999999993
+No	0	0	0
+Nothing	0	0	0
+Nothing	0	0	0
+Nothing	0	0	0
+none	0	0	0
+yes	0	0	0
+no	0	0	0
+no	0	0	0
+New support for banking policy.	0.3359999999999999	-0.17133333333333334	0.07133333333333335
+None	0	0	0
+She won KY primary	0.06400000000000006	-0.35	0.2699999999999999
+No	0	0	0
+No	0	0	0
+Ok	0	0	0
+No	0	0	0
+She (finally) supports a health care plan which includes a public option	0.2932	-0.33799999999999997	0.20560000000000006
+Hillary? Hell no!	-0.49000000000000005	0.25199999999999995	-0.30599999999999994
+no	0	0	0
+nothng	0	0	0
+no	0	0	0
+No	0	0	0
+No	0	0	0
+none	0	0	0
+YES	0	0	0
+all	0	0	0
+Not actually a lizard person	0.1529999999999999	-0.079	0.18600000000000005
+SHE IS GOING TO JAIL	-0.618	-0.10600000000000005	-0.21799999999999997
+She overcame a lot of criticism and tread the path for women in government	-0.09750000000000003	-0.13999999999999999	-0.14
+He is coming to san diego and is not racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+Everything I hear about her is positive	0.425	-0.08799999999999998	0.39699999999999996
+No	0	0	0
+There is nothing positive to be said about her	0.375	-0.10699999999999997	0.27599999999999997
+nothing	0	0	0
+Nothing	0	0	0
+no	0	0	0
+No	0	0	0
+no	0	0	0
+no	0	0	0
+Her record on reproductive rights and disability rights	-0.03200000000000003	-0.19800000000000004	-0.0039999999999999715
+No	0	0	0
+no	0	0	0
+I heard she isn't Trump.	0	0	0
+Hillary Clinton has been accused and investigated for 24 years and NOTHING was ever found to be negative or against her.	-0.13000000000000003	-0.152	-0.02099999999999999
+nothing	0	0	0
+None	0	0	0
+No	0	0	0
+nothing	0	0	0
+Yes	0	0	0
+None	0	0	0
+Experienced and qualified	0	0	0
+She is very qualified to be potus.	0.23599999999999993	-0.31399999999999995	0.1
+No	0	0	0
+No	0	0	0
+Yes. Called out Trump as unqualified	-0.23400000000000004	-0.19999999999999998	-0.01399999999999997

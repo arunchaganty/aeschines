@@ -1,0 +1,2331 @@
+line	valence	arousal	dominance
+Yes: that he's a liar, a bully, a coward, a narcissistic sociopath, and a bigoted misogynist troll.	-0.4	0.0	-0.011999999999999922
+mud slinging about Bill	-0.18300000000000005	-0.281	-0.17300000000000004
+no	0	0	0
+Nothing negative	-0.496	0.009999999999999964	-0.142
+yes, one of his delegates was arrested for sexual assault	-0.014666666666666717	0.09466666666666666	0.06999999999999999
+He does not say what he is going to do just that he is going to make America Great Again	0.2455	-0.20450000000000004	0.305
+He's an idiot fascist.	-0.394	-0.030000000000000072	-0.15999999999999998
+anything else he says	0	0	0
+He lies.	0	0	0
+nothing that I thought was negative.	0.352	-0.16799999999999998	0.23000000000000007
+called john mccain a loser for being captured after he was shot down in the vietnam war.	-0.43300000000000005	0.04200000000000004	-0.20799999999999996
+Where to begin	0.2880000000000001	-0.43	0.14399999999999996
+Too many to list. Views on women, race,	0	0	0
+unhinged. totalitarian. dangerous	-0.534	0.36199999999999993	-0.488
+refuses to release tax returns	-0.03600000000000003	-0.09300000000000005	-0.057999999999999996
+Plenty, everytime he opens his mouth	0.11799999999999997	-0.17200000000000007	0.2
+Too many to mention	0.07799999999999993	-0.47000000000000003	0.06600000000000002
+everything	0	0	0
+too much to mention	0.07799999999999993	-0.47000000000000003	0.06600000000000002
+Inconsistent positions	-0.336	-0.36	-0.14000000000000004
+accused of being a woman hater	-0.058000000000000024	-0.20600000000000007	0.07299999999999995
+He is an extremely dangerous man. Do not under estimate him. This is how fascism begins.	-0.1905	-0.050500000000000024	-0.13050000000000003
+Sexually harassed women and won't provide income tax returns Also, one of his delegates was arrested for child pornography and illegal firearms. His former butler advocates the execution of our president	-0.025400000000000006	-0.08180000000000003	-0.026400000000000007
+That he lied about acting as his own publicist	-0.13599999999999995	-0.27599999999999997	0.21600000000000003
+yup	0	0	0
+He's an idiot	-0.394	-0.030000000000000072	-0.15999999999999998
+Idiot.	0	0	0
+"If he is elected it could be the end of the ""American experiment"". He is a fascist and will not moderate if elected."	-0.006000000000000003	-0.2392	0.037200000000000025
+Yes He wants to meet the North Korean dictator	-0.028000000000000025	-0.2426666666666667	0.005333333333333338
+Silly accusations of mistreating women (I do not believe them...)	0.2786666666666667	-0.2093333333333333	0.29399999999999993
+everything	0	0	0
+Treatment of women	0.0	-0.10600000000000005	-0.09399999999999994
+Hillary thinks he is not presidential	-0.009999999999999964	-0.18800000000000008	0.03599999999999994
+He is sexist, misogynistic, racist, classist, mean, a sexual harasser, a discriminator, a friend of Russia, a flip-flopper, anti-women, and inhumane.	0.34299999999999997	0.12400000000000001	0.33099999999999996
+He was endorsed by the NRA	0	0	0
+bigoted egotist	0	0	0
+Liar, buffoon	-0.20999999999999996	0.14000000000000004	-0.2
+Wouldn't want my kids to behave the way he does	0.23200000000000004	-0.11999999999999998	0.11999999999999998
+Campaign nonsense	-0.14500000000000002	-0.19800000000000004	-0.01200000000000001
+He must work on his attitude toward women.	0.014666666666666653	-0.1206666666666667	0.1373333333333333
+yes	0	0	0
+I don't think so	0.33599999999999997	-0.25	0.3
+The usual lies.	0.09600000000000009	-0.36	0.316
+The NRA supports him.	0	0	0
+Changes his mind every day about everything	0.30600000000000005	-0.133	0.16799999999999998
+plenty--faked being his own PR person, rushed to judgement on air crash	-0.039000000000000035	-0.22	-0.09800000000000003
+He is a raving maniac	-0.3	0.15399999999999991	-0.24000000000000005
+Taxes, everything he says	0	0	0
+speech to NRA	0.12400000000000003	-0.18000000000000008	0.33599999999999997
+none	0	0	0
+No	0	0	0
+yes,how he has treated woman	0.418	-0.24000000000000005	0.18599999999999994
+I don't know.	0	0	0
+He lies.	0	0	0
+He lies	0	0	0
+he had girlfriends	0	0	0
+dangerous ideas, racist, bigot, sexist, makes it up as he goes along	-0.534	0.36199999999999993	-0.488
+None	0	0	0
+very much	0	0	0
+sexist racist liar	-0.47600000000000003	0.14399999999999996	-0.12066666666666663
+kelli interview	-0.06400000000000006	0.2699999999999999	0.368
+alleged phony allegations	-0.386	-0.050999999999999976	-0.16400000000000003
+Too much	0	0	0
+none	0	0	0
+Yes	0	0	0
+that he bashes women	0	0	0
+His attitude towards women.	-0.05600000000000005	-0.04800000000000004	0.176
+erratic policies	-0.358	0.019999999999999928	-0.11999999999999993
+Republican's Obama	0	0	0
+Protests at rallies	0	0	0
+He keeps switching his ideas. He wants to build a wall but what about the tunnels?	0.13899999999999996	-0.372	0.07199999999999997
+Clinton made fun of him	0.6739999999999998	0.26400000000000007	0.40800000000000003
+NY Times attempted hit piece	0.022000000000000016	-0.20599999999999996	0.14500000000000002
+Nothing	0	0	0
+Alleged mistreatment of women	-0.27599999999999997	0.01799999999999997	-0.14600000000000007
+YES Not capable to perform duties of President	0.2506666666666667	-0.07599999999999997	0.15133333333333335
+tax returns and talking with north korea	-0.12800000000000003	-0.3330000000000001	-0.195
+no	0	0	0
+His ways	0	0	0
+No	0	0	0
+he's a bully and will kick you when your down	-0.164	-0.07600000000000001	-0.007333333333333333
+He lies. He spreads misinformation. People support him despite not actually liking him.	0.259	-0.318	0.15100000000000008
+demeaning to others	-0.476	-0.25199999999999995	-0.166
+did not pay any taxes	0.24600000000000008	-0.15199999999999997	0.266
+Nothing.	0	0	0
+calling the airline miss hap a terrorist attract	-0.09050000000000001	-0.02700000000000003	-0.06700000000000002
+Yes. He is mysogenistic	0	0	0
+He's not a conservative	-0.09000000000000004	-0.47000000000000003	-0.03599999999999994
+tons and tons thanks to the media	0.546	-0.19000000000000003	0.344
+nothing at all	0	0	0
+Hes a megomaniac	0	0	0
+Some claim of a lie 30 years ago	-0.24599999999999997	-0.12900000000000006	0.07799999999999993
+He flip flopped on supreme court nominees	0.017333333333333294	-0.11133333333333334	0.024666666666666708
+He opened his mouth again	0.11799999999999997	-0.17200000000000007	0.2
+speaks bluntly	0	0	0
+no	0	0	0
+calling a million dollars a small loan	0.16666666666666666	-0.19266666666666665	-0.058666666666666624
+no	0	0	0
+women sholudnt work	0.009999999999999964	-0.13399999999999998	0.22400000000000003
+His tax returns, etc.	-0.4	-0.09600000000000009	-0.39
+Yes and just about everything	0	0	0
+Not experienced enough	0	0	0
+he has a negative opinion of women (according to democratic party commercials)	0.089	-0.0004999999999999866	0.15550000000000003
+Unfounded claims of racism and sexism	-0.434	-0.016000000000000014	-0.09699999999999998
+Reneged on donations to veterans. Lied to NRA about Clinton's stance on guns. Should I go on?	0.242	-0.22799999999999998	0.14699999999999996
+yes. everything	0	0	0
+liberal media says alot	0	0	0
+No	0	0	0
+He's wrong about many things to do with trade in China. He is sexist. He is calling for teachers to be able to have guns in the classroom.	0.108	-0.20866666666666667	0.11299999999999999
+No	0	0	0
+Veterans Charity	0.36999999999999994	-0.356	0.21600000000000003
+none	0	0	0
+na	0	0	0
+no	0	0	0
+no	0	0	0
+Womanizer. Don't see any rape charges....	-0.21900000000000003	0.11400000000000002	-0.153
+No	0	0	0
+His treatment of women, minorities and he pretended to be someone else in an interview and his lies about not disclosing his tax return for ANY years	-0.007600000000000023	-0.11760000000000001	0.025200000000000007
+no	0	0	0
+Won't release his taxes.	0.32799999999999996	-0.09000000000000004	0.274
+nothing	0	0	0
+No	0	0	0
+none	0	0	0
+Far too much to list.	0	0	0
+Nada	-0.08599999999999994	-0.25999999999999995	-0.17799999999999994
+Bullshit story by NY Times on him dealing with women.	0.03399999999999997	-0.08599999999999998	-0.03666666666666666
+YES	0	0	0
+yes. he's a liar, sexist, bigot with no morals! he doesn't care about humans! he cut his nephew's sick baby off health insurance! the list goes on.	0.02828571428571424	-0.1777142857142857	-0.03942857142857142
+no	0	0	0
+Yes lots	0	0	0
+yes-trails in election polls	-0.1	-0.15399999999999991	0.0
+he didn't pay any taxes one year	0.2046666666666667	-0.3173333333333333	0.17999999999999994
+lack of foreingn policy experience	-0.04400000000000002	-0.3833333333333333	0.23400000000000007
+He called Hilary a crook which might be true	-0.09600000000000006	-0.19499999999999995	-0.06800000000000002
+He has alienated Muslims, women, and Hispanics	0	0	0
+yes	0	0	0
+Only from liberal media	0	0	0
+refusal to release tax returns	-0.16066666666666668	-0.19533333333333336	-0.04466666666666665
+no	0	0	0
+everything	0	0	0
+Nothing	0	0	0
+none	0	0	0
+yes, too numerous to list	0.12399999999999993	-0.406	0.18600000000000003
+Nothing	0	0	0
+He's not qualified, he flip flops	0.11999999999999993	-0.07599999999999998	0.06400000000000006
+A brutish demagogue	-0.4	-0.051999999999999956	0.022000000000000065
+no	0	0	0
+yes	0	0	0
+He changed stance again to win NRA support. He lied about Hillary. Dredging up President Clinton past sexual history. With NO facts, said air Egypt crash was terrorist act for sure. There's more, but it takes too long on phone.	0.058444444444444424	-0.04622222222222221	0.08244444444444445
+delegate accused of bad behavior	-0.08866666666666662	-0.1433333333333333	0.05066666666666669
+"A Trumped up ""woman hater"" by DNC cronies!"	0	0	0
+where would you like me to begin?	0.3350000000000001	-0.17899999999999996	0.2220000000000001
+Too much to list. Both parties establishment very good worried.	0.578	-0.26799999999999996	0.28200000000000003
+Too many to list	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+nothing	0	0	0
+Anything that comes out of his mouth.	0	0	0
+Overall tweets are are school boyish	0.08733333333333337	-0.18999999999999997	0.0873333333333333
+tHE NEGATIVES ARE MANUFACTURED BY CLINTON AND THE MEDIA	0	0	0
+On CNN about Vince foster	0	0	0
+Hasn't paid federal taxes in years	-0.388	-0.10999999999999996	-0.44800000000000006
+what a liar he is	-0.518	0.31999999999999995	-0.051999999999999956
+Too quick to respond to ?s	0.179	-0.175	0.21799999999999997
+still about how he treats women, how boring and old	-0.41000000000000003	-0.26699999999999996	0.026999999999999955
+Uneven	-0.10999999999999996	-0.31399999999999995	-0.292
+yes	0	0	0
+no	0	0	0
+same personal attacks as always	0.21799999999999997	-0.28600000000000003	-0.05600000000000005
+too much to list	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+Hate speech is given to trump	-0.216	-0.08733333333333337	0.134
+He has bad hair.	-0.352	-0.027999999999999935	-0.288
+no	0	0	0
+none	0	0	0
+Nothing new	0.5359999999999999	0.027999999999999935	0.04399999999999995
+won't reveal his taxes	0.17200000000000007	-0.17200000000000007	0.3
+Yes, everything	0	0	0
+"I have heard several comments, mainly short simple ones such as ""He's an idiot."""	0.24666666666666667	-0.41	0.1073333333333333
+speaks his mind not good	0.45899999999999996	-0.129	0.25
+Not	0	0	0
+Will change his mind	0.1406666666666667	-0.20000000000000004	0.23399999999999999
+accused Hillary Clinton of wanting to take guns and rescind 2nd Amendment; sent a tweet out about terrorism causing the EgyptAir airplane disappearance much too soon and much too certain that that was the cause.	-0.12257142857142854	-0.06371428571428571	-0.07114285714285715
+na	0	0	0
+bashing others	0	0	0
+n/a	0	0	0
+No	0	0	0
+No	0	0	0
+No	0	0	0
+Arrogant, racist, foul-mouthed and hater	-0.534	-0.17200000000000007	-0.040000000000000036
+That he doesn't think before he speaks	0.33599999999999997	-0.25	0.3
+no	0	0	0
+No	0	0	0
+No	0	0	0
+calling Warren pocahantas	0	0	0
+no	0	0	0
+too much to say	0.18200000000000002	-0.11400000000000006	0.376
+all his bankrupries	0	0	0
+No	0	0	0
+values	0	0	0
+No	0	0	0
+that he is a lier	0	0	0
+Women issues	0	0	0
+Everything that he says	0	0	0
+bad ratings	-0.352	-0.027999999999999935	-0.288
+too much to remember	0.3	-0.372	0.2619999999999999
+No	0	0	0
+too many to get into it he is a fool	-0.035	-0.14699999999999996	-0.141
+no	0	0	0
+Arrogance	-0.49000000000000005	-0.06999999999999992	0.0
+none	0	0	0
+crazy	0.027999999999999935	0.18000000000000008	-0.16199999999999992
+no	0	0	0
+yes he still an ass	0.09000000000000004	0.08599999999999994	-0.278
+No	0	0	0
+the fuck donald trump song	0.13333333333333333	0.004666666666666634	0.21866666666666668
+nothing	0	0	0
+He brought up a proven lie about the conspiracy theories about Vince Foster's suicide. Disgusting.	-0.41900000000000004	0.054999999999999986	-0.164
+Yes, he is a racist and doesn't like women but I don't believe most of what I hear about this.	0.16099999999999998	-0.19049999999999997	0.196
+too much to list	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+Power hungry	-0.049000000000000016	0.10099999999999998	0.07599999999999998
+Nothing	0	0	0
+ok	0	0	0
+crazy	0.027999999999999935	0.18000000000000008	-0.16199999999999992
+none	0	0	0
+treats women like crap	0.08800000000000005	-0.09799999999999995	0.03900000000000006
+none	0	0	0
+everything	0	0	0
+ads repeating his own words	0	0	0
+he sucks	0	0	0
+Lesser of the evils	0	0	0
+That he is a sexist.	0	0	0
+no	0	0	0
+always something bad and negative about him	-0.424	-0.008999999999999985	-0.21499999999999997
+yes	0	0	0
+No	0	0	0
+Yes	0	0	0
+No	0	0	0
+A list of lies he's told	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+No	0	0	0
+No	0	0	0
+liar, bigot	-0.45	0.07400000000000002	-0.376
+Just his attitude needs to change, the way he speaks should change slightly, but not from the truth point, just the way words come out may seem to harsh, otherwise he would have more people's votes	0.1446	-0.28359999999999996	0.1274
+bad guy	-0.02100000000000002	-0.04299999999999997	-0.13199999999999998
+no	0	0	0
+None	0	0	0
+Flip-flopped on gun control	-0.191	0.25	0.017999999999999967
+No	0	0	0
+no good for nothing	0.578	-0.26799999999999996	0.28200000000000003
+Yea, he is a self serving creap	0.37200000000000005	-0.04399999999999995	0.548
+bad relations with English prime minister	-0.05066666666666666	-0.10533333333333332	0.03600000000000003
+TWEETING	0	0	0
+No	0	0	0
+Racist, sexist, the works.	0	0	0
+in bed with the NRA of course	0.43200000000000005	-0.4	0.3460000000000001
+nope	0	0	0
+Media's agenda I don't buy into	0.187	-0.20899999999999996	0.21400000000000005
+racist, sexist, incest	-0.568	-0.12799999999999995	-0.29400000000000004
+too many things to type here	0.2119999999999999	-0.42800000000000005	-0.022000000000000065
+dans	0	0	0
+no	0	0	0
+No	0	0	0
+Not sure	0.32799999999999996	-0.304	0.36400000000000005
+kissing up to the NRA	0	0	0
+He's an egotistical, racist, hateful jackass	-0.405	0.22800000000000004	-0.10899999999999999
+He thinks Kim Jong Un would be his BFF	0.20899999999999996	-0.27599999999999997	0.14400000000000004
+Most media repeats negative daily.	-0.496	0.009999999999999964	-0.142
+LATROBE, PA 15650	0	0	0
+he has paid NO taxes in previous released returns	-0.051999999999999956	-0.28200000000000003	0.02400000000000002
+His a liar and not fit to be president	0.005000000000000015	-0.04550000000000001	0.036500000000000025
+He's a fake & con artist	-0.16066666666666665	-0.08200000000000003	0.02466666666666667
+He would fill the Supreme Court with a justice who would overturn Roe v Wade	0.08628571428571427	-0.16799999999999998	0.1525714285714286
+Speaking On Bill and Hilory Clinton that what Bill had done when he was president to Monica, that it was rape	-0.3505	-0.0024999999999999883	-0.2575
+nothing	0	0	0
+He's a bigot	-0.45	0.07400000000000002	-0.376
+Yes, that he likes hispanics	0	0	0
+New York Times lied about him	0.359	-0.16700000000000004	0.13399999999999998
+yes	0	0	0
+alot especially being a womanizer and talking bad about women	-0.344	-0.027999999999999935	-0.19099999999999995
+Liar, does not like women	0.4880000000000001	-0.11999999999999993	0.25600000000000006
+His attitude towards women is not appropriate	0.08199999999999993	-0.12000000000000002	0.088
+no	0	0	0
+He says lots of stupid things	-0.43200000000000005	-0.13200000000000003	-0.19399999999999995
+NONE	0	0	0
+no	0	0	0
+He's a fake misogynist who has a tendency to lean towards authoritarian fascism	-0.18400000000000002	-0.13549999999999998	-0.09800000000000003
+Treatment of women, idiot	-0.197	-0.06800000000000006	-0.12699999999999995
+Many things	0	0	0
+dont remember	0.3	-0.372	0.2619999999999999
+muslims	0	0	0
+"People still talking about how he's ""anti-woman"""	0.14000000000000004	-0.246	0.08000000000000007
+no	0	0	0
+He only likes good looking women that are 10's.	0.578	-0.26799999999999996	0.28200000000000003
+He is a bigot and in no way fit to be President.	0.055999999999999994	-0.1975	-0.021999999999999978
+too much to address	0.22200000000000006	-0.39	-0.022000000000000065
+He's a racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+Trump posted something on Twitter that many people thought was racist	-0.06550000000000003	-0.195	0.08900000000000005
+no	0	0	0
+he downgrades women	0	0	0
+tretment and name calling of woman	0.271	-0.31600000000000006	0.10699999999999994
+That's heba hipcrit	0	0	0
+Racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+His budget plans, his foreign policy ideas, his response to London mayor, his attitude about women, his Supreme Court list...	-0.042285714285714295	-0.16885714285714287	0.07942857142857143
+a recap of his racist/sexist statements	0.06600000000000002	-0.34800000000000003	0.030000000000000072
+He goes a little to far in saying things he shouldn't say	0.18200000000000002	-0.137	0.20599999999999996
+Yes	0	0	0
+sexism, nasty, bad boss, won't release tax info...	-0.14133333333333334	-0.07133333333333335	-0.13466666666666666
+everything that comes out of his mouth!	0	0	0
+Fails to pay his business taxes	0.1710000000000001	-0.205	0.16799999999999998
+The NY Times article	0.15899999999999997	-0.33099999999999996	0.18
+Ummm everything, the man is a psychopath. The latest I can remember (other than John Miller/John Barron which is just sad) are his possible supreme court justice picks. Devastating for progress in this country.	0.12444444444444441	-0.16044444444444442	0.13466666666666663
+he won't release his tax record	0.03533333333333329	-0.17533333333333337	-0.005333333333333329
+I haven't paid any attention to him this week.	0.33599999999999997	-0.19000000000000003	0.29399999999999993
+too many to mention	0.07799999999999993	-0.47000000000000003	0.06600000000000002
+Nonthing	0	0	0
+too much to list	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+No	0	0	0
+Something about women	0	0	0
+no	0	0	0
+he's a raging narcissist	-0.364	0.11899999999999995	-0.18
+no	0	0	0
+no	0	0	0
+Wont release his tax info.,	-0.08466666666666671	-0.11333333333333334	0.008000000000000007
+He won't reveal his tax returns. Why??? What's he hiding???	-0.11399999999999998	-0.13400000000000006	-0.04500000000000001
+no	0	0	0
+NA	0	0	0
+no	0	0	0
+latest, fat shaming Christie	-0.45199999999999996	-0.22199999999999998	-0.2
+none	0	0	0
+uninformed, flip-flops	0	0	0
+ditto from above	0.1	-0.22000000000000003	0.2
+None	0	0	0
+to much	0	0	0
+Switches positions on issues often	0	0	0
+not revealing his income taxes	0.25199999999999995	-0.23600000000000004	0.2720000000000001
+No	0	0	0
+Just he says more then he should	0	0	0
+none	0	0	0
+He's of low opinion of women.	0.07699999999999996	-0.326	-0.06099999999999997
+he wont release taxes	0.07299999999999997	-0.12199999999999997	0.20700000000000002
+yes, that he said many things against woman and that he would meet with the leader of NOrth Korea	0.242	-0.26280000000000003	0.16239999999999996
+yes, his comments about and towards women	0	0	0
+no	0	0	0
+No	0	0	0
+yup	0	0	0
+no	0	0	0
+no	0	0	0
+not qualified to be president	0.14100000000000001	-0.18599999999999997	-0.01200000000000001
+no	0	0	0
+not of any real importance no	0.348	-0.18	0.16899999999999996
+no	0	0	0
+no	0	0	0
+none	0	0	0
+causing confusion	-0.336	-0.07200000000000006	-0.384
+he hates middle and low class	0.02266666666666665	-0.36733333333333335	-0.10266666666666663
+nra speech	0.12400000000000003	-0.18000000000000008	0.33599999999999997
+no	0	0	0
+nothing	0	0	0
+yes, he is rude	-0.592	-0.05999999999999996	-0.24000000000000005
+a lot	0	0	0
+no	0	0	0
+Bigot, racist, misogynist, liar	-0.518	0.31999999999999995	-0.051999999999999956
+liar,makes thing up	0.10999999999999996	-0.31399999999999995	0.08200000000000003
+no	0	0	0
+Racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+Liar	-0.518	0.31999999999999995	-0.051999999999999956
+...where to begin...is short list for the supreme court????	0.17999999999999994	-0.36999999999999994	0.07400000000000002
+everything	0	0	0
+no	0	0	0
+this week seemed to focus on how much he changes his mind on policies and whether he is sabotaging his own campaign	0.15	-0.1835	0.16749999999999998
+Yes, that he is unequipped to be President	0.14100000000000001	-0.18599999999999997	-0.01200000000000001
+Fail to reveal his taxes	-0.181	-0.03600000000000003	0.12400000000000001
+negative	-0.496	0.009999999999999964	-0.142
+I have heard so many bad things about that person, that I would not know where to start.	0.09150000000000004	-0.22849999999999995	0.05000000000000003
+na	0	0	0
+Support of the NRA	0.37799999999999995	-0.39	0.22200000000000006
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+He promotes hate.	0	0	0
+lies about everything from past activities to current answers	0.06200000000000001	-0.204	0.10800000000000001
+nothing	0	0	0
+some comments are not good	0.578	-0.26799999999999996	0.28200000000000003
+He's still alive.	0	0	0
+Yes	0	0	0
+No	0	0	0
+Yes had sex with underage girls	0.083	0.13599999999999993	0.04500000000000001
+He doesn't pay any taxes	0.24600000000000008	-0.15199999999999997	0.266
+no	0	0	0
+Calling airplane disappearance definite terrorism. at this time.	-0.014000000000000004	-0.015999999999999955	-0.10533333333333335
+no	0	0	0
+No	0	0	0
+he still is into name calling	0.12400000000000003	-0.392	0.027999999999999935
+no	0	0	0
+Hes a liar	-0.518	0.31999999999999995	-0.051999999999999956
+He is awful	-0.544	-0.027999999999999935	-0.388
+only what the media wants you to hear	0.33599999999999997	-0.27599999999999997	0.34199999999999997
+Yes	0	0	0
+haven't heard	0	0	0
+no	0	0	0
+That he's incompetent.	0	0	0
+Treatment of women	0.0	-0.10600000000000005	-0.09399999999999994
+Yes, every single day!	0.07799999999999993	-0.22999999999999998	-0.03399999999999999
+Yes	0	0	0
+No	0	0	0
+Comments about women, illegal immigration, waging war	-0.524	0.18199999999999994	-0.201
+No policy details	-0.246	-0.34	0.22200000000000006
+"Yes. ""Mike Miller."" 60% unfavorable rating. Ad hominin attacks. Misogynistic comments. Profound ignorance of global politics, geography. Willing to negotiate with North Korea. Can eliminate ISIS quickly, but not willing to share details. Xenophobic. Homopbobic. . ."	0.10254545454545455	-0.3167272727272727	0.11690909090909091
+He hasn't released his tax returns.	-0.4	-0.09600000000000009	-0.39
+Everything	0	0	0
+no	0	0	0
+sexual harassment charges	-0.09100000000000003	0.21000000000000005	0.105
+Too much negativity and no specifics about his plans for the USA	-0.45199999999999996	0.01799999999999997	-0.316
+No	0	0	0
+fat shamed Cristie	-0.475	-0.18799999999999994	-0.258
+HE LIES	0	0	0
+n/a	0	0	0
+No	0	0	0
+no	0	0	0
+I hate watching politics so none	-0.404	-0.030000000000000027	-0.21100000000000002
+none	0	0	0
+Na	0	0	0
+non that would change my vote	0.08266666666666668	-0.13933333333333336	0.236
+Women comments	0	0	0
+no	0	0	0
+Won't turn over tax returns	-0.155	-0.20000000000000004	-0.10700000000000001
+That he has affairs with hot women.	0.14600000000000007	-0.04800000000000004	0.0
+his college	0.2880000000000001	-0.2	0.17799999999999994
+no	0	0	0
+Bombastic, inexperienced, ill-informed, brash,	0	0	0
+womaniser	0	0	0
+His name calling and treatment of women	0.06200000000000001	-0.24900000000000003	-0.033
+No	0	0	0
+no	0	0	0
+None	0	0	0
+Wants everyone to have a gun. Wants to build a wall.	0.21900000000000003	-0.31	0.22199999999999998
+Yes	0	0	0
+Refuses to release tax returns.	-0.03600000000000003	-0.09300000000000005	-0.057999999999999996
+His flip flop on 2nd amendment, wages he would pay middle class, him not show Americans his taxes	0.09400000000000001	-0.2323333333333333	0.1106666666666667
+Yes; his recently released tax records indicate he did not pay taxes for 2 years.	-0.047999999999999994	-0.19466666666666668	0.008666666666666665
+Everything	0	0	0
+Everything	0	0	0
+A lier, a con artist, thief and so many other things.	-0.27066666666666667	-0.06333333333333337	-0.12733333333333333
+everything	0	0	0
+NO	0	0	0
+Nope	0	0	0
+Refuses to release his taxes!	0.32799999999999996	-0.09000000000000004	0.274
+Said bad things about women 20 years ago	-0.352	-0.027999999999999935	-0.288
+Racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+No	0	0	0
+He doesn't pay taxes	0.24600000000000008	-0.15199999999999997	0.266
+"His consideration of a ""blacks vs. whites"" in the past for Celebrity Apprentice"	0.14300000000000002	-0.16949999999999998	0.10049999999999998
+His silence on the current restroom issue	-0.039999999999999994	-0.2315	0.1375
+25 yr age time with a woman	0.2313333333333333	-0.272	-0.002666666666666669
+Changes policy too much	-0.246	-0.34	0.22200000000000006
+"too much to even cover, try his comment about ""fixing"" north korea with ""one phone call to china"""	0.17119999999999996	-0.3428	0.07800000000000004
+Flip flopper	0.11999999999999993	-0.07599999999999998	0.06400000000000006
+He cheated our veterans	0	0	0
+bigmouth	-0.258	0.05999999999999996	0.11600000000000002
+no	0	0	0
+Yes - he sounds like an idiot	0.04700000000000004	-0.075	0.04800000000000004
+Doesn't matter, I hear enough garbage on clinton	-0.04400000000000004	-0.254	0.18600000000000003
+Speaks before thinking threw ,usully right though	0.4640000000000001	0.0	0.43200000000000005
+no	0	0	0
+Not conservative enough.	-0.09000000000000004	-0.47000000000000003	-0.03599999999999994
+Wont release tax info	-0.01600000000000002	-0.149	0.008999999999999985
+The latest that he raped someone many years ago. Don't know that I believe it but I do know he does not value women.	0.33120000000000005	-0.2292	0.2284
+much	0	0	0
+no	0	0	0
+Come on?	0.12799999999999995	-0.28600000000000003	0.18800000000000008
+yes	0	0	0
+a loud mouth	0.11799999999999997	-0.17200000000000007	0.2
+no	0	0	0
+More money	0.41999999999999993	0.37200000000000005	0.26400000000000007
+every day	0.2720000000000001	-0.27599999999999997	0.11799999999999997
+name calling	0.12400000000000003	-0.392	0.027999999999999935
+false accusations	0	0	0
+He didn't pay any taxes	0.24600000000000008	-0.15199999999999997	0.266
+his mouth	0.11799999999999997	-0.17200000000000007	0.2
+no	0	0	0
+No	0	0	0
+Women pushed for abortions	0	0	0
+yes	0	0	0
+yes. he did not have the right numbers and a fundraiser for vets.	0.25733333333333336	-0.146	0.21
+Isn't wooing Sanders supporters yet	0	0	0
+yes women	0	0	0
+Donald Trump is another Hitler	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+Likes women	0	0	0
+No	0	0	0
+He lies	0	0	0
+Not really	0	0	0
+No	0	0	0
+Yes. He's a racist idiot with no grasp of reality and no interest in facts or details.	-0.0832	-0.11200000000000002	0.14479999999999998
+Get rich quick scheme	0.14	0.0605	0.16849999999999998
+Twitter badmouthing, won't release taxes, misogynist	0.32799999999999996	-0.09000000000000004	0.274
+Everything	0	0	0
+Mistreatment of women, lack of any platform that is feasible	-0.031999999999999994	-0.292	0.24466666666666667
+Not in the last wk	0	0	0
+Too bombastic	0	0	0
+no	0	0	0
+Nothing!	0	0	0
+everything	0	0	0
+He is a racist.	0	0	0
+Speaks before he thinks	0	0	0
+the descrimination	0	0	0
+No	0	0	0
+no	0	0	0
+Lots, the left are trying to stop him	-0.053999999999999916	-0.17200000000000007	0.011999999999999922
+No	0	0	0
+New York Times hit piece	0.1385	-0.131	0.08000000000000003
+He is rich	0.366	0.36199999999999993	0.366
+yes. that he was happy about the real estate collapse	0.22900000000000006	-0.015500000000000028	0.10549999999999997
+No	0	0	0
+Treated beauty pageant contestant improperly	0.1386666666666667	-0.07933333333333337	0.08133333333333331
+He is a ass	0.09000000000000004	0.08599999999999994	-0.278
+Moving to middle on issues	0.04399999999999995	-0.43	0.022000000000000065
+Everything that comes out of his mouth	0.11799999999999997	-0.17200000000000007	0.2
+Yes	0	0	0
+not releasing tax information	-0.067	-0.31800000000000006	-0.15600000000000003
+That he lies about Hillary Clinton and won't reveal his tax returns.	-0.11399999999999998	-0.13400000000000006	-0.04500000000000001
+Disliked by Hillarious Hillary	0	0	0
+of course, heard it all	0	0	0
+The government is picking on him because they may audit him. He thinks it's persecution	-0.23200000000000004	-0.034	-0.20699999999999996
+How he treats women	0	0	0
+nothing	0	0	0
+No	0	0	0
+Mistreatment of women, posing as his own publicist.	0	0	0
+Donald trump said that their was no drought in California.	-0.30300000000000005	-0.312	-0.11899999999999995
+would not be able to write it all down	0.259	-0.27849999999999997	0.14450000000000002
+No	0	0	0
+most	0	0	0
+None	0	0	0
+everything	0	0	0
+thief and lier	-0.536	0.20999999999999996	-0.372
+Yes	0	0	0
+no	0	0	0
+Everything the evil group democraps say	-0.06466666666666666	-0.09800000000000002	-0.008666666666666675
+The list is too long.	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+everything	0	0	0
+Everything from the biased main stream media	0.09199999999999998	-0.06866666666666675	0.09666666666666666
+everything	0	0	0
+No.	0	0	0
+His refusal to release his taxes	-0.04100000000000001	-0.24500000000000002	0.12800000000000003
+No	0	0	0
+talking bad about women	-0.352	-0.027999999999999935	-0.288
+na	0	0	0
+Treats women badly	0	0	0
+none that means anything to me	0	0	0
+He refuses to submit his tax returns	-0.31000000000000005	-0.15700000000000003	-0.25200000000000006
+nothing	0	0	0
+Abuse against women	-0.694	0.242	-0.42000000000000004
+Loud	0	0	0
+YES	0	0	0
+Didn't pay any taxes in the late 1970s.	-0.04499999999999997	-0.018999999999999954	0.05499999999999998
+Always	0	0	0
+Not	0	0	0
+1	0	0	0
+liberals trying to smear him	-0.23200000000000004	-0.192	-0.022000000000000065
+YES	0	0	0
+liar, mysoginist, adulterer, un-prepared	0	0	0
+all kinds of things	0	0	0
+no	0	0	0
+none	0	0	0
+Loud mouth ego	-0.0030000000000000304	-0.16900000000000004	0.205
+Everything that comes out of his mouth	0.11799999999999997	-0.17200000000000007	0.2
+NYT article	0.13599999999999995	-0.3	0.13599999999999995
+his past life	0.17699999999999996	0.029999999999999978	0.10699999999999994
+I don't really listen to the junk.	0.382	-0.24800000000000005	0.11199999999999992
+only old gossip	-0.33099999999999996	-0.16099999999999995	-0.18400000000000005
+Anything that comes out of his mouth is either stupid or a lie or both.	-0.2786666666666667	-0.11400000000000006	-0.016666666666666663
+misogony	0	0	0
+Still a D	0	0	0
+hes an asshole	-0.5780000000000001	0.27599999999999997	-0.422
+no	0	0	0
+His tone of voice	0.19699999999999995	-0.308	0.13999999999999993
+na	0	0	0
+The way he treats women	0.18200000000000002	-0.42000000000000004	-0.03399999999999999
+don't know	0.36400000000000005	-0.352	0.15600000000000006
+Yes, narcissist, racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+so many things, racist, demagogue, terrifying, etc	0	0	0
+Yes. Possible rape of a minor and overstated amount of donations to veterans	-0.05450000000000003	-0.113	-0.0675
+too much to describe	0.18000000000000008	-0.41	0.10999999999999996
+NO	0	0	0
+HRC thinks Trump isn't qualified.	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+Not enough space to list.	0.37799999999999995	-0.27999999999999997	-0.003999999999999915
+Pretty much everything that has come out of his own mouth. Also he was pretending to be his publicist a few years back.	0.192	-0.194	0.21100000000000002
+Hot head	0.15900000000000009	-0.079	0.05599999999999996
+All the time. To much to explain	0.08200000000000003	-0.2	0.24399999999999994
+harrassment of women	0	0	0
+none	0	0	0
+People have said he it doesn't act very presidential	0.10750000000000003	-0.223	0.1205
+Yes	0	0	0
+No	0	0	0
+That he treats women poorly	0	0	0
+Make impossible promises	-0.04100000000000001	-0.18100000000000005	-0.028000000000000025
+That he is the antichrist, that he would have sex with his daughter Ivanka if she wan't his daughter, that he is racist, sexist, homophobic, and just basically an asshat in every regard	0.23720000000000008	-0.06720000000000001	0.17079999999999998
+Too many to list.	0	0	0
+Still crass	-0.254	-0.053999999999999916	0.022000000000000065
+More lies about Clinton wanting to get rid of 2nd Amendment	0.023999999999999962	-0.22999999999999998	0.031999999999999966
+No gun free zones , how f---king stupid can one person be......	0.11166666666666665	-0.10066666666666668	0.10800000000000003
+Mistreats women	0	0	0
+Didn't pay taxes	0.24600000000000008	-0.15199999999999997	0.266
+Changing policies	0	0	0
+n/a	0	0	0
+They are accusing Donald Trump of being a racist.	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+No	0	0	0
+YES; HE CHICKENED OUT OF DEBATING BERNIE SANDERS. IF YOU CAN'T DEBATE BERNIE, WHAT MAKES YOU THINK YOU CAN TAKE ON ISIS???	0.14300000000000004	-0.1865	0.1865
+He pretended to be his own publicist, and he has shifted positions on und raising and gun control.	-0.016000000000000014	0.11700000000000005	0.020999999999999998
+No	0	0	0
+Possible appointment to supreme Court	0.06149999999999996	-0.139	0.1365
+Rapist	-0.74	0.266	-0.558
+no	0	0	0
+everything about his hatred for blacks and hispanics	-0.524	0.04399999999999995	-0.2
+no	0	0	0
+not qualified	0	0	0
+No	0	0	0
+Now he has flip flopped on Social Security issue.	0.206	-0.06866666666666663	0.09933333333333334
+Always treatment of women	0.0	-0.10600000000000005	-0.09399999999999994
+"Just read an article about his habit of lying and one that says he is ""leading"" us to fascism."	0.185	-0.279	0.15099999999999997
+none	0	0	0
+No	0	0	0
+everything the press and Hillary say	0.12999999999999998	-0.2770000000000001	0.16600000000000004
+None	0	0	0
+na	0	0	0
+Yes	0	0	0
+irrational	-0.3	0.02400000000000002	-0.308
+Yes	0	0	0
+to numerous to mention	0.07399999999999993	-0.396	0.158
+mysoginist	0	0	0
+no	0	0	0
+Where do I start?? There's no way I can remember one single thing..there's TOO many!	0.19033333333333333	-0.3543333333333334	0.14399999999999996
+He is an ass	0.09000000000000004	0.08599999999999994	-0.278
+yes	0	0	0
+Doesnt like disabled or women	0.014000000000000068	-0.18899999999999997	0.07999999999999999
+Too many to remember	0.3	-0.372	0.2619999999999999
+three marriages	0.08599999999999994	-0.324	0.09000000000000004
+yes, radical thinking	-0.12799999999999995	0.053999999999999916	0.041999999999999996
+no	0	0	0
+Yes, that he is a racist buffoon.	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+none	0	0	0
+Too many to count	0.17799999999999994	-0.54	0.03399999999999999
+everything	0	0	0
+Tons of stuff that the media digs up	0.17200000000000007	-0.296	-0.03399999999999999
+Lots	0	0	0
+THE MOST HATED PRESIDENTIAL CANDIATE EVER	-0.009999999999999964	-0.18800000000000008	0.03599999999999994
+Full of bullshit	-0.167	0.048000000000000015	-0.09400000000000006
+No	0	0	0
+Too much to list	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+too numerous to list	0.12399999999999993	-0.406	0.18600000000000003
+No	0	0	0
+Won't release taxes	0.32799999999999996	-0.09000000000000004	0.274
+he want to build a wall on the border	0.10349999999999997	-0.20650000000000002	0.04249999999999997
+No	0	0	0
+he speaks before he thinks	0	0	0
+No	0	0	0
+still won't release his email, insulted another foreign dignitary	0.15000000000000002	-0.0020000000000000503	0.11600000000000002
+no	0	0	0
+no	0	0	0
+He's racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+so many contradictions	0	0	0
+Can only serve 2 terms	0.17700000000000005	-0.31599999999999995	0.29100000000000004
+nothing	0	0	0
+no	0	0	0
+Nope	0	0	0
+no	0	0	0
+That he's the most unqualified Presidential in the history of the union, that's he's mentally imbalanced, that he's completely tempermentally unsuited for the job, that he might be a fascist and that he might be a rapist. I could go on.	0.03457142857142857	-0.18371428571428572	-0.023142857142857156
+yes	0	0	0
+No	0	0	0
+His serial lying and his avoidance of paying taxes for 2 years.	-0.31999999999999995	-0.07199999999999997	0.07400000000000002
+proud	0.4	0.10999999999999996	0.418
+Not qualified for president	0.04600000000000008	-0.05800000000000001	-0.12400000000000003
+Talking negative of Bill Clinton.	-0.437	-0.09500000000000003	-0.17099999999999999
+Everything that comes out of his mouth is divisive and probably not trye	0.11799999999999997	-0.17200000000000007	0.2
+everything	0	0	0
+people leaving US if he is elected.	0.14000000000000004	-0.246	0.08000000000000007
+Attack on Bill Clinton	-0.489	0.10499999999999998	-0.261
+Article in New York Times about how he relates with his female employees.	0.33949999999999997	-0.11350000000000002	0.172
+Extremely racist and sexist remarks concerning Native American women and their descendants	-0.24666666666666673	-0.09266666666666669	-0.033333333333333326
+No	0	0	0
+No	0	0	0
+continued racism and macho nonsense	-0.312	-0.04266666666666671	-0.0573333333333333
+guns	0	0	0
+None	0	0	0
+he's john miller	0	0	0
+racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+Arrogant; Prickish	0	0	0
+Only what the Liberal media spins, you'd think he was a murderer	-0.14	0.057999999999999996	-0.067
+gun free zones will be eliminated	0.1705	-0.027499999999999997	0.166
+No	0	0	0
+Everything he says	0	0	0
+All the time	0.11999999999999993	-0.31799999999999995	-0.12799999999999995
+Alot	0	0	0
+He's a extremist	0	0	0
+None	0	0	0
+too many to list	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+everything is negative	-0.496	0.009999999999999964	-0.142
+Too numerous to list	0.12399999999999993	-0.406	0.18600000000000003
+No Comment	0.13000000000000006	-0.288	0.192
+yes	0	0	0
+too much too list	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+all	0	0	0
+Nothing verifiable	0	0	0
+Yes	0	0	0
+none	0	0	0
+n/a	0	0	0
+Taxes, impersonating someone else, NRA	0	0	0
+More sexist nonsense	-0.26	0.023999999999999938	-0.11799999999999998
+Not sane	0.3460000000000001	-0.238	0.21999999999999992
+Everything	0	0	0
+Far too many bad things to list here, 100 percent bad.	-0.013333333333333355	-0.29	-0.021999999999999974
+Some bad jokes about he probably thought running in the beginning was just going to be a big fat joke, not thinking that he would make it this far. And now that he has, he's going oh shit, this is for real now, what the hell have I gotten myself into. And what am I going to do now?	0.0829230769230769	-0.1666153846153846	0.07723076923076923
+He is a chauvinistic ass	0.09000000000000004	0.08599999999999994	-0.278
+He's a moron.	0	0	0
+n0	0	0	0
+he is such a liar.	0	0	0
+he is nuts	0	0	0
+won't release tax returns	-0.03600000000000003	-0.09300000000000005	-0.057999999999999996
+He is still an idiot	-0.394	-0.030000000000000072	-0.15999999999999998
+His flip flop ideas on gun control, illegal immigrants	-0.21300000000000002	0.06600000000000003	-0.023
+Just listen to what he says is always negative.	0.382	-0.24800000000000005	0.11199999999999992
+Lied about golf	0.13399999999999998	-0.26399999999999996	0.16199999999999992
+He doesn't support or speak for women.	0.27999999999999997	-0.27599999999999997	0.2
+no	0	0	0
+no	0	0	0
+A false new story about women	0.4949999999999999	-0.13400000000000004	0.05499999999999998
+no	0	0	0
+No comment	0.13000000000000006	-0.288	0.192
+nothing	0	0	0
+no	0	0	0
+No	0	0	0
+He took federal funding meant for 9/11 rebuilding and used it for other means	-0.072	-0.20799999999999996	-0.10066666666666667
+egoist, womanizer	-0.336	-0.027999999999999935	-0.09399999999999994
+Everything he say	0.18200000000000002	-0.11400000000000006	0.376
+no	0	0	0
+no	0	0	0
+They hope he don't win	0.44500000000000006	0.09000000000000004	0.4640000000000001
+Too numerous to mention. No veterans payments, spoke too quickly following lost aircraft, funding Chris Christies legal bills and campaign debt.	-0.07520000000000002	-0.22799999999999992	0.06599999999999999
+Women	0	0	0
+nope	0	0	0
+feelings on women, tax returns	-0.4	-0.09600000000000009	-0.39
+Un-presidential	0	0	0
+Nothing	0	0	0
+He's still seeking the nomination.	0	0	0
+Punishing people who cross in this countrt	0.137	-0.318	-0.05999999999999997
+Too much to write in this small space. Full support of guns and talking with dictator of North Korea.	0.11966666666666666	-0.286	0.03900000000000003
+Still saying jerk like statements	-0.012999999999999956	0.08500000000000005	0.11200000000000002
+Literally everything	0	0	0
+No	0	0	0
+jumping with opinion on plan crash	0.027999999999999952	-0.13733333333333334	0.05733333333333337
+having issues with something he sais on one of the morning shows	0.25	-0.33799999999999997	0.19099999999999992
+a con man	-0.137	-0.11200000000000002	-0.06099999999999994
+Recanting all of his lies	0	0	0
+nope	0	0	0
+tax	-0.4	-0.09600000000000009	-0.39
+he won't turn over his income taxes	0.17099999999999999	-0.27	0.22400000000000003
+everything	0	0	0
+nothing	0	0	0
+He's a bigoted, uniformed idiot who hasn't actually donated money to veterans groups like her promised. He claims the judge for his lawsuit is a Mexican after him... Etc etc	-0.042666666666666665	0.00833333333333333	-0.05733333333333332
+Only from liars that don't know their head from a hole in the ground.	0.1973333333333334	-0.29066666666666663	0.0040000000000000036
+woman issues	0.418	-0.24000000000000005	0.18599999999999994
+"He said something racist. Like every day. He also said the word ""bigly"" which isn't a real word."	0.35333333333333333	-0.17	0.22599999999999998
+His stand on ISIS, inqeuality	0.053999999999999916	-0.38	0.17799999999999994
+yes	0	0	0
+Impulsive, a bully, dishonest	-0.4	-0.009999999999999964	0.0
+He is an idiot, doesn't understand economics	0.188	-0.27799999999999997	0.07599999999999997
+No	0	0	0
+no	0	0	0
+No	0	0	0
+No	0	0	0
+He won't release his tax returns	-0.03600000000000003	-0.09300000000000005	-0.057999999999999996
+Everything	0	0	0
+yes	0	0	0
+Jumping to conclusions.	0	0	0
+His inability to maintain a consistant persona	-0.022666666666666665	-0.3233333333333333	0.032
+That he exists.	0	0	0
+Has no respect for others	0.358	-0.041999999999999996	0.45199999999999996
+Only hate speech by others and the media	-0.242	0.035999999999999935	0.11499999999999996
+islamaphobia	0	0	0
+He is the same old Donald Trump.	-0.362	-0.10399999999999991	-0.15600000000000006
+He is not qalifiad to be president	0.14100000000000001	-0.18599999999999997	-0.01200000000000001
+Always, nasty treatment of women	-0.205	-0.008999999999999987	-0.14899999999999997
+everything that has came out of his mouth	0.11799999999999997	-0.17200000000000007	0.2
+his tax returns, his treatment of women	-0.2	-0.10100000000000006	-0.242
+mot qualified	0	0	0
+yes	0	0	0
+That he cheated on his wives.	0	0	0
+He don't like woman	0.45300000000000007	-0.18	0.221
+nothing	0	0	0
+To much	0	0	0
+That hes arrogant	-0.496	0.030000000000000072	-0.07200000000000006
+That he continues to offend anyone and everyone.	-0.34199999999999997	-0.038000000000000075	-0.166
+Telling veterans he is against illegal immigration	-0.34700000000000003	-0.023000000000000048	-0.17800000000000002
+Just about everything out of his mouth	0.11799999999999997	-0.17200000000000007	0.2
+has not paid one cent in taxes	0.146	-0.35700000000000004	0.08599999999999994
+Yes he insulted the leaders of several foreign countries - insulted Muslims all over the world and Insulted Hillary and Elizabeth Warren . His own party members are against him - The man is a beast.	0.19599999999999998	0.02099999999999999	0.06350000000000003
+No	0	0	0
+yes	0	0	0
+waffling on prior statements	-0.13599999999999995	-0.4	0.03399999999999999
+Too many Republicans will not endorse him but they are getting closer - Heard people calling him a racist --He insulted every Muslim - He won't release his tax statements - his sons own a ton of guns -- he called Hillary names all week long -	-0.04550000000000001	-0.23425	0.06525000000000003
+yes	0	0	0
+misognist, racist, bully, liar	-0.518	0.31999999999999995	-0.051999999999999956
+n/a	0	0	0
+That he's a bigot	-0.45	0.07400000000000002	-0.376
+no	0	0	0
+Yes. Too much to capture here.	0.009999999999999964	0.08599999999999994	-0.28600000000000003
+His father's connection to the KKK	0.2	-0.10999999999999996	0.442
+No	0	0	0
+None	0	0	0
+Yes. Backtracking on previous positions	-0.051999999999999956	-0.28200000000000003	0.02400000000000002
+nope	0	0	0
+Won't release tax returns	-0.03600000000000003	-0.09300000000000005	-0.057999999999999996
+no	0	0	0
+he supported the death penalty being reinstated in New York years ago when some people were accused of a rape that it turned out they did not committ	-0.21560000000000007	0.02280000000000002	-0.1916
+Yes, virtually everything	0	0	0
+yes, he changes his views too often	0	0	0
+Everything he says and does is negative	-0.496	0.009999999999999964	-0.142
+yes, points about women	0	0	0
+That his delegates are white supremacists and child sexual predators.	0.33466666666666667	0.042000000000000016	0.19400000000000003
+he's still classless	0	0	0
+Hitler	0	0	0
+He is even more inconsisrent	0	0	0
+Bad	-0.352	-0.027999999999999935	-0.288
+Lots!	0	0	0
+nope	0	0	0
+supposedly cheated in a business deal	0.162	-0.23900000000000002	0.14699999999999996
+Everything!!	0	0	0
+Yes, lots of things	0	0	0
+no	0	0	0
+about his wife	0.34	-0.158	0.1
+No.	0	0	0
+No	0	0	0
+racist, islamiphobe, liar, etc.	0	0	0
+No	0	0	0
+donot need to run for president	0.1393333333333334	-0.09199999999999998	-0.008000000000000007
+hair	0.23599999999999993	-0.258	0.3380000000000001
+Veteran's fundraising BS	0.12599999999999997	-0.030000000000000072	0.37200000000000005
+He shoots from the hip and he's not honest	0.402	-0.22000000000000003	0.20600000000000004
+SU altaneria y arrogancia	0	0	0
+Wall mexico	0.011999999999999922	-0.42000000000000004	-0.15600000000000006
+no	0	0	0
+so many things I can't list them all	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+changes his ideas to suite who is more popular	0.27599999999999997	-0.16499999999999998	0.13500000000000006
+none	0	0	0
+puts down women	0	0	0
+no	0	0	0
+sided with NRA on guns	0	0	0
+No	0	0	0
+don't matter he's not a democrat	0.13600000000000004	-0.029999999999999985	0.17300000000000004
+Not really	0	0	0
+no	0	0	0
+racist taco bowl. ridiculous tweets. articles about economic crisis and foreign relations nightmares	-0.19133333333333336	0.0006666666666666812	-0.09833333333333334
+No	0	0	0
+YES	0	0	0
+No	0	0	0
+He claimed to raise $6 million for veterans, but that was a lie	0.144	0.019333333333333282	0.06533333333333335
+just about everything, he promoted his evil campaign manager and raised money for Christie	-0.059500000000000025	0.009000000000000022	0.11100000000000002
+my god how can i pick just one thing	0.19440000000000002	-0.2632	0.13400000000000004
+Misogynistic, self important ass-hat who feeds off the fear and anger of his fucktard supporters.	-0.04449999999999997	0.07799999999999999	0.12949999999999998
+Nope	0	0	0
+Nothing	0	0	0
+everything I hear about Trump is negative	-0.10800000000000003	-0.19999999999999996	0.124
+everythinng	0	0	0
+na	0	0	0
+One of Trump's delegates convicted of child pornography	0.1426666666666667	-0.06666666666666667	-0.0066666666666667
+Lots. Hate mongering as usual	-0.25599999999999995	-0.05400000000000002	0.10499999999999998
+Attacked Governor Martinez	0.06400000000000006	-0.27	0.20999999999999996
+Megyn Kelly interview was laughable, Ivanka donated money to HRC, Ivana made rape allegations, at least one person on his SC list routinely makes fun of him on Twitter--you hear a lot of negative things about Donald Trump.	0.08822222222222217	-0.014000000000000012	0.1297777777777778
+Him	0	0	0
+Everything	0	0	0
+His treatment of women	0.0	-0.10600000000000005	-0.09399999999999994
+Crazy, greedy, dangerous	-0.534	0.36199999999999993	-0.488
+he is racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+Too much to name	0.12400000000000003	-0.392	0.027999999999999935
+No	0	0	0
+doesn't pay taxes	0.24600000000000008	-0.15199999999999997	0.266
+no	0	0	0
+won't release tax returns, sucking up to NRA to get their endorseent	0.048666666666666636	-0.1506666666666667	0.00466666666666669
+His bullying tactics on women and particularly Hillary	0	0	0
+Usual NY times propaganda	-0.016666666666666625	-0.24066666666666667	0.07466666666666667
+He is a pig	-0.03399999999999999	-0.26399999999999996	0.008000000000000007
+he is an imbecile	-0.4	0.03399999999999999	-0.376
+I don't pay attention anymore.	0.29100000000000004	-0.17099999999999999	0.27999999999999997
+He's sexist	-0.32	0.14399999999999996	-0.184
+The New York Times accused him of treating women badly	0.359	-0.16700000000000004	0.13399999999999998
+groping women, paying no taxes for two years,asking mand during formanal presentation if he was having sex with a woman he was with,	0.251	-0.031000000000000014	0.08849999999999998
+Everything about him is negative so it's too much to list.	-0.496	0.009999999999999964	-0.142
+everything he says	0	0	0
+no	0	0	0
+Yes. He allegedly raised money for veterans, which turned out to be a lie.	0.32799999999999996	0.029000000000000054	0.18200000000000005
+Only by lying scum newspeople	-0.576	0.040000000000000036	-0.025999999999999978
+Too brash and impulsive	-0.09500000000000003	-0.04500000000000001	-0.09499999999999997
+nothing	0	0	0
+he's a jackass	-0.19000000000000003	0.31400000000000006	-0.08200000000000003
+He cheated on his taxes by undervaluing property.	0	0	0
+tons, all the judgemental things he has said about groups of people unlike him	0.14000000000000004	-0.246	0.08000000000000007
+no	0	0	0
+not really	0	0	0
+.	0	0	0
+It does not matter I have respect him	0.2313333333333334	-0.17600000000000002	0.2733333333333333
+Bully	-0.466	0.17200000000000007	-0.364
+Avoid paying taxes	-0.18000000000000008	-0.21600000000000003	-0.038000000000000075
+no	0	0	0
+A lot!!! He lied about Ferguson, MO being the most dangerous city in America. He lies about almost everything. His mouth is always open spouting mean negative things about everybody and everything. He is the absolute worst candidate I've seen in all the years I have been eligible to vote.	-0.0526	-0.051000000000000024	0.02020000000000001
+Impersonation his publicist	-0.017999999999999974	-0.199	0.12199999999999998
+Yes, pretty much anything Bernie or Hillary says as well as most of the report from the news media.	0.16199999999999998	-0.09133333333333331	0.07466666666666673
+Nothing	0	0	0
+Just about everything about him is negative	-0.496	0.009999999999999964	-0.142
+That's he a racist on all counts	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+Not sure	0.32799999999999996	-0.304	0.36400000000000005
+no	0	0	0
+yes. Endorsed by the NRA	0	0	0
+always	0	0	0
+no	0	0	0
+Any legitimate news story about his background.	0.19533333333333333	-0.19533333333333328	0.07333333333333336
+he would be a bad choice for president	0.07680000000000002	-0.1868	0.03760000000000001
+racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+won't release taxes	0.32799999999999996	-0.09000000000000004	0.274
+he's egotistical	-0.384	0.027999999999999935	0.04600000000000008
+he is alienating us from our allies due to his ignorance	-0.22199999999999998	-0.18600000000000005	-0.24
+only when he speaks	0	0	0
+none	0	0	0
+Sociopathy	0	0	0
+No	0	0	0
+everything	0	0	0
+no	0	0	0
+posed on the phone as his pr guy	0.26399999999999996	-0.18599999999999997	-0.04399999999999995
+He is stupid	-0.43200000000000005	-0.13200000000000003	-0.19399999999999995
+Hates women, sexual harasser, general asshole, fascist	0.0040000000000000036	0.026666666666666682	0.07466666666666667
+too much to write, not enough space	0.37799999999999995	-0.27999999999999997	-0.003999999999999915
+none	0	0	0
+yes, women	0	0	0
+he is ignorant and racist	-0.47100000000000003	-0.09800000000000005	-0.15599999999999997
+He is a buffoon	-0.20999999999999996	0.14000000000000004	-0.2
+Yes a lot	0	0	0
+Nothing	0	0	0
+HE WILL BRING THE COUNTRY TO BANKRUPTY	0.14266666666666664	-0.2733333333333334	0.24533333333333332
+no	0	0	0
+Negative campaigning.	-0.496	0.009999999999999964	-0.142
+nothing	0	0	0
+Racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+Refused to release tax returns	-0.03600000000000003	-0.09300000000000005	-0.057999999999999996
+Moronic	-0.35	-0.238	-0.36
+none	0	0	0
+No	0	0	0
+yes does not know politics	0.08200000000000002	-0.33199999999999996	-0.07999999999999997
+islamaphobia	0	0	0
+everything	0	0	0
+He supported gun control (Newtown) until he was against it (NRA convention).	-0.191	0.25	0.017999999999999967
+No	0	0	0
+False stories in the NYTimes	0	0	0
+"Everything that ""reportedly"" comes out of his mouth, to me, seems to be negative."	0.23599999999999993	-0.31399999999999995	0.1
+some times he has a big mouth	0.14266666666666664	-0.22266666666666668	0.18200000000000002
+Unprepared for the role of president, too much of a temper	-0.19333333333333336	-0.04066666666666663	-0.0853333333333333
+yes	0	0	0
+n/a	0	0	0
+Yes every time he opens his mouth	0.11899999999999994	-0.245	0.03600000000000003
+Riots at rally	-0.05800000000000001	0.06999999999999992	0.12400000000000003
+he quickly stated that the egyptian plane crash was absolutely terrorism--speaking without thought or knowledge	0.133	-0.07599999999999998	0.08600000000000005
+he is an asshole	-0.5780000000000001	0.27599999999999997	-0.422
+He will be a candidate for president	0.06150000000000001	-0.182	0.09850000000000003
+He's an insulting pig ..gun free zones actually a FOOL	-0.07350000000000002	-0.06899999999999996	-0.05199999999999999
+One of his delegates was arrested for sending a bomb in the mail and for creating child pornography.	0.10200000000000002	-0.12400000000000001	-0.042000000000000016
+Too much to remember	0.3	-0.372	0.2619999999999999
+everything	0	0	0
+Yes. That he said something negative about Elizabeth Warren.	-0.496	0.009999999999999964	-0.142
+NO	0	0	0
+He doesn't understand international relations.	0.233	-0.253	0.204
+everything	0	0	0
+no	0	0	0
+Threatened trade war	-0.186	0.07199999999999997	-0.047000000000000014
+He doesn't remember being crude Megyn Kelly.	-0.025999999999999995	-0.23500000000000001	-0.03400000000000003
+yes, he tends to speak without thinking first	0.324	-0.09099999999999993	0.22699999999999995
+nothing	0	0	0
+he is crazy	0.027999999999999935	0.18000000000000008	-0.16199999999999992
+nothing	0	0	0
+no	0	0	0
+no	0	0	0
+no	0	0	0
+He's racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+yes he is pompous	-0.34800000000000003	-0.04800000000000004	-0.22000000000000003
+Unqualified	-0.304	-0.06600000000000002	-0.2
+Every news article quoting what he said	0.06399999999999997	-0.18899999999999995	0.01600000000000002
+he is a liar	-0.518	0.31999999999999995	-0.051999999999999956
+Confused	-0.378	-0.14399999999999996	-0.17400000000000002
+yes	0	0	0
+No one like him	0.35300000000000004	-0.293	0.184
+Bad language	-0.038000000000000006	-0.14399999999999993	0.09300000000000003
+He is an ass	0.09000000000000004	0.08599999999999994	-0.278
+Everything that other republicans say: dump Trump	-0.11200000000000003	-0.30133333333333334	0.09066666666666669
+He incites bigotry, is hiding something in his tax returns, isn't worth as much as he claims he is	-0.4	-0.09600000000000009	-0.39
+Everything	0	0	0
+No Comment.	0	0	0
+pick a subject	0.12400000000000003	-0.21799999999999997	0.23100000000000004
+Yes Don't remember them all	0.3	-0.372	0.2619999999999999
+racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+no	0	0	0
+wishwashy on facts	0	0	0
+1	0	0	0
+Not anything that was truw.	0	0	0
+He's stupid	-0.43200000000000005	-0.13200000000000003	-0.19399999999999995
+Everything	0	0	0
+skirts the issues	0	0	0
+alot about his bragging on just about everything.	0	0	0
+he is behind on taxes for his companies	0	0	0
+Lots for personal attacks on Clinton, back tracking on what he said preivously, bashing Saunders, etc. He is a bully	-0.0986666666666667	-0.19866666666666666	-0.12533333333333338
+Yes but that and above or two things that show me he is not a politician	0.030666666666666658	-0.19133333333333333	-0.0013333333333333715
+Everything	0	0	0
+everything	0	0	0
+He has tiny baby-hands	0.019999999999999928	-0.08000000000000007	0.23200000000000004
+How much he lies, and how scary and uncouth he is.	-0.321	-0.05100000000000007	-0.22999999999999998
+Walking back policy statements	-0.14700000000000002	-0.41100000000000003	0.133
+Yes, that he is a philanderer	0	0	0
+Yes, his existence.	0	0	0
+He's insulted most of the closest allies of the US.	0	0	0
+nothing	0	0	0
+He is a racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+Not paying his fair share of taxes	0.33599999999999997	-0.351	0.25600000000000006
+Yes. A lot. Racist. Sexist. Greedy. Self centered. Etc....	0.37200000000000005	-0.04399999999999995	0.548
+John Miller PR lie	-0.522	-0.038000000000000075	-0.05600000000000005
+Lots of stuff	0.17200000000000007	-0.296	-0.03399999999999999
+nothing	0	0	0
+yes..he's a flip flopper	0.11999999999999993	-0.07599999999999998	0.06400000000000006
+No.	0	0	0
+Agitator-Arrogant-Dem in Rep's clothing	0.274	-0.11199999999999992	0.344
+Same stuff as always. The man is a narcistic racist.	0.12800000000000003	-0.21199999999999997	0.027000000000000045
+He is very negitive and a bully.	0	0	0
+Hillary Clinton doesn't think he's qualified to be president	0.20599999999999996	-0.20733333333333334	0.09200000000000001
+no	0	0	0
+Nothing	0	0	0
+racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+No	0	0	0
+Immigration Policy	-0.223	-0.24800000000000005	-0.038999999999999965
+Refuses to release tax returns	-0.03600000000000003	-0.09300000000000005	-0.057999999999999996
+any time he opens his mouth	0.11899999999999994	-0.245	0.03600000000000003
+No. Some people say is don't act Presidential. I say that's right he is not acting he is real it is not politics for him it's about The American People and making this Country Great once again. You are seeing raw passion for people and this country.	0.20784615384615387	-0.13969230769230773	0.17784615384615388
+That 25 year old recording.	-0.106	-0.21899999999999994	0.0029999999999999333
+Lots, Him being racist, arrogant, not suitable for office	0.02400000000000002	-0.395	0.13200000000000003
+He pretended to be his own pr.	0.23599999999999993	-0.31399999999999995	0.1
+He's going to be the Republican nominee	0.06266666666666663	-0.2706666666666666	0.11000000000000003
+nothing	0	0	0
+I'm still waiting for Trump to say anything substantive, but all I hear is bluster. What disturbs me most is that he wants me to vote for him simply because he's Trump, not because of his background knowledge, position on issues, etc. I am appalled by the character he projects, and even if I weren't, I would never vote for someone who has told the public so little about his plans for governing.	0.0795	-0.18133333333333335	0.18100000000000002
+he's an asshole	-0.5780000000000001	0.27599999999999997	-0.422
+Nothing	0	0	0
+Everything	0	0	0
+too outspoken	0.23200000000000004	0.07200000000000006	0.22799999999999992
+Egomaniac, bigot, narcissist, unqualified, everything that could possibly be construed as bad, the devil incarnate	-0.07266666666666668	-0.09799999999999993	-0.055333333333333345
+his views are too right wing. Even to the point of extremism.	0.2770000000000001	-0.11400000000000002	0.34299999999999997
+leadership	0.2	-0.04800000000000004	0.368
+That the NRA has endorsed him	0	0	0
+Possibly lying on his taxes	0	0	0
+He is xenophobic, homophobic and mysoginist	-0.45999999999999996	0.027999999999999935	-0.192
+Arrogant	-0.496	0.030000000000000072	-0.07200000000000006
+retweets	0	0	0
+That he changes his plans constantly.	0	0	0
+He is egotistical, encourages hatred, lies constantly, and is clownish.	0	0	0
+That this isn't the only list. Can't be trusted can he.	0.259	-0.34299999999999997	0.19400000000000006
+ass clown	0.08100000000000004	0.037000000000000005	-0.201
+yes	0	0	0
+bad temperment	-0.352	-0.027999999999999935	-0.288
+Trump doesn't pay any taxes.	0.04100000000000001	-0.24299999999999997	0.21900000000000003
+accused of being a bigot	-0.45	0.07400000000000002	-0.376
+Has anti-Muslim general in inner circle of advisors	0.07933333333333337	-0.29733333333333334	0.08866666666666667
+Did not pay any taxes in a publicly released tax return	0.01200000000000003	-0.19666666666666668	0.005999999999999996
+Haven't been listening	0	0	0
+can't be list in one line	0.149	-0.40549999999999997	0.07799999999999999
+He is an assistant hole	0.11900000000000004	-0.225	0.009000000000000036
+His consistent pattern of lies and fascist philosophy.	0.003999999999999985	-0.26199999999999996	0.06933333333333326
+intellectually challenged	0	0	0
+lobbying illegally against native american casinos	0.16999999999999993	-0.39	0.20999999999999996
+paid zero taxes in a year	0.15	-0.33399999999999996	0.16199999999999992
+yes that hes a womanizer	-0.336	-0.027999999999999935	-0.09399999999999994
+Yes, but the majority of it is statements taken out of context by your company and the media. You are all SHILLS	0.039333333333333324	-0.282	0.023999999999999962
+Nothing new	0.5359999999999999	0.027999999999999935	0.04399999999999995
+Building a wall.	0.09399999999999994	-0.32999999999999996	0.2
+he is beyond crazy	0.027999999999999935	0.18000000000000008	-0.16199999999999992
+Speaks too openly	0	0	0
+everything that I heard	0	0	0
+nra endorsement	0.20999999999999996	-0.24800000000000005	0.184
+A meme	0	0	0
+There's not enough space.	0	0	0
+N/a	0	0	0
+Not sharing his tax returns	-0.4	-0.09600000000000009	-0.39
+Too much to write.	0	0	0
+stupid act all the time	-0.061333333333333385	-0.20399999999999996	-0.03333333333333328
+He is preying on the public's pessimism and leading the weak minded down the wrong path.	-0.381	0.01900000000000004	-0.12899999999999995
+Every journalist in the country apparently hates his guts and never misses an opportunity to say something negative.	0.22249999999999995	-0.12500000000000003	0.3245
+Democrat portrayal of his opinion of women	0.192	0.018000000000000058	0.18900000000000006
+Everything reported is negative becuase he is an asshole	-0.537	0.14299999999999996	-0.282
+Won't pay his fair share of taxes, racist remarks, narcissistic remarks, bullying remarks, disrespectful remarks, outright lying, and basically mentally unstable stuff	-0.08400000000000002	-0.15524999999999997	0.012000000000000037
+No	0	0	0
+Nothing	0	0	0
+refused to release tax info	0.039333333333333324	-0.14733333333333334	-0.034666666666666686
+continues making shit up when it suits his purpose	0.057999999999999996	0.07199999999999997	0.20099999999999998
+NRA endorsement; Bill Clinton attacks	-0.378	-0.2	-0.2
+liar, adulterer, exaggerator, no political experience, no clue about foreign policy	-0.082	-0.1875	0.018499999999999996
+No	0	0	0
+Nothing	0	0	0
+he's a fraud	-0.5900000000000001	0.03599999999999994	-0.304
+He's a pathological liar	-0.488	0.009999999999999981	-0.12599999999999997
+Everything I hear is negative about this man	-0.025333333333333347	-0.13133333333333333	0.09600000000000002
+He paid no income tax.	0.25199999999999995	-0.23600000000000004	0.2720000000000001
+taxes (he probably pays NONE), stupid response to air disaster, stupid attacks on Hillary, etc.	-0.08300000000000002	-0.2255	-0.008499999999999994
+Yes, NYT story on his past indiscretions with women	0.23599999999999993	-0.177	0.050999999999999976
+Far too much to list.	0	0	0
+more racist comments, backtracking on negative statements about women, his alter ego press agent.	-0.24360000000000004	-0.15880000000000002	0.00240000000000002
+supporting nuclear proliferation	-0.14000000000000004	0.45999999999999996	-0.176
+No	0	0	0
+Yes, bigot, racist, narcissistic, misogynistic	0	0	0
+yes	0	0	0
+No	0	0	0
+Yes. He wants single payer health care like Canada has.	0.366	-0.27999999999999997	0.1835
+"treatment of women or as he calls them ""bimbos"""	0.0	-0.10600000000000005	-0.09399999999999994
+Attacking ex President Bill Clinton	-0.26399999999999996	-0.10000000000000002	-0.17466666666666666
+His tweets	0	0	0
+Calling Hillary names	0	0	0
+everything	0	0	0
+He's a racist.	0	0	0
+NOT REALLY	0	0	0
+No	0	0	0
+Yes...almost evrything he's said/done!	0	0	0
+he's a piece of trash human	-0.038666666666666606	-0.27666666666666667	0.004000000000000031
+LOLOLOLOLOLOLOLOLOLOLOL!	0	0	0
+He is an idiot	-0.394	-0.030000000000000072	-0.15999999999999998
+Racist towards Mexicans	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+ignorant, misogynist	0	0	0
+His uncomprimising position on gun owership	-0.07800000000000001	0.10900000000000004	-0.05700000000000003
+he has decided we do not want to be allies with anyone.	0.17266666666666666	-0.17400000000000002	0.1493333333333333
+He doesn't care about how unfair the caucus process is because he won	0.09399999999999997	-0.312	0.11133333333333333
+Lies about everything, he can't remember all the lies he's told.	0.3	-0.372	0.2619999999999999
+Bullsh*t	0	0	0
+no	0	0	0
+Yes. How he treats women. That he isnt giving vets the $6 million he promised. He wants to talk with north korea	0.3273333333333333	-0.27266666666666667	0.15066666666666673
+again that he is a liar	-0.518	0.31999999999999995	-0.051999999999999956
+He changed his stance on SC judges	0.21999999999999992	-0.42800000000000005	0.22799999999999992
+NO !	0	0	0
+will not release his taxes, said he will gut social security and medicare, raped some young girl.......on and on	0.1422857142857143	-0.21542857142857144	0.18942857142857142
+He lies, he lies, he lies!! He didn't pay any taxes in the 80's. He raised 3.5 million less than he said for the vets!! He cotradicts himself in one sentence about guns in the class room.	0.22920000000000001	-0.2076	0.1792
+No	0	0	0
+ignorant	-0.352	-0.16400000000000006	-0.18599999999999994
+He doesn't want to release his tax returns, but this is no big deal to me.	0.09679999999999997	-0.09640000000000003	0.06160000000000001
+Campaign slander from opposition forces	-0.21050000000000002	-0.0995	-0.088
+none	0	0	0
+Tax returns still not available	-0.013999999999999985	-0.14400000000000004	-0.03600000000000003
+Treatment of women	0.0	-0.10600000000000005	-0.09399999999999994
+YES - Lied about what he would do regarding Libya, keeps changing his opinion as to what he said several years ago.	0.18000000000000002	-0.19933333333333333	0.238
+He is Donald Trump.	0	0	0
+Everything	0	0	0
+yes but they are all lies	0	0	0
+only lies from our dishonest media	-0.4	-0.009999999999999964	0.0
+Yes. Rude, arrogant, female basher, bombastic.	0.5039999999999999	0.18000000000000008	0.284
+NOT ENOUGH TIME LEFT TO TELL YOU ALL THE WORRIES PEOPLE HAVE ABOUT HIM.	0.1215	-0.272	0.02100000000000004
+Lies, ignorance about foreign policy, too much to list	-0.09400000000000001	-0.21733333333333338	-0.04799999999999999
+refusing to release income tax statements	0.05999999999999994	-0.14066666666666672	0.05200000000000001
+bad	-0.352	-0.027999999999999935	-0.288
+That he is a racist and that his racism is causing his followers to attack immigrants using violence	-0.5880000000000001	0.186	-0.22699999999999998
+he opened his mouth	0.11799999999999997	-0.17200000000000007	0.2
+no	0	0	0
+everything the democrats say--running scared	-0.44000000000000006	0.21999999999999992	-0.15999999999999998
+yes	0	0	0
+Will not release his tax returns	-0.002666666666666669	-0.20200000000000007	0.0686666666666667
+"""Soft"" interview with Megyn"	-0.06400000000000006	0.2699999999999999	0.368
+anything Hillary has said	0	0	0
+He's obnoxious	-0.44800000000000006	0.19000000000000003	-0.18000000000000008
+Every time he speaks.	0.11999999999999993	-0.31799999999999995	-0.12799999999999995
+Everything	0	0	0
+about having sex with minors	0.3460000000000001	0.5199999999999999	0.23399999999999999
+no	0	0	0
+He can't beat Hillary	-0.12400000000000003	0.10399999999999991	0.11799999999999997
+His attitude about women; immigration; religion, etc	-0.05600000000000005	-0.04800000000000004	0.176
+no	0	0	0
+He's crazy	0.027999999999999935	0.18000000000000008	-0.16199999999999992
+alway here negative stuff no one is perfect....	-0.03533333333333333	-0.25066666666666665	-0.021333333333333357
+every thing	0.10999999999999996	-0.31399999999999995	0.08200000000000003
+Clinton says everything she can think of to make him sound negative	0.12599999999999997	-0.21000000000000002	0.158
+No	0	0	0
+much	0	0	0
+no	0	0	0
+No	0	0	0
+"His egotistical statement, ""it's not about the Republican Party, it's about me."""	-0.266	-0.17500000000000004	0.06300000000000008
+N/A	0	0	0
+Every day	0.2720000000000001	-0.27599999999999997	0.11799999999999997
+He is a blowhard bully, mysogynistic, prevaricator.	0	0	0
+No Sir	0.09000000000000004	-0.13399999999999998	0.022000000000000065
+no	0	0	0
+So much I can't name it all - one thing is his remarks about Arizona	0.15066666666666664	-0.3906666666666667	0.07399999999999995
+Will be indicted for Trump U scandal. Incompetent. Horrible to women. Racist. Still fighting over Scottish golf course. Orange and ugly. Will bring disaster upon our country. Similar to Berlascone )Italy) who started as a joke and damaged the country. An embarrassment.	0.035272727272727254	-0.16309090909090906	0.11654545454545452
+He is the next Hitler.	0	0	0
+his mouth	0.11799999999999997	-0.17200000000000007	0.2
+no	0	0	0
+no	0	0	0
+nothing comes to mind.	0	0	0
+He picked morons to help shape his economic policies.	0.16399999999999998	-0.23266666666666666	0.1293333333333333
+No	0	0	0
+Can't think of on to name	0.22999999999999998	-0.321	0.16399999999999995
+Yes, he's very scary and we don't need that.	-0.155	-0.09800000000000005	-0.12400000000000001
+nothing	0	0	0
+Sexist, xenophobic	0	0	0
+That he is a petulant child who name calls and throws tantrums when he doesn't get his way	0.24100000000000002	-0.253	0.04100000000000001
+No	0	0	0
+He published a list of unqualified candidates for the Supreme Court	-0.04850000000000003	-0.20350000000000001	-0.016999999999999973
+yes	0	0	0
+0	0	0	0
+The NY Times saying that Trump jumped the gun saying that the downing of the Egypt plane was an act of terror.	0.004399999999999982	-0.06559999999999996	0.11480000000000005
+degrading of women	0	0	0
+No	0	0	0
+yes still making bigoted statements	0	0	0
+compulsive liar, felon, sexist	-0.21000000000000002	0.03899999999999997	-0.15700000000000003
+Yes; his policies, speecy, everything	0	0	0
+yes, he won't release his tax returns	-0.03600000000000003	-0.09300000000000005	-0.057999999999999996
+Only from the MSM and LWNJ's	0	0	0
+His prior treatment of some women.	-0.06799999999999998	-0.25300000000000006	-0.029999999999999978
+The line isn't long enough	-0.03599999999999994	-0.352	-0.022000000000000065
+Yes	0	0	0
+Flipped on tax plan...	-0.4	-0.09600000000000009	-0.39
+Hit piece on Mr. Trump by NY Times	-0.036499999999999984	-0.22149999999999997	0.11200000000000006
+I wouldn't know where to start	0.32300000000000006	-0.19500000000000003	0.12800000000000003
+No	0	0	0
+Actually paid no taxes in some years	0	0	0
+ongoing bs	-0.041999999999999996	-0.15199999999999997	0.016000000000000014
+self centered, arrogant, not qualified	0.37200000000000005	-0.04399999999999995	0.548
+Yes. That he is clueless about what it means to be president. That he is a racist and bigot.	-0.21800000000000005	-0.19866666666666666	-0.10266666666666667
+No	0	0	0
+no	0	0	0
+N/A	0	0	0
+interaction with women	0.12400000000000003	-0.13000000000000006	0.011999999999999922
+His hypocrisy, his secrecy about his tax returns and his remarks about Christie	-0.285	-0.030000000000000072	-0.187
+NY Times article on his interactions with women, Megan Kelly interview with Trump	0.022499999999999958	-0.1815	0.225
+Innaccurate claim that Clinto wants to take away the 2nd amendment	0.03800000000000002	-0.20533333333333337	0.04399999999999995
+How he discriminates against women	0	0	0
+Just the usual media crap...like ALL reports about ANY Republican.	0.09600000000000009	-0.36	0.316
+His racial bias, his tentative list of possible Supreme Court Justices	0.04799999999999994	-0.25266666666666665	0.02733333333333335
+Yes. Won't release tax returns, called a woman Miss Piggy, got the NRA endorsement, lied on Morning Joe, told women to 'come on and vote for' him, participated in a sham 'interview' with megyn kelly, lost a twitter war with elizabeth warren, said that obama is a bad president because he thinks about things, shall i go on?	-0.05630769230769229	-0.10400000000000001	-0.027384615384615396
+That he has ties to the mob.	0	0	0
+everything	0	0	0
+reaction to sexual harassment article	-0.02750000000000004	-0.022499999999999964	0.15149999999999997
+He's still alive.	0	0	0
+He is evil.	0	0	0
+Hillary said he was unqualified	-0.304	-0.06600000000000002	-0.2
+only when he talks	0	0	0
+statemants about women	0	0	0
+he is unqualified	-0.304	-0.06600000000000002	-0.2
+mysoginist; liar, clown, flip-flopper, unpresidential, scourge to foreign relations	-0.10099999999999998	0.03399999999999998	-0.096
+He is still running for president.	0.30600000000000005	0.10399999999999991	0.17799999999999994
+UK said it might ban him from the country due to his incendiary remarks about Muslims	-0.036000000000000004	-0.11399999999999999	0.062
+Tax returns - who cares!?!?!	-0.4	-0.09600000000000009	-0.39
+Liberal news med	-0.0040000000000000036	-0.18699999999999994	0.012000000000000018
+where do I begin?	0.08200000000000003	-0.266	0.2699999999999999
+What a dangerous nincompoop he is.	-0.267	0.001999999999999974	-0.272
+A lot of Hillary Clinton lies.	0	0	0
+nothing that is true	0	0	0
+flip flopping on his previous positions	0.03399999999999999	-0.179	0.04400000000000004
+no	0	0	0
+He won't release his tax returns	-0.03600000000000003	-0.09300000000000005	-0.057999999999999996
+Described as racist, a liar, not qualified ertc etc	0	0	0
+STILL NO TAX RETURNS, NONE OF OUR BUSINESS?	-0.4	-0.09600000000000009	-0.39
+He lies about everything	0	0	0
+he's still saying bigoted things.	0	0	0
+He lies	0	0	0
+Doesn't understand how debt works, lied that Hillary would abolish the second amendment, rolled out a list of far right potential supreme court justices, said global warming was a bullshit hoax	0.0013846153846153858	-0.12276923076923076	0.056615384615384616
+A myriad of things. Racist, misogynist, etc.	0.10399999999999991	-0.296	0.08200000000000003
+everything	0	0	0
+everything	0	0	0
+treatment of beauty queens	0.258	-0.06400000000000006	0.01299999999999999
+Reality star	0.32	-0.040000000000000036	0.308
+yes	0	0	0
+noen	0	0	0
+Yes he is a weave wearing racist.	0.08200000000000003	-0.38	0.2720000000000001
+yes	0	0	0
+yes	0	0	0
+That he is a terribly sexist man	-0.11800000000000001	0.008000000000000007	-0.04799999999999996
+how he flip flops on issues	0.11999999999999993	-0.07599999999999998	0.06400000000000006
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+He thinks Ferguson is dangerous lol	-0.534	0.36199999999999993	-0.488
+nothing	0	0	0
+He's a full of $#!t narcissistic self serving @$$	0.05733333333333335	-0.11599999999999998	0.24933333333333332
+He's crazy	0.027999999999999935	0.18000000000000008	-0.16199999999999992
+He is waiting until the general election before releasing his tax returns	-0.14533333333333331	-0.16933333333333334	-0.11399999999999999
+No	0	0	0
+No	0	0	0
+He is incredibly sexist in his dealings with women. Also, he once proposed a version of the Apprentice that pitted black candidates against white candidates.	0.049199999999999994	-0.21319999999999997	0.03200000000000003
+Racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+none, that i can believe	0.346	-0.353	0.30000000000000004
+he has nothing good about him	0.578	-0.26799999999999996	0.28200000000000003
+not fit to be president	0.17933333333333334	-0.16733333333333333	0.06600000000000002
+No	0	0	0
+I read about past run-ins with women, and his questionable list of potential Supreme Court nominees	0.106	-0.21971428571428572	0.08514285714285712
+None	0	0	0
+call people names	0.188	-0.294	0.10100000000000006
+all the time	0.11999999999999993	-0.31799999999999995	-0.12799999999999995
+He's still a bigot who doesn't when to shut up.	-0.275	-0.058	-0.12699999999999997
+NO!	0	0	0
+He is an arrogant and racist.	-0.496	0.030000000000000072	-0.07200000000000006
+His comments about women	0	0	0
+No	0	0	0
+endorsed by Lindsey Graham	0	0	0
+No	0	0	0
+He's an Idiot	-0.394	-0.030000000000000072	-0.15999999999999998
+EvErYtHiNg	0	0	0
+everything	0	0	0
+Not really	0	0	0
+no	0	0	0
+everything	0	0	0
+Clueless unempithetic bully misogynist etc.	-0.383	-0.038999999999999965	-0.323
+His negative remarks about certain people	-0.044666666666666625	-0.21200000000000005	0.09800000000000005
+none	0	0	0
+Neutral	0.1	-0.30999999999999994	0.16199999999999992
+NO	0	0	0
+Yes, he cant shut his mouth!	-0.1	-0.19000000000000003	0.12200000000000007
+Everything	0	0	0
+Yes. NRA Endorsement & Trump's attack on Hilary regarding it.	-0.195	0.08099999999999996	-0.06899999999999998
+His extreme sexism	0.13000000000000006	0.23599999999999993	0.176
+No	0	0	0
+yes, all my friends are super annoyed with hiim	-0.015000000000000041	-0.04599999999999999	0.099
+Everything	0	0	0
+no	0	0	0
+no	0	0	0
+yes	0	0	0
+No	0	0	0
+everything	0	0	0
+nothing	0	0	0
+Paid no taxes	0	0	0
+No experience on foreign affairs	0.17500000000000002	-0.08600000000000003	0.17300000000000004
+Yes. He is threatening the 401 K's of ordinary people.	0.009999999999999964	-0.42800000000000005	0.17799999999999994
+evrytime he opens his mouth	0.11799999999999997	-0.17200000000000007	0.2
+None	0	0	0
+Don't remember	0.3	-0.372	0.2619999999999999
+nothing	0	0	0
+treatment of women	0.0	-0.10600000000000005	-0.09399999999999994
+Every word out of his mouth. His followers. He is an ignorant, narcissistic, dangerous blowhard totally against everything that could be good about America.	0.10849999999999994	-0.105	0.034499999999999996
+Hillary Clinton said he is not fit to be president.	0.246	-0.222	0.16100000000000003
+everything	0	0	0
+aide arrested	0.11999999999999993	-0.2	0.41
+"That he's a ""loose cannon"""	0	0	0
+I don't have enough time to list it all.	0.15666666666666665	-0.36799999999999994	0.04600000000000002
+Everything	0	0	0
+none	0	0	0
+Democrats hate him	-0.608	0.25199999999999995	-0.10600000000000005
+Donald Trump is mentioned multiple times in the Panama papers	0.005999999999999987	-0.2986666666666667	0.17466666666666666
+enough with the negativity, the name calling of hillary, the signs that are given to rally attendees are offensive and untrue	-0.121	-0.12600000000000003	0.05249999999999999
+He says what he thinks.	0	0	0
+The sorry excuse for a human being is the epitome of a scumbag in every imaginable way.	0.025999999999999957	-0.19399999999999998	0.038
+he can't stop lying about everything	-0.053999999999999916	-0.17200000000000007	0.011999999999999922
+not qualified to be pesident	0.23599999999999993	-0.31399999999999995	0.1
+stopped listening to him	0	0	0
+too much in such a small space	0.26499999999999996	-0.29699999999999993	-0.04899999999999993
+N/A	0	0	0
+that he's a misogynist	0	0	0
+no	0	0	0
+called former miss universe miss fatty	-0.13050000000000006	-0.247	-0.12799999999999997
+he is slinging mud at Hillary Cliton	0.011999999999999922	-0.362	-0.14600000000000007
+NA	0	0	0
+Yes	0	0	0
+Everything	0	0	0
+no	0	0	0
+Everything	0	0	0
+sexist	-0.32	0.14399999999999996	-0.184
+Every time he opens his mouth	0.11899999999999994	-0.245	0.03600000000000003
+fake spokesman, more misogyny	-0.476	0.030000000000000072	-0.10600000000000005
+That he isnt qualified	0	0	0
+tax returns	-0.4	-0.09600000000000009	-0.39
+no	0	0	0
+Abrupt opinionated	-0.11499999999999999	-0.08199999999999993	-0.071
+He lies all the time	0.11999999999999993	-0.31799999999999995	-0.12799999999999995
+No	0	0	0
+sexist	-0.32	0.14399999999999996	-0.184
+No	0	0	0
+Didn't raise $6 million for veterans	0.477	0.04799999999999996	0.12600000000000006
+YES, HIS RUDENESS, NEGATIVITY, HOSTILITY,ETC.	0	0	0
+blowhard	0	0	0
+Loud mouth	0.11799999999999997	-0.17200000000000007	0.2
+declaring that the plane was brought down by terrorists when nobody knows. and many mor things.	0.14399999999999996	-0.01799999999999997	0.014000000000000058
+He's a bully and does not know the first thing about what it takes to be President of the United States.	0.126	-0.14766666666666664	0.021000000000000015
+Treats women awful	-0.544	-0.027999999999999935	-0.388
+A liberal in sheep's clothing	0.274	-0.11199999999999992	0.344
+yes	0	0	0
+Blaming Clinton for downed Egyption Air, gender discord, contempt for women, threats for abortions, disregard for other leaders, and race and immigration unfairness!	-0.07866666666666668	-0.16466666666666666	-0.039666666666666676
+nothing	0	0	0
+lots from msm	0	0	0
+He flip flops on just about every issue and that's true	-0.04500000000000002	-0.08300000000000002	0.079
+Riot at a recent rally	-0.11466666666666668	0.023999999999999983	-0.08466666666666663
+is good	0.578	-0.26799999999999996	0.28200000000000003
+more lies and bigotry	-0.5519999999999999	0.23000000000000007	-0.09399999999999994
+No	0	0	0
+no	0	0	0
+the crappy politcal ads	-0.53	0.051999999999999956	-0.21600000000000003
+not that is true	0	0	0
+no	0	0	0
+Everything he says.	0	0	0
+No never	0	0	0
+Too much to list	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+nothing	0	0	0
+No	0	0	0
+he's a racist bigot piece of poop	-0.3685	-0.05400000000000003	-0.14599999999999996
+no	0	0	0
+rewerew	0	0	0
+no	0	0	0
+hHe a racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+A lot of BS from the press	0.07799999999999993	-0.44000000000000006	-0.04399999999999995
+Tax evasion, racist, unstable	-0.357	-0.04300000000000006	-0.32
+yes, he's a lying, cheating, double-talking asshole	-0.5780000000000001	0.27599999999999997	-0.422
+every report is negative	-0.271	-0.14300000000000002	-0.07699999999999996
+DON'T KNOW WHAT HE TAKING ABOUT	0.36400000000000005	-0.352	0.15600000000000006
+He is rude,arrogant,bad mouth, he is negative, he would be an embarra	0.20899999999999996	-0.27599999999999997	0.14400000000000004
+golf course worth	0.13399999999999998	-0.26399999999999996	0.16199999999999992
+That he's a woman hating piece of shit	0.08200000000000003	-0.13066666666666668	0.042
+Sexism, sexism, sexism	0	0	0
+Dictator	-0.446	0.1	-0.16199999999999992
+Racist, sexist, Islamophobic, xenophobic, proto-fascist	0	0	0
+He is causing riots, he is racist.	0	0	0
+not sure....	0	0	0
+Lunatic	-0.30599999999999994	0.12799999999999995	-0.34199999999999997
+You name it	0.12400000000000003	-0.392	0.027999999999999935
+Nothing that means anything important	0.36400000000000005	-0.05800000000000001	0.2779999999999999
+none	0	0	0
+no	0	0	0
+no	0	0	0
+He is a dangerous demagogue who represents everything I stand against.	-0.24000000000000005	-0.009000000000000036	-0.15500000000000003
+None	0	0	0
+yes--he is anti-female	0	0	0
+Yes...incites riots	0	0	0
+the work conditions and treatment of workers on his projects	0.004999999999999982	-0.12000000000000002	0.06500000000000004
+He is racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+one of his delegates is in legal trouble	-0.05333333333333332	-0.226	0.10599999999999994
+I would be here all YEAR listing them. Be serious.	0.1876	-0.324	0.1324
+Sexist, racist, bigoted garbage person	-0.10200000000000006	-0.24500000000000002	0.11500000000000005
+No	0	0	0
+His wife is an ex porn star, he wants to use nuclear weapons, he has zero foreign policy knowledge, he doesn't know the laws of the US or what's in the constitution	-0.019555555555555545	-0.04333333333333333	-0.010666666666666649
+yes	0	0	0
+None	0	0	0
+John Miller	0	0	0
+yhrty	0	0	0
+no	0	0	0
+He's a bigot.	0	0	0
+Yes it turns out to be distortion of the true	-0.03200000000000003	-0.214	-0.06400000000000002
+He has numerous IRS judgements against him, he is sexist, he is a liar.	0.06999999999999992	-0.32199999999999995	0.25
+None	0	0	0
+A commercial downing him for how he talks about women	-0.17799999999999994	-0.11400000000000006	-0.13000000000000006
+The negative comments are too numerous to mention	-0.11600000000000003	-0.26066666666666666	0.05800000000000002
+More remarks against women	0	0	0
+no	0	0	0
+he hates women	0	0	0
+No	0	0	0
+no	0	0	0
+lying about many things	0	0	0
+Too much to list.	0	0	0
+Abolish gun free zones	0.05000000000000001	0.15333333333333332	0.05733333333333335
+He has a big ego	0.00199999999999996	-0.15	0.166
+Everything that comes out of his mouth	0.11799999999999997	-0.17200000000000007	0.2
+no	0	0	0
+not releasing tax return	-0.105	-0.21900000000000003	-0.12400000000000001
+That he is the unchallenged Republican nominee.	-0.14800000000000005	-0.378	0.08000000000000007
+nothing	0	0	0
+Yes - everything	0	0	0
+everything	0	0	0
+Flip floping ideas....sexist. racist remarks.	-0.23500000000000007	-0.054000000000000006	-0.030999999999999958
+every day	0.2720000000000001	-0.27599999999999997	0.11799999999999997
+Thoughts about women	0	0	0
+Backing away from promises he made while campaigning earlier	0	0	0
+Yes	0	0	0
+that he's going to ruin us	-0.536	0.08000000000000007	0.03200000000000003
+none	0	0	0
+no	0	0	0
+don't trust him	0.44800000000000006	-0.14000000000000004	0.39
+everything that comes out of his mouth	0.11799999999999997	-0.17200000000000007	0.2
+poorly thought through policies	0.352	-0.16799999999999998	0.23000000000000007
+Won't release tax returns. Greedy tax cheater.	-0.263	-0.08250000000000006	-0.1765
+he made up a fake name and called reporters to talk about himself	-0.008000000000000007	-0.22866666666666666	0.06999999999999999
+He's disrespectful	-0.458	-0.06999999999999992	-0.25999999999999995
+no	0	0	0
+his response to thr loss of eygtian air plane	0.06399999999999997	-0.15399999999999997	0.06549999999999999
+NO	0	0	0
+Nothing good about women	0.578	-0.26799999999999996	0.28200000000000003
+yeah, he's got a temper, negative stuff about his wife & family, alot of stuff	0.047000000000000035	-0.185	-0.027499999999999993
+None	0	0	0
+He knows for sure the plane was brought down by terrorists- 100%	0.23599999999999996	-0.16099999999999998	0.18900000000000006
+His hate for women	-0.608	0.25199999999999995	-0.10600000000000005
+Always the people protest because this guy think is Superior the anyone	0.1888	-0.15399999999999997	0.11600000000000002
+Unpresidential	0	0	0
+Supreme Court Nominees; he is running out of money despite claiming to be rich; his made up identity where he'd called reporters to brag about girls wanting to date him	0.16349999999999998	-0.08124999999999999	0.1125
+He will make the Whitehouse a Casino	0.07266666666666666	-0.1586666666666667	0.17800000000000002
+He is quite a narcissist	-0.378	0.16199999999999992	-0.192
+tax return	-0.105	-0.21900000000000003	-0.12400000000000001
+He is a misogynist and a racist.	0	0	0
+Tax cheat	-0.395	-0.05700000000000003	-0.258
+ill show my tax report later	-0.08800000000000002	-0.19066666666666668	-0.07866666666666665
+Everyday	0.09399999999999994	-0.372	0.192
+yes	0	0	0
+More than there is space to write	0.33399999999999996	-0.259	0.026000000000000068
+Misogyny	0	0	0
+He doesn's respect women	0.358	-0.041999999999999996	0.45199999999999996
+"Yes. Laughable items regarding his ""positions"" and changeable viewpoints along with his numerous anti-women remarks."	0.15599999999999997	-0.101	0.17099999999999999
+Misogynistic comments	0	0	0
+He'said dangerous	-0.534	0.36199999999999993	-0.488
+no	0	0	0
+People ragging on him about what he says	0.14000000000000004	-0.246	0.08000000000000007
+He is opinionated	0.11400000000000006	-0.20999999999999996	0.10800000000000001
+doesn't take women seriously	-0.03599999999999994	-0.09600000000000009	-0.03399999999999999
+Racist.	0	0	0
+He's unethical at best	-0.562	-0.15	0.06400000000000006
+Yes, he has been repeatedly criticized for his views	0	0	0
+NONE	0	0	0
+His refusal to make public his tax returns; his now-emboldened support for unlimited access to guns. I could go on and on.	0.08549999999999999	-0.19325000000000003	0.10150000000000002
+Nothing that a good Republican can say, but as far as Democrats go they are stupid and think everything Trump has done is negative! Anyone with a brain knows the Democrats are stupid.	0.11999999999999997	-0.2615	0.15625000000000006
+He openly mocked a man with a disability and talks about women in a negative manner	-0.16249999999999998	-0.1585	-0.00599999999999996
+conciliatory tone	0.09399999999999994	-0.266	0.03599999999999994
+crazy	0.027999999999999935	0.18000000000000008	-0.16199999999999992
+HE'S A BIT HARSH SOMETIMES	-0.15100000000000002	-0.05100000000000003	-0.042999999999999976
+He pretended he was a PR rep. He raped his wife and sexually assaulted another woman.	0.34	-0.158	0.1
+Yes. Lier, womanizer, ignorant, unfit	-0.41	-0.246	-0.15600000000000006
+HELLS YES 2 MANY 2 TELL	0.053999999999999916	-0.22800000000000004	-0.011999999999999922
+Where do I begin?	0.08200000000000003	-0.266	0.2699999999999999
+hidden soc. security issues	0.28200000000000003	-0.16199999999999992	0.2
+being a bully	-0.466	0.17200000000000007	-0.364
+Lied about John Miller	0	0	0
+he doesn't like fat women	0.01800000000000007	-0.17099999999999996	0.028000000000000025
+just saw an interview where a colleague said he doesn't have the qualities to be president	0.04566666666666667	-0.1436666666666667	0.09366666666666668
+yes	0	0	0
+no	0	0	0
+lied about net worth	0.0	-0.4	-0.07799999999999993
+Clinton calling him unfit	-0.41	-0.246	-0.15600000000000006
+immature	-0.366	-0.158	-0.16199999999999992
+his attitude toward women, among many other things	0.01299999999999999	-0.17600000000000002	0.188
+no	0	0	0
+he called a woman a bimbo	0.01899999999999999	-0.268	0.07699999999999996
+No	0	0	0
+no	0	0	0
+nothing	0	0	0
+He has no respect for women/demonstrations at his speeches.	0.358	-0.041999999999999996	0.45199999999999996
+Too much to rember it all.	0	0	0
+John Miller	0	0	0
+yes from every cub reporter with a computer that never had a real job yet in their life	0.25099999999999995	-0.144	0.07366666666666666
+His relationships with women	0	0	0
+Donald is PERFECT there is no negs!	0.43800000000000006	-0.05800000000000001	0.30600000000000005
+He's an idiot.	0	0	0
+they are searching under every rock to find something	0.217	-0.33399999999999996	0.15
+Called Elizabeth Warren 'Pocahontas' and lied about his charitable donations	0.466	-0.3	0.31199999999999994
+NA	0	0	0
+None	0	0	0
+yes	0	0	0
+degrading remarks	0	0	0
+That he hasn't dropped from the presidential race.	-0.009999999999999964	-0.18800000000000008	0.03599999999999994
+He's insane	-0.49000000000000005	0.027999999999999935	-0.25199999999999995
+Too many to list	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+no	0	0	0
+no	0	0	0
+NOT SURE	0.32799999999999996	-0.304	0.36400000000000005
+na	0	0	0
+Attack on Bill Clinton	-0.489	0.10499999999999998	-0.261
+absolutely everything that comes out of his mouth, and everything he stands for	0	0	0
+NRA endorsement	0.20999999999999996	-0.24800000000000005	0.184
+yes	0	0	0
+racist asshole	-0.5840000000000001	0.12199999999999997	-0.27399999999999997
+To punish abortion	-0.456	0.12799999999999995	-0.14599999999999996
+Sexist racist	-0.45500000000000007	0.055999999999999966	-0.15499999999999997
+no	0	0	0
+Very brash	-0.12400000000000003	-0.29000000000000004	0.06600000000000002
+Thats all you hear is negative comments about this man and no matter what they say about him I have his back 100% over Hillary or Bernie. Bottom line.	0.014499999999999999	-0.22975	0.0955
+That he's a dangerous and irresponsible choice	-0.254	0.02199999999999998	-0.13133333333333333
+Fear monger	-0.414	0.22799999999999992	-0.336
+His comments about the Egypt air incident	0.091	-0.10999999999999996	0.07699999999999996
+No.	0	0	0
+Today	0	0	0
+continued lies and disparaging of women	0	0	0
+reaction to egyptair, refusal tax return	-0.171	-0.262	-0.0015000000000000083
+He is pretending to be pro-gun and pretending he would nominate conservatives to the Supreme Court.	0.20449999999999996	-0.24999999999999994	0.18000000000000002
+No	0	0	0
+What he says about women and immigrants. How he attacks Hilary who was just a victim of Bill Clinton's indescretions	-0.48400000000000004	-0.063	-0.323
+everything	0	0	0
+Everything	0	0	0
+Just about everything	0	0	0
+Hasty response to plane crash.	0.06133333333333333	-0.07866666666666668	0.06199999999999998
+Too many things to list!	0	0	0
+dumb ass	-0.211	0.07299999999999995	-0.20000000000000004
+Yes. He thinks he will beat hillary because his movie is better.	0.12933333333333338	-0.14600000000000005	0.19200000000000003
+He's the next Hitler. DON'T LET HIM BE PRESIDENT.	0.21299999999999997	-0.386	0.15599999999999997
+prentender	0	0	0
+he was caught in another lie	-0.522	-0.038000000000000075	-0.05600000000000005
+Systematic mistreatment of women	-0.07599999999999998	-0.296	-0.06999999999999992
+too much to say	0.18200000000000002	-0.11400000000000006	0.376
+Dishonest, disrespects women, hypocrite, many more	0	0	0
+same as above	0	0	0
+Racist, misogynist, fascist, liar	-0.518	0.31999999999999995	-0.051999999999999956
+nothing	0	0	0
+More sexism and racism	-0.704	0.176	-0.10800000000000001
+n/a	0	0	0
+His policy positions don't make any sense. He flip flops on everything. He objectifies women. He is a racist xenophobe.	-0.12450000000000004	-0.17850000000000002	0.101
+no	0	0	0
+No class	0.14600000000000007	-0.11400000000000006	0.04800000000000004
+Avoided paying taxes	0	0	0
+Terrible negative ads from women about the bad language he has used.	-0.288	-0.1	-0.06899999999999999
+Everything about him is negative	-0.496	0.009999999999999964	-0.142
+Yes, he's a bully, and he is a liar.	0	0	0
+some	0	0	0
+In favor of gun control	-0.016000000000000018	0.1406666666666667	0.09466666666666668
+everything	0	0	0
+His sexual harassment towards much younger women	-0.09100000000000003	0.21000000000000005	0.105
+yes	0	0	0
+He is race baiting and he is a demogogue .He is LIKE ADOLF HITTLER.	0.2880000000000001	-0.039999999999999945	0.08399999999999999
+no	0	0	0
+Media complaining that he hasn't released his taxes	0	0	0
+doesn't watch what he says	0.09000000000000004	-0.32599999999999996	0.30999999999999994
+Antagonistic, says whatever he can to get people to vote for him, but doesn't believ a word of it.	0.1684	-0.21480000000000002	0.22000000000000003
+You can't trust him	0.44800000000000006	-0.14000000000000004	0.39
+Lied about veterans donations	0	0	0
+Where to begin.... He is a misogynist, racist, demagogue, fascist, etc.	0	0	0
+that he is a mysogamist	0	0	0
+everything	0	0	0
+Ending gun free zones	0.07600000000000005	0.15400000000000003	0.053333333333333316
+Yes	0	0	0
+NRA endorsed, “nine blacks” against “nine whites”, paid no taxes, etc.	0	0	0
+He's a fool	-0.288	-0.027999999999999935	-0.41200000000000003
+"""He's insane."""	0	0	0
+name calling that pertains to Hilary as crooked	-0.12099999999999998	-0.278	-0.16800000000000004
+the latest is his non-paynment of income taxes	0.25199999999999995	-0.23600000000000004	0.2720000000000001
+Not qualified to be President	0.14100000000000001	-0.18599999999999997	-0.01200000000000001
+yes	0	0	0
+No	0	0	0
+From Clinton - Not qualified to be President	0.14100000000000001	-0.18599999999999997	-0.01200000000000001
+lies	0	0	0
+Everything	0	0	0
+he is a fighter	0.019999999999999928	0.05999999999999996	0.284
+liberal media will always find something wrong with a winner	0.14350000000000004	-0.08799999999999997	0.18300000000000002
+crazy like a fox	0.20666666666666664	-0.0226666666666666	0.06466666666666672
+lied about donation to veteran. flip flop some issues	0.10333333333333332	-0.19799999999999998	0.12266666666666672
+He's a misogynistic liar who is very hateful and believes in torture and killing the usual	-0.4744	0.04479999999999997	-0.08520000000000003
+everything that makes him him	0	0	0
+bigot	-0.45	0.07400000000000002	-0.376
+Liar, con man, unfit to be POTUS, bombastic know nothing, no specific policy plans, deeply flawed economic plan, racist, homophobe, misogynist, mentally unwell	-0.09999999999999999	-0.2753333333333334	-0.009111111111111105
+none	0	0	0
+No	0	0	0
+list goes on and on with all the sexist and downright bigoted comments he has said	-0.07100000000000004	-0.17300000000000004	-0.030999999999999965
+not as mouthing as was	0	0	0
+yes	0	0	0
+All	0	0	0
+His alliance with the NRA and Nortk Korea trouble me.	-0.09900000000000003	-0.00099999999999998	0.012999999999999998
+Amoral, crass, terrible international leadership, economically illiterate, dangerously stupid, easily swayed, has no principals	-0.22499999999999995	-0.166	-0.127
+Changing his stance on minimum wage	0.12666666666666662	-0.3626666666666667	0.05599999999999997
+blunt	-0.06999999999999992	-0.07799999999999993	0.12599999999999997
+Yes says bad things about women	-0.352	-0.027999999999999935	-0.288
+He is sexist, racist and ignorant of US foreign policy	-0.304	-0.11250000000000004	-0.03299999999999997
+Too much	0	0	0
+Latinos are against hime	0	0	0
+Not fit to be president	0.17933333333333334	-0.16733333333333333	0.06600000000000002
+nothing beneficial, just the dems letting off steam	0.08000000000000007	-0.2	-0.03200000000000003
+Crazy!!!!!	0	0	0
+what to talk to n.korea	0.32799999999999996	-0.324	0.2880000000000001
+no	0	0	0
+He is a dully and racist and woman hater	-0.2353333333333334	-0.14800000000000005	0.0066666666666666445
+no	0	0	0
+will not release his tax returns	-0.002666666666666669	-0.20200000000000007	0.0686666666666667
+He is running for President	0.17600000000000007	0.02299999999999995	0.026999999999999955
+everything	0	0	0
+ignorant, lacking in depth in foreign and domestic policy, bigoted, lying	0.04733333333333333	-0.1613333333333334	0.0766666666666667
+no	0	0	0
+Too much to list	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+good	0.578	-0.26799999999999996	0.28200000000000003
+nothing	0	0	0
+yes, everything	0	0	0
+Yes	0	0	0
+Everything	0	0	0
+He is disrespectful to women.	-0.458	-0.06999999999999992	-0.25999999999999995
+Tapes of him being derogatory to women, 100s of other things	-0.18899999999999997	-0.257	-0.03199999999999997
+no	0	0	0
+no	0	0	0
+no	0	0	0
+Yes. He won't release his taxes now and a multitude of negative things	-0.056000000000000015	-0.08733333333333337	0.05466666666666669
+Democrats lies	0	0	0
+no	0	0	0
+mostly honest	0.632	-0.2	0.34
+no, do not listen or read anything about me. trump.	0.27	-0.258	0.20133333333333328
+capitulating to republican leaders, making crazy statements about Hillary and the 2nd amendment to NRA conference.	-6.013708050052931e-17	-0.16599999999999995	-0.04266666666666665
+Using suicide as a weapon to make Hillary look bad.	-0.12149999999999997	-0.004500000000000046	0.059499999999999977
+alot.	0	0	0
+yes, billianare opening a path for other billianares	0.138	-0.212	0.15333333333333335
+He is against On helping the poor he is racist against immigration	-0.35200000000000004	-0.08466666666666671	-0.20866666666666664
+where do I start?	0.08200000000000003	-0.266	0.2699999999999999
+He is pandering to the lowest level of people, thriving on and exploiting hate and fear	-0.1745	-0.011500000000000066	0.040999999999999995
+lots, lack of experience, drama, racist, fearful	-0.366	-0.23099999999999996	-0.14200000000000002
+More racism, sexism, homophobia	0	0	0
+everything	0	0	0
+numerous lies, lied about Hillary when addressing NRA, his dispute with David Cameron, constant flip-flopping, paid no taxes in last audit, too quick to react to plane crash and much more	-0.03942857142857142	-0.11857142857142856	0.06914285714285712
+he's an idiot	-0.394	-0.030000000000000072	-0.15999999999999998
+Flip-Flop on abortion	-0.484	0.08599999999999994	-0.053999999999999916
+yes, but I ignore it likes the media ignores Hillary's faults.	-0.33399999999999996	-0.24000000000000005	-0.03399999999999999
+racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+everything	0	0	0
+MSM obfuscating to create a poor view of Trump	0.119	-0.12200000000000001	0.18500000000000003
+na	0	0	0
+na	0	0	0
+Character.	0	0	0
+Every word he speaks.	0.15399999999999991	-0.2	0.24399999999999994
+Everything that comes out of his mouth	0.11799999999999997	-0.17200000000000007	0.2
+Everything about Donald is negative.	0	0	0
+Refusal to reveal tax returns, calling Hillary crooked, latest revelation of treatment of women	-0.08999999999999997	-0.20080000000000003	-0.0164
+Flipflopping	0	0	0
+only bullshit !!!!!!!!!!!	-0.534	0.4	-0.4
+Wants teachers to become armed	0.043000000000000066	-0.026999999999999996	0.18599999999999994
+He is like Hitler and is a racist	-0.05099999999999999	-0.07599999999999998	0.06500000000000004
+He has poor taste in staff. And he continues to say inaccurate things all the time	0.006399999999999986	-0.1592	0.05120000000000001
+cant tell the truth	0.246	-0.22600000000000003	0.18900000000000006
+yes, would like to eliminate gun-free zones in/around schools	0.1493333333333334	-0.20999999999999996	0.18000000000000008
+It is all negative regarding Trump.	-0.496	0.009999999999999964	-0.142
+His lack of knowledge regarding key issues	0.14533333333333334	-0.2666666666666666	0.294
+none	0	0	0
+Very disrespectful	-0.458	-0.06999999999999992	-0.25999999999999995
+Too many things to list. His wife is a bigot.	0.34	-0.158	0.1
+AIRPLANE CRASH	-0.18500000000000003	0.016999999999999994	-0.258
+The hit piece about women working for him	-0.08199999999999993	-0.09499999999999997	0.026000000000000068
+nothing	0	0	0
+past experiences with women	0.01799999999999997	-0.05800000000000001	0.03599999999999994
+Riot at a rally	-0.214	0.154	-0.11299999999999998
+Nothing credible	0.39	-0.20999999999999996	0.20999999999999996
+Lies, fascist, bankruptcies, no goals.	0	0	0
+He is unlikable and untrustwrothy not qualified to be president	0.14100000000000001	-0.18599999999999997	-0.01200000000000001
+wa6y rtoi muchg tolisyt	0	0	0
+not enough room to say them all	0.146	-0.24700000000000003	0.259
+Yes	0	0	0
+no	0	0	0
+he's a racist xenophobic bigot who would destroy the economy	-0.31920000000000004	-0.019999999999999983	-0.12439999999999998
+He's a xenophobe	0	0	0
+Speaks before thinking	0	0	0
+everything	0	0	0
+No	0	0	0
+A misleading characterization of Trump's behavior with Miss America contestants	-0.16533333333333333	-0.15666666666666668	-0.020666666666666667
+just media spin	-0.019999999999999928	-0.26399999999999996	-0.016000000000000014
+Racist and misognynist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+Yes	0	0	0
+he's a loose cannon. Doesn't clarify his remarks.	0.05199999999999996	-0.28500000000000003	0.15700000000000003
+everything , he lies	0	0	0
+negative attitudes towards and treatment of women, his selective memory, flip-flopping on his stances	-0.15133333333333335	-0.10200000000000002	0.018000000000000033
+not really	0	0	0
+has bad opinion of women	-0.038000000000000006	-0.06099999999999994	-0.01599999999999996
+George Soros is most likely bankrolling the protesters at the Trump rallies	0.108	-0.22499999999999998	0.2
+No	0	0	0
+he's vulgar	-0.34	0.10600000000000005	-0.06400000000000006
+Violence at a rally in New Mexico; 'This is How Fascism Comes to America' article	-0.06880000000000003	0.001599999999999957	-0.08760000000000003
+Nothing	0	0	0
+Everything	0	0	0
+He wants more guns	0	0	0
+yes. he swindled money from a lot of people veterans, students, and treats women like crap	0.184	-0.017499999999999964	0.10550000000000007
+he hates minorities and women and gays	0	0	0
+Everything he says is negative.	0	0	0
+Sexist	-0.32	0.14399999999999996	-0.184
+fascist	-0.38	-0.051999999999999956	-0.22400000000000003
+handeling of bankruptcies	0	0	0
+attack of bill clinton was classless	-0.489	0.10499999999999998	-0.261
+no	0	0	0
+Payed no income tax on returns filed for gaming license.	-0.004666666666666698	-0.09533333333333334	0.04666666666666669
+STupid speeches	-0.43200000000000005	-0.13200000000000003	-0.19399999999999995
+He lives in a seperate reality and surrounds himself with yesmen.	0.14600000000000007	-0.18000000000000008	0.45199999999999996
+No	0	0	0
+Constantly changing positions	0	0	0
+no	0	0	0
+Hilary's comments	0	0	0
+everything	0	0	0
+Racism, Sexism, Attitude, Lying, Rude, Lack of knowledge, Sexually offensive, Overall offensive	-0.15666666666666668	-0.324	0.029333333333333305
+no	0	0	0
+he would raise taxes on the working class	0.25733333333333336	-0.1106666666666667	0.10800000000000005
+his choices for supreme court	-0.03400000000000003	-0.129	0.005000000000000018
+Assault Allegations	-0.5900000000000001	0.36	-0.30199999999999994
+insane	-0.49000000000000005	0.027999999999999935	-0.25199999999999995
+everything	0	0	0
+yes. he's a xenophobic, racist, bigoted dumbass	0	0	0
+Treatment of women	0.0	-0.10600000000000005	-0.09399999999999994
+liar, racist, misogynistic, the usual	0.09600000000000009	-0.36	0.316
+Refusal to submit tax returns, adjusting property values to 1/50th of their actual value to avoid paying fair taxes, tax plans would increase the federal debt by $10 trillion, border wall would be less than 50% effective and cost more than $30 billion, Trump University was a complete sham without any appeciable results.	-0.006260869565217399	-0.1976521739130435	0.01443478260869566
+Yes - needs women's support	0.37799999999999995	-0.39	0.22200000000000006
+Nothing at all	0	0	0
+racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+everything	0	0	0
+No	0	0	0
+Pretended to be working for Donald but it was his voice.	0.23599999999999993	-0.31399999999999995	0.1
+"Called Warren ""Pocahantas"""	0	0	0
+no. he wins our country is going to hell	-0.13100000000000006	-0.0030000000000000304	-0.018000000000000016
+he inspires violent racism	-0.626	0.21799999999999997	-0.189
+Often demeaning of women, pretended to be his own publicist, now taking money from super pacs when he said he wouldn't	0.14749999999999996	-0.08599999999999994	0.14500000000000002
+So, so much.	0	0	0
+false discrimination charges in past	-0.24600000000000002	0.03300000000000001	-0.024999999999999998
+He is racist and sexist, kissed a miss universe contestant, called another contestant piggy	-0.11320000000000005	-0.18680000000000002	-0.03999999999999995
+Everything that comes out of his mouth	0.11799999999999997	-0.17200000000000007	0.2
+yes	0	0	0
+racist,he is not a good person	0.3989999999999999	-0.263	0.24100000000000002
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+YES	0	0	0
+The riots last night	0.33599999999999997	-0.28600000000000003	0.04399999999999995
+Reversal on guns	-0.027999999999999935	-0.21799999999999997	0.2
+None	0	0	0
+Seem little but not much cooperate with Paul Ryan	0.18333333333333335	-0.24866666666666667	0.059333333333333314
+fucktruck trump	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+yes, he's extremely anti-gay and knows nothing about foreign affairs let alone domestic policy	-0.060799999999999986	-0.27040000000000003	0.1032
+No	0	0	0
+Yes, many things. That he is racist, misogynistic, that he raped his ex-wife, that he bullied his female employees, that his businesses went bankrupt & that he is pro-torture and pro-bombing innocent children.	0.08533333333333326	0.05266666666666673	0.05000000000000001
+Fake publicist, racist, the list goes on	-0.14900000000000002	-0.22999999999999998	0.008000000000000007
+no	0	0	0
+He doesn't have solid policy plans	0.01866666666666672	-0.38800000000000007	0.19866666666666669
+That he's a jerk	-0.514	0.29000000000000004	-0.03200000000000003
+He accused Bill Clinton of rape and his Charles County, MD was indicted on child porn and explosives charges.	-0.19149999999999995	0.19050000000000003	-0.22549999999999998
+YES, DEMS DISAGREED WITH REPS.	0	0	0
+Nothing	0	0	0
+no	0	0	0
+He's a bigot and has no idea what he's talking about with foreign policy	-0.07849999999999999	-0.06200000000000001	0.006500000000000027
+no	0	0	0
+Yes	0	0	0
+HAS NOT PAYED TAXES AND HID HIS TAX INFORMATION	-0.067	-0.31800000000000006	-0.15600000000000003
+N/A	0	0	0
+no	0	0	0
+He will not release his tax info to the public, the first since (I think) 1961	0.1296	-0.1764	0.0988
+That he is a megalomaniacal, alcoholic sock puppet.	-0.30800000000000005	-0.14299999999999996	-0.15900000000000003
+rehashing all his tweets and projected problems with women voters	0	0	0
+"Donald trump embodies everything WRONG with america, his is a bigot ass motherfucking incestic rich little bitch boy in my book. I dont care if he has a 16in cock or not i dont care whose legal fee's he can pay with his daddy's money, I DONT WANT THE APPRINTANCE RUNNING THE COUNTRY! whew.... sorry for all the ""colorful metaphors"" but i had to get that out..."	0.07726315789473685	-0.0808421052631579	0.07315789473684212
+Doamld trump said the airplane that crashed was a terriost attack. he doens't know that.	0.08333333333333333	-0.18733333333333332	0.050666666666666714
+hates women	0	0	0
+more riots	0	0	0
+he's not loyal	0.4619999999999999	-0.27	0.36
+no	0	0	0
+No tax return	-0.105	-0.21900000000000003	-0.12400000000000001
+Mo	0	0	0
+Was he too quick to label the Egyptian air crash?	0.17200000000000001	-0.21399999999999997	0.15866666666666665
+Just about everything I have heard about him is negative.	0.17200000000000007	-0.296	0.14399999999999996
+He's a buffoon and a blowhard.	-0.20999999999999996	0.14000000000000004	-0.2
+He wasn't good.	0	0	0
+Whiny Bitch	-0.42500000000000004	0.01900000000000003	-0.16700000000000004
+every minute of the day	0.18600000000000005	-0.262	-0.02400000000000002
+no	0	0	0
+no	0	0	0
+No	0	0	0
+every minute of the dayd	0.1	-0.24800000000000005	-0.166
+nope	0	0	0
+Condescending	-0.24000000000000005	0.053999999999999916	-0.12400000000000003
+everything	0	0	0
+He's a bully	-0.466	0.17200000000000007	-0.364
+none	0	0	0
+no	0	0	0
+Unqualified, racists, sexist, idiot. One who should be made to release his tax returns. Lies about his net worth.	0.07639999999999995	-0.2732	0.0035999999999999977
+no	0	0	0
+everything	0	0	0
+No	0	0	0
+No	0	0	0
+2006/2007 derogatory housing market bubble remarks about it would be good. He could make money from it.	0.16174999999999998	-0.19524999999999995	0.14175000000000001
+yes - sexist	-0.32	0.14399999999999996	-0.184
+yes	0	0	0
+That he is a bloviating, racist sexist pig	-0.3146666666666667	-0.05066666666666667	-0.10066666666666664
+he doesn't address the issues	0.22200000000000006	-0.39	-0.022000000000000065
+no	0	0	0
+Noth	0	0	0
+not sure	0.32799999999999996	-0.304	0.36400000000000005
+n	0	0	0
+He doesn't pay federal taxes	-0.07099999999999997	-0.13099999999999995	-0.09100000000000003
+no	0	0	0
+clinton's anti trump ads	-0.13500000000000006	-0.24399999999999994	0.09100000000000001
+Everything	0	0	0
+Everything	0	0	0
+Just listen to one of the Socialist media outlets.	0.1406666666666667	-0.2753333333333333	0.029333333333333295
+The list goes on forever	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+onone	0	0	0
+Nothing	0	0	0
+no	0	0	0
+NYTimes hit piece	-0.08199999999999993	-0.09499999999999997	0.026000000000000068
+NY Times article	0.15899999999999997	-0.33099999999999996	0.18
+None	0	0	0
+Attacking former president clinton	0.04600000000000008	-0.05800000000000001	-0.12400000000000003
+No	0	0	0
+Yes	0	0	0
+NONE	0	0	0
+no	0	0	0
+trash talking and being disrepectful to all who don't agree with him.	-0.00899999999999998	-0.27199999999999996	0.11800000000000005
+stupid stories in nytimes that arent even true	-0.43200000000000005	-0.13200000000000003	-0.19399999999999995
+he is stupid	-0.43200000000000005	-0.13200000000000003	-0.19399999999999995
+I try to ignore any talk about Trump	-0.01050000000000003	-0.27449999999999997	0.15350000000000005
+lying about income, not paying taxes	0	0	0
+every word out of his mouth is a lie.	0.13599999999999995	-0.18600000000000005	0.22199999999999998
+na	0	0	0
+na	0	0	0
+arroogant !	0	0	0
+I read the NYT article about his treatment of women	0.16066666666666668	-0.222	0.08800000000000001
+nothing	0	0	0
+Not releasing tax returns	-0.4	-0.09600000000000009	-0.39
+He calls for eliminating gun free zones at the nra convention which is a gun free zone and so is the republican convention.	0.08085714285714286	0.05142857142857143	0.07714285714285718
+internet says he wants guns in schools,, i do not believe this	0.27599999999999997	-0.17066666666666663	0.27666666666666667
+Blowhard	0	0	0
+none	0	0	0
+He was endorsed by the NRA, and the way he treated female workers.	0.34299999999999997	-0.11999999999999998	0.125
+His Taxes	0	0	0
+he thinks Palin was a good pick	0.38	-0.27199999999999996	0.23500000000000004
+Lying and pretending to be his own publicist	0.04999999999999999	-0.29499999999999993	0.15800000000000003
+a foolish story by NY Times skewed against Trump by bad reporters	-0.05600000000000003	-0.22119999999999998	-0.00919999999999998
+no	0	0	0
+yes	0	0	0
+Nothing but.	0	0	0
+Won't show taxes	0.18200000000000002	-0.18000000000000008	0.166
+That he is a liar, tax evader, misogynist, racist, narcissitic person and I am scared to even think of this monster being elected.	-0.15480000000000005	-0.05480000000000005	-0.009999999999999998
+No	0	0	0
+no	0	0	0
+Businessmen support Hillary overy Trump	0.10699999999999994	-0.362	0.19700000000000006
+Won't release taxes, may have paid none, sends abusive Tweets, has no economic plan, wants to talk to Kim Jong-Un (and wants South Korea to have nukes), shady relations with women, willing to nominate Cruz's Court choices ....	0.06216666666666667	-0.24183333333333332	0.07200000000000001
+Everything about him is negative	-0.496	0.009999999999999964	-0.142
+Fake publicist	-0.30599999999999994	-0.12299999999999994	0.054999999999999986
+Nothing	0	0	0
+An arse as always	0	0	0
+He keeps lying.	0	0	0
+No	0	0	0
+That he disrespects women	0	0	0
+racist,biggot,bully, mysogenist,xenaphobe	0	0	0
+Everything that comes out his mouth	0.11799999999999997	-0.17200000000000007	0.2
+racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+nope	0	0	0
+Crude	-0.352	-0.09800000000000005	-0.32999999999999996
+His disdain for women	-0.258	-0.358	-0.158
+tons of negative stuff like what an idiot he is	-0.05749999999999997	-0.10900000000000001	-0.019999999999999976
+nana	0.158	-0.23600000000000004	0.01799999999999997
+no	0	0	0
+Egotistical	-0.384	0.027999999999999935	0.04600000000000008
+Hillary's exaggerations or what?	0	0	0
+Horrible, racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+flip flopping on issues	0.11999999999999993	-0.07599999999999998	0.06400000000000006
+Everything.	0	0	0
+He's totally insane.	0	0	0
+No	0	0	0
+YES	0	0	0
+many things	0	0	0
+None	0	0	0
+Sexist, flip-flopping on his stances	0	0	0
+na	0	0	0
+That most women who have known him found him to boorish and chauvinistic. That one of his Supreme Court picks thinks he's unqualified to be President. That he's kowtowing to the NRA even though he used to support Democratic gun control policies.	0.03899999999999997	-0.1424	0.07479999999999999
+Yes	0	0	0
+taxes	0	0	0
+n/a	0	0	0
+Everything.	0	0	0
+mal	0	0	0
+"any time he opens his mouth; treatment of women; ""suggestions"""	0.05999999999999996	-0.212	-0.11099999999999995
+He's unqualified	-0.304	-0.06600000000000002	-0.2
+Speech before the NRA	0.12400000000000003	-0.18000000000000008	0.33599999999999997
+Yes: potential tax fraud	-0.20600000000000004	-0.08066666666666673	-0.13333333333333336
+political rhetoric from Hillary Clinton	-0.10500000000000007	-0.21000000000000002	-0.12400000000000003
+He has started attacking Bill Clinton personally (his affiliation with a known pedophile)	-0.15699999999999997	-0.21000000000000002	-0.07000000000000002
+cheated on his taxes	0	0	0
+He's a buffoon	-0.20999999999999996	0.14000000000000004	-0.2
+His refusal to release his tax returns	-0.16066666666666668	-0.19533333333333336	-0.04466666666666665
+everything said about him negative to me	-0.496	0.009999999999999964	-0.142
+all the time about his negative view of women	-0.014000000000000032	-0.216	0.0326666666666667
+NA	0	0	0
+No	0	0	0
+tells the most untruths	0	0	0
+Everything that he does or comes out of his mouth	0.11799999999999997	-0.17200000000000007	0.2
+Supports the NRA	0	0	0
+tax problems, calling his apponent nast juvenile names	-0.32599999999999996	-0.16300000000000003	-0.28300000000000003
+His apology to Megan Kelly was insincere	0.24800000000000005	-0.2	0.019999999999999928
+He's still alive.	0	0	0
+Lots of things about how he treats women, his bankruptcies, doesn't know his constituents, etc	0.36400000000000005	-0.352	0.15600000000000006
+is involved in 100 law suits, has changed his opinion about things, is a mysogynistt	0.09299999999999997	-0.192	0.11100000000000004
+nope	0	0	0
+he does not the the perSonLITY TO BE PRESIDENT	0.14100000000000001	-0.18599999999999997	-0.01200000000000001
+Nearly all coverage has been negative. His attitude toward women, minorities, trade.	0.04899999999999993	-0.20500000000000002	0.184
+no	0	0	0
+Nothing	0	0	0
+more lying, multiple topics	0.0	-0.2	0.12799999999999995
+His propensity toward sexual misconduct with women	0.01899999999999996	0.154	0.21600000000000003
+It's all negative.	0	0	0
+sexist, bigot, bully	-0.466	0.17200000000000007	-0.364
+nothing	0	0	0
+A LOT OF THINGS	0	0	0
+commercial about women	-0.17799999999999994	-0.11400000000000006	-0.13000000000000006
+His history of bankrupcies	0.2	-0.324	-0.040000000000000036
+no	0	0	0
+Yes. He insulted Elizabeth Warren and the governor of New Mexico.	0.3	-0.12100000000000004	0.12699999999999995
+supposedly cheated in some deal	0.22799999999999992	-0.22000000000000003	0.22400000000000003
+Nothing really	0	0	0
+yes, his negative attitude towards women	-0.276	-0.019000000000000038	0.017
+Everything that comes out of his mouth	0.11799999999999997	-0.17200000000000007	0.2
+everything! rude, crude, loud, & obnoxious	-0.44800000000000006	0.19000000000000003	-0.18000000000000008
+He will not submit his tax information.	-0.18533333333333335	-0.2446666666666667	-0.06066666666666667
+Racist. Sexist. Inexperienced. No backbone	0.03200000000000003	-0.19000000000000003	0.2800000000000001
+Nothing	0	0	0
+Yes	0	0	0
+no	0	0	0
+He is a bully, ignorant, uncouth, embarrassing	-0.29400000000000004	0.19000000000000003	-0.22599999999999998
+negative words towards the Clintons	-0.496	0.009999999999999964	-0.142
+The GOP hates him mostly.	0	0	0
+He alleged that Bill Clinton was a rapist	-0.4646666666666666	0.027999999999999987	-0.3013333333333334
+not releasing taxes	0	0	0
+only from The New York Waste of Times	0.07999999999999997	-0.17533333333333334	0.06133333333333333
+Everything about him is negative	-0.496	0.009999999999999964	-0.142
+dfssg	0	0	0
+nothing	0	0	0
+yes. he is ignorant of the facts	-0.352	-0.16400000000000006	-0.18599999999999994
+Firing Ben Carson	0	0	0
+no	0	0	0
+no	0	0	0
+No	0	0	0
+He is disrespectful; he has changed his stand on a lot of issues, causing folks to wonder if he will do what he says	0.134	-0.2975	0.26449999999999996
+He thinks women should have no reproductive rights.	0.15400000000000003	-0.16499999999999998	0.046
+Rude	-0.592	-0.05999999999999996	-0.24000000000000005
+he refuses to release his tax info	0.039333333333333324	-0.14733333333333334	-0.034666666666666686
+none	0	0	0
+Everything	0	0	0
+no	0	0	0
+that he is a spoiled brat and is crazy	-0.21900000000000006	0.05700000000000003	-0.11999999999999993
+no	0	0	0
+yes he is an ass	0.09000000000000004	0.08599999999999994	-0.278
+too much to report	-0.04600000000000008	-0.296	-0.011999999999999922
+he secretely admires hillary.	0	0	0
+Called bill Clinton a rapist	-0.5589999999999999	0.033	-0.379
+Refuses to disclose tax returns.	-0.30000000000000004	-0.10300000000000002	-0.10600000000000004
+He lies and agitates	0	0	0
+yes	0	0	0
+internet memes (not reliable)	0.33599999999999997	0.08800000000000008	0.24800000000000005
+no	0	0	0
+No	0	0	0
+Yes! He's a crude con artist and dangerous to be even considered for the presidency.	-0.13120000000000004	-0.06520000000000005	-0.10759999999999999
+Yes, lots	0	0	0
+she deserves to be in jail	-0.19100000000000003	-0.21	-0.05899999999999998
+sex	0.3460000000000001	0.5199999999999999	0.23399999999999999
+Hes an idiot	-0.394	-0.030000000000000072	-0.15999999999999998
+no	0	0	0
+the media is always negative towards Trump	-0.33	-0.162	0.015000000000000041
+Not sure	0.32799999999999996	-0.304	0.36400000000000005
+Always	0	0	0
+Jerk, disgusting, volitile, unqualified, unexperienced, womanizer	-0.336	-0.027999999999999935	-0.09399999999999994
+Liar, egomaniac, dangerous	-0.534	0.36199999999999993	-0.488
+Yes - his recorded message to Hispanic evangelicals was laughed at, and laughable.	0.23599999999999993	-0.238	0.35600000000000004
+Too wild	0.18800000000000008	0.18000000000000008	0.14399999999999996
+No	0	0	0
+He's a BIG A--HOLE	0.12799999999999995	-0.13399999999999998	0.12200000000000007
+nothing	0	0	0
+Too much to write!	0	0	0
+yes	0	0	0
+yes	0	0	0
+Bigoted windbag, horrible person	-0.15700000000000006	-0.03399999999999999	0.11600000000000002
+always	0	0	0
+no	0	0	0
+comments he makes about women	0	0	0
+no	0	0	0
+No	0	0	0
+He doesn't say things as nice as he should	0.28600000000000003	-0.20400000000000004	0.33499999999999996
+Washed	0	0	0
+Everything he says!	0	0	0
+misogynistic comments	0	0	0
+ad where women speak his words	0.0020000000000000434	-0.24799999999999994	0.10699999999999994
+Bombastic	0	0	0
+He has falsely accused President Clinton of rape	-0.32299999999999995	0.19500000000000003	-0.315
+He is not qualified to be president	0.14100000000000001	-0.18599999999999997	-0.01200000000000001
+liberal lies	0	0	0
+He is still alive.	0	0	0
+nothing	0	0	0
+No	0	0	0
+speaks without thinking	0	0	0
+Nothing	0	0	0
+Just what hillary says	0	0	0
+Every time he speaks it is neg	0.11999999999999993	-0.31799999999999995	-0.12799999999999995
+how he conned veterans out of money	0.41999999999999993	0.37200000000000005	0.26400000000000007
+mistreats female employees, has racist butler, is a fascist, would appoint reactionary Supreme Court justices	0.0363333333333333	-0.08299999999999999	0.08100000000000003
+he offends in a new way every day	0.33	-0.2226666666666667	0.04266666666666664
+yes. He is racist. He has no clear policy ideas. He doesn't understand any major political issues in any meaningful way. He is sexist. He is a failed businessman and a bully. He behaves like a petulant child when he should be behaving like a presidential candidate. He promotes violence against women and minorities. He is a hypocrite who exported jobs. He makes inappropriate comments about his daughter and many other women. His products and businesses are tacky and classless.	0.08133333333333337	-0.1696666666666667	0.07322222222222222
+not really	0	0	0
+As a politician, he doesn't acknowledge climate change. As a businessman, he acknowledges climate change in the interest of protecting his investments.	0.19119999999999998	-0.2172	0.04919999999999997
+The French president called him stupid.	0.04600000000000008	-0.05800000000000001	-0.12400000000000003
+how he is racist and sexist	-0.45500000000000007	0.055999999999999966	-0.15499999999999997
+yes	0	0	0
+Yes	0	0	0
+everything about Trump is negative	-0.33	-0.162	0.015000000000000041
+lies	0	0	0
+none	0	0	0
+The White House isn't big enough for his ego.	0.26733333333333326	-0.22466666666666665	0.18200000000000005
+Making fun of others	0.6739999999999998	0.26400000000000007	0.40800000000000003
+Racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+no	0	0	0
+nothing	0	0	0
+none	0	0	0
+Yes. Racist.	0	0	0
+No longer self funding	0.23100000000000004	-0.12699999999999995	0.24700000000000005
+media always has negatives on Trump	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+no	0	0	0
+Stupid	-0.43200000000000005	-0.13200000000000003	-0.19399999999999995
+gfgdsf	0	0	0
+Of course! He's a dirtbag	0	0	0
+he is an aragont iidiot	0	0	0
+Sexist comments, flip flopping on issues	-0.10000000000000003	0.03399999999999999	-0.05999999999999997
+anti-women	0	0	0
+People don't like his NY personality	0.2853333333333334	-0.15533333333333332	0.22600000000000006
+Dishonest, crude, sexist, dumb	-0.512	0.05999999999999996	-0.12200000000000007
+No	0	0	0
+none	0	0	0
+Everything	0	0	0
+none	0	0	0
+Too many things to list.	0	0	0
+other countries will hate him	-0.15399999999999997	-0.15733333333333335	0.13866666666666666
+not really	0	0	0
+He is opinionated, illogical, and rude, He doesnt know what he is talking about.	0.36400000000000005	-0.352	0.15600000000000006
+none	0	0	0
+Democrats keep saying he refers to all Mexicans as rapest, even though that is not true	0.26400000000000007	-0.31399999999999995	0.142
+His treatment to minority's	0.0	-0.10600000000000005	-0.09399999999999994
+Where to start? Any time he opens his mouth, it's something negative.	0.11999999999999993	-0.31799999999999995	-0.12799999999999995
+None	0	0	0
+refusing to release past taxes	0.17299999999999996	-0.07400000000000002	0.15499999999999997
+he is crude	-0.352	-0.09800000000000005	-0.32999999999999996
+saying something totally stupid	-0.43200000000000005	-0.13200000000000003	-0.19399999999999995
+Womanizer	-0.336	-0.027999999999999935	-0.09399999999999994
+no	0	0	0
+alittle	0	0	0
+no	0	0	0
+No tax returns	-0.4	-0.09600000000000009	-0.39
+Yes but it was all the usual mainstream media lies.	0.0030000000000000235	-0.34199999999999997	0.20600000000000004
+everything	0	0	0
+Everything that comes out of his mouth...	0	0	0
+Quite literally, everything. His taxes, sexism, racism, his lack of experience and downright terrifying mouth.	-0.12000000000000001	-0.2093333333333333	0.005333333333333375
+He's an idiot	-0.394	-0.030000000000000072	-0.15999999999999998
+Yes, speculation on right to bear arms, not releasing tax return, speaks on issues he has zero knowledge on just to ignite the masses. World War III under his power as president.	0.04355555555555557	0.01599999999999999	0.037555555555555564
+Women basher	0	0	0
+Yes. Television ad with people wearing him on a t-shirt	0.17099999999999999	-0.3285	0.09900000000000002
+racism, misogeny, bullying, not releasing taxes, and more.	0	0	0
+NRA and Chris Christie endorsed him	0	0	0
+No.	0	0	0
+no	0	0	0
+He is too crass.	0	0	0
+no	0	0	0
+Nothing	0	0	0
+None	0	0	0
+Flip flop on gun-free school zones.	-0.002666666666666669	-0.15999999999999995	0.06600000000000002
+I only hear negative things about Trump	-0.10800000000000003	-0.19999999999999998	0.12400000000000001
+not this week	0.053999999999999916	-0.33399999999999996	0.05600000000000005
+Anything said by anyone other than him, besides his brainwashed supporters	0.08200000000000003	-0.304	0.2
+claims that he is racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+He wants guns in schools	0	0	0
+his court nominees	-0.296	-0.11400000000000006	-0.21200000000000002
+Democrats hate him	-0.608	0.25199999999999995	-0.10600000000000005
+I heard negative things about his experieince and about Trump University.	-0.33	-0.162	0.015000000000000041
+everything about him is negative	-0.496	0.009999999999999964	-0.142
+His remarks about others president Clinton affair	-0.16699999999999995	0.01100000000000003	0.026999999999999955
+Jumped to conclusions about the Egyptair crash before all the facts were in.	-0.42000000000000004	-0.09000000000000004	-0.34
+NO	0	0	0
+Nothing new	0.5359999999999999	0.027999999999999935	0.04399999999999995
+yes, he lies a lot	0	0	0
+Most everything else was negative	-0.496	0.009999999999999964	-0.142
+Many things	0	0	0
+He raped his wife before their divorce	-0.08099999999999999	-0.040000000000000036	-0.04800000000000004
+Fake	-0.476	0.030000000000000072	-0.10600000000000005
+He is certifiably insane, but not in the good way.	0.578	-0.26799999999999996	0.28200000000000003
+No	0	0	0
+Racial and sexual discrimination	-0.1506666666666667	0.108	0.03800000000000003
+Sexism, treatment of women	0.0	-0.10600000000000005	-0.09399999999999994
+None	0	0	0
+Comments about Egyptian air crash just this morning	0.06799999999999999	-0.21666666666666665	0.024666666666666615
+he's sexist	-0.32	0.14399999999999996	-0.184
+I don't know where to begin.	0.36400000000000005	-0.352	0.15600000000000006
+says things before they are a known fact	0.24600000000000008	-0.34199999999999997	0.2
+Yes too much to list	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+No	0	0	0
+everything he says	0	0	0
+He seems to have changed his stance on the TPP. Endless racist garbage coming out of his mouth.	-0.16440000000000002	-0.2284	-0.014799999999999999
+What ISN'T negative about him?	-0.496	0.009999999999999964	-0.142
+no	0	0	0
+Lied	0	0	0
+"""bashing"" women and races"	0	0	0
+no	0	0	0
+nothing	0	0	0
+Always	0	0	0
+tax return	-0.105	-0.21900000000000003	-0.12400000000000001
+He's a bigot	-0.45	0.07400000000000002	-0.376
+pay your taxes like real people do TRUMP ass hole thank	0.21222222222222223	-0.2184444444444444	0.11844444444444442
+nothing	0	0	0
+Everything	0	0	0
+he won't win	0.39399999999999996	0.12200000000000007	0.5720000000000001
+not sharing his tax report from the IRS	-0.22300000000000006	-0.19600000000000004	-0.20099999999999996
+they keep trying to get him	0.24100000000000002	-0.29	0.136
+no	0	0	0
+na	0	0	0
+racist liar	-0.554	0.14399999999999996	-0.08899999999999997
+He hates Muslims	0	0	0
+Every thing	0.10999999999999996	-0.31399999999999995	0.08200000000000003
+No	0	0	0
+GOP donors are reluctant to give him financial support	0.16899999999999998	-0.21149999999999997	0.09050000000000002
+everything	0	0	0
+everything negative, you pick it	0.18200000000000002	-0.27599999999999997	0.18800000000000008
+He is a pompous ass	-0.129	0.018999999999999947	-0.24900000000000003
+He's still living	0	0	0
+He is an idiot	-0.394	-0.030000000000000072	-0.15999999999999998
+Taco Bowl tweet, his SCOTUS list is just suggestions	0.206	-0.33666666666666667	0.15466666666666667
+no	0	0	0
+Another riot	-0.37	0.23800000000000007	-0.35
+He's racist, homophobic, misogynistic.	0	0	0
+He started accepting big money donations for his campaign	0.1526666666666666	-0.02066666666666664	0.138
+Lots.	0	0	0
+Yes, his lies about his publicist/self	0	0	0
+he lies constantly, and would be terrible for the environmental protection. Does not believe in global warming or that CFCs hurt the ozone.	-0.006857142857142855	-0.15914285714285717	0.016571428571428553
+Received support from the NRA.	0.37799999999999995	-0.39	0.22200000000000006
+False, over-the-top allegations about his behavior toward that are nothing compared to Bill Clinton's unsavory escapades.	-0.2373333333333333	-0.1586666666666667	-0.10933333333333334
+He is alive	0.31400000000000006	0.18599999999999994	0.3539999999999999
+YES YES YES - bradh enough to name judges he would choice for the Supreme Court	0.10200000000000001	-0.23679999999999998	0.1076
+Yes, about the Veterans.	0	0	0
+Where do I start?	0.08200000000000003	-0.266	0.2699999999999999
+no	0	0	0
+yes. He doesnt know when to keep his mouth shut	0.16150000000000003	-0.257	0.15500000000000003
+Too brash	-0.12400000000000003	-0.29000000000000004	0.06600000000000002
+Too much to list here .	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+Everyhting said about him	0	0	0
+that he won't lower his tax slot	-0.18	-0.13800000000000007	-0.183
+Eliminating gun-free zones, getting NRA support	0.37799999999999995	-0.39	0.22200000000000006
+yes	0	0	0
+dont know	0.36400000000000005	-0.352	0.15600000000000006
+Yes. Protests	0	0	0
+Hair Trigger reaction to foreign affairs	0.028499999999999963	-0.053000000000000026	0.15249999999999997
+too many to say	0.18200000000000002	-0.11400000000000006	0.376
+Changed ontaxes,Re-engened on debt and bonds,Bad Sureme court nominees, Won't release taxes,New billioaire contribtors and dropping self funding-no long man of the people	0.0030000000000000213	-0.07266666666666667	0.08666666666666671
+no	0	0	0
+I have....he creates controversy with words	-0.358	0.21799999999999997	-0.25
+lots of negative	-0.496	0.009999999999999964	-0.142
+His lies, his bigotry, his treatment of women, and his ignorance in national security and foreign affairs.	-0.010799999999999992	-0.148	0.03320000000000001
+womanizer	-0.336	-0.027999999999999935	-0.09399999999999994
+Yes	0	0	0
+Racism	-0.704	0.176	-0.10800000000000001
+that he is for him self	0.37200000000000005	-0.04399999999999995	0.548
+Rude	-0.592	-0.05999999999999996	-0.24000000000000005
+Probably, but I haven't been paying attention to him lately for the sake of my sanity.	0.196	-0.275	0.16399999999999995
+There is so much not even sure what to mention. The last thing I heard was that his first wife accused him of rape and then recanted.	0.11040000000000001	-0.06959999999999995	0.06319999999999999
+Yes	0	0	0
+mexicans hate him	-0.608	0.25199999999999995	-0.10600000000000005
+Yes. He has not actually expanded the republican voting base.	-0.14800000000000005	-0.378	0.08000000000000007
+he's a racist, sexist, islamophobic piece of trash	-0.20299999999999993	-0.277	-0.06499999999999995
+He's an asshole	-0.5780000000000001	0.27599999999999997	-0.422
+No	0	0	0
+No	0	0	0
+Everything out of Trump's mouth...see what I did there?	0	0	0
+i haven't heard anything	0	0	0
+Literally everything about him.	0	0	0
+Every time he opens his mouth its something negative	-0.08600000000000003	-0.16	-0.023333333333333307
+Ugly	-0.506	-0.11400000000000006	-0.22800000000000004
+Yes. His attitude towards women	-0.05600000000000005	-0.04800000000000004	0.176
+everything else	0	0	0
+Just the usual lies... racist, sexist, blah blah blah	0.09600000000000009	-0.36	0.316
+no	0	0	0
+No	0	0	0
+he is egoist	0	0	0
+Nothing	0	0	0
+too many to count	0.17799999999999994	-0.54	0.03399999999999999
+yes - speaks his mind	0.34	0.009999999999999964	0.21799999999999997
+none	0	0	0
+Taking back america	-0.04800000000000004	-0.48200000000000004	0.04399999999999995
+no	0	0	0
+Every time he opens his mouth he says something negative	-0.08600000000000003	-0.16	-0.023333333333333307
+"""What he thinks/says is stupid and vile bouts of hatred, and he constantly Others anyone not white and rich."""	-0.2513333333333334	-0.12199999999999996	-0.09533333333333331
+He's a racist, sexist A-hole	-0.32	0.14399999999999996	-0.184
+ISLAM IN EUROPE	0	0	0
+too much	0	0	0
+He alienates a lot of people	0.14000000000000004	-0.246	0.08000000000000007
+no	0	0	0
+Everything else	0	0	0
+He is a bigot, women bashing, racist with similarities to Hitler r	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+notning	0	0	0
+Hypocrite	-0.35	-0.04600000000000008	-0.030000000000000072
+Egyptair tweets	0	0	0
+nothing new	0.5359999999999999	0.027999999999999935	0.04399999999999995
+Favored guns in schools	0	0	0
+He crazy	0.027999999999999935	0.18000000000000008	-0.16199999999999992
+Defense Secretary Bob Gates wouldn't let Trump use nuclear weapons	0.004999999999999981	-0.11866666666666663	0.10833333333333332
+everything he's ever said	0	0	0
+yes	0	0	0
+Racist	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+No	0	0	0
+John Oliver hates Trump	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+Racist remarks	-0.5900000000000001	-0.03200000000000003	-0.12599999999999997
+everything	0	0	0
+I hear too much that is negative about him to list all of it	0.005999999999999968	-0.252	0.10733333333333335
+Yes,his foreign policy is terrible, he is a racist and an d starts a lot of trouble	-0.3225	-0.042000000000000044	-0.018999999999999996
+With Zero Facts On Hand, Donald Trump Tweets EgyptAir Crash Is Terror Attack	-0.4085	0.06399999999999997	-0.22499999999999998
+no	0	0	0
+Too many to list	0.17799999999999994	-0.49000000000000005	0.12200000000000007
+women	0	0	0
+no	0	0	0
+everything, bigot,	0	0	0
+no	0	0	0
+crazy	0.027999999999999935	0.18000000000000008	-0.16199999999999992
+He's afraid to debate Sanders	-0.28	-0.0019999999999999567	-0.133
+Degrades women	0	0	0
+Nothing	0	0	0
+Everything.	0	0	0
+none	0	0	0
+yes	0	0	0
+that he is horrible to women	-0.534	0.19000000000000003	0.03200000000000003
+Lots of things about how he's a terrible person who says stupid, racist, and inconsistent things	-0.232	-0.24666666666666667	-0.08666666666666667
+All his SCOTUS picks	0	0	0
+no	0	0	0
+Ban against Muslims. Building the wall	-0.07266666666666671	-0.23666666666666666	0.07200000000000002
+Taxes	0	0	0
+Yes. He has ties to the mafia and he refuses to release his tax papers. He also lied about amount he raised for veterans. He is a constant liar and does not deal with facts.	-0.06800000000000002	-0.05828571428571433	0.01942857142857144
+He attacked Bill Clinton	-0.378	-0.2	-0.2
+Everytime he opens his mouth	0.11799999999999997	-0.17200000000000007	0.2
+Impulsive	-0.06600000000000002	0.2	-0.25599999999999995
+Too much to list.	0	0	0
+No	0	0	0
+His budget proposal would actually decrease taxes for the wealthy without any cuts to the budget	0.03366666666666666	-0.215	0.07200000000000005
+Same crap Democrats keep repeating	-0.023999999999999966	-0.19499999999999995	-0.017999999999999974
+plenty	0	0	0
+Imitation of aides	-0.092	-0.10800000000000001	-0.1
+how raciest & bigoted he is	0	0	0
+Faked being his own publicist a few years back	-0.092	-0.379	0.12999999999999998
+no	0	0	0
+No	0	0	0
+no	0	0	0
+ALL NEGATIVE	-0.496	0.009999999999999964	-0.142
+all	0	0	0
+Pretty much everything.	0.54	0.1	0.34
+HE IS NOT PRESIDENT YET	0.04600000000000008	-0.05800000000000001	-0.12400000000000003
+All the terrible things he said to women	-0.58	-0.12200000000000007	-0.32
+Everything about him is negative	-0.496	0.009999999999999964	-0.142
+HE is evil	-0.532	0.13399999999999998	-0.27999999999999997
+No	0	0	0
+The idea that he claims to be a Christian	0.32299999999999995	-0.19099999999999995	0.16100000000000003
+everything . racist. inequality for women	0	0	0
+Arrogant	-0.496	0.030000000000000072	-0.07200000000000006
+Immoral, unprincipled, liar, clown, rude	-0.592	-0.05999999999999996	-0.24000000000000005
+he does not know about beig president	0.20500000000000007	-0.205	0.016000000000000014
+He is wanting to cut regulation, and also his presidency would make the world a more dangerous place	0.0342857142857143	-0.08542857142857144	0.02514285714285715
+Yes, too many things to write here.	0.29000000000000004	-0.238	0.05600000000000005
+no	0	0	0
+tax returns might indicate he pays lower tax percentage than most americans	-0.20700000000000002	-0.23400000000000007	-0.09650000000000002
+no	0	0	0
+Everything about Donald Trump is negative.	-0.16400000000000006	-0.33399999999999996	0.17200000000000007
+Everything I hear about him is negative	-0.08000000000000002	-0.133	0.09999999999999999
+Not sure	0.32799999999999996	-0.304	0.36400000000000005
+nothing that's true	0	0	0
+The same stuff I've been hearing for a year.	0.17200000000000007	-0.296	-0.03399999999999999
+everything heard is negative!	0	0	0
+calling Hillary names	0	0	0
+Crazy	0.027999999999999935	0.18000000000000008	-0.16199999999999992
+Everything is negative about him.	-0.496	0.009999999999999964	-0.142
+disingenuous	0	0	0
+YES, everything reported about him is about something negative he's said or done.	-0.496	0.009999999999999964	-0.142
+Bombast and lies	0	0	0
+No	0	0	0
+John Miller	0	0	0
+That he tells lies, often and is not in the least embarrassed.	0	0	0
+All the time	0.11999999999999993	-0.31799999999999995	-0.12799999999999995
+He is an idiot	-0.394	-0.030000000000000072	-0.15999999999999998
+everything	0	0	0
+Yes. 3 ex wives	-0.45999999999999996	-0.041999999999999996	-0.2

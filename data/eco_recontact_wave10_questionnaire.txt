@@ -1,0 +1,428 @@
+
+[frienemy] For each of the following countries, please say whether you consider it an ally or an enemy of the United States?
+-[frienemy_cn] {varlabel="China"} <p style="text-align: center;">China</p>
+-[frienemy_cu] {varlabel="Cuba"} <p style="text-align: center;">Cuba</p>
+-[frienemy_fr] {varlabel="France"} <p style="text-align: center;">France</p>
+-[frienemy_de] {varlabel="Germany"} <p style="text-align: center;">Germany</p>
+-[frienemy_mx] {varlabel="Mexico"} <p style="text-align: center;">Mexico</p>
+-[frienemy_ru] {varlabel="Russia"} <p style="text-align: center;">Russia</p>
+-[frienemy_sa] {varlabel="Saudi Arabia"} <p style="text-align: center;">Saudi Arabia</p>
+
+ <1> An ally
+ <2> Friendly, but not an ally
+ <3> Unfriendly
+ <4> An enemy
+ <5 fixed> Not sure
+
+
+[stdlvhi] In which of these countries do people have the highest standard of living today?
+ <1> China
+ <2> Germany
+ <3> United States
+ <4 fixed> Not sure
+
+
+[stdlvlo] In which of these countries do people have the lowest standard of living today?
+ <1> China
+ <2> Germany
+ <3> United States
+ <4 fixed> Not sure
+
+[stdlvhif] Twenty years from now, which of these countries do you think will have the highest standard of living? <br> Please make your best guess.
+ <1> China
+ <2> Germany
+ <3> United States
+ <4 fixed> Not sure
+
+[stdlvlof] Twenty years from now, which of these countries do you think will have the lowest standard of living? <br> Please make your best guess.
+ <1> China
+ <2> Germany
+ <3> United States
+ <4 fixed> Not sure
+
+
+[shirt] Suppose you were buying a shirt and had a choice between a shirt made in America and a shirt made in China. There is no difference in quality between the two shirts, but the shirt made in China costs $20 and the shirt made in America costs $25. Which one would you buy?
+ <1> The shirt made in America that costs $25
+ <2> The shirt made in China that costs $20
+ <3 fixed> Not sure
+    
+[shirtus if shirt in [1]] Suppose instead that the shirt made in America costs $30. Which shirt would you buy? #filtertext="Asked of those who would buy the shirt made in America that costs $25"
+ <1> The shirt made in America that costs $30
+ <2> The shirt made in China that costs $20
+ <3 fixed> Not sure    
+
+[shirtch if shirt in [2]] Suppose instead that the shirt made in America only cost $21.  Which shirt would you buy? #filtertext="Asked of those who would buy the shirt made in China that costs $20"
+ <1> The shirt made in America that costs $21
+ <2> The shirt made in China that costs $20
+ <3 fixed> Not sure
+    
+[nbcit] Were you born in the United States?
+ <1> Yes
+ <2> No
+ 
+[imancst if nbcit in [1]] Were ANY of your parents or grand-parents or great-grandparents born outside of the United States? Check all that apply. #filtertext="Asked of those who were born in the United States"
+ <1> Parents
+ <2> Grandparents
+ <3> Great-grandparents
+ <4 xor> None of the above
+    
+[whenim if nbcit in [1]] About when did your most recent ancestor come to the United States? #filtertext="Asked of those who were born in the United States"
+ <1> Before 1800
+ <2> 1800-1899
+ <3> 1900-1950
+ <4> 1951-1980
+ <5> 1981-2000
+ <6> After 2000
+ <7 fixed> Not sure
+    
+[immno] About how many persons do you think should be allowed to immigrate to the U.S. each year? These would be legal immigrants who obtain a visa before entering the U.S.
+ <1> None
+ <2> Less than 100,000
+ <3> 100,000 to 1 million
+ <4> 1-2 million
+ <5> 2-5 million
+ <6> More than 5 million
+ <7 fixed> Not sure
+    
+[knowill] Do you know anyone who is an illegal immigrant to the U.S.?
+ <1> Yes
+ <2> No
+ <3 fixed> Not sure
+    
+[worryill] How worried are you about illegal immigration in to the U.S.?
+ <1> Extremely worried
+ <2> Somewhat worried
+ <3> Slightly worried
+ <4> Not worried at all
+    
+[bigprobill if worryill in [4]] What do you think is the biggest problem caused by illegal immigration to the U.S.? #filtertext="Asked of those who are not worried at all about illegal immigration in to the U.S."
+
+[ptyprindem] Which of the following do you think are core principles of the Democratic party? Check all that apply.
+ <1> Promoting economic growth
+ <2> Helping the poor
+ <3> Reducing economic inequality
+ <4> Eliminating racial discrimination
+ <5> Eliminating sexual discrimination
+ <6> Protecting free speech
+ <7> Protecting the free exercise of religion
+ <8> Protecting the right to bear arms
+ <9> Free trade with foreign countries
+ <10 fixed xor> None of the above
+
+[ptyprinrep] Which of the following do you think are core principles of the Republican party? Check all that apply.
+ <1> Promoting economic growth
+ <2> Helping the poor
+ <3> Reducing economic inequality
+ <4> Eliminating racial discrimination
+ <5> Eliminating sexual discrimination
+ <6> Protecting free speech
+ <7> Protecting the free exercise of religion
+ <8> Protecting the right to bear arms
+ <9> Free trade with foreign countries
+ <10 fixed xor> None of the above
+
+[consider_gen] Here are some candidates running for the Democratic and Republican Presidential nomination. Please tell us which of the following you might consider voting for if they were the nominee of one of the parties and which ones you would never consider voting for, regardless of who they were running against.
+-[consider_hclin] Hillary Clinton
+-[consider_bsndr] Bernie Sanders
+-[consider_dtrmp] Donald Trump
+ <1> Might consider voting for
+ <2> Would never vote for
+ <3 fixed> Not sure
+
+[fav_cand] Do you have a favorable or an unfavorable opinion of the following people?    
+-[fav_hclin] Hillary Clinton
+-[fav_bsndr] Bernie Sanders
+-[fav_dtrmp] Donald Trump
+ <1> Very favorable
+ <2> Somewhat favorable
+ <3> Somewhat unfavorable
+ <4> Very unfavorable
+ <5 fixed> Don't know
+
+[demnom] If you had to choose one, which one of these individuals would you want to be the Democratic nominee for president in 2016?
+ <2> Hillary Clinton
+ <5> Bernie Sanders
+ <21 fixed> Other [demnom_t] {open}
+ <22 fixed> No preference
+
+[demnomwin] Which of the following candidates do you think is most likely to be the Democratic nominee for President in 2016? 
+ <2> Hillary Clinton
+ <5> Bernie Sanders
+ <22 fixed> Not sure
+
+[repnomryan] If you could choose, who would you rather have as the Republican nominee?
+<1> Paul Ryan
+<2> Donald Trump
+<3 fixed> Not sure
+
+[hcvdt2] If the candidates for President were Hillary Clinton as the Democrat and Donald Trump as the Republican, who would you vote for?
+ <1> Hillary Clinton
+ <2> Donald Trump
+ <3 fixed> Other
+ <4 fixed> Not sure
+ <5 fixed> I would not vote
+
+[bsvdt2] If the candidates for President were Bernie Sanders as the Democrat and Donald Trump as the Republican, who would you vote for?
+ <1> Bernie Sanders
+ <2> Donald Trump
+ <3 fixed> Other
+ <4 fixed> Not sure
+ <5 fixed> I would not vote
+
+[hcdt3] If the Democratic nominee is Hillary Clinton and the Republican nominee is Donald Trump, who do you think would be more likely to win the election?
+ <1> Hillary Clinton
+ <2> Donald Trump
+    
+[bsdt3] If the Democratic nominee is Bernie Sanders and the Republican nominee is Donald Trump, who do you think would be more likely to win the election?
+ <1> Bernie Sanders
+ <2> Donald Trump
+    
+[posnews_hclin] Have you heard anything positive about Hillary Clinton in the last week? What was that?
+
+[negnews_hclin] Have you heard anything negative about Hillary Clinton in the last week? What was that?
+
+[posnews_dtrmp] {open varlabel="Positive News about Trump"} Have you heard anything positive about Donald Trump in the last week? What was that?
+
+[negnews_dtrmp] Have you heard anything negative about Donald Trump in the last week? What was that?
+
+[mostimpfact] In deciding how to vote for President, what is the most important factor for you personally?
+
+[trustgovt] How much of the time do you think you can trust the government in Washington to do what is right?
+ <1> Just about always
+ <2> Most of the time
+ <3> Some of the time
+
+[benftgovt] Would you say the government is pretty much run by a few big interests looking out for themselves or that it is run for the benefit of all the people?
+ <1> Few big interests
+ <2> Benefit of all
+ <9 fixed> Not sure
+
+[wastegovt i] Do you think that people in the government waste a lot of money we pay in taxes, waste some of it, or don't waste very much of it?
+ <1> A lot
+ <2> Some
+ <3> Not very much
+ <9 fixed> Not sure
+
+[smartgovt]  
+Do you feel that almost all of the people running the government are smart people, or do you think that quite a few of them don't seem to know what they are doing?
+ <2> Know what they're doing
+ <1> Don't know what they're doing
+ <9 fixed> Not sure
+
+[crkedgovt] Do you think that quite a few of the people running the government are crooked, not very many are, or do you think hardly any of them are crooked?
+ <1> Quite a few
+ <2> Not many
+ <3> Hardly any
+ <9 fixed> Not sure
+
+[sngpay] Do you support or oppose a single payer health care system, in which all Americans would get their health insurance from one government plan that is financed by taxes?
+ <1> Support
+ <2> Oppose
+ <3 fixed> Not sure
+
+[freecol] Our taxes now provide education free through high school. Should our taxes provide college tuition free for students who go to college?
+ <1> Should
+ <2> Should not
+ <3 fixed> Not sure
+
+[minwage] Do you support or oppose raising the federal minimum wage to $15.00/hour?
+ <1> Support
+ <2> Oppose
+ <3 fixed> Not sure
+
+[brdrwall] Do you favor or oppose building a wall along the US-Mexico border to try to stop illegal immigration?
+ <1> Favor
+ <2> Oppose
+ <3 fixed> Not sure
+
+[taxtherich] Do you favor or oppose raising taxes on families making over $250,000 per year?
+ <1> Favor
+ <2> Oppose
+ <3 fixed> Not sure
+
+[spcint] How often are special interests able to get what they want by contributing money to political campaigns?
+ <1> Always
+ <2> Most of the time
+ <3> Some of the time
+ <4> Occasionally
+ <5> Never
+ <6 fixed> Not sure
+
+[repchoice] If you had to choose, would you rather have a member of Congress who...
+ <1> Compromises to get things done.
+ <2> Sticks to their principles, no matter what.
+ 
+[liepol] When running for office, how often do you think politicians lie about what they will do if elected?
+ <1> Always
+ <2> Most of the time
+ <3> Some of the time
+ <4> Occasionally
+ <5> Never
+ <6 fixed> Not sure
+    
+[midrich] How hard is it for someone from a middle-class background to become rich in America?
+ <1> Impossible
+ <2> Very hard
+ <3> Somewhat hard
+ <4> Not at all hard
+ <5 fixed> Not sure
+    
+[getahd] For someone to get ahead in America, what do you think is more important?
+ <1> Luck
+ <2> Hard work
+ <3 fixed> Both equally important
+ <4 fixed> Not sure
+
+[immigration] Which comes closest to your view about illegal immigrants who are living in the US?
+ <1> They should be allowed to stay in the US and eventually apply for citizenship.
+ <2> They should be allowed to stay in the US legally, but not be allowed to apply for citizenship.
+ <3> They should be required to leave the US.
+
+[fairness] Do you think the US economic system generally favors the wealthy or is fair to most Americans?
+ <1> Favors the wealthy
+ <2> Is fair to most Americans
+ <3 fixed> Not sure
+
+[e14_deficit] Which of the following things do you think should be done to reduce the federal budget deficit?
+ <1> Cut spending
+ <2> Raise taxes
+ <3> Both cut spending and raise taxes
+ <4> None of the above
+ <5 fixed> Not sure
+
+[healthreformlaw] Do you think the health care reform law should be expanded, kept the same, or repealed?
+  <1> Expanded
+  <2> Kept the same
+  <3> Repealed
+  <8 fixed> Not sure
+
+[abortion] Which comes closest to your position?
+ <1> Legal in all cases
+ <2> Legal in most cases
+ <3> Illegal in most cases
+ <4> Illegal in all cases
+
+[e14_guns] Do you think gun control laws should be made more or less strict than they are now?
+ <1> Guns should be banned completely. 
+ <2> More strict
+ <3> Kept the same
+ <4> Less strict
+ <5> There should be no restrictions on gun ownership.
+ <6 fixed> Not sure
+
+[marriage_amendment] Would you support or oppose a constitutional amendment allowing states to ban gay marriage?
+ <1> Support
+ <2> Oppose
+ <3 fixed> Not sure
+
+[iraqback] Looking back, do you think the United States did the right thing in taking military action against Iraq, or should the U.S. have stayed out?
+ <1> Did the right thing
+ <2> Should have stayed out
+
+
+[care] How much do you care about who wins the Presidential election in November 2016?
+ <1> Care a lot
+ <2> Care somewhat
+ <3> Care a little
+ <4> Don't care
+
+[ideo3] In general, how would you describe your own political viewpoint?
+ <1> Liberal
+ <2> Moderate
+ <3> Conservative
+ <4> Not sure
+
+
+[primary_freq] How often do you vote in primary or caucus elections--that is, elections in which a party selects their nominee to run in a general election. Would you say you vote in primary or caucus elections...? 
+ <1> Always
+ <2> Nearly always
+ <3> Part of the time
+ <4> Seldom
+ <5> Never
+ <6 fixed> Unsure
+
+[votereg if not pdl.votereg or pdl.votereg.last > months(12)] {pdl-update votereg required="HARD"}
+
+[votereg2 if 0] Are you registered to vote? 
+ <1> Registered
+ <2> Not registered
+
+
+[gender if 0] {pdl-update gender}
+[birthyr if 0] {pdl-update birthyr}
+
+[age if 0] Respondent age in years
+
+[age4 if 0] Respondent age by category
+ <1> Under 30
+ <2> 30-44
+ <3> 45-64
+ <4> 65+
+
+[race, txt if 0] {pdl-update race}
+
+[race4 if 0] {single varlabel="Race (4 category)"} What racial or ethnic group best describes you?
+ <1> White
+ <2> Black
+ <3> Hispanic
+ <4> Other
+
+[educ if 0] {pdl-update educ} 
+
+[educ4 if 0] {single varlabel="Education (4 category)"} What is the highest level of education you have completed?
+ <1> HS or less
+ <2> Some college
+ <3> College grad
+ <4> Postgrad
+
+[milstat if not pdl.milstat] {pdl-update milstat}
+
+[union_hhold] Are you or is someone in your household a member of a labor union?
+ <1> Yes, I am
+ <2> Yes, household member is
+ <3 xor> No
+
+[inc150]
+ <12> $150,000 - $199,999
+ <13> $200,000 - $249,999
+ <14> $250,000 - $349,999
+ <15> $350,000 - $499,999
+ <16> $500,000 or more
+
+[faminc if not pdl.faminc] Thinking back over the last year, what was your family's annual income?
+ <1> Less than $10,000
+ <2> $10,000 - $19,999
+ <3> $20,000 - $29,999
+ <4> $30,000 - $39,999
+ <5> $40,000 - $49,999
+ <6> $50,000 - $59,999
+ <7> $60,000 - $69,999
+ <8> $70,000 - $79,999
+ <9> $80,000 - $99,999
+ <10> $100,000 - $119,999
+ <11> $120,000 - $149,999
+ <31> $150,000 or more [faminc2:inc150] {popup} What was your family's annual income last year?
+ <97> Prefer not to say
+ <12 if 0> $150,000 - $199,999
+ <13 if 0> $200,000 - $249,999
+ <14 if 0> $250,000 - $349,999
+ <15 if 0> $350,000 - $499,999
+ <16 if 0> $500,000 or more
+
+
+[income3 if 0] {single varlabel="Family Income - 3 Point"} Thinking back over the last year, what was your family's annual income?
+ <1> Under $50K
+ <2> $50-100K
+ <3> $100K or more
+ <4> Prefer not to say
+
+[marstat if not pdl.marstat] {pdl-update marstat}
+
+[child18 if not child18] {pdl-update child18}
+
+[pew_bornagain if not pdl.pew_bornagain] {pdl-update pew_bornagain}
+[pew_religimp if not pdl.pew_religimp]  {pdl-update pew_religimp}
+[pew_churatd if not pdl.pew_churatd] {pdl-update pew_churatd}
+[pew_prayer if not pdl.pew_prayer] {pdl-update pew_prayer}
+[religpew, religpew_t if not pdl.religpew] {pdl-update religpew} 
+
